@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_set">
+        <item>Đặt báo thức chưa đến một phút.</item>
+        <item>Đặt báo thức trong %1$s nữa.</item>
+        <item>Đặt báo thức trong %2$s nữa.</item>
+        <item>Đặt báo thức trong %1$s và %2$s nữa.</item>
+        <item>Đặt báo thức trong %3$s nữa.</item>
+        <item>Đặt báo thức trong %1$s và %3$s nữa.</item>
+        <item>Đặt báo thức trong %2$s và %3$s nữa.</item>
+        <item>Đặt báo thức trong %1$s, %2$s và %3$s nữa.</item>
+    </string-array>
+    <string-array name="snooze_duration_entries">
+        <item>1 phút</item>
+        <item>5 phút</item>
+        <item>10 phút</item>
+        <item>15 phút</item>
+        <item>20 phút</item>
+        <item>25 phút</item>
+        <item>30 phút</item>
+    </string-array>
+    <string-array name="auto_silence_entries">
+        <item>Không bao giờ</item>
+        <item>1 phút</item>
+        <item>5 phút</item>
+        <item>10 phút</item>
+        <item>15 phút</item>
+        <item>20 phút</item>
+        <item>25 phút</item>
+        <item>30 phút</item>
+    </string-array>
+    <string-array name="volume_button_setting_entries">
+        <item>Không làm gì</item>
+        <item>Báo lại</item>
+        <item>Tắt báo thức</item>
+    </string-array>
+    <string-array name="alarm_in_furture">
+        <item>Báo thức sẽ đổ chuông trong vòng chưa đến một phút</item>
+        <item>Báo thức sẽ đổ chuông trong %1$s nữa</item>
+        <item>Báo thức sẽ đổ chuông trong %2$s nữa</item>
+        <item>Báo thức sẽ đổ chuông trong %1$s %2$s nữa</item>
+        <item>Báo thức sẽ đổ chuông trong %3$s nữa</item>
+        <item>Báo thức sẽ đổ chuông trong %1$s %3$s nữa</item>
+        <item>Báo thức sẽ đổ chuông trong %2$s %3$s nữa</item>
+        <item>Báo thức sẽ đổ chuông trong %1$s %2$s %3$s nữa</item>
+    </string-array>
+    <string-array name="days">
+        <item>Hôm qua</item>
+        <item>Hôm nay</item>
+        <item>Ngày mai</item>
+    </string-array>
+    <string-array name="alarm_repeat_type">
+        <item>Một lần</item>
+        <item>Hằng ngày</item>
+        <item>Ngày đi làm</item>
+        <item>Từ thứ 2 đến thứ 6</item>
+        <item>Tùy chỉnh</item>
+    </string-array>
+    <string-array name="alarm_repeat_type_no_workdays">
+        <item>Một lần</item>
+        <item>Hằng ngày</item>
+        <item>Từ thứ 2 đến thứ 6</item>
+        <item>Tùy chỉnh</item>
+    </string-array>
+</resources>

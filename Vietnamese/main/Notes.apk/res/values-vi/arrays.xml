@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="contact_entries">
+        <item>Tên</item>
+        <item>Biệt danh</item>
+        <item>Số điện thoại</item>
+        <item>E-mail</item>
+        <item>Công ty</item>
+        <item>IM</item>
+        <item>Điện thoại SIP</item>
+        <item>Sinh nhật</item>
+        <item>Website</item>
+        <item>Địa chỉ</item>
+        <item>Ghi chú</item>
+    </string-array>
+    <string-array name="font_size_names">
+        <item>Nhỏ</item>
+        <item>Vừa</item>
+        <item>Lớn</item>
+        <item>Đại</item>
+    </string-array>
+</resources>

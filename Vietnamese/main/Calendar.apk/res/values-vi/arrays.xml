@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reminder_methods_labels">
+        <item>Thông báo</item>
+        <item>Email</item>
+        <item>SMS</item>
+        <item>Báo thức</item>
+    </string-array>
+    <string-array name="reminder_minutes_labels">
+        <item>Không nhắc nhở</item>
+        <item>0 phút</item>
+        <item>5 phút</item>
+        <item>10 phút</item>
+        <item>15 phút</item>
+        <item>30 phút</item>
+        <item>1 giờ</item>
+        <item>1 ngày</item>
+        <item>2 ngày</item>
+        <item>1 tuần</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_labels">
+        <item>Không nhắc nhở</item>
+        <item>0 phút</item>
+        <item>5 phút</item>
+        <item>10 phút</item>
+        <item>15 phút</item>
+        <item>30 phút</item>
+        <item>1 giờ</item>
+        <item>1 ngày</item>
+        <item>2 ngày</item>
+        <item>1 tuần</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>Mặc định</item>
+        <item>Thứ bảy</item>
+        <item>Chủ nhật</item>
+        <item>Thứ hai</item>
+    </string-array>
+    <string-array name="availability">
+        <item>Bận</item>
+        <item>Rảnh</item>
+        <item>Chưa biết trước</item>
+    </string-array>
+    <string-array name="visibility">
+        <item>Mặc định</item>
+        <item>Riêng tư</item>
+        <item>Công cộng</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>tuần đầu tiên</item>
+        <item>tuần thứ hai</item>
+        <item>tuần thứ ba</item>
+        <item>tuần thứ tư</item>
+        <item>tuần cuối cùng</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>Không phản hồi</item>
+        <item>Có</item>
+        <item>Có thể</item>
+        <item>Không</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>Chỉ sự kiện này</item>
+        <item>Sự kiện này và các sự kiện sau</item>
+        <item>Tất cả sự kiện</item>
+    </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>Sự kiện này &amp;amp; sự kiện sau</item>
+        <item>Tất cả</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>Chỉ sự kiện này</item>
+        <item>Tất cả sự kiện</item>
+    </string-array>
+    <string-array name="buttons_list">
+        <item>Ngày</item>
+        <item>Tuần</item>
+        <item>Tháng</item>
+        <item>Lịch công việc</item>
+    </string-array>
+    <string-array name="quick_response_defaults">
+        <item>Tôi sẽ trễ 1 vài phút thôi.</item>
+        <item>Tôi sẽ có mặt trong 10 phút nữa.</item>
+        <item>Cứ bắt đầu trước mà không có tôi.</item>
+        <item>Xin lỗi nhưng tôi không thể đến được. Hẹn bạn dịp khác.</item>
+    </string-array>
+    <string-array name="prefEntries_alerts_vibrateWhen">
+        <item>Luôn luôn</item>
+        <item>Chỉ khi im lặng</item>
+        <item>Không bao giờ</item>
+    </string-array>
+    <string-array name="widget_style_list">
+        <item>Trong suốt</item>
+        <item>Nền trắng</item>
+    </string-array>
+</resources>
