@@ -1,17 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="power_center_battery_day">
-        <item quantity="other">"%d ngày "</item>
-        <item quantity="one">"%d ngày "</item>
-    </plurals>
-    <plurals name="power_center_battery_hour">
-        <item quantity="other">"%d giờ "</item>
-        <item quantity="one">"%d giờ "</item>
-    </plurals>
-    <plurals name="power_center_battery_minute">
-        <item quantity="other">"%d phút "</item>
-        <item quantity="one">"%d phút "</item>
-    </plurals>
     <plurals name="show_dev_countdown">
         <item quantity="other">Bây giờ, bạn giờ chỉ cần thực hiện %1$d bước nữa là sẽ trở thành nhà phát triển.</item>
         <item quantity="one">Bây giờ, bạn giờ chỉ cần thực hiện %1$d bước nữa là sẽ trở thành nhà phát triển.</item>
@@ -51,5 +39,17 @@
     <plurals name="print_search_result_count_utterance">
         <item quantity="other">Đã tìm thấy %1$s máy in</item>
         <item quantity="one">Đã tìm thấy %1$s máy in</item>
+    </plurals>
+    <plurals name="show_pho_countdown">
+        <item quantity="other">Bạn còn %1$d bước nữa để vào thông tin thiết bị.</item>
+        <item quantity="one">Bạn còn %1$d bước nữa để vào thông tin thiết bị.</item>
+    </plurals>
+    <plurals name="show_cit_countdown">
+        <item quantity="other">Bạn còn %1$d bước nữa để vào kiểm tra thiết bị.</item>
+        <item quantity="one">Bạn còn %1$d bước nữa để vào kiểm tra thiết bị.</item>
+    </plurals>
+    <plurals name="show_rep_countdown">
+        <item quantity="other">Bạn còn %1$d bước nữa để báo cáo lỗi.</item>
+        <item quantity="one">Bạn còn %1$d bước nữa để báo cáo lỗi.</item>
     </plurals>
 </resources>
