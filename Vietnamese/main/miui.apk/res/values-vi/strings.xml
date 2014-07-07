@@ -2,7 +2,7 @@
 <resources>
     <string name="label">MIUI SDK</string>
     <string name="send">Gửi</string>
-    <string name="close">D(óng</string>
+    <string name="close">Đóng</string>
     <string name="abc_action_bar_up_description">Điều hướng lên</string>
     <string name="abc_action_bar_home_description">Về màn hính chính</string>
     <string name="action_mode_select_all">Chọn tất cả</string>
@@ -40,7 +40,7 @@
     <string name="privacy_policy">Chính sách bảo mật</string>
     <string name="mibi_license">Thỏa thuận người dùng MiCredit</string>
     <string name="user_manual">Hướng dẫn</string>
-    <string name="license_host_unreachable">"Không thể kết nối vào mạng. Để xem thông tin này ngay bây giờ, truy cập %s."</string>
+    <string name="license_host_unreachable">Không thể kết nối vào mạng. Để xem thông tin này ngay bây giờ, truy cập %s.</string>
     <string name="perm_payment_lab">Dịch vụ thanh toán Xiaomi</string>
     <string name="perm_payment_dspt">Cho phép ứng dụng thanh toán qua dịch vụ thanh toán Xiaomi</string>
     <string name="sync_one_time_sync">Nhấn để đồng bộ (%1$s)</string>
@@ -265,7 +265,7 @@
     <string name="the_international_womens_day">Quốc tế Phụ Nữ</string>
     <string name="the_arbor_day">Arbor Day</string>
     <string name="the_fools_day">Cá tháng tư</string>
-    <string name="the_labour_day">QUốc tế Lao Động</string>
+    <string name="the_labour_day">Quốc tế Lao Động</string>
     <string name="the_chinese_youth_day">Youth Day</string>
     <string name="the_childrens_day">Quốc tế Thiếu Nhi</string>
     <string name="the_partys_day">Partys Day</string>
@@ -284,13 +284,13 @@
     <string name="the_national_father_day">National Father Day</string>
     <string name="the_hksar_establishment_day">HKSAR Establishment Day</string>
     <string name="the_easter_day">Easter Day</string>
-    <string name="fmt_time_millis">"S'ms'"</string>
-    <string name="fmt_time_second">"s's'"</string>
-    <string name="fmt_time_second_millis">"s.S's'"</string>
-    <string name="fmt_time_minute">"m'min'"</string>
-    <string name="fmt_time_minute_second">"m'min' s's'"</string>
-    <string name="fmt_time_minute_second_millis">"m'min' s.S's'"</string>
-    <string name="fmt_time_12hour">"h 'o''clock'"</string>
+    <string name="fmt_time_millis">"S 'phần nghìn giây'"</string>
+    <string name="fmt_time_second">"s 'giây'"</string>
+    <string name="fmt_time_second_millis">"s.S 'giây'"</string>
+    <string name="fmt_time_minute">"m 'phút'"</string>
+    <string name="fmt_time_minute_second">"m 'phút' s 'giây'"</string>
+    <string name="fmt_time_minute_second_millis">"m 'phút' s.S 'giây'"</string>
+    <string name="fmt_time_12hour">"h 'giờ'"</string>
     <string name="fmt_time_12hour_minute">h:mm</string>
     <string name="fmt_time_12hour_minute_second">h:mm:ms</string>
     <string name="fmt_time_12hour_minute_second_millis">h:mm:ss.S</string>
