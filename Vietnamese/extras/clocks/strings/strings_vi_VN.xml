@@ -1,4 +1,5 @@
-<strings>
-    <string name="short_date_time" value="EEEE, d MMMM"/>
-    <string name="long_date_time" value="dd/MM/yyyy"/>
+<?xml version="1.0" encoding="utf-8"?>
+<strings> 
+    <string name="date_time" value="EEEE, d MMMM"/>
+    <string name="language" value="vi"/>
 </strings>
