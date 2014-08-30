@@ -87,7 +87,7 @@
         <item>Đang cố gắng gửi MMS</item>
         <item>Đang cố gắng đọc MMS</item>
         <item>Đang cố gắng soạn MMS</item>
-        <item>Đang cố gắng tự khởi chạy</item>
+        <item>Đang cố gắng chạy khi khởi động</item>
     </string-array>
     <string-array name="imAddressTypes">
         <item>Nhà riêng</item>
