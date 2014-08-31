@@ -4,6 +4,6 @@
     <string name="label_silent_mode">Im lặng</string>
     <string name="label_reboot">Khởi động lại</string>
     <string name="label_shutdown">Tắt nguồn</string>
-    <string name="label_alert_reboot">Chạm phía trên để khởi động lại</string>
-    <string name="label_alert_shutdown">Chạm phía trên để tắt nguồn</string>
+    <string name="label_alert_reboot">Nhấn để khởi động lại</string>
+    <string name="label_alert_shutdown">Nhấn để tắt nguồn</string>
 </resources>
