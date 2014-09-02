@@ -1,56 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="perm_hips_action">
-        <item>Cho phép</item>
-        <item>Hỏi lại</item>
-        <item>Từ chối</item>
-    </string-array>
-    <string-array name="perm_disable_keyguard_action">
-        <item>Cho phép</item>
-        <item>Từ chối</item>
-    </string-array>
-    <string-array name="power_mode_entries">
-        <item>Hiệu suất</item>
-        <item>Bình thường</item>
-    </string-array>
-    <string-array name="power_dialog_auto_clean_memory_items">
-        <item>Sau 1 phút</item>
-        <item>Sau 5 phút</item>
-        <item>Sau 10 phút</item>
-        <item>Không bao giờ</item>
-    </string-array>
-    <string-array name="power_dialog_sleep_items">
-        <item>15 giây</item>
-        <item>30 giây</item>
-        <item>1 phút</item>
-        <item>2 phút</item>
-        <item>5 phút</item>
-        <item>10 phút</item>
-        <item>Không bao giờ</item>
-    </string-array>
-    <string-array name="power_dialog_cpu_state_items">
-        <item>Hiệu suất</item>
-        <item>Bình thường</item>
-    </string-array>
-    <string-array name="power_dialog_vibration_items">
-        <item>Không rung</item>
-        <item>Rung khi im lặng</item>
-        <item>Luôn rung</item>
-    </string-array>
-    <string-array name="score_descriptions">
-        <item>Tắt Danh sách chặn</item>
-        <item>Tắt Quản lý Quyền</item>
-        <item>Thùng rác đầy</item>
-        <item>Định nghĩa virus đã lỗi thời</item>
-        <item>Có quá nhiều tiến trình nền</item>
-    </string-array>
-    <string-array name="score_suggests">
-        <item>Bật Danh sách chặn</item>
-        <item>Bật Quản lý Quyền</item>
-        <item>Làm sạch thùng rác</item>
-        <item>Cập nhật định nghĩa virus</item>
-        <item>Bạn đang dùng rất nhiều ứng dụng trong nền…</item>
-    </string-array>
     <string-array name="timezone_filters">
         <item>Châu Mỹ</item>
         <item>Châu Âu</item>
@@ -164,16 +113,16 @@
         <item>Kém</item>
         <item>Khá</item>
         <item>Tốt</item>
-        <item>Rất tốt</item>
+        <item>Tuyệt</item>
     </string-array>
     <string-array name="wifi_sleep_policy_entries">
         <item>Luôn luôn</item>
-        <item>Chỉ khi đã kết nối</item>
+        <item>Chỉ khi cắm sạc</item>
         <item>Không bao giờ</item>
     </string-array>
     <string-array name="wifi_sleep_policy_entries_wifi_only">
         <item>Luôn luôn</item>
-        <item>Chỉ khi đã kết nối</item>
+        <item>Chỉ khi cắm sạc</item>
         <item>Không bao giờ</item>
     </string-array>
     <string-array name="wifi_frequency_band_entries">
@@ -239,7 +188,6 @@
         <item>Nhắn tin</item>
         <item>Phương tiện</item>
         <item>Thiết bị</item>
-        <item>Khởi động</item>
     </string-array>
     <string-array name="app_ops_summaries">
         <item>vị trí gần đúng</item>
@@ -255,7 +203,7 @@
         <item>quét Wi-Fi</item>
         <item>thông báo</item>
         <item>quét tín hiệu</item>
-        <item>cuộc gọi điện thoại</item>
+        <item>gọi điện thoại</item>
         <item>đọc SMS</item>
         <item>soạn SMS</item>
         <item>nhận SMS</item>
@@ -285,13 +233,6 @@
         <item>không khóa màn hình</item>
         <item>theo dõi vị trí</item>
         <item>theo dõi vị trí dùng điện năng cao</item>
-        <item>bật/tắt Wi-Fi</item>
-        <item>bật/tắt Bluetooth</item>
-        <item>bật/tắt dữ liệu</item>
-        <item>gửi MMS</item>
-        <item>đọc MMS</item>
-        <item>soạn MMS</item>
-        <item>tự khởi chạy</item>
     </string-array>
     <string-array name="app_ops_labels">
         <item>Vị trí</item>
@@ -337,13 +278,6 @@
         <item>Không khóa màn hình</item>
         <item>Vị trí</item>
         <item>Vị trí</item>
-        <item>Bật/tắt Wi-Fi</item>
-        <item>Bật/tắt Bluetooth</item>
-        <item>Bật/tắt dữ liệu</item>
-        <item>Gửi MMS</item>
-        <item>Đọc MMS</item>
-        <item>Soạn MMS</item>
-        <item>Tự khởi chạy</item>
     </string-array>
     <string-array name="long_press_timeout_selector_titles">
         <item>Ngắn</item>
@@ -424,17 +358,17 @@
         <item>Tỷ lệ hình động 10x</item>
     </string-array>
     <string-array name="overlay_display_devices_entries">
-        <item>Không có</item>
+        <item>Không</item>
         <item>720x480 mdpi</item>
-        <item>720x480 mdpi (an toàn)</item>
+        <item>720x480 mdpi (bảo mật)</item>
         <item>1280x720 tvdpi</item>
-        <item>1280x720 tvdpi (an toàn)</item>
+        <item>1280x720 tvdpi (bảo mật)</item>
         <item>1920x1080 xhdpi</item>
-        <item>1920x1080 xhdpi (an toàn)</item>
+        <item>1920x1080 xhdpi (bảo mật)</item>
         <item>1280x720 tvdpi và 1920x1080 xhdpi</item>
     </string-array>
     <string-array name="enable_opengl_traces_entries">
-        <item>Không có</item>
+        <item>Không</item>
         <item>Logcat</item>
         <item>Systrace (Đồ họa)</item>
         <item>Chồng lệnh trên glGetError</item>
@@ -492,25 +426,6 @@
         <item>Không bao giờ</item>
         <item>Luôn cho phép</item>
     </string-array>
-    <string-array name="ram_states">
-        <item>bình thường</item>
-        <item>vừa phải</item>
-        <item>thấp</item>
-        <item>thiếu</item>
-    </string-array>
-    <string-array name="multi_sim_entries">
-        <item>Thuê bao 1</item>
-        <item>Thuê bao 2</item>
-        <item>Thuê bao 3</item>
-    </string-array>
-    <string-array name="button_light_timeout_entries">
-        <item>1 giây</item>
-        <item>2 giây</item>
-        <item>5 giây</item>
-        <item>10 giây</item>
-        <item>20 giây</item>
-        <item>Luôn luôn</item>
-    </string-array>
     <string-array name="haptic_feedback_level_entries">
         <item>Mạnh</item>
         <item>Vừa</item>
@@ -564,12 +479,21 @@
         <item>Khởi động trình Trợ lý</item>
         <item>Khởi động Google ngay</item>
         <item>Đóng ứng dụng hiện tại</item>
+        <item>Hiện trình đơn</item>
     </string-array>
     <string-array name="screen_key_long_press_timeout">
         <item>0,5 giây</item>
         <item>1 giây</item>
         <item>1,5 giây</item>
         <item>2 giây</item>
+    </string-array>
+    <string-array name="button_light_timeout_entries">
+        <item>1 giây</item>
+        <item>2 giây</item>
+        <item>5 giây</item>
+        <item>10 giây</item>
+        <item>20 giây</item>
+        <item>Luôn luôn</item>
     </string-array>
     <string-array name="wfd_status">
         <item>Đang khởi động phiên…</item>
@@ -579,39 +503,40 @@
         <item>Hết thời gian, đang thử lại…</item>
         <item>Thiết bị đã kết nối</item>
     </string-array>
+    <string-array name="power_mode_entries">
+        <item>Hiệu suất</item>
+        <item>Bình thường</item>
+    </string-array>
     <string-array name="msd_pc_system">
         <item>Windows XP và các phiên bản cũ hơn</item>
         <item>Windows Vista và các phiên bản mới hơn</item>
         <item>Mac OS</item>
         <item>Linux</item>
     </string-array>
-    <string-array name="msd_pc_system_install_start_summary">
-        <item>Đối với Windows XP hoặc các phiên bản cũ hơn, driver cần phải được cài đặt bằng tay.</item>
-        <item>@string/msd_pc_system_install_start_summary_vista</item>
-        <item>Đối với Mac OS, driver cần phải được cài đặt bằng tay.</item>
+    <string-array name="msd_pc_system_install_summary">
+        <item>2.Thực hiện theo các hướng dẫn trên màn hình</item>
+        <item></item>
+        <item></item>
         <item></item>
     </string-array>
-    <string-array name="msd_pc_system_install_step_1_summary">
-        <item>"(Bỏ qua Setup Wizard)
-Khi kết nối, Xiaomi sẽ xuất hiện như một thiết bị lưu trữ USB.
-Mở và chọn Setup.exe để cài đặt."</item>
-        <item></item>
-        <item>"Khi kết nối, Xiaomi sẽ xuất hiện như một thiết bị lưu trữ USB.
-Mở và chọn AndroidFileTransfer.dmg để cài đặt."</item>
-        <item></item>
-    </string-array>
-    <array name="msd_pc_system_install_step_2_summary">
-        <item>@string/msd_pc_system_install_step_2_summary_xp</item>
-        <item></item>
-        <item>Sao chép tập tin như sử dụng bất cứ ổ đĩa ngoài nào.</item>
-        <item></item>
-    </array>
     <string-array name="msd_pc_system_install_finish_summary">
         <item>@string/msd_pc_system_install_finish_summary_xp</item>
         <item>@string/msd_pc_system_install_finish_summary_vista</item>
-        <item>"Nếu bạn cài đặt driver này.
-Máy tính sẽ tự động mở và đọc dữ liệu trên điện thoại."</item>
+        <item>Máy tính sẽ tự động mở và đọc dữ liệu trên điện thoại</item>
         <item></item>
+    </string-array>
+    <array name="msd_pc_system_retry_xp">
+        <item>@string/msd_install_retry_connect</item>
+        <item>Cài đặt lại MiPhoneManager.</item>
+    </array>
+    <string-array name="msd_pc_system_retry_linux">
+        <item>Cài đặt công cụ: sudo aptitude install mtpfs libfuse-dev libmad0-dev</item>
+        <item>Tạo đường dẫn: mkdir /media/mtp</item>
+        <item>Xác nhận cho phép nhóm người dùng trong nhóm hiện tại</item>
+        <item>Đăng nhập lại</item>
+        <item>Truy cập thiết bị đã gắn: mtpfs /media/mtp qua trình quản lý tập tin; giống như thư mục cục bộ</item>
+        <item>"Gỡ bỏ thiết bị: fusermount -u /media/mtp
+Lưu ý: Dùng cho ubuntu 8.04!"</item>
     </string-array>
     <string-array name="screen_color_title">
         <item>Ấm</item>
@@ -621,6 +546,11 @@ Máy tính sẽ tự động mở và đọc dữ liệu trên điện thoại."
     <string-array name="screen_saturation_title">
         <item>Rực rỡ</item>
         <item>Chuẩn</item>
+    </string-array>
+    <string-array name="perm_hips_action">
+        <item>Cho phép</item>
+        <item>Hỏi lại</item>
+        <item>Từ chối</item>
     </string-array>
     <string-array name="startup_hips_action">
         <item>Cho phép</item>
