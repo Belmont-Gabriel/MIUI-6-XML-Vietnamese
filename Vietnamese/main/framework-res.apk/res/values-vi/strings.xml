@@ -1128,9 +1128,9 @@ Bạn có muốn đóng trang không?"</string>
     <string name="ime_action_previous">Trước</string>
     <string name="ime_action_default">Thực hiện</string>
     <string name="dial_number_using">"Quay số
-dùng %s"</string>
+sử dụng %s"</string>
     <string name="create_contact_using">"Tạo liên hệ
-dùng %s"</string>
+sử dụng %s"</string>
     <string name="grant_credentials_permission_message_header">Một hoặc nhiều ứng dụng sau đây yêu cầu quyền truy cập vào tài khoản của bạn, hiện tại và trong tương lai.</string>
     <string name="grant_credentials_permission_message_footer">Bạn có muốn cho phép yêu cầu này không?</string>
     <string name="grant_permissions_header_text">Yêu cầu truy cập</string>
