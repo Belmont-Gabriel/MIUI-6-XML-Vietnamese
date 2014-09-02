@@ -1156,7 +1156,7 @@ Bạn hiện đã đăng nhập vào các tài khoản sau:
     <string name="filter_apps_all">Tất cả</string>
     <string name="filter_apps_disabled">Đã tắt</string>
     <string name="filter_apps_third_party">Đã tải về</string>
-    <string name="filter_apps_running">Đang hoạt động</string>
+    <string name="filter_apps_running">Đang chạy</string>
     <string name="filter_apps_onsdcard">Thẻ SD</string>
     <string name="disabled">Đã tắt</string>
     <string name="not_installed">Chưa cài đặt</string>
