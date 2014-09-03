@@ -53,4 +53,13 @@
         <item>Trong nước</item>
         <item>Tự động</item>
     </string-array>
+    <string-array name="list_language_entries">
+        <item>Tiếng Anh</item>
+        <item>Tiếng Pháp</item>
+        <item>Tiếng Tây Ban Nha</item>
+        <item>Tiếng Nhật</item>
+        <item>Tiếng Hàn</item>
+        <item>Tiếng Trung</item>
+        <item>Tiếng Do Thái</item>
+    </string-array>
 </resources>
