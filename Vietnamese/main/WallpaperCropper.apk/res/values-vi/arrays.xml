@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="weather_type">
+        <item>Nắng</item>
+        <item>Có mây</item>
+        <item>Âm u</item>
+        <item>Sương</item>
+        <item>Mưa nặng hạt</item>
+        <item>Mưa to</item>
+        <item>Mưa</item>
+        <item>Có giông</item>
+        <item>Mưa rào</item>
+        <item>Mưa rất to</item>
+        <item>Mưa vừa</item>
+        <item>Mưa</item>
+        <item>Mưa tuyết</item>
+        <item>Bão tuyết</item>
+        <item>Có tuyết</item>
+        <item>Tuyết rơi nhiều</item>
+        <item>Tuyết rơi vừa</item>
+        <item>Tuyết rơi nhẹ</item>
+        <item>Bão cát mạnh</item>
+        <item>Bão cát</item>
+        <item>Cát</item>
+        <item>Gió</item>
+        <item>Mưa đá</item>
+        <item>Bụi</item>
+        <item>Mù sương</item>
+        <item>Mưa lạnh</item>
+        <item>Không có dữ liệu</item>
+    </string-array>
+    <string-array name="weather_indexes_uv_level">
+        <item>Yếu nhất</item>
+        <item>Yếu</item>
+        <item>Trung bình</item>
+        <item>Mạnh</item>
+        <item>Mạnh nhất</item>
+    </string-array>
+    <string-array name="wind_direction">
+        <item>Gió: B</item>
+        <item>Gió: ĐB</item>
+        <item>Gió: Đ</item>
+        <item>Gió: ĐN</item>
+        <item>Gió: N</item>
+        <item>Gió: TN</item>
+        <item>Gió: T</item>
+        <item>Gió: TB</item>
+    </string-array>
+</resources>
