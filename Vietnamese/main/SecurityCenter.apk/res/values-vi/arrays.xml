@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="power_dialog_auto_clean_memory_items">
+        <item>Sau 1 phút</item>
+        <item>Sau 5 phút</item>
+        <item>Sau 10 phút</item>
+        <item>Không bao giờ</item>
+    </string-array>
+    <string-array name="power_dialog_sleep_items">
+        <item>15 giây</item>
+        <item>30 giây</item>
+        <item>1 minute</item>
+        <item>2 phút</item>
+        <item>5 phút</item>
+        <item>10 phút</item>
+        <item>Không bao giờ</item>
+    </string-array>
+    <string-array name="power_dialog_cpu_state_items">
+        <item>Hiệu suất</item>
+        <item>Bình thường</item>
+    </string-array>
+    <string-array name="power_dialog_vibration_items">
+        <item>Không rung</item>
+        <item>Chỉ rung khi im lặng</item>
+        <item>Luôn rung</item>
+    </string-array>
+</resources>
