@@ -38,7 +38,7 @@
 	<string name="reg_using_other_phone_number_prompt">Đăng ký bằng cách dùng số điện thoại khác</string>
 	<string name="reg_using_other_phone">Đăng ký bằng cách dùng số điện thoại khác</string>
 	<string name="reg_via_sms_alert">Kích hoạt bằng tin nhắn SMS phải chịu phí sử dụng dữ liệu thông thường từ nhà mạng của bạn.</string>
-	<string name="reg_sms_send_prompt">Gửi mã xác minh đến <xliff:g id="PHONE">%s</xliff:g></string>
+	<string name="reg_sms_send_prompt">Gửi mã xác minh đến %s></string>
 	<string name="micloud_input_password_prompt">Tạo mật khẩu</string>
 	<string name="micloud_password_confirm_hint">Xác nhận mật khẩu</string>
 	<string name="micloud_password_req_notice">Mật khẩu phải có 8-16 ký tự và bao gồm cả số và chữ (phân biệt chữ hoa chữ thường).</string>
