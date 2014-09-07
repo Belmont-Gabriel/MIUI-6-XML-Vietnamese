@@ -148,7 +148,7 @@
         <item>GTC</item>
     </string-array>
     <string-array name="wifi_ip_settings">
-        <item>DHCP</item>
+        <item>Tự động</item>
         <item>Tĩnh</item>
     </string-array>
     <string-array name="wifi_proxy_settings">
