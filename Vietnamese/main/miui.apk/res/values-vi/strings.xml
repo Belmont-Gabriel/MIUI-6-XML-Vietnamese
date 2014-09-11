@@ -9,9 +9,9 @@
     <string name="action_mode_deselect_all">Bỏ chọn tất cả</string>
     <string name="action_mode_title_empty">Chọn các mục</string>
     <string name="loading">Đang tải…</string>
-    <string name="date_picker_label_year" />
-    <string name="date_picker_label_month" />
-    <string name="date_picker_label_day" />
+    <string name="date_picker_label_year">Năm</string>
+    <string name="date_picker_label_month">Tháng</string>
+    <string name="date_picker_label_day">Ngày</string>
     <string name="time_picker_label_hour">Giờ</string>
     <string name="time_picker_label_minute">Phút</string>
     <string name="yesterday">Hôm qua</string>
@@ -264,7 +264,7 @@
     <string name="the_sixth_day">Ngày thứ sáu</string>
     <string name="the_seventh_day">Ngày thứ bảy</string>
     <string name="the_lantern_festival">Lantern Festival</string>
-    <string name="the_dragon_boat_festival">Dragon Boat Festival</string>
+    <string name="the_dragon_boat_festival">Đua thuyền Rồng</string>
     <string name="the_night_of_sevens">Night of Sevens</string>
     <string name="the_spirit_festival">Spirit Festival</string>
     <string name="the_mid_autumn_festival">Tết trung thu</string>
