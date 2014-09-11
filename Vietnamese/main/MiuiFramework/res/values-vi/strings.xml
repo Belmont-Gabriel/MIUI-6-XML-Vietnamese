@@ -4,15 +4,14 @@
     <string name="shutdown_progress">Đang tắt…</string>
     <string name="reboot_confirm_title">Điện thoại của bạn sẽ khởi động lại.</string>
     <string name="reboot_progress">Đang khởi động lại…</string>
-    <string name="memory_clear_result">"Xóa: %1$s 
-Trống: %2$s"</string>
+    <string name="memory_clear_result">"Xóa: %1$s | Trống: %2$s"</string>
     <string name="memory_clear_nothing_result">Bộ nhớ đã được tối ưu.</string>
     <string name="device_xiaomi">Điện thoại Mi</string>
     <string name="device_hongmi">Red Mi</string>
     <string name="miui_device_name">Android</string>
     <string name="app_no_notification">Trống</string>
     <string name="app_notificaiton_on_notificationBar">Thanh thông báo</string>
-    <string name="app_notificaiton_on_statusBar_and_notificationBar">Màn hình khoác, thanh thông báo</string>
+    <string name="app_notificaiton_on_statusBar_and_notificationBar">Màn hình khóa, thanh thông báo</string>
     <string name="lockscreen_access_pattern_start">Bắt đầu hình mở khóa</string>
     <string name="lockscreen_access_pattern_cleared">Đã xóa hình mở khóa</string>
     <string name="lockscreen_access_pattern_cell_added">Đã thêm ô</string>
