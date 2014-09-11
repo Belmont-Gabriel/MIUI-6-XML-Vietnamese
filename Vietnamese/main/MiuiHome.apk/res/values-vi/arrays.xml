@@ -2,7 +2,7 @@
 <resources>
     <string-array name="transformation_entries">
         <item>Trượt cổ điển</item>
-        <item>Trượt cổ điển (Không hiệu ứng)</item>
+        <item>Trượt</item>
         <item>Mờ dần</item>
         <item>Lăn</item>
         <item>Trang</item>
