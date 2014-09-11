@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="delete">Xóa</string>
     <string name="lockscreen_emergency_call">Cuộc gọi khẩn cấp</string>
     <string name="lockscreen_forgot_pattern_button_text">Quên</string>
     <string name="lockscreen_transport_prev_description">Quay lại</string>
@@ -11,6 +12,7 @@
     <string name="unlockscreen_recharging_message">Đang sạc %d%%</string>
     <string name="unlockscreen_recharge_completed">Đã đầy</string>
     <string name="unlockscreen_low_battery">Kết nối bộ sạc của bạn</string>
+    <string name="lockscreen_charging_msg">Đang sạc…</string>
     <string name="emergency_call_string">Cuộc gọi khẩn cấp</string>
     <string name="forget_password_string">Quên mật khẩu</string>
     <string name="miui_unlockscreen_password_wrong">Thử lại:</string>
@@ -18,8 +20,8 @@
     <string name="input_puk_code">Nhập mã PUK</string>
     <string name="input_puk_code_to_unlock">Nhập mã PUK để mở khóa điện thoại</string>
     <string name="unlocking_sim_card">Mở khóa thẻ SIM</string>
-    <string name="short_pukcode_error_msg">Bạn cần phải nhập ít nhất 8 chữ số.</string>
-    <string name="short_pincode_error_msg">Vui lòng nhập 4-8 chữ số</string>
+    <string name="short_pukcode_error_msg">Bạn cần phải nhập ít nhất 8 số.</string>
+    <string name="short_pincode_error_msg">Vui lòng nhập 4-8 số</string>
     <string name="input_pin_code">Nhập mã PIN</string>
     <string name="input_pin_code_to_unlock">Nhập mã PIN để mở khóa điện thoại</string>
     <string name="pincode_set_to_default_msg">Mã PIN được thiết lập là 1234, bạn có thể thay đổi nó ở đây:</string>
@@ -29,17 +31,17 @@
     <string name="incorrect_pincode">Sai mã PIN</string>
     <string name="puk_operation_failed">Hoạt động mã PUK thất bại.</string>
     <string name="pin_operation_failed">Hoạt động mã PIN thất bại.</string>
-    <string name="return_to_me_message">Nếu bị mất xin vui lòng quay lại</string>
+    <string name="return_to_me_message">Nếu tìm thấy xin vui lòng quay lại</string>
     <string name="unlock_string">OK</string>
     <string name="open_wifi_settings">Mở kết nối mạng</string>
     <string name="lock_screen_date">EEEE, d MMMM</string>
-    <string name="lockscreen_glogin_instructions">Để mở khóa, đăng nhập vào tài khoản Xiaomi của bạn</string>
-    <string name="lockscreen_glogin_password_hint">Mật khẩu</string>
+    <string name="lockscreen_glogin_instructions">Để mở khóa, đăng nhập vào tài khoản Mi của bạn</string>
+    <string name="lockscreen_glogin_password_hint">Mật khẩu</string>
     <string name="lockscreen_glogin_checking_password">Đang kiểm tra…</string>
-    <string name="login_website_in_case_forget_password">Để thiết lập lại mật khẩu của bạn, truy cập i.xiaomi.com.</string>
-    <string name="screen_on_proximity_sensor_title">Ngăn chặn quay số bỏ túi</string>
+    <string name="login_website_in_case_forget_password">Để thiết lập lại mật khẩu của bạn, truy cập i.mi.com.</string>
+    <string name="screen_on_proximity_sensor_title">Ngăn chặn lạm dụng</string>
     <string name="screen_on_proximity_sensor_summary">Đừng che phần trên của màn hình</string>
-    <string name="screen_on_proximity_sensor_hint">Để vô hiệu hóa tính năng này, nhấn Back và Vol(+) cùng một lúc.</string>
+    <string name="screen_on_proximity_sensor_hint">Để tắt tính năng này, nhấn Back và Vol(+) cùng lúc.</string>
     <string name="experimental_validate_thanks">Cảm ơn!</string>
     <string name="experimental_validate_warning">Cảm ơn bạn đã trợ giúp làm cho MIUI tốt hơn!</string>
     <string name="experimental_validate">Ngày xác thực</string>
@@ -62,15 +64,16 @@ Vui lòng tắt chế độ máy bay."</string>
     <string name="unlock_sim_string">Mở khóa thẻ SIM</string>
     <string name="starting_camera_string">Khởi động máy ảnh</string>
     <string name="lockscreen_glogin_submit_button">Đăng nhập</string>
-    <string name="lockscreen_access_pattern_start">Bẵt đầu vẽ hình mỡ khóa</string>
+    <string name="lockscreen_access_pattern_start">Bắt đầu vẽ hình mỡ khóa</string>
     <string name="lockscreen_access_pattern_cleared">Đã xóa hình mở khóa</string>
     <string name="lockscreen_access_pattern_cell_added">Đã thêm ô</string>
     <string name="lockscreen_access_pattern_detected">Hình mở khóa hoàn tất</string>
+    <string name="default_lockscreen_unlock_hint_text">Trượt lên để mở khóa</string>
     <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Bạn đã nhập sai mật khẩu %d lần. Sau %d lần nhập sai nữa, bạn sẽ được yêu cầu mở khóa điện thoại bằng cách sử dụng tài khoản đang nhập của bạn.
 
  Thử lại sau %d giây."</string>
     <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Bạn đã mở khóa điện thoại sai %d lần. Sau %d thử sai nữa, điện thoại sẽ được khôi phục lại về cài đặt gốc và tất cả dữ liệu người dùng sẽ bị mất.</string>
     <string name="lockscreen_failed_attempts_now_wiping">Bạn đã mở khóa điện thoại sai %d lần. Điện thoại sẽ được khôi phục lại về cài đặt gốc bây giờ.</string>
     <string name="miui_keyguard_ble_unlock_succeed_msg">Mở khóa bằng Bluetooth</string>
-    <string name="empty_password_error_msg">Mật khẩu không được để trống</string>
+    <string name="bluetooth_unlock_rssi_far_debug_msg">Thiết bị Bluetooth là quá xa để mở khóa.</string>
 </resources>
