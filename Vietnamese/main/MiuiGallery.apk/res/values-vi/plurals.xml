@@ -30,9 +30,9 @@
         <item quantity="one">Đã chọn %1$d mục</item>
     </plurals>
     <plurals name="number_of_pictures">
-        <item quantity="other">%1$d</item>
-        <item quantity="zero">%1$d</item>
-        <item quantity="one">%1$d</item>
+        <item quantity="other">%1$d ảnh</item>
+        <item quantity="zero">%1$d ảnh</item>
+        <item quantity="one">%1$d ảnh</item>
     </plurals>
     <plurals name="number_of_images">
         <item quantity="other">%1$d ảnh</item>
