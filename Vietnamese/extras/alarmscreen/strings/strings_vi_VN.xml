@@ -1,4 +1,4 @@
-<resources>
-    <string name="slider_text">Trượt lên để đóng</string>
-    <string name="snooze_message">Báo lại sau %d phút</string>
-</resources>
+<strings>
+    <string name="slider_text" value="Trượt lên để đóng" />
+    <string name="snooze_message" value="Báo lại sau %d phút" />
+</strings>
