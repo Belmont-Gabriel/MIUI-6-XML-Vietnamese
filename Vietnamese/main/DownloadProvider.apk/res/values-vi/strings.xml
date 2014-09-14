@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="dialog_insufficient_space_on_external">Không đủ dung lượng lưu trữ ngoài</string>
-    <string name="dialog_insufficient_space_on_cache">Không đủ dung lượng lưu trữ trong</string>
-    <string name="auto_restart_under_wifi">Tự động tải tập tin này băng Wi-Fi</string>
-    <string name="task_already_exist">Tác vụ đã tồn tại</string>
     <string name="app_label">Trình quản lý Tải về</string>
     <string name="permlab_downloadManager">Truy cập trình quản lý tải về.</string>
     <string name="permdesc_downloadManager">"Cho phép ứng dụng truy cập trình quản lý tải về và sử dụng  trình này để tải về tập tin. Ứng dụng độc hại có thể lợi dụng điều này để làm gián đoạn quá trình tải về và truy cập thông tin riêng tư."</string>
@@ -20,8 +16,6 @@
     <string name="permlab_accessAllDownloads">Truy cập tất cả các bản tải về trong hệ thống</string>
     <string name="permdesc_accessAllDownloads">Cho phép ứng dụng xem và sửa đổi tất cả các bản tải về được khởi tạo bởi bất kỳ ứng dụng nào trên hệ thống.</string>
     <string name="download_unknown_title">&lt;Không có tiêu đề></string>
-    <string name="notification_filename_separator">", "</string>
-    <string name="notification_filename_extras">" và %d nữa"</string>
     <string name="notification_download_complete">Tải về hoàn tất.</string>
     <string name="notification_download_failed">Tải về không thành công.</string>
     <string name="notification_need_wifi_for_size">Yêu cầu Wi-Fi.</string>
@@ -45,4 +39,7 @@ Chạm %s để bắt đầu tải về nội dung này vào lần tiếp theo k
     <string name="download_running">Đang thực hiện</string>
     <string name="download_error">Không thành công</string>
     <string name="download_running_percent">Đang tải về, %d%%</string>
+    <string name="dialog_insufficient_space_on_external">Không đủ dung lượng lưu trữ ngoài</string>
+    <string name="dialog_insufficient_space_on_cache">Không đủ dung lượng lưu trữ trong</string>
+    <string name="auto_restart_under_wifi">Tự động tải tập tin này bằng Wi-Fi</string>
 </resources>
