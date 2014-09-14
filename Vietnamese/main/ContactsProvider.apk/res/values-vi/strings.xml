@@ -19,10 +19,10 @@
     <string name="debug_dump_email_sender_picker">Chọn chương trình để gửi tập tin của bạn</string>
     <string name="debug_dump_email_subject">Đã đính kèm cơ sở dữ liệu người liên hệ</string>
     <string name="debug_dump_email_body">Phần đính kèm là cơ sở dữ liệu người liên hệ với tất cả thông tin người liên hệ của tôi. Hãy cẩn trọng khi xử lý.</string>
-    <string name="third_party_delete_contact_info">\"%s\" đang xóa liên hệ Xiaomi của bạn, hãy sử dụng phần mềm Danh bạ của hệ thống để cải thiện an ninh cho danh bạ của bạn.</string>
     <string name="pound_search_tip">Nhập số sau dấu \"#\" để tìm liên hệ</string>
     <string name="create_contact">Liên hệ mới</string>
     <string name="send_sms">Gửi tin nhắn</string>
     <string name="edit_contact">Thêm vào danh bạ</string>
     <string name="call_log_provider_label">Nhật ký cuộc gọi</string>
+    <string name="third_party_delete_contact_info">\"%s\" đang cố gắng xóa liên hệ của bạn. Hành động này không thể được thực hiện bởi các ứng dụng của bên thứ ba. Để xóa liên hệ, hãy sử dụng ứng dụng Danh bạ được tích hợp sẵn của MIUI.</string>
 </resources>
