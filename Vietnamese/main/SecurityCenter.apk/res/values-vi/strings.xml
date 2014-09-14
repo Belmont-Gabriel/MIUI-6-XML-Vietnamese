@@ -214,7 +214,7 @@ Bạn phải thay đổi cài đặt Pin của bạn mới có thể xóa cấu 
     <string name="ok">OK</string>
     <string name="cancel">Hủy</string>
     <string name="btn_text_start_check">Kiểm tra</string>
-    <string name="btn_text_quick_cleanup">Xóa tác vụ</string>
+    <string name="btn_text_quick_cleanup">Xóa</string>
     <string name="btn_text_quick_scan">Quét</string>
     <string name="btn_text_done">Hoàn tất</string>
     <string name="btn_text_quick_optimize">Tối ưu</string>
