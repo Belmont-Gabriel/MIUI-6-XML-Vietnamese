@@ -129,7 +129,7 @@ Nếu bạn kích hoạt lại dữ liệu, bạn có thể bị tính phí bở
     <string name="description_direction_left">Kéo sang trái cho %s.</string>
     <string name="description_target_search">Tìm kiếm</string>
     <string name="status_bar_recent_memory_info1">"%s "</string>
-    <string name="status_bar_recent_memory_info2">" %s trống"</string>
+    <string name="status_bar_recent_memory_info2">" %s"</string>
     <string name="usb_mode_notification">Bộ lưu trữ USB</string>
     <string name="usb_mode_dont_ask">Không hỏi lại</string>
     <string name="usb_mode_mount_storage_title">Mở bộ lưu trữ USB?</string>
