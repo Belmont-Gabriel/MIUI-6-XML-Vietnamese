@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="desc">Đây là phần cứng cụ thể và nên được chỉ định chỉ cho các ứng dụng hoặc dịch vụ OEM.</string>
+    <string name="label">Được phép truy cập vào các dịch vụ và nguồn lực IZAT.</string>
+</resources>
