@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="IZat_MENU_TEXT">Tăng tốc định vị</string>
+    <string name="IZat_SUB_TITLE_TEXT">Sử dụng phần cứng tăng tốc định vị Qualcomm&lt;sup>&amp;reg;&lt;/sup> IZat&lt;sup>TM&lt;/sup></string>
+    <string name="POPUP_BOX_TITLE">Đồng ý định vị</string>
+    <string name="POPUP_BOX_TEXT">Để bật tăng tốc phần cứng, cho phép IZat thu thập dữ liệu vị trí. IZat lưu trữ một số dữ liệu trên thiết bị của bạn và có thể hoạt động ngay cả khi không có ứng dụng nào đang chạy.</string>
+    <string name="POLICY_LINK">&lt;a href=\"http://xt.qsp.qualcomm.com/privacy/privacy_policy.html\">Điều khoản và Chính sách bảo mật&lt;/a></string>
+    <string name="IZAT_AGREE">Đồng ý</string>
+    <string name="IZAT_DISAGREE">Từ chối</string>
+    <string name="XT_APP_TITLE">Qualcomm IZat</string>
+</resources>
