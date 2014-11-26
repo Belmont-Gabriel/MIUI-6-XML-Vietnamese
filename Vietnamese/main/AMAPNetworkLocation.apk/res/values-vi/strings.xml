@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Vị trí Mạng</string>
+    <string name="location_warning_title">Đồng ý định vị</string>
+    <string name="location_warning_message">"Cho phép dịch vụ định vị AutoNavi để thu thập dữ liệu vị trí ẩn danh. Một số dữ liệu có thể được lưu trữ trên điện thoại, và việc thu thập có thể xảy ra ngay cả khi không có ứng dụng nào đang chạy. Phí sử dụng dữ liệu có thể được áp dụng trong quá trình này."</string>
+    <string name="agree">Đồng ý</string>
+    <string name="disagree">Từ chối</string>
+</resources>
