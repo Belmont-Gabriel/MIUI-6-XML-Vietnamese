@@ -28,7 +28,6 @@
     <string name="time_of_day" formatted="false">%-l:%M:%S %p</string>
     <string name="date_and_time" formatted="false">%d-%m-%Y, %-l:%M:%S %p</string>
     <string name="date_time">%1$s, %2$s</string>
-    <string name="byteShort">B</string>
     <string name="kilobyteShort">KB</string>
     <string name="megabyteShort">MB</string>
     <string name="gigabyteShort">GB</string>
@@ -37,7 +36,7 @@
     <string name="fileSizeSuffix">%1$s%2$s</string>
     <string name="ellipsis">…</string>
     <string name="ellipsis_two_dots">‥</string>
-    <string name="mmiError">Sự cố kết nối hoặc mã MMI không hợp lệ.</string>
+    <string name="mmiError">Lỗi kết nối hoặc mã MMI không hợp lệ.</string>
     <string name="mmiFdnError">Chỉ hạn chế thao tác đối với số quay định sẵn.</string>
     <string name="serviceEnabled">Dịch vụ đã được bật.</string>
     <string name="serviceEnabledFor">Dịch vụ đã được bật cho:</string>
@@ -892,7 +891,7 @@ Bạn có chắc chắn muốn điều hướng khỏi trang này không?"</stri
     <string name="save_password_remember">Nhớ</string>
     <string name="save_password_never">Không bao giờ</string>
     <string name="open_permission_deny">Bạn không được phép mở trang này.</string>
-    <string name="text_copied">Đã sao chép văn bản vào khay nhớ tạm thời.</string>
+    <string name="text_copied">Đã sao chép văn bản vào khay nhớ tạm.</string>
     <string name="more_item_label">Thêm</string>
     <string name="prepend_shortcut_label">Trình đơn+</string>
     <string name="menu_space_shortcut_label">dấu cách</string>
@@ -933,7 +932,7 @@ Bạn có chắc chắn muốn điều hướng khỏi trang này không?"</stri
     <string name="elapsed_time_short_format_h_mm_ss">%1$d:%2$02d:%3$02d</string>
     <string name="replace">Đang thay thế…</string>
     <string name="delete">Xóa</string>
-    <string name="textSelectionCABTitle">Lựa chọn văn bản</string>
+    <string name="textSelectionCABTitle">Chọn văn bản</string>
     <string name="addToDictionary">Thêm vào từ điển</string>
     <string name="deleteText">Xóa</string>
     <string name="inputMethod">Phương thức nhập</string>
@@ -1002,11 +1001,11 @@ Bạn có muốn đóng trang không?"</string>
     <string name="volume_alarm">Âm lượng báo thức</string>
     <string name="volume_notification">Âm lượng thông báo</string>
     <string name="volume_unknown">Âm lượng</string>
-    <string name="volume_icon_description_bluetooth">Âm lượng bluetooth</string>
-    <string name="volume_icon_description_ringer">Âm lượng nhạc chuông</string>
-    <string name="volume_icon_description_incall">Âm lượng cuộc gọi</string>
-    <string name="volume_icon_description_media">Âm lượng phương tiện</string>
-    <string name="volume_icon_description_notification">Âm lượng thông báo</string>
+    <string name="volume_icon_description_bluetooth">Bluetooth</string>
+    <string name="volume_icon_description_ringer">Nhạc chuông</string>
+    <string name="volume_icon_description_incall">Cuộc gọi</string>
+    <string name="volume_icon_description_media">Phương tiện</string>
+    <string name="volume_icon_description_notification">Thông báo</string>
     <string name="ringtone_default">Nhạc chuông mặc định</string>
     <string name="ringtone_default_with_actual">Nhạc chuông mặc định (%1$s)</string>
     <string name="ringtone_silent">Không</string>
