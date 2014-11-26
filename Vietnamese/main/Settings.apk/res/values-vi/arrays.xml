@@ -128,7 +128,7 @@
     <string-array name="wifi_frequency_band_entries">
         <item>Tự động</item>
         <item>Chỉ 5 GHz</item>
-        <item>Chỉ 2.4 GHz</item>
+        <item>Chỉ 2,4 GHz</item>
     </string-array>
     <string-array name="usage_stats_display_order_types">
         <item>Thời gian sử dụng</item>
@@ -178,7 +178,7 @@
         <item>GID</item>
     </string-array>
     <string-array name="app_install_location_entries">
-        <item>Bộ nhớ trong của thiết bị</item>
+        <item>Bộ nhớ trong</item>
         <item>Chuyển sang thẻ SD</item>
         <item>Để hệ thống quyết định</item>
     </string-array>
@@ -209,7 +209,7 @@
         <item>nhận SMS</item>
         <item>nhận SMS khẩn cấp</item>
         <item>nhận MMS</item>
-        <item>nhận WAP</item>
+        <item>nhận WAP Push</item>
         <item>gửi SMS</item>
         <item>đọc ICC SMS</item>
         <item>soạn ICC SMS</item>
@@ -275,7 +275,7 @@
         <item>Âm lượng báo thức</item>
         <item>Âm lượng thông báo</item>
         <item>Âm lượng bluetooth</item>
-        <item>Không khóa màn hình</item>
+        <item>Giữ màn hình luôn bật</item>
         <item>Vị trí</item>
         <item>Vị trí</item>
     </string-array>
@@ -381,7 +381,7 @@
     <string-array name="track_frame_time_entries">
         <item>Tắt</item>
         <item>Trên màn hình dưới dạng thanh</item>
-        <item>Trên màn hình dưới dạng đường</item>
+        <item>Trên màn hình dưới dạng đường kẻ</item>
         <item>Trong adb shell dumpsys gfxinfo</item>
     </string-array>
     <string-array name="debug_hw_overdraw_entries">
@@ -425,6 +425,12 @@
         <item>Hỏi</item>
         <item>Không bao giờ</item>
         <item>Luôn cho phép</item>
+    </string-array>
+    <string-array name="ram_states">
+        <item>bình thường</item>
+        <item>vừa phải</item>
+        <item>thấp</item>
+        <item>thiếu</item>
     </string-array>
     <string-array name="haptic_feedback_level_entries">
         <item>Mạnh</item>
@@ -472,6 +478,14 @@
         <item>Chàm</item>
         <item>Trắng</item>
         <item>Tím</item>
+    </string-array>
+    <string-array name="wifi_wapi_key_type">
+        <item>WAPI ASCII</item>
+        <item>WAPI thập lục phân</item>
+    </string-array>
+    <string-array name="screen_key_press_action">
+        <item>Hiện khay ứng dụng gần đây</item>
+        <item>Hiện trình đơn</item>
     </string-array>
     <string-array name="screen_key_long_press_action">
         <item>Không</item>
@@ -600,6 +614,19 @@ Lưu ý: Dùng cho ubuntu 8.04!"</item>
     <string-array name="priority_storage_entries">
         <item>Bộ nhớ trong</item>
         <item>Bộ nhớ ngoài</item>
+    </string-array>
+    <string-array name="tts_rate_xunfei_entries">
+        <item>Rất chậm</item>
+        <item>Chậm</item>
+        <item>Vừa</item>
+        <item>Nhanh</item>
+        <item>Nhanh hơn</item>
+    </string-array>
+    <string-array name="whetstone_level_entries">
+        <item>Tắt</item>
+        <item>Thấp</item>
+        <item>Vừa</item>
+        <item>Cao</item>
     </string-array>
     <string-array name="miracast_policies">
         <item>Làm chậm ngắn hơn</item>
