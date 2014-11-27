@@ -6,7 +6,7 @@
     <string name="music_headset_mode_music">Điều khiển phát nhạc</string>
     <string name="music_headset_calibrate">Gán nút tai nghe</string>
     <string name="music_headset_calibrate_hint">Nhấn nút phía trên</string>
-    <string name="music_headset_calibrate_success">Cài đặt được áp dụng</string>
+    <string name="music_headset_calibrate_success">Đã áp dụng cài đặt</string>
     <string name="music_headset_calibrate_apply">Dùng</string>
     <string name="music_headset_calibrate_volume_up">Tăng âm lượng</string>
     <string name="music_headset_calibrate_volume_down">Giảm âm lượng</string>
@@ -15,19 +15,23 @@
     <string name="music_headset_calibrate_confirm">Áp dụng các cài đặt này?</string>
     <string name="music_headset_no_contected">Không phát hiện tai nghe</string>
     <string name="music_headset_calibrate_wrong_key">Đó là nút sai</string>
+    <string name="music_HiFi_title">Âm thanh Hi-Fi</string>
     <string name="music_mi_effect_title">Tăng cường âm thanh Mi</string>
     <string name="music_mi_effect_summary">Sử dụng tăng cường âm thanh Mi khi sử dụng loa</string>
     <string name="music_headphone_settings">Cài đặt loại tai nghe</string>
-    <string name="music_dirac_mode_in_ear">Tai nghe trong Mi</string>
-    <string name="music_dirac_mode_earbuds">Tai nghe Mi</string>
-    <string name="music_dirac_mode_piston_100">Mi piston-1</string>
+    <string name="music_dirac_control">Tối ưu chất lượng âm thanh</string>
+    <string name="music_dirac_mode_off">Dirac tắt</string>
     <string name="music_dirac_mode_general">Chung</string>
     <string name="music_dirac_mode_general_earbuds">Tai nghe chung</string>
     <string name="music_dirac_mode_general_inear">Tai nghe trong chung</string>
-    <string name="music_dirac_mode_piston_2">Mi piston-2</string>
-    <string name="music_dirac_mode_piston_youth">Mi piston-youth</string>
-    <string name="music_audio_effect_settings">Cài đặt âm thanh</string>
-    <string name="music_equalizer">Bộ chỉnh âm thanh</string>
+    <string name="music_dirac_mode_in_ear">Tai nghe trong Mi</string>
+    <string name="music_dirac_mode_earbuds">Tai nghe Mi</string>
+    <string name="music_dirac_mode_piston_100">Mi Piston</string>
+    <string name="music_dirac_mode_piston_1">Mi Piston-1</string>
+    <string name="music_dirac_mode_piston_2">Mi Piston-2</string>
+    <string name="music_dirac_mode_piston_basic">Phiên bản cơ bản</string>
+    <string name="music_audio_effect_settings">Cài đặt hiệu ứng</string>
+    <string name="music_equalizer">Bộ chỉnh âm</string>
     <string name="menu_item_show_more">Hiển thị thêm</string>
     <string name="ringtone_mute">Không</string>
     <string name="title_system_resource">Tài nguyên hệ thống</string>
@@ -44,24 +48,28 @@
     <string name="status_bar_settings_custom_notification">Quản lý thông báo</string>
     <string name="status_bar_settings_all_app_display_loading">Đang tải…</string>
     <string name="status_bar_settings_show_notificationBar_notification">Hiển thị trong thanh thông báo</string>
-    <string name="status_bar_settings_show_statusBar_notification">Hiển thị trong phím bảo vệ</string>
+    <string name="status_bar_settings_show_statusBar_notification">Hiển thị trên màn hình khóa và khi kéo thanh trạng thái xuống</string>
+    <string name="status_bar_settings_show_statusBar_notification_summary">Hiển thị trên màn hình khóa và khi kéo thanh trạng thái xuống để xem trước</string>
     <string name="status_bar_filter_item_preview_image">Xem trước</string>
     <string name="status_bar_filter_item_description">Để cấu hình thông báo, vào Cài đặt > Thanh trạng thái > Quản lý thông báo</string>
     <string name="status_bar_settings_notification_bar">Thanh thông báo</string>
     <string name="status_bar_settings_toggle_collapse_after_clicked">Đóng sau khi chạm</string>
     <string name="status_bar_settings_show_screenshot_notification">Hiện thị thông báo chụp màn hình</string>
     <string name="status_bar_settings_status_bar">Thanh trạng thái</string>
+    <string name="status_bar_settings_show_notification_icon">Hiển thị biểu tượng thông báo</string>
     <string name="status_bar_settings_show_network_speed">Hiển thị tốc độ mạng</string>
-    <string name="status_bar_settings_expandable_under_keyguard">Kích hoạt ở màn hình khóa</string>
+    <string name="status_bar_settings_expandable_under_keyguard">Hiển thị trên màn hình khóa</string>
     <string name="status_bar_settings_basic_settings">Cài đặt cơ bản</string>
     <string name="status_bar_settings_advanced">Cài đặt bổ sung</string>
-    <string name="status_bar_settings_show_flow_info">Hiển thị chi tiết lưu lượng</string>
+    <string name="status_bar_settings_show_flow_info">Hiển thị chi tiết lưu lượng mạng</string>
     <string name="status_bar_settings_show_carrier">Hiển thị tên nhà mạng</string>
-    <string name="status_bar_settings_custom_carrier">Sưa tên nhà mạng</string>
+    <string name="status_bar_settings_custom_carrier">Sửa tên nhà mạng</string>
     <string name="status_bar_settings_no_carrier">Không</string>
     <string name="status_bar_settings_show_carrier_summary">Chỉ hiển thị trên màn hình khóa</string>
     <string name="status_bar_settings_show_wifi_name">Hiển thị tên Wi-Fi</string>
     <string name="status_bar_settings_custom_wifi_name">Sửa tên Wi-Fi</string>
+    <string name="status_bar_settings_toggle_position">Vị trí phím nhanh</string>
+    <string name="status_bar_settings_long_click_sort">Nhấn &amp; giữ để sắp xếp</string>
     <string name="status_bar_screen_button_key">Phím ảo trên máy</string>
     <string name="status_bar_key_position_custom">Tùy chỉnh vị trí phím</string>
     <string name="status_bar_screen_key_menu">Phím Menu</string>
@@ -73,7 +81,7 @@
     <string name="create">Tạo</string>
     <string name="allow">Cho phép</string>
     <string name="deny">Từ chối</string>
-    <string name="device_info_default">Không xác định</string>
+    <string name="device_info_default">Không rõ</string>
     <string name="show_dev_on">Bạn đã là nhà phát triển!</string>
     <string name="show_dev_already">Không cần, bạn đã là nhà phát triển.</string>
     <string name="header_category_wireless_networks">KHÔNG DÂY &amp; MẠNG</string>
@@ -92,14 +100,14 @@
     <string name="radioInfo_menu_viewFDN">Xem Số Quay định sẵn</string>
     <string name="radioInfo_menu_viewSDN">Xem Số Quay số Dịch vụ</string>
     <string name="radioInfo_menu_getPDP">Nhận danh sách PDP</string>
-    <string name="radioInfo_service_in">Đang sử dụng</string>
-    <string name="radioInfo_service_out">Không có dịch vụ</string>
-    <string name="radioInfo_service_emergency">Chỉ cuộc gọi khẩn</string>
+    <string name="radioInfo_service_in">Trong vùng phủ sóng</string>
+    <string name="radioInfo_service_out">Ngoài vùng phủ sóng</string>
+    <string name="radioInfo_service_emergency">Chỉ cuộc gọi khẩn cấp</string>
     <string name="radioInfo_service_off">Tắt sóng</string>
     <string name="radioInfo_roaming_in">Chuyển vùng</string>
     <string name="radioInfo_roaming_not">Không chuyển vùng</string>
     <string name="radioInfo_phone_idle">Rảnh</string>
-    <string name="radioInfo_phone_ringing">Rung chuông</string>
+    <string name="radioInfo_phone_ringing">Đổ chuông</string>
     <string name="radioInfo_phone_offhook">Đang gọi</string>
     <string name="radioInfo_data_disconnected">Đã ngắt kết nối</string>
     <string name="radioInfo_data_connecting">Đang kết nối…</string>
@@ -166,7 +174,7 @@
     <string name="bluetooth_devices">Thiết bị Bluetooth</string>
     <string name="bluetooth_device_name">Tên thiết bị</string>
     <string name="bluetooth_device_details">Cài đặt thiết bị</string>
-    <string name="bluetooth_profile_details">Cài đặt tiểu sử</string>
+    <string name="bluetooth_profile_details">Cài đặt thông tin</string>
     <string name="bluetooth_name_not_set">Chưa đặt tên, sử dụng tên tài khoản</string>
     <string name="bluetooth_scan_for_devices">Dò tìm thiết bị</string>
     <string name="bluetooth_rename_device">Đổi tên điện thoại</string>
@@ -265,13 +273,13 @@
     <string name="radio_info_network_type_label">Loại mạng:</string>
     <string name="radio_info_set_perferred_label">Đặt loại mạng ưa thích:</string>
     <string name="radio_info_ping_ipaddr">Ping IpAddr:</string>
-    <string name="radio_info_ping_hostname">Ping Tên máy chủ lưu trữ(www.google.com.vn):</string>
+    <string name="radio_info_ping_hostname">Ping Hostname (www.google.com.vn):</string>
     <string name="radio_info_http_client_test">Kiểm tra Máy khách HTTP:</string>
     <string name="ping_test_label">Chạy kiểm tra ping</string>
     <string name="radio_info_smsc_label">SMSC:</string>
     <string name="radio_info_smsc_update_label">Cập nhật</string>
     <string name="radio_info_smsc_refresh_label">Làm mới</string>
-    <string name="radio_info_toggle_dns_check_label">Chuyển sang kiểm tra</string>
+    <string name="radio_info_toggle_dns_check_label">Kiểm tra chuyển đổi DNS</string>
     <string name="oem_radio_info_label">Thông tin/Cài đặt OEM cụ thể</string>
     <string name="band_mode_title">Đặt băng tần GSM/UMTS</string>
     <string name="band_mode_loading">Đang tải danh sách băng tần…</string>
@@ -431,7 +439,7 @@ Quá trình mã hóa mất ít nhất một giờ. Bạn phải bắt đầu khi
     <string name="lockpassword_cancel_label">Hủy</string>
     <string name="lockpattern_tutorial_cancel_label">Hủy</string>
     <string name="lockpattern_tutorial_continue_label">Tiếp theo</string>
-    <string name="lock_setup">Đã hoàn tất thiết lập.</string>
+    <string name="lock_setup">Thiết lập hoàn tất.</string>
     <string name="device_admin_title">Quản trị viên thiết bị</string>
     <string name="manage_device_admin">Quản trị viên thiết bị</string>
     <string name="manage_device_admin_summary">Xem hoặc hủy kích hoạt quản trị viên thiết bị</string>
@@ -604,7 +612,7 @@ Quá trình mã hóa mất ít nhất một giờ. Bạn phải bắt đầu khi
     <string name="wifi_wps_failed_tkip">Cài đặt bảo mật bộ định tuyến không dây (TKIP) không được hỗ trợ</string>
     <string name="wifi_wps_failed_auth">Xác thực không thành công. Vui lòng thử lại.</string>
     <string name="wifi_wps_failed_overlap">Đã phát hiện một phiên WPS khác. Vui lòng thử lại sau ít phút.</string>
-    <string name="wifi_ssid">SSID Mạng</string>
+    <string name="wifi_ssid">SSID</string>
     <string name="wifi_ssid_hint">Nhập SSID</string>
     <string name="wifi_security">Bảo mật</string>
     <string name="wifi_signal">Cường độ tín hiệu</string>
@@ -616,7 +624,7 @@ Quá trình mã hóa mất ít nhất một giờ. Bạn phải bắt đầu khi
     <string name="wifi_eap_ca_cert">Chứng chỉ CA</string>
     <string name="wifi_eap_user_cert">Chứng chỉ người dùng</string>
     <string name="wifi_eap_identity">Nhận dạng</string>
-    <string name="wifi_eap_anonymous">Danh tính ẩn danh</string>
+    <string name="wifi_eap_anonymous">Xác minh ẩn danh</string>
     <string name="wifi_password">Mật khẩu</string>
     <string name="wifi_show_password">Hiển thị mật khẩu.</string>
     <string name="wifi_ip_settings">Cài đặt IP</string>
@@ -835,7 +843,7 @@ Có thể mã PIN không đúng."</string>
     <string name="storage_settings_summary">Ngắt kết nối bộ nhớ USB, xem dung lượng sẵn có</string>
     <string name="status_imei">IMEI</string>
     <string name="status_imei_sv">IMEI SV</string>
-    <string name="status_number">Số điện thoại của tôi</string>
+    <string name="status_number">Số điện thoại</string>
     <string name="status_min_number">TỐI THIỂU</string>
     <string name="status_msid_number">MSID</string>
     <string name="status_prl_version">Phiên bản PRL</string>
@@ -1385,8 +1393,8 @@ Một số ứng dụng có thể không hoạt động cho đến khi được 
     <string name="accessibility_screen_magnification_summary">"Khi tính năng này được bật, bạn có thể phóng to và thu nhỏ bằng cách chạm ba lần vào màn hình.
 
 Trong khi phóng to, bạn có thể:
-"<ul><li>"Mẹo: Kéo hai hoặc nhiều ngón tay trên màn hình.
-"<li>Điều chỉnh mức thu phóng: Chụm hai hoặc nhiều ngón tay với nhau hoặc tách chúng ra.</li></li></ul>"
+"<li><ul>"Mẹo: Kéo hai hoặc nhiều ngón tay trên màn hình.
+"<li>Điều chỉnh mức thu phóng: Chụm hai hoặc nhiều ngón tay với nhau hoặc tách chúng ra.</li></ul></li>"
 
 Bạn cũng có thể tạm thời thu phóng các mục bên dưới ngón tay bạn bằng cách nhấn ba lần và giữ. Ở trạng thái thu phóng này, bạn có thể kéo ngón tay để khám phá các phần khác nhau của màn hình. Thả ngón tay để trở về trạng thái trước.
 
@@ -1823,7 +1831,7 @@ Một giải pháp đồng bộ dữ liệu của Google cho phép quyền truy 
     <string name="force_msaa">Bắt buộc 4x MSAA</string>
     <string name="force_msaa_summary">Bật 4x MSAA trong ứng dụng OpenGL ES 2.0</string>
     <string name="show_non_rect_clip">Gỡ lỗi hoạt động của clip khác hình chữ nhật</string>
-    <string name="track_frame_time">Kết xuất GPU cấu hình</string>
+    <string name="track_frame_time">Kết xuất cấu hình GPU</string>
     <string name="window_animation_scale_title">Tỷ lệ hình động của cửa sổ</string>
     <string name="transition_animation_scale_title">Tỷ lệ hình động chuyển đổi</string>
     <string name="animator_duration_scale_title">Tỷ lệ thời lượng tạo hình động</string>
@@ -2105,7 +2113,6 @@ Bất kỳ người dùng nào cũng có thể chấp nhận các quyền của 
     <string name="search_tether">Tether</string>
     <string name="search_brightness">Độ sáng</string>
     <string name="search_wallpaper">Hình nền</string>
-    <string name="search_launcher">Trình khởi chạy</string>
     <string name="search_accelerometer">Cảm biến gia tốc</string>
     <string name="search_screen_timeout">Thời gian chờ của màn hình</string>
     <string name="search_ring_volume">Âm lượng chuông</string>
@@ -2140,11 +2147,13 @@ Bất kỳ người dùng nào cũng có thể chấp nhận các quyền của 
     <string name="account_list">Tất cả</string>
     <string name="account_add">Thêm</string>
     <string name="xiaomi_account">Tài khoản Mi</string>
-    <string name="sync_settings">Tài khoản &amp; đồng bộ</string>
+    <string name="sync_settings">Đồng bộ</string>
     <string name="sms_received_sound_title">Âm báo đã nhận SMS</string>
     <string name="sms_delivered_sound_title">Âm báo đã gửi SMS</string>
     <string name="sms_received_sound_dialog_title">Chọn âm báo đã nhận SMS</string>
     <string name="sms_delivered_sound_dialog_title">Chọn âm báo đã gửi SMS</string>
+    <string name="ringtone_uniform_setting_title">Cài đặt SIM kép</string>
+    <string name="ringtone_slot_setting_title">Cài đặt SIM đơn</string>
     <string name="haptic_feedback_level">Mức rung</string>
     <string name="privacy_protect_title">Bảo mật cá nhân</string>
     <string name="privacy_mode_enable_title">Chế độ bảo vệ</string>
@@ -2160,11 +2169,10 @@ Bất kỳ người dùng nào cũng có thể chấp nhận các quyền của 
 "</string>
     <string name="access_control_no_back_footer">Nhấn vào [icon] để thoát</string>
     <string name="access_control_recording_intro_header">Vẽ hình mở khóa</string>
-    <string name="access_control_app_entry_single">Mở ứng dụng đã được chọn</string>
+    <string name="access_control_app_entry_single">Mở ứng dụng</string>
     <string name="access_control_app_entry_multiple">Mở %s</string>
     <string name="apn_mms">MMS</string>
     <string name="apn_general">Chung</string>
-    <string name="launcher_settings_title">Trình khởi chạy</string>
     <string name="screen_timeout_title">Chế độ ngủ</string>
     <string name="touch_title">Chạm</string>
     <string name="touch_sensitive_title">Chế độ găng tay</string>
@@ -2176,7 +2184,6 @@ Bất kỳ người dùng nào cũng có thể chấp nhận các quyền của 
     <string name="screen_never_timeout_title">Luôn bật</string>
     <string name="screen_on_proximity_sensor_title">Ngăn chặn lạm dụng</string>
     <string name="screen_on_proximity_sensor_summary">Ngăn chặn việc vô ý sử dụng điện thoại khi đặt trong túi (phát hiện qua cảm biến tiệm cận).</string>
-    <string name="preferred_launcher_title">Trình khởi chạy ưa thích</string>
     <string name="preferred_application_title">%s được ưa thích</string>
     <string name="preferred_application_warning_title">Thay thế mặc định %s</string>
     <string name="preferred_application_warning_message">Thay thế mặc định %1$s có thể làm tăng tiêu thụ Pin, giảm tốc độ, và có thể làm nội dung điện thoại nguy hiểm. Đề nghị sử dụng mặc định %2$s.</string>
@@ -2191,6 +2198,8 @@ Bất kỳ người dùng nào cũng có thể chấp nhận các quyền của 
     <string name="wallpaper_live">Hình động</string>
     <string name="key_settings_title">Phím</string>
     <string name="key_settings">Phím</string>
+    <string name="screen_key_press">Nhấn phím điều hướng</string>
+    <string name="screen_key_press_action">Kích hoạt tính năng</string>
     <string name="screen_key_long_press">Bấm và giữ phím</string>
     <string name="screen_key_long_press_action">Kích hoạt tính năng</string>
     <string name="app_switch_key">Gần đây</string>
@@ -2198,9 +2207,9 @@ Bất kỳ người dùng nào cũng có thể chấp nhận các quyền của 
     <string name="home_key">Phím Home</string>
     <string name="back_key">Phím Back</string>
     <string name="screen_key_long_press_timeout">Thời gian bấm giữ</string>
-    <string name="under_keyguard">Ở màn hình khóa</string>
+    <string name="under_keyguard">Màn hình khóa</string>
     <string name="enable_snapshot_screenlock">Giữ phím Back để chụp ảnh màn hình khóa</string>
-    <string name="disable_power_key_long_press_under_keyguard">Vô hiệu hóa trên màn hình khóa</string>
+    <string name="disable_power_key_long_press_under_keyguard">Vô hiệu hóa nút Nguồn ở màn hình khóa</string>
     <string name="trackball_wake_title">Trackball wake</string>
     <string name="pref_volume_wake_title">Mở khóa bằng Volume</string>
     <string name="pref_volume_wake_summary">Nhấn nút Vol(+/-) để mở điện thoại.</string>
@@ -2230,6 +2239,7 @@ Bất kỳ người dùng nào cũng có thể chấp nhận các quyền của 
     <string name="battery_indicator_style">Dạng thông báo Pin</string>
     <string name="power_usage_history">Pin đã sử dụng</string>
     <string name="default_usb_mode">Loại kết nối USB</string>
+    <string name="lock_settings">Khóa màn hình</string>
     <string name="unlock_set_unlock_summary">Vui lòng kích hoạt màn hình mật khẩu để cho phép bảo vệ mật khẩu</string>
     <string name="lock_settings_picker_settings">Chọn màn hình khóa</string>
     <string name="lock_screen_unlock_show">Hiển thị ngay màn hình nhập mật khẩu</string>
@@ -2270,6 +2280,8 @@ Bất kỳ người dùng nào cũng có thể chấp nhận các quyền của 
     <string name="apn_new">Điểm truy cập mới</string>
     <string name="apn_save">Lưu?</string>
     <string name="apn_save_msg">APN đã được thay đổi. Bạn có muốn lưu lại?</string>
+    <string name="apn_chinaunicom_3gnet_general">Kết nối Internet Wal-3G</string>
+    <string name="apn_chinaunicom_3gwap_general">Internet di động Wal-3G</string>
     <string name="activating">Đang kích hoạt…</string>
     <string name="wifi_enable_watchdog_service_summary">Không sử dụng mạng Wi-Fi trừ khi có kết nối Internet tốt</string>
     <string name="wifi_disabled_help">Mạng đã ngắt kết nối do kết nối quá yếu. Để điều chỉnh cài đặt này, hãy vào Cài đặt > Wi-Fi > Cài đặt nâng cao.</string>
@@ -2354,7 +2366,6 @@ Lưu ý: Thao tác này không thể khôi phục lại."</string>
     <string name="volume_bluetooth_description">Âm lượng Bluetooth</string>
     <string name="volume_restore">Khôi phục âm lượng</string>
     <string name="volume_restore_alert">Tất cả cài đặt âm lượng sẽ quay về mặc định, bạn có muốn?</string>
-    <string name="sound_category_calls_and_notification_title">Nhạc chuông &amp; thông báo</string>
     <string name="font_size_preview">MIUI - ßel™</string>
     <string name="font_size_summary">Điều chỉnh kích thước phông chữ hoặc cách trình bày của các ứng dụng chẳng như: Điện thoại, Tin nhắn, Danh bạ, vv…, để tăng khả năng đọc và khả năng sử dụng</string>
     <string name="font_size_small">Bé</string>
@@ -2424,7 +2435,7 @@ Lưu ý: Thao tác này không thể khôi phục lại."</string>
     <string name="dirac_mode_piston_1">Mi piston-1</string>
     <string name="dirac_mode_piston_2">Mi piston-2</string>
     <string name="dirac_mode_piston_youth">Mi piston-youth</string>
-    <string name="equalizer">Bộ chỉnh âm thanh</string>
+    <string name="equalizer">Bộ chỉnh âm</string>
     <string name="wifi_menu_wfd">Hiển thị Wi-Fi</string>
     <string name="wfd_settings_title">Cài đặt hiển thị Wi-Fi</string>
     <string name="wfd_settings_description">Kết nối để hiển thị qua Wi-Fi</string>
@@ -2452,9 +2463,9 @@ Vui lòng chọn hệ điều hành bạn đang sử dụng: "</string>
     <string name="msd_install">Cài đặt lại driver</string>
     <string name="msd_install_finish">OK</string>
     <string name="msd_pc_system_install_summary_xp">1. Chạy setup.exe để cài đặt</string>
-    <string name="msd_pc_system_install_finish_summary_xp">Sau khi bạn cài đặt driver này, %1$s sẽ xuất hiện như một thiết bị lưu trữ USB khi kết nối với máy tính.</string>
+    <string name="msd_pc_system_install_finish_summary_xp">Sau khi bạn cài đặt driver, %1$s sẽ xuất hiện như một thiết bị lưu trữ USB khi kết nối với máy tính.</string>
     <string name="msd_pc_system_install_finish_summary_vista">Đối với Windows Vista và các phiên bản mới hơn của Windows, máy nghe nhạc %1$s sẽ tự động xuất hiện trên máy tính của bạn.</string>
-    <string name="msd_install_retry">"Nếu máy tính của bạn vẫn không phát hiện được thiết bị, hãy thử như sau:"</string>
+    <string name="msd_install_retry">Nếu máy tính của bạn vẫn không phát hiện được thiết bị, hãy thử như sau:</string>
     <string name="msd_install_retry_connect">Kết nối lại cáp USB.</string>
     <string name="msd_install_retry_reinstall">Cài đặt lại driver.</string>
     <string name="msd_install_retry_reinstall_mac">Cài đặt Android File Transfer trước, sau đó chạy phần mềm.</string>
@@ -2465,7 +2476,7 @@ Vui lòng chọn hệ điều hành bạn đang sử dụng: "</string>
     <string name="msd_driver_download_xp_url">Tải driver tại http://zhushou.mi.com/</string>
     <string name="msd_driver_download_mac">OSX: Tải driver và cài đặt AndroidFileTransfer.dmg.</string>
     <string name="msd_driver_download_mac_url">Tải driver tại http://www.android.com/filetransfer/</string>
-    <string name="msd_install_download_zhushou">"Tôi đã tải Mi Phone Manager"</string>
+    <string name="msd_install_download_zhushou">Tôi đã tải Mi Phone Manager</string>
     <string name="vpn_settings_password">Cài đặt Mật khẩu VPN</string>
     <string name="vpn_safe">Bảo mật</string>
     <string name="vpn_configure">Cấu hình</string>
@@ -2508,14 +2519,14 @@ Vui lòng chọn hệ điều hành bạn đang sử dụng: "</string>
     <string name="filter_apps_cached">Đã lưu trữ</string>
     <string name="screen">Màn hình</string>
     <string name="system">Hệ thống</string>
-    <string name="screen_color_temperature">Nhiệt độ màu</string>
-    <string name="screen_saturation">Độ bão hòa màu</string>
-    <string name="screen_color_temperature_and_saturation">Nhiệt độ &amp; độ bão hòa màu</string>
+    <string name="screen_color_temperature">Màu sắc</string>
+    <string name="screen_saturation">Độ bão hòa</string>
+    <string name="screen_color_temperature_and_saturation">Màu sắc &amp; độ bão hòa</string>
     <string name="finish_application">Kết thúc</string>
     <string name="header_category_accounts">Tài khoản</string>
     <string name="auto_startup_application_manage">Tự khởi chạy</string>
     <string name="add_auto_startup_application">Thêm ứng dụng tự khởi chạy</string>
-    <string name="power_autorun_apps_empty">Không có ứng dụng tự khởi chạy</string>
+    <string name="power_autorun_apps_empty">Trống</string>
     <string name="power_autorun_empty">Không có ứng dụng nào</string>
     <string name="auto_startup_count">%d ứng dụng được cho phép tự khởi chạy</string>
     <string name="man_add_application">Thêm ứng dụng tự khởi chạy</string>
@@ -2525,10 +2536,8 @@ Vui lòng chọn hệ điều hành bạn đang sử dụng: "</string>
     <string name="application_forbid_auto_startup">Vô hiệu hóa %s chạy nền khi khởi động</string>
     <string name="floating_window_switch_label">Bật cửa sổ nổi</string>
     <string name="floating_window_switch_label_disable">Tắt cửa sổ nổi</string>
-    <string name="app_floating_window_dlg_enable">"Bật cài đặt cửa sổ nổi của %1$s sẽ yêu cầu ứng dụng khởi động lại.
-Bạn có muốn bật không?"</string>
-    <string name="app_floating_window_dlg_disable">"Tắt cài đặt cửa sổ nổi của %1$s sẽ buộc ngừng ứng dụng.
-Bạn có muốn tắt không?"</string>
+    <string name="app_floating_window_dlg_enable">Bật cài đặt cửa sổ nổi của %1$s cần khởi động lại ứng dụng.</string>
+    <string name="app_floating_window_dlg_disable">Tắt cài đặt cửa sổ nổi của %1$s cần khởi động lại ứng dụng.</string>
     <string name="wps_category">Bảo mật WPS</string>
     <string name="wps_connect_title">Kết nối bằng cách sử dụng WPS</string>
     <string name="wps_connect_summary">Hãy chắc chắn rằng router của bạn hỗ trợ WPS</string>
@@ -2544,6 +2553,7 @@ Bạn có muốn tắt không?"</string>
     <string name="lockpassword_pin_fixed_length">Mã PIN phải có %d chữ số</string>
     <string name="cancel_alert">Hủy thông báo?</string>
     <string name="android_beam_witch_label">Android Beam</string>
+    <string name="sim_radio_off">Chưa kích hoạt</string>
     <string name="sim_management_title">Quản lý thẻ SIM</string>
     <string name="sim_status_title">Trạng thái thẻ SIM</string>
     <string name="slot_status_title">Thông tin IMEI</string>
@@ -2579,7 +2589,7 @@ Bạn có muốn tắt không?"</string>
     <string name="wifi_configured_ap_list">Danh sách điểm truy cập đã lưu</string>
     <string name="wifi_priority_label">Ưu tiên</string>
     <string name="wifi_available_title">Kết nối tới Wi-Fi</string>
-    <string name="msg_wlan_signal_found">Đã tìm thấy Wi-Fi %s, bạn muốn sử dụng mạng Wi-Fi này? Sử dụng mạng này sẽ làm gián đoạn một phần dịch vụ dữ liệu.</string>
+    <string name="msg_wlan_signal_found">Đã tìm thấy Wi-Fi %s, bạn muốn sử dụng mạng Wi-Fi này?</string>
     <string name="wifi_signal_found_msg">Đã tìm thấy Wi-Fi khả dụng, kết nối ngay?</string>
     <string name="nfc_category_title">NFC</string>
     <string name="android_beam_tips">Hãy chắc rằng hai thiết bị này được chạm vào nhau, và sau đó chọn nội dung bạn muốn chuyển.</string>
@@ -2675,7 +2685,7 @@ Bạn có muốn tắt không?"</string>
     <string name="free_wifi_connected_count">%1$s người dùng đã kết nối</string>
     <string name="free_wifi_speed_title">Kết nối chậm?</string>
     <string name="free_wifi_connected_time">Thời gian: %1$s</string>
-    <string name="free_wifi_confirm">Tôi biết</string>
+    <string name="free_wifi_confirm">OK</string>
     <string name="manage_xiaomi_router">Quản lý bộ định tuyến Xiaomi</string>
     <string name="xiaomi_router_notif_title">Thông báo bộ định tuyến Xiaomi</string>
     <string name="xiaomi_router_notif_summary">Thông báo cho tôi khi một bộ định tuyến Xiaomi khả dụng</string>
@@ -2713,10 +2723,10 @@ Bạn có muốn tắt không?"</string>
     <string name="dialog_yes">Có</string>
     <string name="confirm_download_cancelation_dialog_message">Hủy tải về?</string>
     <string name="found_new_version">Cập nhật hiện có sẵn</string>
-    <string name="no_update_found">"Bạn đang chạy phiên bản mới nhất của MIUI"</string>
-    <string name="no_updates_found">"Bạn đang chạy phiên bản mới nhất của MIUI"</string>
+    <string name="no_update_found">Bạn đang chạy phiên bản mới nhất của MIUI</string>
+    <string name="no_updates_found">Bạn đang chạy phiên bản mới nhất của MIUI</string>
     <string name="no_updates_warning">Không tìm thấy bản cập nhật nào cho điện thoại của bạn</string>
-    <string name="no_updates_warning2">"Thư giãn, chúng tôi sẽ thông báo cho bạn biết nếu có cập nhật :)"</string>
+    <string name="no_updates_warning2">Thư giãn, chúng tôi sẽ thông báo cho bạn biết nếu có cập nhật :)</string>
     <string name="network_error">Xảy ra lỗi mạng</string>
     <string name="checking_for_updates">Đang kiểm tra cập nhật…</string>
     <string name="rebootiing_for_updates">Đang khởi động lại…</string>
@@ -2726,6 +2736,11 @@ Bạn có muốn tắt không?"</string>
     <string name="dialog_content_login">Cập nhật cần phải đăng nhập tài khoản Mi trước</string>
     <string name="dialog_title_login">Đăng nhập tài khoản Mi</string>
     <string name="make_sure_cancel_update">Hủy cập nhật?</string>
+    <string name="download_current_rom">Tải phiên bản MIUI mới nhất</string>
+    <string name="install_whole_rom">Tải ROM</string>
+    <string name="apply_update_fail">Cập nhật thất bại</string>
+    <string name="now">Reboot now</string>
+    <string name="need_reboot_now">Need reboot to complete update,please reboot now !</string>
     <string name="welcome">Xin chào</string>
     <string name="launching_pho">Đang khởi động thông tin điện thoại, xin đợi…</string>
     <string name="launching_cit">Đang khởi động kiểm tra phần cứng, xin đợi…</string>
@@ -2739,12 +2754,13 @@ Bạn có muốn tắt không?"</string>
     <string name="toast_lockscreen_glogin_empty_password">Nhập mật khẩu</string>
     <string name="lockscreen_glogin_checking_password">Đang kiểm tra…</string>
     <string name="passwordIncorrect">Mật khẩu bạn đã nhập không đúng</string>
-    <string name="app_feedback">Báo cáo Lỗi</string>
     <string name="app_backup">Sao lưu</string>
     <string name="google_backup_section_title">Sao lưu &amp; khôi phục Google</string>
     <string name="system_backup_section_title">Sao lưu</string>
     <string name="local_backup_section_title">Sao lưu trên máy</string>
     <string name="local_backup_section_summary">Sao lưu cài đặt hệ thống, tài khoản và dữ liệu ứng dụng</string>
+    <string name="other_personal_settings">Personal settings</string>
+    <string name="other_advanced_settings">Additional settings</string>
     <string name="recent_location_requests_title">Truy cập vị trí</string>
     <string name="recent_location_requests_summary">Các ứng dụng dưới đây đang yêu cầu để xem thông tin vị trí của bạn</string>
     <string name="permission_manager">Quyền</string>
@@ -2774,13 +2790,30 @@ Bạn có muốn tắt không?"</string>
     <string name="power_mgr">Pin</string>
     <string name="symbols_not_allowed_for_password">Mật khẩu không được chứa các ký hiệu</string>
     <string name="reset_legacy_password_settings_preface_text">Bạn cần đặt lại mật khẩu khóa màn hình của bạn.</string>
-    <string name="translation_contributors_title">Người đóng góp dịch thuật</string>
-    <string name="wifi_type_approval_title">Kiểu phê duyệt</string>
     <string name="priority_storage_title">Cài đặt lưu trữ</string>
     <string name="priority_storage_summary">Chọn vị trí mặc định để lưu dữ liệu người dùng</string>
     <string name="priority_storage_settings_summary">Nếu không phát hiện thẻ SD phát hiện, dữ liệu người dùng sẽ tự động được lưu vào bộ nhớ trong của thiết bị.</string>
     <string name="priority_storage_app_settings">Dữ liệu người dùng sẽ được lưu vào %1$s</string>
     <string name="enable_mobile_data_when_opening_hotspot">Bật kết nối dữ liệu di động?</string>
+    <string name="free_wifi_agreement_remind_never">Không hiện lại</string>
+    <string name="free_wifi_user_agreement">Khi bạn sử dụng Wi-Fi miễn phí để kết nối vào mạng, số điện thoại của bạn sẽ được sử dụng để xác minh danh tính của bạn.</string>
+    <string name="free_wifi_user_agreement_allow">Cho phép</string>
+    <string name="free_wifi_user_agreement_title">Cảnh báo bảo mật</string>
+    <string name="translation_contributors_title">Dịch thuật viên</string>
+    <string name="wifi_type_approval_title">Kiểu phê duyệt</string>
+    <string name="status_sim">Trạng thái SIM</string>
+    <string name="status_sim_1">SIM 1</string>
+    <string name="status_sim_2">SIM 2</string>
+    <string name="status_summary">Bấm để xem chi tiết</string>
+    <string name="wifi_subnet_mask">Subnet mask</string>
+    <string name="wireless_on">Bật</string>
+    <string name="wireless_off">Tắt</string>
+    <string name="whetstone_level_title">Tối ưu hóa bộ nhớ hệ thống</string>
+    <string name="whetstone_level_reboot">Cài đặt này sẽ có hiệu lực khi bạn khởi động lại thiết bị</string>
+    <string name="whetstone_level_reboot_OK">Khởi động lại</string>
+    <string name="alpha_build">" | Thử nghiệm"</string>
+    <string name="developer_build">" | Phát triển"</string>
+    <string name="stable_build">" | Ổn định"</string>
     <string name="miracast_settings_category">Cài đặt hiển thị Wi-Fi</string>
     <string name="miracast_display_category">Hiển thị</string>
     <string name="miracast_menu_search">Tìm kiếm</string>
