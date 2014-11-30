@@ -63,7 +63,7 @@
     <string name="status_bar_settings_advanced">Cài đặt bổ sung</string>
     <string name="status_bar_settings_show_flow_info">Hiển thị chi tiết lưu lượng mạng</string>
     <string name="status_bar_settings_show_carrier">Hiển thị tên nhà mạng</string>
-    <string name="status_bar_settings_custom_carrier">Sửa tên nhà mạng</string>
+    <string name="status_bar_settings_custom_carrier">Tên nhà mạng</string>
     <string name="status_bar_settings_no_carrier">Không</string>
     <string name="status_bar_settings_show_carrier_summary">Chỉ hiển thị trên màn hình khóa</string>
     <string name="status_bar_settings_show_wifi_name">Hiển thị tên Wi-Fi</string>
@@ -1393,8 +1393,8 @@ Một số ứng dụng có thể không hoạt động cho đến khi được 
     <string name="accessibility_screen_magnification_summary">"Khi tính năng này được bật, bạn có thể phóng to và thu nhỏ bằng cách chạm ba lần vào màn hình.
 
 Trong khi phóng to, bạn có thể:
-"<li><ul>"Mẹo: Kéo hai hoặc nhiều ngón tay trên màn hình.
-"<li>Điều chỉnh mức thu phóng: Chụm hai hoặc nhiều ngón tay với nhau hoặc tách chúng ra.</li></ul></li>"
+"<ul><li>"Mẹo: Kéo hai hoặc nhiều ngón tay trên màn hình.
+"<li>Điều chỉnh mức thu phóng: Chụm hai hoặc nhiều ngón tay với nhau hoặc tách chúng ra.</li></li></ul>"
 
 Bạn cũng có thể tạm thời thu phóng các mục bên dưới ngón tay bạn bằng cách nhấn ba lần và giữ. Ở trạng thái thu phóng này, bạn có thể kéo ngón tay để khám phá các phần khác nhau của màn hình. Thả ngón tay để trở về trạng thái trước.
 
@@ -2104,6 +2104,14 @@ Bất kỳ người dùng nào cũng có thể chấp nhận các quyền của 
     <string name="dndm_repeated_call_summary_3min">Nếu các cuộc gọi lại của cùng một người trong vòng ba phút, điện thoại sẽ đổ chuông</string>
     <string name="dndm_twelve_hour_time_format">h:mm a</string>
     <string name="dndm_twenty_four_hour_time_format">HH:mm</string>
+    <string name="oldman_mode_entry_title">Chế độ thu gọn</string>
+    <string name="oldman_mode_entry_name">Chế độ thu gọn</string>
+    <string name="oldman_mode_settings_caption">Cài đặt chế độ thu gọn</string>
+    <string name="oldman_mode_enabled_name">Chế độ thu gọn</string>
+    <string name="oldman_mode_summary">Bật hoặc tắt chế độ thu gọn sẽ khởi động lại!</string>
+    <string name="oldman_mode_confirm_title">Khởi động lại?</string>
+    <string name="oldman_mode_confirm_will_oldman_mode_text">Điện thoại của bạn sẽ khởi động lại để vào chế độ thu gọn.</string>
+    <string name="oldman_mode_confirm_will_normal_mode_text">Thoát chế độ thu gọn.</string>
     <string name="search_airplane">Chế độ máy bay</string>
     <string name="search_network">Mạng</string>
     <string name="search_wifi">Wi-Fi</string>
@@ -2553,8 +2561,8 @@ Vui lòng chọn hệ điều hành bạn đang sử dụng: "</string>
     <string name="lockpassword_pin_fixed_length">Mã PIN phải có %d chữ số</string>
     <string name="cancel_alert">Hủy thông báo?</string>
     <string name="android_beam_witch_label">Android Beam</string>
-    <string name="sim_radio_off">Chưa kích hoạt</string>
     <string name="sim_management_title">Quản lý thẻ SIM</string>
+    <string name="sim_radio_off">Chưa kích hoạt</string>
     <string name="sim_status_title">Trạng thái thẻ SIM</string>
     <string name="slot_status_title">Thông tin IMEI</string>
     <string name="next_button_label">Tiếp theo</string>
@@ -2624,14 +2632,6 @@ Vui lòng chọn hệ điều hành bạn đang sử dụng: "</string>
     <string name="wifi_share_qrcode_title">Chia sẻ mã QR sử dụng Wi-Fi</string>
     <string name="wifi_share_qrcode_summary">Sử dụng máy ảnh để quét QR Code</string>
     <string name="wifi_share_qrcode_finish">Hoàn tất</string>
-    <string name="oldman_mode_entry_title">Chế độ thu gọn</string>
-    <string name="oldman_mode_entry_name">Chế độ thu gọn</string>
-    <string name="oldman_mode_settings_caption">Cài đặt chế độ thu gọn</string>
-    <string name="oldman_mode_enabled_name">Chế độ thu gọn</string>
-    <string name="oldman_mode_summary">Bật hoặc tắt chế độ thu gọn sẽ khởi động lại!</string>
-    <string name="oldman_mode_confirm_title">Khởi động lại?</string>
-    <string name="oldman_mode_confirm_will_oldman_mode_text">Điện thoại của bạn sẽ khởi động lại để vào chế độ thu gọn.</string>
-    <string name="oldman_mode_confirm_will_normal_mode_text">Thoát chế độ thu gọn.</string>
     <string name="hdmi_3dplay_settings_title">HDMI</string>
     <string name="hdmi_3dplay_control_text">Bật 3D</string>
     <string name="hdmi_3dplay_control_enable_subtext">Bật hiển thị 3D</string>
@@ -2759,8 +2759,8 @@ Vui lòng chọn hệ điều hành bạn đang sử dụng: "</string>
     <string name="system_backup_section_title">Sao lưu</string>
     <string name="local_backup_section_title">Sao lưu trên máy</string>
     <string name="local_backup_section_summary">Sao lưu cài đặt hệ thống, tài khoản và dữ liệu ứng dụng</string>
-    <string name="other_personal_settings">Personal settings</string>
-    <string name="other_advanced_settings">Additional settings</string>
+    <string name="other_personal_settings">Cài đặt cá nhân</string>
+    <string name="other_advanced_settings">Cài đặt bổ sung</string>
     <string name="recent_location_requests_title">Truy cập vị trí</string>
     <string name="recent_location_requests_summary">Các ứng dụng dưới đây đang yêu cầu để xem thông tin vị trí của bạn</string>
     <string name="permission_manager">Quyền</string>
