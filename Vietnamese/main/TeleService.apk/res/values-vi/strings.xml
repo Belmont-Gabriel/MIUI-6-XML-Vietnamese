@@ -100,12 +100,12 @@
     <string name="radio_off_error">Hãy bật sóng trước khi xem những cài đặt này.</string>
     <string name="close_dialog">OK</string>
     <string name="enable">Bật</string>
-    <string name="disable">Vô hiệu hóa</string>
+    <string name="disable">Tắt</string>
     <string name="change_num">Cập nhật</string>
     <string name="vm_changed">Số thư thoại đã thay đổi.</string>
-    <string name="vm_change_failed">"Không thể thay đổi số thư thoại.
+    <string name="vm_change_failed">"Không thể đổi số thư thoại.
 Liên hệ với nhà mạng nếu sự cỗ này vẫn tiếp diễn."</string>
-    <string name="fw_change_failed">"Không thể thay đổi số chuyển hướng.
+    <string name="fw_change_failed">"Không thể đổi số chuyển tiếp.
 Liên hệ với nhà mạng của bạn nếu sự cố này vẫn tiếp diễn."</string>
     <string name="fw_get_in_vm_failed">"Không thể truy xuất và lưu cài đặt số chuyển tiếp hiện tại.
 Bạn vẫn muốn chuyển sang nhà cung cấp mới?"</string>
@@ -122,7 +122,7 @@ Bạn vẫn muốn chuyển sang nhà cung cấp mới?"</string>
     <string name="registration_done">Đã đăng ký trên mạng.</string>
     <string name="select_automatically">Tự động chọn</string>
     <string name="sum_select_automatically">Tự động chọn mạng ưu thích</string>
-    <string name="register_automatically">Đăng ký tự động…</string>
+    <string name="register_automatically">Tự động đăng ký…</string>
     <string name="preferred_network_mode_title">Chế độ mạng</string>
     <string name="preferred_network_mode_summary">Thay đổi chế độ hoạt động của mạng</string>
     <string name="preferred_network_mode_dialogtitle">Chế độ mạng ưa thích</string>
@@ -142,6 +142,7 @@ Bạn vẫn muốn chuyển sang nhà cung cấp mới?"</string>
     <string name="network_settings_next">Tiếp theo</string>
     <string name="network_settings_confirm_message">Mạng có thể không khả dụng.</string>
     <string name="network_settings_query_failed_message">Truy vấn mạng thất bại. Chạm vào Hủy để sử dụng mạng ưa thích của bạn hoặc bấm OK để thử lại.</string>
+    <string name="retry_btn">Thử lại</string>
     <string name="network_settings_information">Thông tin</string>
     <string name="network_settings_duringcall">Hoạt động không được cho phép trong suốt cuộc gọi</string>
     <string name="network_settings_data_connected_change">Không thể thay đổi mạng khi kết nối dữ liệu đang được sử dụng. Ngừng sử dụng kết nối dữ liệu hiện tại và chuyển sang mạng khác?</string>
@@ -156,6 +157,7 @@ Sẽ sử dụng mạng ưa thích thay vào."</string>
     <string name="preferred_network_type_pref_entries_auto">Tự động</string>
     <string name="preferred_network_type_pref_entries_4g_preferred">Ưu tiên 4G</string>
     <string name="preferred_network_type_pref_entries_3g_preferred">Ưu tiên 3G</string>
+    <string name="preferred_network_type_pref_entries_3g_preferred_cdma">Ưu tiên 3G (CDMA)</string>
     <string name="preferred_network_type_pref_entries_only_2g">Chỉ 2G (tiết kiệm Pin)</string>
     <string name="preferred_network_type_pref_entries_only_3g">Chỉ 3G</string>
     <string name="preferred_network_type_td_scdma">GSM/TD-SCDMA</string>
@@ -339,7 +341,7 @@ Còn %d lần thử nữa."</string>
     <string name="card_title_MOcall_forwarding">Chuyển tiếp cuộc gọi đi</string>
     <string name="card_title_calliswaiting">Đang chờ cuộc gọi</string>
     <string name="card_title_cugcall">Cuộc gọi CUG</string>
-    <string name="card_title_outgoing_barred">Các uộc gọi đi bị Cấm</string>
+    <string name="card_title_outgoing_barred">Các cuộc gọi đi bị Cấm</string>
     <string name="card_title_incoming_barred">Các cuộc gọi tới bị Cấm</string>
     <string name="card_title_clir_suppression_rejected">Ngăn chặn CLIR bị từ chối</string>
     <string name="card_title_call_deflected">Cuộc gọi bị chệch hướng</string>
@@ -501,7 +503,7 @@ Hãy thử lại hoặc gọi cho dịch vụ khách hàng để có tùy chọn
     <string name="optional_summary">&lt;Tùy chọn></string>
     <string name="advanced_settings_show">▷ Chạm để hiển thị tất cả</string>
     <string name="advanced_settings_hide">▽ Chạm để ẩn tất cả</string>
-    <string name="empty_alert">%s là bắt buộc và không thể để trống.</string>
+    <string name="empty_alert">%s không thể để trống.</string>
     <string name="not_a_valid_port">Số cổng phải trong khoảng từ 1000 đến 65534</string>
     <string name="no_internet_available_title">Không có kết nối Internet</string>
     <string name="no_wifi_available_title">Không có kết nối Wi-Fi</string>
@@ -511,7 +513,7 @@ Hãy thử lại hoặc gọi cho dịch vụ khách hàng để có tùy chọn
     <string name="no_volte">Không thể thực hiện cuộc gọi IMS</string>
     <string name="no_vt_allowed">Để thực hiện cuộc gọi video, hãy tắt chế độ TTY</string>
     <string name="sip_system_decide">Tự động</string>
-    <string name="sip_always_send_keepalive">Luôn luôn gửi</string>
+    <string name="sip_always_send_keepalive">Luôn gửi</string>
     <string name="domain_address">SipDomain</string>
     <string name="username">UserName</string>
     <string name="password">Password</string>
@@ -654,6 +656,7 @@ Hãy thử lại hoặc gọi cho dịch vụ khách hàng để có tùy chọn
     <string name="call_recording_notification_title">Ghi âm cuộc gọi</string>
     <string name="call_recording_notification_title_error">Ghi âm cuộc gọi thất bại</string>
     <string name="call_recording_setting">Ghi âm cuộc gọi</string>
+    <string name="call_recording_notification_toggle_title">Thông báo ghi âm cuộc gọi</string>
     <string name="call_recording_notification_summary">Hiển thị thông báo trong thanh trạng thái khi cuộc gọi được ghi âm</string>
     <string name="call_recording_notification_message_low_storage">Ghi âm đã ngừng: Không đủ dung lượng.</string>
     <string name="call_recording_notification_message">Chạm để xem %s.</string>
@@ -661,9 +664,11 @@ Hãy thử lại hoặc gọi cho dịch vụ khách hàng để có tùy chọn
     <string name="call_record_add_numbers">Thêm số</string>
     <string name="call_remove_exception_numbers_confirm">%d số sẽ bị xóa.</string>
     <string name="call_record_auto_always">Tất cả các số</string>
+    <string name="call_record_on_summary">Tự động ghi âm cuộc gọi</string>
+    <string name="call_record_off_summary">Ghi âm cuộc gọi đã tắt</string>
     <string name="autoip">Tự động thêm đầu số</string>
     <string name="autoip_prefix">Đầu số</string>
-    <string name="autoip_prefix_summary">"Đầu số nhà mạng: %s"</string>
+    <string name="autoip_prefix_summary">Đầu số nhà mạng: %s</string>
     <string name="autoip_autoip_current_areacode_summary">Mã vùng hiện tại: %s</string>
     <string name="autoip_setting">Cài đặt đầu số tự động</string>
     <string name="autoip_summary">Thêm một đầu số cho số nước ngoài</string>
@@ -755,6 +760,7 @@ Hãy thử lại hoặc gọi cho dịch vụ khách hàng để có tùy chọn
     <string name="call_forwarding_number_hint">Nhập số để chuyển tiếp cuộc gọi đến</string>
     <string name="cfu_title">Luôn chuyển tiếp</string>
     <string name="cfb_title">Chuyển tiếp khi bận</string>
+    <string name="cfnrc_title_cta">Chuyển tiếp khi không thể truy cập</string>
     <string name="cfnrc_title">Chuyển tiếp khi không thể truy cập</string>
     <string name="cfnry_title">Chuyển tiếp khi không thể trả lời</string>
     <string name="disable_all_cf">Tắt tất cả tính năng chuyển tiếp cuộc gọi</string>
@@ -816,8 +822,47 @@ Hãy thử lại hoặc gọi cho dịch vụ khách hàng để có tùy chọn
     <string name="uplmn_list_setting_title">Mạng ưa thích</string>
     <string name="network_id">ID mạng</string>
     <string name="dialog_network_priority_title">Ưu tiên</string>
-    <string name="uplmn_list_setting_add_plmn">New PLMN</string>
+    <string name="uplmn_list_setting_add_plmn">PLMN mới</string>
     <string name="gsm_umts_network_preferences_title">Chế độ mạng</string>
     <string name="gsm_umts_network_preferences_dialogtitle">Chế độ mạng</string>
-    <string name="select_voice_call_sim">Vui lòng chọn</string>
+    <string name="uplmn_numeric_is_empty">Nhập ID mạng</string>
+    <string name="msim_setting_screen_title">Thẻ SIM &amp; mạng di động</string>
+    <string name="msim_setting_categery_title">Cài đặt SIM</string>
+    <string name="msim_general_setting">Cài đặt</string>
+    <string name="msim_default_setting">Cài đặt mặc định</string>
+    <string name="msim_setting_no_sim_indicator">Không có thẻ SIM</string>
+    <string name="msim_setting_sim_info_editor_title">Sửa thông tin thẻ SIM</string>
+    <string name="msim_setting_operator_network_title">Nhà mạng</string>
+    <string name="msim_sim_lock">Đã khóa</string>
+    <string name="msim_sim_radio_off">Tắt</string>
+    <string name="msim_enable_sim">Bật</string>
+    <string name="msim_set_icc_card_error">Lỗi thẻ ICC</string>
+    <string name="msim_info_editor_name">Sửa tên thẻ SIM</string>
+    <string name="msim_info_editor_number">Sửa số thẻ SIM</string>
+    <string name="msim_info_editor_set_name_error">Không thể lưu tên</string>
+    <string name="msim_apn_not_set">Chưa đặt</string>
+    <string name="msim_set_sub_not_supported_phone_in_call">Không thể thiết lập trong khi gọi</string>
+    <string name="msim_set_sub_not_supported_slot_id_error">Lỗi thẻ SIM</string>
+    <string name="msim_mode_progress_activating_message">Đang bật…</string>
+    <string name="msim_mode_progress_deactivating_message">Đang tắt…</string>
+    <string name="msim_pref_title_voice">Gọi</string>
+    <string name="msim_pref_title_data">Internet</string>
+    <string name="msim_not_set_summary">Chưa đặt</string>
+    <string name="msim_select_default_time_left">(%d giây)</string>
+    <string name="msim_switch_data_conn_toast">Cài đặt mạng đã được thay đổi thành mạng ưu tiên 4G. Bạn có thể thay đổi điều này trong Cài đặt thẻ SIM.</string>
+    <string name="msim_switch_data_conn_toast_for_h2xct">Khe cắm thẻ SIM 2 chỉ hỗ trợ mạng GSM. Loại mạng ưa thích dành cho khe này đã được thay đổi thành chỉ 2G.</string>
+    <string name="select_voice_call_sim">Chọn thẻ SIM</string>
+    <string name="general_setting">Cài đặt</string>
+    <string name="call_record_setting">Cài đặt ghi âm cuộc gọi</string>
+    <string name="preference_telocation_title">Vị trí</string>
+    <string name="cloud_antispam_title">Nhận diện số lạ</string>
+    <string name="preference_auto_ip_summary_disable">Tắt</string>
+    <string name="preference_dial_pad_touch_tone_title">Âm bàn phím số</string>
+    <string name="preference_telocation_summary_teloc_off">Ẩn vị trí liên hệ</string>
+    <string name="preference_telocation_summary_teloc_on">Hiện vị trí liên hệ</string>
+    <string name="preference_telocation_summary_countrycode_on">Tự động thêm mã nước</string>
+    <string name="preference_dial_pad_touch_tone_default">Mặc định</string>
+    <string name="preference_dial_pad_touch_tone_piano">Piano</string>
+    <string name="preference_telocation_summary_countrycode_off">Không tự động thêm mã nước</string>
+    <string name="telephony_setting">Cài đặt cuộc gọi</string>
 </resources>
