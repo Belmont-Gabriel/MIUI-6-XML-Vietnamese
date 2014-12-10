@@ -7,7 +7,6 @@
         <item>Nâu</item>
         <item>Lục</item>
         <item>Lam</item>
-        <item>Đen</item>
     </string-array>
     <string-array name="pref_content_plugins_choices">
         <item>Luôn bật</item>
@@ -41,7 +40,7 @@
         <item>Tùy chọn</item>
     </string-array>
     <string-array name="pref_volume_key_choices">
-        <item>Trang lên/xuống</item>
+        <item>Trang trước/sau</item>
         <item>Thẻ trước/sau</item>
     </string-array>
     <string-array name="pref_fling_on_border_choices">
@@ -57,6 +56,13 @@
         <item>Không bao giờ</item>
         <item>Chỉ với Wi-Fi</item>
         <item>Luôn luôn</item>
+    </string-array>
+    <string-array name="pref_text_zoom_choices">
+        <item>Nhỏ</item>
+        <item>Bé</item>
+        <item>Vừa</item>
+        <item>Lớn</item>
+        <item>Đại</item>
     </string-array>
     <string-array name="pre_webapp_text_sizes">
         <item>Đại</item>
