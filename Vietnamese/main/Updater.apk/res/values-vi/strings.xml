@@ -195,7 +195,7 @@ Nhưng bạn có thể tham gia vào thứ Ba tới."</string>
     <string name="fourgrid_notificaiont">Hiển thị trên thanh trạng thái</string>
     <string name="fourgrid_no_notificaiont">Không hiển thị trên thanh trạng thái</string>
     <string name="submit_progress">Đang gửi…</string>
-    <string name="submit_success">Gửi thành công, cảm ơn bạn!</string>
+    <string name="submit_success">Gửi thành công!</string>
     <string name="submit_fail">Gửi thất bại!</string>
     <string name="submit">Gửi</string>
 </resources>
