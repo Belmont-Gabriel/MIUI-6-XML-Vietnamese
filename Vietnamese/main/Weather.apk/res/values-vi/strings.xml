@@ -9,6 +9,8 @@
     <string name="aqi_quality_index_dangerous">AQI %1$s</string>
     <string name="aqi_quality_index_hazardous">AQI %1$s</string>
     <string name="aqi_quality_index_break">AQI %1$s</string>
+    <string name="view_indexes_wind_unit">km/h</string>
+    <string name="view_realtime_clear_substitution">Xóa</string>
     <string name="weather_unit">°</string>
     <string name="weather_unit_middle">~</string>
     <string name="weather_unit_with_c">℃</string>
@@ -25,10 +27,10 @@
     <string name="act_find_city_hint">Nhập vị trí</string>
     <string name="act_set_city_find_side">Đang định vị…</string>
     <string name="act_set_city_find_side_error">Không thể xác định vị trí thiết bị</string>
-    <string name="menu_location">Địa điểm</string>
-    <string name="button_allow">Cho phép</string>
+    <string name="menu_location">Vị trí</string>
+    <string name="button_allow">OK</string>
     <string name="button_abandon">Hủy thay đổi</string>
-    <string name="button_not_allow">Từ chối</string>
+    <string name="button_not_allow">Hủy</string>
     <string name="location_allow_err">Không thể tìm thấy vị trí của bạn</string>
     <string name="view_aqi_title">Chất lượng không khí</string>
     <string name="act_weather_find_city_net_no_good">Không thể kết nối vào mạng.</string>
@@ -45,8 +47,9 @@
     <string name="act_weather_find_city_added">Đã thêm</string>
     <string name="view_aqi_source">Việt hóa bởi ♋๖ۣۜßεℓ™</string>
     <string name="view_aqi_pubtime">Cập nhật lúc %1$s</string>
-    <string name="view_aqi_pubtime_format">d MMM, H:mm a</string>
+    <string name="view_aqi_pubtime_format">d MMM, H:mma</string>
     <string name="activity_weathermain_locationg">Đang định vị…</string>
+    <string name="activity_weathermain_locationg_error">Không thể định vị</string>
     <string name="view_indexes_title_humidity">Độ ẩm (%)</string>
     <string name="view_indexes_title_visibility">Tầm nhìn (km)</string>
     <string name="view_indexes_title_uv">Chỉ số UV</string>
@@ -59,7 +62,6 @@
     <string name="view_indexes_item_tommorrow">Ngày mai</string>
     <string name="view_aqi_main_no_data">N/A</string>
     <string name="activity_main_refresh_time">Cập nhật lần cuối: %1$s</string>
-    <string name="view_indexes_wind_unit">km/h</string>
     <string name="activity_main_update_time">Cập nhật %1$s</string>
     <string name="activity_main_update_time_right_now">Vừa xong</string>
     <string name="activity_main_refresh_timeout">Làm mới</string>
@@ -67,4 +69,13 @@
     <string name="activity_find_city_dialog_set">Cài đặt</string>
     <string name="activity_find_city_dialog_title">Dịch vụ vị trí</string>
     <string name="activity_find_city_dialog_message">Để cho thời tiết sử dụng dịch vụ vị trí</string>
+    <string name="view_sun_titile">Bình minh và Hoàng hôn</string>
+    <string name="data_source_time_fromat">"dd-MM-yyyy'T'HH:mm:ss"</string>
+    <string name="data_source_timezone">GMT %1$s</string>
+    <string name="activity_main_time_format">dd/MM</string>
+    <string name="viewsun_time_format">H:mma</string>
+    <string name="view_aqi_detail_title">Chi tiết AQI</string>
+    <string name="first_start_network_msg">Để lấy thông tin thời tiết, bạn cần phải kết nối với internet.</string>
+    <string name="first_start_network_title">Cảnh báo kết nối</string>
+    <string name="international_detail_menu_title">Chi tiết</string>
 </resources>
