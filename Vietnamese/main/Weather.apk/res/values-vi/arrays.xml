@@ -46,4 +46,15 @@
         <item>Gió: T</item>
         <item>Gió: TB</item>
     </string-array>
+    <string-array name="moon_desc">
+        <item>Trăng non</item>
+        <item>Trăng lưỡi liềm</item>
+        <item>Trăng bán nguyệt</item>
+        <item>Trăng khuyết</item>
+        <item>Trăng tròn</item>
+        <item>Trăng khuyết</item>
+        <item>Trăng bán nguyệt</item>
+        <item>Trăng lưỡi liềm</item>
+        <item>Không trăng</item>
+    </string-array>
 </resources>
