@@ -4,7 +4,7 @@
     <string name="language">vi_VN</string>
     <string name="desc_date_format">EEE, d MMM</string>
     <string name="desc_time">'current time' + #hour12+' '+ifelse(#minute,#minute,'oclock')+', nhấp đúp để vào đồng hồ'</string>
-    <string name="weather_type_0">Quang</string>
+    <string name="weather_type_0">Nắng</string>
     <string name="weather_type_1">Có mây</string>
     <string name="weather_type_2">Âm u</string>
     <string name="weather_type_3">Có sương</string>
