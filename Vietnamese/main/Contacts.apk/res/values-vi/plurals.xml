@@ -9,12 +9,12 @@
         <item quantity="one">1 liên hệ</item>
     </plurals>
     <plurals name="listFoundAllContacts">
-        <item quantity="other">Tìm thấy %d</item>
-        <item quantity="one">Tìm thấy 1</item>
+        <item quantity="other">Tìm thấy %d liên hệ</item>
+        <item quantity="one">Tìm thấy 1 liên hệ</item>
     </plurals>
     <plurals name="searchFoundContacts">
-        <item quantity="other">Tìm thấy %d</item>
-        <item quantity="one">Tìm thấy 1</item>
+        <item quantity="other">Tìm thấy %d liên hệ</item>
+        <item quantity="one">Tìm thấy 1 liên hệ</item>
     </plurals>
     <plurals name="merge_info">
         <item quantity="other">đã gộp từ %0$d nguồn</item>
@@ -41,8 +41,8 @@
         <item quantity="one">1 thư thoại</item>
     </plurals>
     <plurals name="number_of_items_selected">
-        <item quantity="other">%1$d mục được chọn</item>
-        <item quantity="one">%1$d mục được chọn</item>
+        <item quantity="other">Đã chọn %1$d mục</item>
+        <item quantity="one">Đã chọn %1$d mục</item>
     </plurals>
     <plurals name="pick_favorites_list_title">
         <item quantity="other">%1$d mục yêu thích</item>
@@ -73,8 +73,8 @@
         <item quantity="one">%1$d liên hệ gần đây</item>
     </plurals>
     <plurals name="group_add_success_toast">
-        <item quantity="other">Thêm thành công %1$d người</item>
-        <item quantity="one">Thêm thành công %1$d người</item>
+        <item quantity="other">Đã thêm %1$d người</item>
+        <item quantity="one">Đã thêm %1$d người</item>
     </plurals>
     <plurals name="smart_group_member_count">
         <item quantity="other">%d người</item>
@@ -85,8 +85,8 @@
         <item quantity="one">%1$d liên hệ đã nhập</item>
     </plurals>
     <plurals name="numSelectedSimContacts">
-        <item quantity="other">" %1$d mục đã được chọn"</item>
-        <item quantity="zero">%1$d mục đã được chọn</item>
-        <item quantity="one">%1$d mục đã được chọn</item>
+        <item quantity="other">Đã chọn %1$d mục</item>
+        <item quantity="zero">Đã chọn %1$d mục</item>
+        <item quantity="one">Đã chọn %1$d mục</item>
     </plurals>
 </resources>
