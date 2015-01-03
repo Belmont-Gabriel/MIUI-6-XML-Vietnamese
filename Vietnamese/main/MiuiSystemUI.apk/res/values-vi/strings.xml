@@ -1,14 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_label">Giao diện hệ thống</string>
-    <string name="status_bar_recent_inspect_item_title">Thông tin ứng dụng</string>
     <string name="status_bar_no_recent_apps">Không có ứng dụng gần đây</string>
     <string name="battery_low_title">Kết nối bộ sạc</string>
-    <string name="battery_low_subtitle">Pin yếu.</string>
     <string name="battery_low_percent_format">Còn lại %d%%</string>
     <string name="invalid_charger">"Sạc qua USB không được hỗ trợ. 
 Hãy sử dụng bộ sạc."</string>
-    <string name="battery_low_why">Sử dụng Pin</string>
     <string name="status_bar_settings_airplane">Chế độ máy bay</string>
     <string name="status_bar_settings_battery_meter_format">%d%%</string>
     <string name="status_bar_network_name_separator">|</string>
@@ -89,47 +86,17 @@ Nếu bạn kích hoạt lại dữ liệu, bạn có thể bị tính phí bở
     <string name="gps_notification_found_text">Vị trí đã được xác định bởi GPS</string>
     <string name="accessibility_clear_all">Xóa tất cả thông báo</string>
     <string name="status_bar_notification_inspect_item_title">Thông tin ứng dụng</string>
-    <string name="status_bar_date_format">EEEE, d MMMM</string>
-    <string name="status_bar_toggle_ac">Truy cập</string>
-    <string name="status_bar_toggle_bluetooth">Bluetooth</string>
-    <string name="status_bar_toggle_brightness">Độ sáng</string>
-    <string name="status_bar_toggle_auto_brightness">Tự động</string>
-    <string name="status_bar_toggle_data">Dữ liệu</string>
-    <string name="status_bar_toggle_divider">Khác</string>
-    <string name="status_bar_toggle_flight_mode">Chế độ máy bay</string>
-    <string name="status_bar_toggle_gps">GPS</string>
-    <string name="status_bar_toggle_lock">Khóa</string>
-    <string name="status_bar_toggle_mute">Im lặng</string>
-    <string name="status_bar_toggle_network_type">Loại mạng</string>
-    <string name="status_bar_toggle_privacy_mode">Khách</string>
-    <string name="status_bar_toggle_reboot">Khởi động lại</string>
-    <string name="status_bar_toggle_rotate">Xoay</string>
-    <string name="status_bar_toggle_screen_button">Khóa Phím</string>
-    <string name="status_bar_toggle_screenshot">Chụp màn hình</string>
-    <string name="status_bar_toggle_shutdown">Tắt nguồn</string>
-    <string name="status_bar_toggle_sync">Đồng bộ</string>
-    <string name="status_bar_toggle_torch">Đèn Pin</string>
-    <string name="status_bar_toggle_vibrate">Rung</string>
-    <string name="status_bar_toggle_wifi">Wi-Fi</string>
-    <string name="status_bar_toggle_power_mode">Chế độ Pin</string>
-    <string name="status_bar_toggle_drive_mode">Chế độ Ô tô</string>
-    <string name="status_bar_toggle_wifi_ap">Phát Wi-Fi</string>
-    <string name="status_bar_toggle_quiet_mode">Không làm phiền</string>
-    <string name="status_bar_toggle_sync_auto">Đồng bộ</string>
-    <string name="status_bar_toggle_sync_manual">Đồng bộ</string>
-    <string name="status_bar_toggle_syncing">Đang đồng bộ</string>
-    <string name="screen_rotation_freeze_message">Đã tắt tự động xoay.</string>
-    <string name="screen_button_disabled_message">Các nút điều hướng bị khóa. Để bật lại, nhấn \"Home\" và \"Power\" cùng một lúc.</string>
-    <string name="screen_button_enabled_message">Đã bật các nút điều hướng.</string>
-    <string name="status_bar_recent_guide_all">Trượt lên để đóng, trượt xuống để khóa</string>
+    <string name="status_bar_date_format">EEE, d MMM</string>
+    <string name="status_bar_recent_guide_all">"Trượt lên để đóng
+Trượt xuống để khóa"</string>
     <string name="status_bar_recent_guide_top">Trượt lên để đóng</string>
     <string name="status_bar_recent_guide_bottom">Trượt xuống để khóa</string>
     <string name="share">Chia sẻ</string>
     <string name="description_direction_up">Kéo lên trên cho %s.</string>
     <string name="description_direction_left">Kéo sang trái cho %s.</string>
     <string name="description_target_search">Tìm kiếm</string>
-    <string name="status_bar_recent_memory_info1">"%s "</string>
-    <string name="status_bar_recent_memory_info2">" %s"</string>
+    <string name="status_bar_recent_memory_info1">%1$sB | %2$sB</string>
+    <string name="status_bar_recent_memory_info2" />
     <string name="usb_mode_notification">Bộ lưu trữ USB</string>
     <string name="usb_mode_dont_ask">Không hỏi lại</string>
     <string name="usb_mode_mount_storage_title">Mở bộ lưu trữ USB?</string>
@@ -201,6 +168,9 @@ Nếu bạn kích hoạt lại dữ liệu, bạn có thể bị tính phí bở
     <string name="ext_media_mountable_notification_title">Đã kết nối qua USB</string>
     <string name="ext_media_mountable_notification_message">Mở các tập tin bên ngoài bằng cách sử dụng trình Quản lý tập tin</string>
     <string name="ext_media_safe_remove">Tháo an toàn</string>
+    <string name="status_bar_network_flow_today">Hôm nay: %1$s</string>
+    <string name="status_bar_network_flow">"Hôm nay: %1$s    Còn: %2$s    Giới hạn hàng tháng: %3$s"</string>
+    <string name="status_bar_network_flow_exceed">Hôm nay: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Vượt quá: &lt;font color=%2$s>%3$s&lt;/font>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Giới hạn hàng tháng: %4$s</string>
     <string name="drive_mode_tip">Chế độ Ô tô đã kích hoạt - Hãy lái xe cẩn thận</string>
     <string name="no_notification_tips">Không có thông báo</string>
     <string name="notification_otg_mouse_in">Chuột đã kết nối</string>
@@ -232,4 +202,11 @@ Nếu bạn kích hoạt lại dữ liệu, bạn có thể bị tính phí bở
     <string name="headset_info">Tùy chỉnh nút chức năng</string>
     <string name="headset_custom">Tùy chỉnh</string>
     <string name="usb_share_net_info">Sử dụng Internet của máy tính qua USB</string>
+    <string name="hint_for_long_press_app_switch_key">Nhấn và giữ để hiện trình đơn</string>
+    <string name="battery_profiles">Sử dụng các cấu hình Pin</string>
+    <string name="oldman_airplane_mode_text">Máy Bay</string>
+    <string name="oldman_incall_text">Cuộc Gọi</string>
+    <string name="audio_effect_settings">Thiết lập tai nghe loại</string>
+    <string name="audio_effect_info">Tối ưu âm thanh</string>
+    <string name="audio_effect_custom">Cấu hình</string>
 </resources>
