@@ -151,8 +151,8 @@
     <string name="paste">Dán</string>
     <string name="replace">Thay thế</string>
     <string name="alwaysUsePrompt">Nhớ lựa chọn này</string>
-    <string name="call_record_sample_prefix_miui">Call</string>
-    <string name="fm_record_smaple_prefix_miui">FM recording</string>
+    <string name="call_record_sample_prefix_miui">Ghi âm cuộc gọi</string>
+    <string name="fm_record_smaple_prefix_miui">Ghi âm FM</string>
     <string name="unknown_caller">Người gọi không rõ</string>
     <string name="call_record_or">" hoặc "</string>
     <string name="presentation_unknown">Số lạ</string>
