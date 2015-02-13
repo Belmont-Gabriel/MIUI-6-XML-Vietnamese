@@ -13,8 +13,8 @@
         <item quantity="one">bản ghi</item>
     </plurals>
     <plurals name="select_n_item">
-        <item quantity="other">%d mục đã chọn</item>
+        <item quantity="other">Đã chọn %d mục</item>
         <item quantity="zero">Chọn mục</item>
-        <item quantity="one">%d mục đã chọn</item>
+        <item quantity="one">Đã chọn %d mục</item>
     </plurals>
 </resources>
