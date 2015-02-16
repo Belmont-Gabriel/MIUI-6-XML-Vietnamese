@@ -143,7 +143,7 @@
     <string name="battery_info_voltage_label">Điện áp pin:</string>
     <string name="battery_info_voltage_units">mV</string>
     <string name="battery_info_temperature_label">Nhiệt độ pin:</string>
-    <string name="battery_info_temperature_units">° C</string>
+    <string name="battery_info_temperature_units">°C</string>
     <string name="battery_info_uptime">Thời gian từ khi khởi động:</string>
     <string name="battery_info_awake_battery">Thời gian thức trên pin:</string>
     <string name="battery_info_awake_plugged">Thời gian thức khi sạc:</string>
