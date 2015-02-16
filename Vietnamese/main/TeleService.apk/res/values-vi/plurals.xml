@@ -5,11 +5,11 @@
         <item quantity="one">Không có kết nối dữ liệu trong %s phút</item>
     </plurals>
     <plurals name="alert_dialog_exit_ecm">
-        <item quantity="other">Điện thoại sẽ ở chế độ Gọi lại khẩn cấp trong %s phút. Trong khi ở chế độ này không có ứng dụng nào có thể sử dụng kết nối dữ liệu. Bạn có muốn thoát ngay?</item>
-        <item quantity="one">Điện thoại sẽ ở chế độ Gọi lại khẩn cấp trong %s phút. Trong khi ở chế độ này không có ứng dụng nào có thể sử dụng kết nối dữ liệu. Bạn có muốn thoát ngay?</item>
+        <item quantity="other">Điện thoại sẽ ở chế độ Gọi lại Khẩn cấp khoảng %s phút. Khi ở chế độ này không có ứng dụng sử dụng kết nối dữ liệu nào có thể được sử dụng. Bạn có muốn thoát ngay bây giờ không?</item>
+        <item quantity="one">Điện thoại sẽ ở chế độ Gọi lại Khẩn cấp khoảng %s phút. Khi ở chế độ này không có ứng dụng sử dụng kết nối dữ liệu nào có thể được sử dụng. Bạn có muốn thoát ngay bây giờ không?</item>
     </plurals>
     <plurals name="alert_dialog_not_avaialble_in_ecm">
-        <item quantity="other">Tác vụ đã chọn không khả dụng khi ở chế độ Gọi lại khẩn cấp. Điện thoại sẽ ở chế độ này trong %s phút. Bạn có muốn thoát ngay?</item>
-        <item quantity="one">Tác vụ đã chọn không khả dụng khi ở chế độ Gọi lại khẩn cấp. Điện thoại sẽ ở chế độ này trong %s phút. Bạn có muốn thoát ngay?</item>
+        <item quantity="other">Tác vụ đã chọn không khả dụng khi ở chế độ Gọi lại Khẩn cấp. Điện thoại sẽ ở chế độ này trong vòng %s phút. Bạn có muốn thoát ngay bây giờ không?</item>
+        <item quantity="one">Tác vụ đã chọn không khả dụng khi ở chế độ Gọi lại Khẩn cấp. Điện thoại sẽ ở chế độ này trong vòng %s phút. Bạn có muốn thoát ngay bây giờ không?</item>
     </plurals>
 </resources>
