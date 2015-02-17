@@ -32,7 +32,7 @@
     <string name="pref_file_size">Hiển thị kích thước tệp</string>
     <string name="pref_device_size">Hiển thị kích thước thiết bị</string>
     <string name="empty">Không có mục nào</string>
-    <string name="toast_no_application">Không thể mở tập tin</string>
+    <string name="toast_no_application">Không thể mở tệp</string>
     <string name="toast_failed_delete">Không thể xóa một số tài liệu</string>
     <string name="share_via">Chia sẻ qua</string>
 </resources>
