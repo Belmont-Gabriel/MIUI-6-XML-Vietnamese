@@ -1,28 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="Ntracks_search_result">
-        <item quantity="other">Tìm thấy %d bài</item>
-        <item quantity="one">Tìm thấy %d bài</item>
+        <item quantity="other">Tìm thấy %d bài hát</item>
+        <item quantity="one">Tìm thấy %d bài hát</item>
     </plurals>
     <plurals name="Nexpired_remind">
         <item quantity="other">Còn lại %d ngày</item>
         <item quantity="one">Còn lại %d ngày</item>
     </plurals>
     <plurals name="NTrackstoDownload">
-        <item quantity="other">%d bài hát sẽ được tải về</item>
-        <item quantity="one">1 bài hát sẽ được tải về</item>
+        <item quantity="other">%d bài hát sẽ được tải xuống</item>
+        <item quantity="one">1 bài hát sẽ được tải xuống</item>
+    </plurals>
+    <plurals name="Nnew_tracks_count">
+        <item quantity="other">%d mới</item>
     </plurals>
     <plurals name="Ntracks_count">
         <item quantity="other">%d bài hát</item>
         <item quantity="one">%d bài hát</item>
     </plurals>
     <plurals name="Ntracks_add_to_playlist">
-        <item quantity="other">Đã thêm %d bài hát vào danh sách</item>
-        <item quantity="one">Đã thêm 1 bài hát vào danh sách</item>
+        <item quantity="other">%d bài hát đã thêm vào danh sách phát</item>
+        <item quantity="one">Bài hát đã thêm vào danh sách phát</item>
     </plurals>
     <plurals name="Ntracks_remove_from_playlist">
-        <item quantity="other">Đã xóa %d bài hát khỏi danh sách</item>
-        <item quantity="one">Đã xóa 1 bài hát khỏi danh sách</item>
+        <item quantity="other">%d bài hát bị xóa khỏi danh sách phát</item>
+        <item quantity="one">Bài hát bị xóa khỏi danh sách phát</item>
     </plurals>
     <plurals name="artist_list_fragment_item_count_format">
         <item quantity="other">%d bài hát</item>
