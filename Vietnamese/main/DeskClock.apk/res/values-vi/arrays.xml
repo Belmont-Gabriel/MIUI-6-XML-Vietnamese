@@ -1,14 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="alarm_in_furture">
+        <item>Báo thức sau 1 phút</item>
+        <item>Báo thức sau %1$s</item>
+        <item>Báo thức sau %2$s</item>
+        <item>Báo thức sau %1$s %2$s</item>
+        <item>Báo thức sau %3$s</item>
+        <item>Báo thức sau %1$s %3$s</item>
+        <item>Báo thức sau %2$s %3$s</item>
+        <item>Báo thức sau %1$s %2$s %3$s</item>
+    </string-array>
+    <string-array name="days">
+        <item>Hôm qua</item>
+        <item>Hôm nay</item>
+        <item>Ngày mai</item>
+    </string-array>
+    <string-array name="alarm_repeat_type">
+        <item>Một lần</item>
+        <item>Hàng ngày</item>
+        <item>Ngày làm việc</item>
+        <item>Thứ hai đến Thứ sáu</item>
+        <item>Tùy chỉnh</item>
+    </string-array>
+    <string-array name="alarm_repeat_type_no_workdays">
+        <item>Một lần</item>
+        <item>Hàng ngày</item>
+        <item>Thứ hai đến Thứ sáu</item>
+        <item>Tùy chỉnh</item>
+    </string-array>
     <string-array name="alarm_set">
-        <item>Đặt báo thức chưa đến một phút.</item>
-        <item>Đặt báo thức trong %1$s nữa.</item>
-        <item>Đặt báo thức trong %2$s nữa.</item>
-        <item>Đặt báo thức trong %1$s và %2$s nữa.</item>
-        <item>Đặt báo thức trong %3$s nữa.</item>
-        <item>Đặt báo thức trong %1$s và %3$s nữa.</item>
-        <item>Đặt báo thức trong %2$s và %3$s nữa.</item>
-        <item>Đặt báo thức trong %1$s, %2$s và %3$s nữa.</item>
+        <item>Báo thức được đặt dưới 1 phút tính từ bây giờ.</item>
+        <item>Báo thức được đặt trong %1$s tính từ bây giờ.</item>
+        <item>Báo thức được đặt trong %2$s tính từ bây giờ.</item>
+        <item>Báo thức được đặt trong %1$s và %2$s tính từ bây giờ.</item>
+        <item>Báo thức được đặt trong %3$s tính từ bây giờ.</item>
+        <item>Báo thức được đặt trong %1$s và %3$s tính từ bây giờ.</item>
+        <item>Báo thức được đặt trong %2$s và %3$s tính từ bây giờ.</item>
+        <item>Báo thức được đặt trong %1$s, %2$s và %3$s tính từ bây giờ.</item>
     </string-array>
     <string-array name="snooze_duration_entries">
         <item>1 phút</item>
@@ -33,33 +61,5 @@
         <item>Không làm gì</item>
         <item>Báo lại</item>
         <item>Tắt báo thức</item>
-    </string-array>
-    <string-array name="alarm_in_furture">
-        <item>Báo thức sẽ đổ chuông trong vòng chưa đến một phút</item>
-        <item>Báo thức sẽ đổ chuông trong %1$s nữa</item>
-        <item>Báo thức sẽ đổ chuông trong %2$s nữa</item>
-        <item>Báo thức sẽ đổ chuông trong %1$s %2$s nữa</item>
-        <item>Báo thức sẽ đổ chuông trong %3$s nữa</item>
-        <item>Báo thức sẽ đổ chuông trong %1$s %3$s nữa</item>
-        <item>Báo thức sẽ đổ chuông trong %2$s %3$s nữa</item>
-        <item>Báo thức sẽ đổ chuông trong %1$s %2$s %3$s nữa</item>
-    </string-array>
-    <string-array name="days">
-        <item>Hôm qua</item>
-        <item>Hôm nay</item>
-        <item>Ngày mai</item>
-    </string-array>
-    <string-array name="alarm_repeat_type">
-        <item>Một lần</item>
-        <item>Hằng ngày</item>
-        <item>Ngày đi làm</item>
-        <item>Từ thứ 2 đến thứ 6</item>
-        <item>Tùy chỉnh</item>
-    </string-array>
-    <string-array name="alarm_repeat_type_no_workdays">
-        <item>Một lần</item>
-        <item>Hằng ngày</item>
-        <item>Từ thứ 2 đến thứ 6</item>
-        <item>Tùy chỉnh</item>
     </string-array>
 </resources>
