@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="backup_dialog_content_type">
-        <item>Wi-Fi</item>
+        <item>Dữ liệu Wi-Fi</item>
         <item>Tất cả ứng dụng</item>
     </string-array>
     <string-array name="system_package_label">
         <item>Trình duyệt</item>
-        <item>Quản lý quyền</item>
+        <item>Quyền</item>
         <item>Máy ảnh</item>
-        <item>Trợ lý mạng</item>
+        <item>Sử dụng dữ liệu</item>
         <item>Dữ liệu thời tiết</item>
         <item>Thời tiết</item>
     </string-array>
     <string-array name="system_data_label">
         <item>Danh bạ</item>
-        <item>Nhật kí cuộc gọi</item>
+        <item>Nhật ký cuộc gọi</item>
         <item>Tin nhắn</item>
-        <item>Tin nhắn đa phương tiện</item>
+        <item>Tin nhắn MMS</item>
         <item>Cài đặt hệ thống</item>
         <item>Cài đặt Wi-Fi</item>
-        <item>Bố trí màn hình chính</item>
-        <item>Báo thức</item>
+        <item>Bố trí màn hình Chính</item>
+        <item>Cài đặt báo thức</item>
         <item>Ghi chú</item>
         <item>Không làm phiền</item>
         <item>Tài khoản</item>
@@ -32,7 +32,7 @@
     </string-array>
     <string-array name="cloud_data_label">
         <item>Danh bạ</item>
-        <item>Nhật kí cuộc gọi</item>
+        <item>Nhật ký cuộc gọi</item>
         <item>Tin nhắn</item>
         <item>Cài đặt Wi-Fi</item>
         <item>Ghi chú</item>
@@ -43,7 +43,7 @@
         <item>Ghi chú</item>
     </string-array>
     <string-array name="cloud_sim_data">
-        <item>Nhật kí cuộc gọi</item>
+        <item>Nhật ký cuộc gọi</item>
         <item>Tin nhắn</item>
     </string-array>
 </resources>
