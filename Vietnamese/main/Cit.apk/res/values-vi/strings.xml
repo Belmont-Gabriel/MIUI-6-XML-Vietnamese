@@ -2,307 +2,336 @@
 <resources>
     <string name="cit_label">Kiểm tra phần cứng</string>
     <string name="cit_name">Kiểm tra phần cứng</string>
-    <string name="cit_pass">Xong</string>
-    <string name="cit_fail">Thất bại</string>
+    <string name="cit_pass">Qua</string>
+    <string name="cit_fail">Không qua</string>
     <string name="cit_tool">Công cụ bổ sung</string>
-    <string name="cit_hide_menu">Ẩn trình đơn</string>
-    <string name="cit_not_available">Kiểm tra này không có sẵn trên phiên bản này của MIUI</string>
+    <string name="cit_hide_menu">Ẩn menu</string>
+    <string name="cit_not_available">Kiểm tra này không khả dụng trên phiên bản MIUI này</string>
     <string name="cit_version_check_title">Kiểm tra thông tin phiên bản</string>
     <string name="cit_sim_check_title">Thẻ SIM</string>
     <string name="cit_keyboard_test_title">Phím</string>
-    <string name="cit_pointer_location_title">Kiểm tra cảm ứng màn hình</string>
-    <string name="cit_leds_check_title">Kiểm tra đèn LED</string>
-    <string name="cit_display_check_title">Màn hình</string>
-    <string name="cit_vibrator_check_title">Bộ rung</string>
+    <string name="cit_pointer_location_title">Cảm biến tiếp xúc</string>
+    <string name="cit_leds_check_title">Đèn thông báo (LED)</string>
+    <string name="cit_display_check_title">Hiển thị</string>
+    <string name="cit_vibrator_check_title">Rung</string>
     <string name="cit_wifi_address_check_title">Địa chỉ Wi-Fi</string>
-    <string name="cit_wifi_ap_scan_check_title">Kiểm tra các điểm truy cập Wi-Fi</string>
-    <string name="cit_blue_tooth_address_check_title">Kiểm tra địa chỉ Bluetooth</string>
-    <string name="cit_blue_tooth_scan_check_title">Kiểm tra nhận dạng Bluetooth</string>
-    <string name="cit_accelermeter_sensor_check_title">Kiểm tra cảm biến gia tốc</string>
-    <string name="cit_magnetic_sensor_check_title">Kiểm tra cảm biến từ tính</string>
-    <string name="cit_proximity_sensor_check_title">Kiểm tra cảm biến tiệm cận</string>
-    <string name="cit_light_sensor_check_title">Kiểm tra các cảm biến ánh sáng</string>
-    <string name="cit_pressure_sensor_check_title">Kiểm tra cảm biến áp suất</string>
-    <string name="cit_gyroscope_sensor_check_title">Kiểm tra con quay</string>
-    <string name="cit_play_sd_mp3_title">Phát nhạc MP3 lưu trữ trên thẻ SD</string>
-    <string name="cit_audio_loopback_check_one_title">Kiểm tra micrô chính</string>
-    <string name="cit_audio_loopback_check_two_title">Kiểm tra micrô phụ</string>
-    <string name="cit_audio_loopback_dualmic_earpiece_title">Kiểm tra bộ lọc tạp âm</string>
-    <string name="cit_audio_lb_backmic_to_speaker_title">Kiểm tra loa ngoài</string>
-    <string name="cit_audio_lb_mainmic_to_earpiece_title">Kiểm tra loa thoại</string>
+    <string name="cit_wifi_ap_scan_check_title">Quét AP Wi-Fi</string>
+    <string name="cit_blue_tooth_address_check_title">Nhận địa chỉ Bluetooth</string>
+    <string name="cit_blue_tooth_scan_check_title">Quét Bluetooth</string>
+    <string name="cit_accelermeter_sensor_check_title">Gia tốc kế</string>
+    <string name="cit_magnetic_sensor_check_title">Cảm biến từ tính</string>
+    <string name="cit_proximity_sensor_check_title">Cảm biến tiệm cận</string>
+    <string name="cit_light_sensor_check_title">Cảm biến ánh sáng</string>
+    <string name="cit_pressure_sensor_check_title">Cảm biến áp suất</string>
+    <string name="cit_gyroscope_sensor_check_title">Con quay hồi chuyển</string>
+    <string name="cit_play_sd_mp3_title">Phát MP3 được lưu trữ trên thẻ SD</string>
+    <string name="cit_play_sd_mp3_hifi_title">Phát MP3(HIFI) được lưu trên thẻ nhớ SD</string>
+    <string name="cit_audio_loopback_check_one_title">Kiểm tra phản hồi bộ thu micrô chính</string>
+    <string name="cit_audio_loopback_check_two_title">Kiểm tra phản hồi loa micrô phụ</string>
+    <string name="cit_audio_loopback_dualmic_earpiece_title">Kiểm tra giảm ồn xung quanh</string>
+    <string name="cit_audio_lb_backmic_to_speaker_title">Kiểm tra phản hồi loa micrô sau</string>
+    <string name="cit_audio_lb_mainmic_to_earpiece_title">Kiểm tra phản hồi loa micrô chính</string>
+    <string name="cit_x5_audio_lb_top_to_speaker_title">Kiểm tra phản hồi loa micrô trên cùng</string>
     <string name="cit_audio_lb_phonecall_title">Kiểm tra cuộc gọi mô phỏng</string>
-    <string name="cit_audio_lb_topmic_to_speaker_title">Kiểm tra micrô thoại</string>
-    <string name="cit_headset_plug_detect_title">Kiểm tra phát hiện tai nghe (kết nối)</string>
-    <string name="cit_headset_button_check_title">Kiểm tra nút tai nghe</string>
-    <string name="cit_headset_loopback_check_title">Kiểm tra micrô tai nghe</string>
-    <string name="cit_headset_pull_detect_title">Kiểm tra phát hiện tai nghe (ngắt kết nối)</string>
-    <string name="cit_charger_plugin_check_title">Kiểm tra sạc (kết nối)</string>
-    <string name="cit_charger_plugout_check_title">Kiểm tra sạc (ngắt kết nối)</string>
-    <string name="cit_main_camera_check_title">Máy ảnh chính</string>
-    <string name="cit_front_camera_check_title">Máy ảnh phụ</string>
-    <string name="cit_sd_plugin_check_title">Kiểm tra thẻ SD (phát hiện)</string>
-    <string name="cit_sd_plugout_check_title">Kiểm tra thẻ SD (tháo bỏ)</string>
-    <string name="cit_gps_check_title">Kiêm tra GPS</string>
-    <string name="cit_fm_check_title">Kiểm tra Đài FM</string>
-    <string name="cit_power_check_title">Kiêm tra chỉ báo Pin</string>
-    <string name="cit_reset_check_title">Kiểm tra khởi động lại</string>
-    <string name="cit_OTG_plugin_check_title">Kiểm tra OTG (phát hiện)</string>
-    <string name="cit_OTG_plugout_check_title">Kiểm tra OTG (tháo bỏ)</string>
-    <string name="cit_tool_bluetooth_dut">Vào chế độ kiểm tra Bluetooth</string>
-    <string name="cit_tool_bluetooth_le_tx_h">Vào chế độ Bluetooth tiêu hao Pin thấp (2.480GHz)</string>
-    <string name="cit_tool_bluetooth_le_tx_l">Vào chế độ Bluetooth tiêu hao Pin thấp (2.402GHz)</string>
-    <string name="cit_tool_bluetooth_not_on">Chưa bật BlueTooth!!</string>
-    <string name="cit_tool_bluetooth_tx_h">Vào chế độ kiểm tra âm đơn Bluetooth （2.480GHz)</string>
-    <string name="cit_tool_bluetooth_tx_l">Vào chế độ kiểm tra âm đơn Bluetooth （2.402GHz）</string>
+    <string name="cit_audio_lb_topmic_to_speaker_title">Kiểm tra phản hồi loa micrô trên cùng</string>
+    <string name="cit_x5_audio_lb_frontmic_to_speaker_title">Kiểm tra phản hồi micrô trước</string>
+    <string name="cit_headset_plug_detect_title">Phát hiện tai nghe (kết nối)</string>
+    <string name="cit_headset_button_check_title">Phím tai nghe</string>
+    <string name="cit_headset_loopback_check_title">Kiểm tra phản hồi micrô tai nghe</string>
+    <string name="cit_headset_pull_detect_title">Phát hiện tai nghe (ngắt kết nối)</string>
+    <string name="cit_charger_plugin_check_title">Bộ sạc (kết nối)</string>
+    <string name="cit_charger_plugout_check_title">Bộ sạc (ngắt kết nối)</string>
+    <string name="cit_main_camera_check_title">Máy ảnh sau</string>
+    <string name="cit_front_camera_check_title">Máy ảnh trước</string>
+    <string name="cit_sd_plugin_check_title">Thẻ SD (phát hiện)</string>
+    <string name="cit_sd_plugout_check_title">Thẻ SD (xóa)</string>
+    <string name="cit_gps_check_title">GPS</string>
+    <string name="cit_fm_check_title">Đài FM</string>
+    <string name="cit_power_check_title">Chỉ báo pin</string>
+    <string name="cit_reset_check_title">Khởi động lại kiểm tra</string>
+    <string name="cit_OTG_plugin_check_title">OTG (phát hiện)</string>
+    <string name="cit_OTG_plugout_check_title">OTG (xóa)</string>
     <string name="cit_tool_modem">Công cụ kiểm tra MODEM</string>
-    <string name="cit_tool_modem_offline_log">Mở/Đóng bản ghi ngoại tuyến</string>
-    <string name="cit_tool_modem_exit_ftm">Thoát chết độ FTM</string>
-    <string name="cit_tool_modem_bugreport">Buộc kết xuất lõi MODEM</string>
+    <string name="cit_tool_modem_offline_log">Mở/Đóng Nhật ký Ngoại tuyến</string>
+    <string name="cit_tool_modem_exit_ftm">Thoát chế độ FTM</string>
+    <string name="cit_tool_modem_bugreport">Bắt buộc kết suất bộ nhớ MODEM</string>
     <string name="cit_tool_nfc">Công cụ kiểm tra NFC</string>
-    <string name="cit_tool_nfc_st">NFC ST:</string>
-    <string name="cit_tool_nfc_st_confreq">Tần suất:</string>
+    <string name="cit_tool_nfc_st">Nfc ST: </string>
+    <string name="cit_tool_nfc_st_confreq">tần số:</string>
     <string name="cit_tool_nfc_st_run">Chạy</string>
     <string name="cit_tool_nfc_st_stop">Dừng</string>
-    <string name="cit_tool_wifi_band_24">Tần số: 2.4G</string>
-    <string name="cit_tool_wifi_band_5">Tần số: 5G</string>
-    <string name="cit_tool_wifi_band_change">Tiếp theo</string>
-    <string name="cit_tool_wifi_rxbg_test">Rx:B/G</string>
-    <string name="cit_tool_wifi_rxbg_test_channel">Kênh:</string>
-    <string name="cit_tool_wifi_rxbg_test_datarate">Tốc độ:</string>
-    <string name="cit_tool_wifi_rxn_test">Rx:N</string>
-    <string name="cit_tool_wifi_rxn_test_channel">Kênh:</string>
-    <string name="cit_tool_wifi_rxn_test_mcs">MCS:</string>
-    <string name="cit_tool_wifi_tx_n_bandwidth">Băng thông:</string>
-    <string name="cit_tool_wifi_tx_st">Tx: ST</string>
-    <string name="cit_tool_wifi_tx_st_chan">Kênh:</string>
-    <string name="cit_touch_calib_title">Hiệu chỉnh cảm biến màn hình</string>
-    <string name="cit_touch_calib_summary">Các bước tiếp theo sẽ hoàn thành việc hiệu chỉnh cảm biến của màn hình. Nhấn OK và không chạm vào màn hình cho đến khi hiệu chỉnh xong.</string>
-    <string name="cit_touch_calib_pass">Hiệu chỉnh cảm biến màn hình thành công. Bắt đầu sử dụng bình thường</string>
-    <string name="cit_touch_calib_fail">Hiệu chỉnh cảm biến màn hình thấp bại. Vui lòng thử lại</string>
-    <string name="cit_touch_calib_instruction">Bắt đầu hiệu chỉnh</string>
-    <string name="cit_version_check_summary">Dưới đây là thông tin phiên bản hệ điều hành. Xác nhận các thông tin đánh dấu màu xanh là đúng.</string>
-    <string name="cit_proximity_sensor_check_summary">"Che cảm biến tiệm cận (nằm ở phía trên của điện thoại) bằng tay của bạn, sau đó di chuyển tay của bạn. Giá trị sẽ tăng dần từ 0.0 khi bạn di chuyển tay của bạn xa khỏi thiết bị.
-Khi đo đạc, chắc chắn rằng không có gì giữa cảm biến và tay của bạn (ví dụ bao gồm màn hình bảo vệ hoặc găng tay)."</string>
-    <string name="cit_magnetic_sensor_check_summary">Giá trị tọa độ X, Y, Z, sẽ xuất hiện dưới đây</string>
-    <string name="cit_light_sensor_check_summary">Giá trị đo ánh sáng sẽ xuất hiện dưới đây</string>
-    <string name="cit_gyroscope_sensor_check_summary">Giá trị tọa độ X, Y, Z, sẽ xuất hiện dưới đây</string>
-    <string name="cit_pressure_sensor_check_summary">Giá trị áp suất sẽ xuất hiện dưới đây</string>
-    <string name="cit_leds_check_summary">Đèn nền, đèn thông báo, và đèn flash (phía sau), sẽ phản ứng khi nút tương ứng được nhấn.</string>
-    <string name="cit_vibrator_check_summary">Kiểm tra sẽ kiểm tra độ rung thông thường (dài và ngắn)</string>
-    <string name="cit_wifi_address_check_summary">Dưới đây là địa chỉ của mạng Wi-Fi mà điện thoại đang kết nối đến. Xác nhận các thông tin đánh dấu màu xanh là đúng.</string>
-    <string name="cit_wifi_ap_scan_check_summary">Dưới đây là thông tin các điểm truy cập Wi-Fi của các thiết bị trong khu vực đã được phát hiện. Xác nhận các thông tin đánh dấu màu xanh là đúng.</string>
-    <string name="cit_blue_tooth_address_check_summary">Địa chỉ Bluetooth của thiết bị này sẽ được hiển thị dưới đây.</string>
-    <string name="cit_blue_tooth_scan_check_summary">Dưới đây là thông tin của các thiết bị Bluetooth lân cận đã được phát hiện.</string>
-    <string name="cit_accelermeter_sensor_check_summary">"Di chuyển nhanh thiết bị theo một hướng. X, Y, Z phối hợp các giá trị được hiển thị dưới đây. (khi điện thoại đang chuyển động: X đại diện cho trái/phải, Y đại diện trước/sau, Z đại diện cho lên/xuống).
-Trước khi bạn hiệu chỉnh thiết bị, đặt nó trên một bề mặt phẳng."</string>
-    <string name="cit_headset_plug_detect_summary">Khi tai nghe được kết nối, văn bản \"Đã phát hiện tai nghe\" sẽ được hiển thị dưới đây.</string>
-    <string name="cit_headset_button_check_summary">Khi tai nghe được kết nối, bấm các nút trên tai nghe (thường nằm trên dây). Văn bản tương ứng trên màn hình cần phải chuyển sang màu xanh.</string>
-    <string name="cit_headset_pull_detect_summary">Khi tai nghe ngắt kết nối, văn bản \"Tai nghe đã bị ngắt kết nối\" sẽ được hiển thị dưới đây.</string>
-    <string name="cit_sim_check_summary">Xác nhận đúng tình trạng và thông tin của thẻ SIM được hiển thị dưới đây</string>
-    <string name="cit_reset_check_summary">Kiểm tra này sẽ khởi động lại thiết bị. Tất cả các dữ liệu thử nghiệm trước đó sẽ bị mất.</string>
-    <string name="cit_audio_loopback_check_summary_first">"Kiểm tra micrô chính:
+    <string name="cit_tool_cal_camera">Công cụ Hiệu chỉnh Máy ảnh</string>
+    <string name="cit_touch_calib_title">Hiệu chỉnh cảm ứng</string>
+    <string name="cit_touch_calib_summary">Bước tiếp theo sẽ thực hiện hiệu chỉnh cảm ứng, nhấn phím xác nhận và không chạm vào màn hình, hãy chờ cho tới khi thấy gợi ý hiệu chỉnh thành công</string>
+    <string name="cit_touch_calib_pass">Hiệu chỉnh cảm ứng đã xong, Hãy sử dụng bình thường</string>
+    <string name="cit_touch_calib_fail">Hiệu chỉnh cảm ứng không thành công, Vui lòng thử lại</string>
+    <string name="cit_touch_calib_instruction">bắt đầu hiệu chỉnh</string>
+    <string name="cit_version_check_summary">Bên dưới là thông tin về phiên bản hệ điều hành. Hãy xác nhận rằng thông tin được đánh dấu màu xanh lá cây là đúng.</string>
+    <string name="cit_proximity_sensor_check_summary">"Dùng tay che bộ cảm biến tiệm cận (nằm ở trên cùng của điện thoại gần bộ thu), sau đó di chuyển tay ra xa. Giá trị sẽ tăng từ 0,0 khi bạn di chuyển tay ra xa thiết bị hơn.
+Trong khi hiệu chỉnh, đảm bảo rằng không có gì nằm giữa bộ cảm biến và tay của bạn (ví dụ: bảo vệ màn hình hoặc găng tay)."</string>
+    <string name="cit_magnetic_sensor_check_summary">Các giá trị tọa độ X，Y，Z sẽ xuất hiện bên dưới</string>
+    <string name="cit_light_sensor_check_summary">Giá trị DAC sẽ xuất hiện bên dưới</string>
+    <string name="cit_gyroscope_sensor_check_summary">Các giá trị tọa độ X，Y，Z sẽ xuất hiện bên dưới</string>
+    <string name="cit_pressure_sensor_check_summary">Giá trị áp suất sẽ xuất hiện bên dưới</string>
+    <string name="cit_leds_check_summary">Đèn nền, đèn thông báo và đèn flash (phía sau) sẽ phản hồi khi bạn bấm phím tương ứng.</string>
+    <string name="cit_vibrator_check_summary">Xem chức năng rung (dài và ngắn) có hoạt động bình thường không</string>
+    <string name="cit_wifi_address_check_summary">Bên dưới là địa chỉ mạng Wi-Fi mà điện thoại hiện đang được kết nối. Xác nhận rằng thông tin được đánh dấu bằng màu xanh lá cây là đúng.</string>
+    <string name="cit_wifi_ap_scan_check_summary">Bên dưới là thông tin điểm truy cập Wi-Fi của các thiết bị trong vùng được phát hiện. Xác nhận rằng thông tin được đánh dấu bằng màu xanh lá cây là đúng.</string>
+    <string name="cit_blue_tooth_address_check_summary">Địa chỉ Bluetooth của thiết bị này sẽ được hiển thị bên dưới.</string>
+    <string name="cit_blue_tooth_scan_check_summary">Bên dưới là thông tin của các thiết bị Bluetooth đã được phát hiện gần đó.</string>
+    <string name="cit_accelermeter_sensor_check_summary">"Di chuyển nhanh thiết bị theo một hướng. Giá trị tọa độ X，Y，Z được hiển thị bên dưới. (khi điện thoại đang di chuyển: X thể hiện bên trái/bên phải, Y thể hiện phía trước/phía sau, Z thể hiện lên và xuống).
+Trước khi bạn hiệu chỉnh, hãy đặt thiết bị trên bề mặt phẳng."</string>
+    <string name="cit_headset_plug_detect_summary">Khi tai nghe được kết nối, dòng chữ \"Đã phát hiện tai nghe\" sẽ hiển thị bên dưới.</string>
+    <string name="cit_headset_button_check_summary">Khi tai nghe được kết nối, nhấn các phím trên tai nghe từ xa (thường nằm trên dây). Dòng chữ tương ứng trên màn hình sẽ chuyển thành màu xanh lá cây.</string>
+    <string name="cit_headset_pull_detect_summary">Khi tai nghe bị ngắt kết nối, dòng chữ \"Tai nghe đã bị ngắt kết nối\" sẽ hiển thị bên dưới</string>
+    <string name="cit_sim_check_summary">Xác nhận rằng trạng thái và thông tin thẻ SIM được hiển thị bên dưới là đúng</string>
+    <string name="cit_reset_check_summary">Kiểm tra này sẽ khởi động lại thiết bị. Tất cả dữ liệu kiểm tra trước sẽ bị mất.</string>
+    <string name="cit_audio_loopback_check_summary_first">"Kiểm tra phản hồi bộ thu micrô chính
 
-Cầm điện thoại như bạn đang thực hiện cuộc gọi, nói vào micrô và sẽ nghe thấy giọng nói của bạn."</string>
-    <string name="cit_audio_loopback_check_summary_second">"Kiểm tra micrô phụ:
+Cầm điện thoại giống như bạn đang thực hiện cuộc gọi, nói vào micrô và bạn sẽ nghe thấy giọng nói của mình trong bộ thu."</string>
+    <string name="cit_audio_loopback_check_summary_second">"Kiểm tra phản hồi loa micrô phụ.
 
-Xoay điện thoại để phần phía trên của điện thoại (giắc cắm tai nghe) hướng về phía của bạn. Nói vào micrô, bạn sẽ nghe thấy giọng nói của bạn phát qua loa ngoài."</string>
-    <string name="cit_audio_loopback_summary_dualmic_earpiece">"Kiểm tra bộ lọc tạp âm:
+Xoay điện thoại để đầu vào tai nghe quay xuống dưới. Nói vào bộ thu. Bạn sẽ nghe thấy giọng nói của mình được phát qua loa ngoài."</string>
+    <string name="cit_audio_loopback_summary_dualmic_earpiece">"Kiểm tra giảm ồn xung quanh
 
-Cầm điện thoại như bạn đang trả lời cuộc gọi, nói vào micrô. Bạn sẽ nghe thấy giọng nói của bạn với bộ lọc tiếng ồn trong nền được phát qua loa thoại."</string>
-    <string name="cit_audio_lb_summary_mainmic_to_earpiece">"Kiểm tra micrô chính.
+Cầm điện thoại giống như bạn đang trả lời cuộc gọi, nói vào micrô. Bạn sẽ nghe thấy giọng nói của mình đã được giảm tiếng ồn trong nền được phát qua bộ thu."</string>
+    <string name="cit_audio_lb_summary_mainmic_to_earpiece">"Kiểm tra phản hồi micrô chính với bộ thu.
 
-Cầm điện thoại như bạn đang thực hiện cuộc gọi, nói vào micrô chính, bạn sẽ nghe thấy giọng nói từ loa thoại."</string>
-    <string name="cit_headset_loopback_check_summary">Khi đeo tai nghe, kết nối chúng với điện thoại. Nói vào micrô tai nghe (thường nằm trên dây). Bạn sẽ nghe thấy giọng nói của bạn trong loa của tai nghe."</string>
-    <string name="cit_audio_lb_summary_backmic_to_speaker">"Kiểm tra micrô phụ:
+Cầm điện thoại giống như bạn đang thực hiện cuộc gọi, nói vào micrô chính, bạn sẽ nghe thấy giọng nói của mình từ bộ thu"</string>
+    <string name="cit_headset_loopback_check_summary">Trong khi đeo tai nghe, kết nối tai nghe với thiết bị. Hãy nói vào micrô của tai nghe (thường nằm trên dây). Bạn sẽ nghe thấy giọng nói của mình trong loa của tai nghe.</string>
+    <string name="cit_audio_lb_summary_backmic_to_speaker">"Kiểm tra phản hồi micrô sau với loa. 
 
-Xoay điện thoại, nói vào micrô, bạn sẽ nghe thấy giọng nói từ loa thoại"</string>
-    <string name="cit_audio_lb_summary_phonecall">"Kiểm tra cuộc gọi mô phỏng:
+Xoay điện thoại, nói vào micrô phía sau, bạn sẽ nghe thấy giọng nói trong loa"</string>
+    <string name="cit_x5_audio_lb_summary_topmic_to_speaker">"Kiểm tra phản hồi của micrô trên cùng với loa.
 
-Cầm điện thoại như bạn đang thực hiện cuộc gọi, nói vào micrô, bạn sẽ nghe thấy giọng nói từ loa thoại. (nên làm kiểm tra này trong môi trường yên tĩnh)"</string>
-    <string name="cit_audio_lb_summary_topmic_to_speaker">"Kiểm tra micrô phụ:
+ Xoay điện thoại, nói vào micrô trên cùng, bạn sẽ nghe thấy giọng nói trong loa"</string>
+    <string name="cit_audio_lb_summary_phonecall">"Kiểm tra cuộc gọi mô phỏng.
 
-Xoay điện thoại, nói vào micrô, bạn sẽ nghe thấy giọng nói từ loa ngoài"</string>
-    <string name="cit_sd_plugin_check_summary">Văn bản \"Thẻ SD được phát hiện, tháo thẻ SD hiện ngay\" sẽ được hiển thị dưới đây.</string>
-    <string name="cit_sd_plugout_check_summary">Khi bạn tháo thẻ SD, văn bản \"Thẻ SD đã được tháo, lắp thẻ SD ngay\" sẽ được hiển thị dưới đây.</string>
-    <string name="cit_keyboard_test_summary">Khi bạn nhấn các nút, văn bản tương ứng trên màn hình cần phải chuyển sang màu xanh (lưu ý: nút Home và Power không được bao gồm trong kiểm tra).</string>
-    <string name="cit_charger_plugin_check_summary">Khi sạc USB được kết nối, văn bản \"Sạc qua cổng USB/AC\" sẽ được hiển thị dưới đây.</string>
-    <string name="cit_charger_plugout_check_summary">Khi sạc USB bị ngắt kết nối, văn bản \"Sạc qua cổng USB/AC bị ngắt kết nối\" sẽ được hiển thị dưới đây.</string>
-    <string name="cit_play_sd_mp3_summary">"Xác nhận là có một tập tin có tên \"music.mp3\" được lưu trên thẻ SD. Tập tin \"music.mp3\" sẽ được phát qua loa ngoài của thiết bị khi bạn mở kiểm tra này."</string>
-    <string name="cit_display_check_summary">Xác nhận là có một tập tin bmp được lưu trên thẻ SD. Xác nhận các màu sắc được hiển thị một cách nhất quán trên toàn bộ màn hình. Hãy chắc chắn rằng không có điểm sáng bất thường và những đốm đen.</string>
-    <string name="cit_main_camera_check_summary">"Hướng dẫn kiểm tra máy ảnh chính:
+Cầm điện thoại giống như bạn đang thực hiện cuộc gọi, nói vào micrô chính, bạn sẽ nghe thấy giọng nói trong bộ thu. Hãy thực hiện kiểm tra trong môi trường yên tĩnh"</string>
+    <string name="cit_audio_lb_summary_topmic_to_speaker">"Kiểm tra phản hồi của micrô trên cùng với loa.
 
-1. Bấm vào nút Máy ảnh dưới đây để vào giao diện máy ảnh chính
-2. Hãy chắc chắn rằng đèn flash được bật
-3. Bấm vào nút chụp
-4. Nhấp vào biểu tượng Kiểm tra. Hệ thống sẽ lưu ảnh tự động.
-5. Ảnh bạn chụp sẽ được hiển thị dưới đây. Bấm Xóa để hoàn tất kiểm tra."</string>
-    <string name="cit_front_camera_check_summary">"Hướng dẫn kiểm tra máy ảnh phụ:
+ Xoay điện thoại, nói vào micrô trên cùng, bạn sẽ nghe thấy giọng nói trong loa"</string>
+    <string name="cit_x5_audio_lb_summary_frontmic_to_speaker">"Kiểm tra phản hồi của micrô trước.
 
-1. Bấm vào nút Máy ảnh dưới đây để vào giao diện máy ảnh phụ
-2. Bấm vào nút chụp
-3. Nhấp vào biểu tượng Kiểm tra. Hệ thống sẽ lưu ảnh tự động.
-4. Ảnh bạn chụp sẽ được hiển thị dưới đây. Bấm Xóa để hoàn tất kiểm tra."</string>
+ Nói vào micrô ở vị trí loa trong, bạn sẽ nghe thấy giọng nói loa phát ra ở loa ngoài"</string>
+    <string name="cit_sd_plugin_check_summary">Dòng chữ \"Đã phát hiện thẻ SD, rút thẻ SD bây giờ\" sẽ hiển thị bên dưới.</string>
+    <string name="cit_sd_plugout_check_summary">Khi bạn rút thẻ SD, dòng chữ \"Thẻ SD đã được rút ra, gắn thẻ SD bây giờ\" sẽ hiển thị bên dưới.</string>
+    <string name="cit_keyboard_test_summary">Khi bạn bấm phím, dòng chữ tương ứng trên màn hình sẽ chuyển thành màu xanh lá cây (lưu ý: phím Trang chính và phím Nguồn không nằm trong phạm vi kiểm tra).</string>
+    <string name="cit_charger_plugin_check_summary">Khi bạn kết nối bộ sạc USB, dòng chữ \"Đang sạc thông qua USB/AC\" sẽ hiển thị bên dưới.</string>
+    <string name="cit_charger_plugout_check_summary">Khi bạn ngắt kết nối bộ sạc USB, dòng chữ \"Đã ngắt kết nối bộ sạc USB/AC\" sẽ hiển thị bên dưới.</string>
+    <string name="cit_play_sd_mp3_summary">Xác nhận rằng có tập tin tên là \"music.mp3\" được lưu trữ trên thẻ SD. Tập tin \"music.mp3\" sẽ được phát thông qua loa ngoài của thiết bị khi bạn mở kiểm tra này.</string>
+    <string name="cit_play_sd_mp3_hifi_summary">Đảm bảo rằng có tập tin tên là \"music.mp3\" được lưu trữ trên thẻ SD. Tập tin \"music.mp3\" sẽ được phát thông qua chức năng Hi-Fi của thiết bị khi bạn mở kiểm tra này.</string>
+    <string name="cit_display_check_summary">Xác nhận rằng tập tin bmp yêu cầu được lưu trữ trên thẻ SD. Xác nhận rằng màu sắc được hiển thị một cách nhất quán trên toàn bộ màn hình. Chắc chắn rằng không có điểm sáng và điểm tối bất thường nào.</string>
+    <string name="cit_main_camera_check_summary">"Hướng dẫn kiểm tra:
+
+1.Chạm vào phím Máy ảnh bên dưới để vào giao diện Máy ảnh sau
+2.Đảm bảo rằng bạn đã bật đèn flash
+3.Chạm vào phím Chụp
+4.Chạm vào biểu tượng Chọn. Hệ thống sẽ tự động lưu ảnh.
+5.Ảnh bạn đã chụp sẽ hiển thị bên dưới. Chạm vào \"Xóa\" để hoàn tất kiểm tra."</string>
+    <string name="cit_front_camera_check_summary">"Hướng dẫn kiểm tra:
+
+1.Chạm vào phím Máy ảnh bên dưới để vào giao diện Máy ảnh trước
+2.Chạm vào phím Chụp
+3.Chạm vào biểu tượng Chọn. Hệ thống sẽ tự động lưu ảnh.
+4.Ảnh bạn đã chụp sẽ hiển thị bên dưới. Chạm vào \"Xóa\" để hoàn tất kiểm tra."</string>
+    <string name="cit_camera_calibration_summary">"Hướng dẫn kiểm tra: 
+
+1. Chạm phím hiệu chuẩn để vào giao diện Máy ảnh
+2. Bấm phím Quay lại để thoát giao diện máy ảnh
+3. Xuất hiện thông báo hiệu chuẩn ois đã được thực hiện"</string>
     <string name="cit_camera_sdcard_error">Không thể chụp ảnh. Thẻ SD đã đầy.</string>
-    <string name="cit_gps_check_summary">Thông tin GPS tương ứng sẽ được hiển thị dưới đây.</string>
+    <string name="cit_gps_check_summary">Thông tin GPS tương ứng sẽ hiển thị bên dưới.</string>
     <string name="cit_fm_check_summary">Điều này sẽ kiểm tra chức năng FM của thiết bị.</string>
-    <string name="cit_power_check_summary">Mức Pin sẽ được thể hiện như một tỷ lệ phần trăm dưới đây.</string>
-    <string name="cit_OTG_plugin_check_summary">Khi thiết bị OTG được kết nối, văn bản \"Thiết bị OTG USB được phát hiện\" sẽ được hiển thị dưới đây.</string>
-    <string name="cit_OTG_plugout_check_summary">Khi thiết bị OTG được gỡ bỏ, văn bản \"Thiết bị OTG USB được phát hiện\" sẽ được hiển thị dưới đây.</string>
+    <string name="cit_power_check_summary">Lượng pin đã sạc sẽ được biểu thị dưới dạng tỷ lệ phần trăm ở bên dưới.</string>
+    <string name="cit_audio_cali_title">Kiểm tra Hiệu chỉnh Loa PA</string>
+    <string name="cit_audio_cali_summary">Hiệu chỉnh loa PA</string>
+    <string name="cit_audio_cali_playing">Bấm nút để làm hiệu chỉnh</string>
+    <string name="cit_audio_cali_file_existed">Tập tin nhạc không tồn tại, không thể hiệu chỉnh!</string>
+    <string name="cit_audio_cali_done">Hiệu chỉnh hoàn tất!</string>
+    <string name="cit_audio_cali_valueR">Ref_diff:</string>
+    <string name="cit_audio_cali_valueT">Temp_acc:</string>
+    <string name="cit_audio_cali_valueF0">F0:</string>
+    <string name="cit_audio_cali_valueC">Lượt truy cập:</string>
+    <string name="cit_audio_cali_failed">Hiệu chỉnh thất bại, vui lòng thử lại!</string>
+    <string name="cit_aud_spkcal">Hiệu chỉnh</string>
+    <string name="cit_audio_calibrating">Đang hiệu chỉnh…</string>
+    <string name="cit_OTG_plugin_check_summary">Khi bạn kết nối thiết bị OTG, dòng chữ \"Đã phát hiện thiết bị USB OTG\" sẽ hiển thị bên dưới.</string>
+    <string name="cit_OTG_plugout_check_summary">Khi bạn rút thiết bị OTG ra, dòng chữ \"Đã rút thiết bị USB OTG\" sẽ hiển thị bên dưới.</string>
     <string name="cit_vibrator_short">Rung ngắn</string>
     <string name="cit_vibrator_long">Rung dài</string>
     <string name="cit_vibrator_show_advanced">Hiển thị tùy chọn nâng cao</string>
     <string name="cit_vibrator_don_don_chat">Don-Don-Chat</string>
-    <string name="cit_vibrator_haptic">Phản hồi chạm</string>
-    <string name="cit_vibrator_load_down_pattern">Hình lên</string>
-    <string name="cit_vibrator_load_up_pattern">Hình xuống</string>
+    <string name="cit_vibrator_haptic">Chạm</string>
+    <string name="cit_vibrator_load_down_pattern">Hình mẫu xuống</string>
+    <string name="cit_vibrator_load_up_pattern">Hình mẫu lên</string>
     <string name="cit_vibrator_play_touch_pattern">Rung</string>
     <string name="cit_wifi_state_refresh">Làm mới</string>
-    <string name="cit_wifi_address_error">Không thể lấy địa chỉ Wi-Fi. Hãy chắc chắn Wi-Fi được bật.</string>
+    <string name="cit_wifi_address_error">Không thể nhận được địa chỉ Wi-Fi. Đảm bảo rằng bạn đã bật Wi-Fi.</string>
     <string name="cit_wifi_ap_scanning">Đang quét…</string>
     <string name="cit_wifi_ap_scan_retry">Đang quét lại…</string>
-    <string name="cit_wifi_fail_to_scan">Không thể quét các mạng</string>
+    <string name="cit_wifi_fail_to_scan">Không thể quét tìm mạng</string>
     <string name="cit_bluetooth_scan_retry">Quét lại</string>
-    <string name="cit_bluetooth_scanning">Quét các thiết bị Bluetooth lân cận (mất khoảng 4 giây)…</string>
-    <string name="cit_bluetooth_not_support">Thiết bị này không hỗ trợ Bluetooth.</string>
-    <string name="cit_bluetooth_scanning_opening_bluetooth">Đang bật Bluetooth…</string>
-    <string name="cit_bluetooth_scanning_bluetooth_error">Xảy ra lỗi trong khi quét các thiết bị Bluetooth.</string>
-    <string name="cit_bluetooth_address_open_error">Không thể lấy địa chỉ Bluetooth. Xảy ra lỗi trong khi bật Bluetooth.</string>
-    <string name="cit_bluetooth_scanning_bluetooth_done">Hoàn tất. Không tìm thấy bất kỳ thiết bị Bluetooth nào.</string>
-    <string name="cit_headset_plug_hint">Kết nối tai nghe ngay</string>
-    <string name="cit_headset_pull_hint">Ngất kết nối tai nghe ngay</string>
+    <string name="cit_bluetooth_scanning">Đang quét tìm thiết bị Bluetooth gần đó (quá trình này sẽ mất khoảng 4 giây)…</string>
+    <string name="cit_bluetooth_not_support">Thiết bị này không hỗ trợ Bluetooth</string>
+    <string name="cit_bluetooth_scanning_opening_bluetooth">Đang mở thiết bị Bluetooth…</string>
+    <string name="cit_bluetooth_scanning_bluetooth_error">Đã xảy ra lỗi khi quét tìm thiết bị Bluetooth.</string>
+    <string name="cit_bluetooth_address_open_error">Không thể truy xuất địa chỉ Bluetooth. Đã xảy ra lỗi khi mở thiết bị Bluetooth.</string>
+    <string name="cit_bluetooth_scanning_bluetooth_done">Hoàn tất. Không tìm thấy bất kỳ thiết bị Bluetooth nào gần đó.</string>
+    <string name="cit_headset_plug_hint">Kết nối tai nghe bây giờ</string>
+    <string name="cit_headset_pull_hint">Ngắt kết nối tai nghe bây giờ</string>
     <string name="cit_headset_plug_finish">Đã phát hiện tai nghe</string>
     <string name="cit_headset_pull_finish">Tai nghe đã bị ngắt kết nối</string>
     <string name="cit_headset_button_unknown">Không xác định</string>
-    <string name="cit_headset_button_click">Nhấn các nút trên tai nghe</string>
-    <string name="cit_headset_button_pass">Thành công</string>
+    <string name="cit_headset_button_click">Bấm các phím trên tai nghe</string>
+    <string name="cit_headset_button_pass">Qua</string>
     <string name="cit_headset_button_play_pause">Phát/Tạm dừng</string>
     <string name="cit_headset_button_stop">Dừng</string>
-    <string name="cit_headset_button_next">Sau</string>
+    <string name="cit_headset_button_next">Tiếp theo</string>
     <string name="cit_headset_button_previous">Trước</string>
     <string name="cit_headset_button_rewind">Tua lại</string>
-    <string name="cit_headset_button_fast_forward">Chạy nhanh</string>
-    <string name="cit_sim_state_absent">Không phát hiện thẻ SIM.</string>
+    <string name="cit_headset_button_fast_forward">Tua đi</string>
+    <string name="cit_sim_state_absent">Không phát hiện thẻ SIM</string>
     <string name="cit_sim_state_unkown">Không xác định</string>
-    <string name="cit_sim_state_network_locked">Mã PIN bị khóa</string>
-    <string name="cit_sim_state_pin_required">Yêu cầu mã PIN.</string>
-    <string name="cit_sim_state_puk_required">Yêu cầu mã PUK.</string>
+    <string name="cit_sim_state_network_locked">Đã khóa mã PIN mạng</string>
+    <string name="cit_sim_state_pin_required">Yêu cầu mã PIN</string>
+    <string name="cit_sim_state_puk_required">Yêu cầu PUK</string>
     <string name="cit_sim_state_ready">Thẻ SIM đã sẵn sàng</string>
     <string name="cit_sim_serial_number">Số thẻ SIM:</string>
-    <string name="cit_sim_sim_operator">Số nhà mạng thẻ SIM:</string>
-    <string name="cit_sim_sim_operator_name">Tên nhà mạng:</string>
+    <string name="cit_sim_sim_operator">Số toán tử thẻ SIM:</string>
+    <string name="cit_sim_sim_operator_name">Tên nhà cung cấp:</string>
     <string name="cit_sim_sim_country">Quốc gia:</string>
     <string name="cit_sim_network_operator">Nhà cung cấp dịch vụ mạng:</string>
     <string name="cit_sim_network_operator_name">Tên nhà cung cấp dịch vụ mạng:</string>
     <string name="cit_sim_network_type">Loại mạng:</string>
     <string name="cit_sim_error_unknown">Không xác định</string>
     <string name="cit_reset_test">Kiểm tra</string>
-    <string name="cit_audio_loopback_next">Bài sau</string>
-    <string name="cit_audio_loopback_previous">Bài trước</string>
-    <string name="cit_sd_plugged_in">Đã phát hiện thẻ SD, tháo thẻ SD ngay</string>
-    <string name="cit_sd_plugged_out">Thẻ SD đã được tháo, lắp thẻ SD ngay</string>
-    <string name="cit_sd_mount">Gắn kết thẻ SD</string>
-    <string name="cit_sd_unmount">Tháo gắn kết thẻ SD</string>
-    <string name="cit_sd_mount_sucess">Thẻ SD đã được gắn kết</string>
-    <string name="cit_sd_unmount_sucess">Thẻ SD đã tháo gắn kết</string>
-    <string name="cit_sd_fail">Xảy ra lỗi.</string>
+    <string name="cit_audio_loopback_next">Tiếp theo</string>
+    <string name="cit_audio_loopback_previous">Trước</string>
+    <string name="cit_sd_plugged_in">Đã phát hiện thẻ SD, tháo thẻ SD bây giờ</string>
+    <string name="cit_sd_plugged_out">Thẻ SD đã bị tháo, gắn thẻ SD bây giờ</string>
+    <string name="cit_sd_mount">Lắp thẻ SD</string>
+    <string name="cit_sd_unmount">Tháo thẻ SD</string>
+    <string name="cit_sd_mount_sucess">Đã lắp thẻ SD</string>
+    <string name="cit_sd_unmount_sucess">Đã tháo thẻ SD</string>
+    <string name="cit_sd_fail">Đã xảy ra lỗi.</string>
     <string name="cit_charger_waiting_in">Kết nối bộ sạc</string>
-    <string name="cit_ac_charger_in">Sạc qua AC</string>
-    <string name="cit_usb_charger_in">Sạc qua USB</string>
-    <string name="cit_charger_waiting_out">Ngắt kết nối bộ sạc ngay</string>
-    <string name="cit_ac_charger_out">Sạc qua AC bị ngắt kết nối</string>
-    <string name="cit_usb_charger_out">Sạc qua USB bị ngắt kết nối</string>
-    <string name="cit_usb_OTG_in">Đã phát hiện OTG USB</string>
-    <string name="cit_OTG_waiting_in">Kết nối thiết bị OTG USB ngay</string>
-    <string name="cit_OTG_waiting_out">Ngắt kết nối thiết bị OTG USB ngay</string>
-    <string name="cit_usb_OTG_out">Thiết bị OTG USB đã gỡ bỏ</string>
-    <string name="cit_otg_not_supported">Thiết bị này không hỗ trợ kiểm tra OTG.</string>
-    <string name="cit_sd_mp3_not_existed">"Không có tập tin \"music.mp3\" trên thẻ SD.
-Sau khi bạn đặt \"music.mp3\" vào thư mục gốc của thẻ SD, nhấn vào màn hình để phát."</string>
+    <string name="cit_ac_charger_in">Đang sạc qua AC</string>
+    <string name="cit_usb_charger_in">Đang sạc qua USB</string>
+    <string name="cit_charger_waiting_out">Ngắt kết nối bộ sạc bây giờ</string>
+    <string name="cit_ac_charger_out">Đã ngắt kết nối bộ sạc AC</string>
+    <string name="cit_usb_charger_out">Đã ngắt kết nối bộ sạc USB</string>
+    <string name="cit_usb_OTG_in">Đã phát hiện thiết bị USB OTG</string>
+    <string name="cit_OTG_waiting_in">Kết nối thiết bị USB OTG bây giờ</string>
+    <string name="cit_OTG_waiting_out">Ngắt kết nối thiết bị USB OTG ngay bây giờ</string>
+    <string name="cit_usb_OTG_out">Đã tháo thiết bị USB OTG</string>
+    <string name="cit_otg_not_supported">Thiết bị này không hỗ trợ kiểm tra OTG</string>
+    <string name="cit_sd_mp3_not_existed">"Không có tập tin nào trên thẻ SD có tên \"music.mp3\"
+Sau khi bạn đặt \"music.mp3\" trong thư mục của thẻ SD, hãy chạm vào màn hình để phát."</string>
     <string name="cit_playing_sd_mp3">Đang phát music.mp3…</string>
     <string name="cit_display_continue">Chạm vào màn hình để bắt đầu kiểm tra</string>
     <string name="cit_vga_camera_capture">Máy ảnh</string>
     <string name="cit_vga_camera_delete">Xóa</string>
-    <string name="cit_vga_camera_deleted">Ảnh đã xóa</string>
-    <string name="cit_vga_camera_capture_fail">Không thể chụp ảnh</string>
-    <string name="cit_gps_disabled">"GPS chưa được bật
+    <string name="cit_vga_camera_deleted">Đã xóa ảnh</string>
+    <string name="cit_vga_camera_capture_fail">Không chụp được ảnh</string>
+    <string name="cit_gps_disabled">"GPS chưa bắt đầu
 
-Chạm vào màn hình để bật GPS…"</string>
-    <string name="cit_gps_satellite_count">Số vệ tinh: %d</string>
+Hãy chạm vào màn hình để bắt đầu GPS…"</string>
+    <string name="cit_gps_satellite_count">Tổng số vệ tinh: %d</string>
     <string name="cit_gps_satellite_prn">Prn: %s</string>
     <string name="cit_gps_satellite_snr">Snr: %s</string>
+    <string name="cit_gps_first_fix_time">Thời gian định vị: %s</string>
+    <string name="cit_gps_location">Vị trí: %s</string>
     <string name="cit_lcdlight_brightness">Đèn nền</string>
-    <string name="cit_lcdlight_brightness_max">MAX</string>
-    <string name="cit_lcdlight_brightness_min">MIN</string>
-    <string name="cit_batterylight_rgb">RGB</string>
+    <string name="cit_lcdlight_brightness_max">TỐI ĐA</string>
+    <string name="cit_lcdlight_brightness_min">TỐI THIỂU</string>
+    <string name="cit_batterylight_rgb">Đèn báo pin</string>
     <string name="cit_batterylight_red">Đỏ</string>
-    <string name="cit_batterylight_green">Lục</string>
-    <string name="cit_batterylight_blue">Lam</string>
+    <string name="cit_batterylight_green">Xanh lá cây</string>
+    <string name="cit_batterylight_blue">Xanh lam</string>
     <string name="cit_torch_on">Bật đèn flash</string>
     <string name="cit_torch_off">Tắt đèn flash</string>
-    <string name="cit_button_light_on">Bật đèn của phím</string>
-    <string name="cit_button_light_off">Tắt đèn của phím</string>
-    <string name="cit_notificationlight">Đèn LED</string>
-    <string name="cit_notificationlight_off">Tắt đèn LED</string>
-    <string name="cit_notificationlight_on">Bật đèn LED</string>
+    <string name="cit_button_light_on">Bật đèn phím bấm</string>
+    <string name="cit_button_light_off">Tắt đèn phím bấm</string>
+    <string name="cit_notificationlight">Đèn thông báo</string>
+    <string name="cit_notificationlight_off">Đèn thông báo tắt</string>
+    <string name="cit_notificationlight_on">Đèn thông báo bật</string>
     <string name="cit_keyboard_current">Bàn phím hiện tại: %s</string>
-    <string name="cit_headset_button_current">Nút hiện tại: %s</string>
-    <string name="cit_keyboard_back">Phím: BACK</string>
+    <string name="cit_headset_button_current">Phím hiện tại: %s</string>
+    <string name="cit_keyboard_back">Phím: QUAY LẠI</string>
     <string name="cit_keyboard_menu">Phím: MENU</string>
-    <string name="cit_kayboard_volume_up">Nút: VOL(+)</string>
-    <string name="cit_kayboard_volume_down">Nút: VOL(-)</string>
+    <string name="cit_kayboard_volume_up">Phím: TĂNG ÂM LƯỢNG</string>
+    <string name="cit_kayboard_volume_down">Phím: GIẢM ÂM LƯỢNG</string>
     <string name="cit_fm_not_supported">Thiết bị này không hỗ trợ FM</string>
-    <string name="cit_fm_open_bluetooth">Đang bật Bluetooth…</string>
-    <string name="cit_fm_open_1">Phát FM - 88.5</string>
-    <string name="cit_fm_open_2">Phát FM - 107.9</string>
+    <string name="cit_fm_open_bluetooth">Đang mở Bluetooth…</string>
+    <string name="cit_fm_open_1">Bắt đầu FM - 88,5</string>
+    <string name="cit_fm_open_2">Bắt đầu FM - 107,9</string>
     <string name="cit_fm_close">Đóng FM</string>
-    <string name="cit_fm_start_service">Phát FM</string>
-    <string name="cit_fm_audio_path">Phát qua</string>
+    <string name="cit_fm_start_service">Bắt đầu âm thanh</string>
+    <string name="cit_fm_audio_path">Cấu hình đường dẫn âm thanh</string>
     <string name="cit_fm_audio_path_headset">Tai nghe</string>
-    <string name="cit_fm_audio_path_speaker">Loa ngoài</string>
+    <string name="cit_fm_audio_path_speaker">Loa</string>
     <string name="cit_start_calibration">Hiệu chỉnh</string>
     <string name="cit_stop_calibration">Dừng hiệu chỉnh</string>
     <string name="cit_exit_test_title">Thoát kiểm tra</string>
-    <string name="cit_exit_test_summary">Khi bạn thoát, tất cả các dữ liệu văn bản có liên quan sẽ bị xóa.</string>
-    <string name="cit_battery_temp_pass">Nhiệt độ Pin bình thường</string>
-    <string name="cit_battery_temp_fail">Nhiệt độ Pin không bình thường (giá trị=%d)</string>
-    <string name="cit_calibration_pass">Hiệu chỉnh thành công!</string>
-    <string name="cit_calibration_fail">Hiệu chỉnh thất bại!</string>
-    <string name="cit_tool_log">Lấy các bản ghi</string>
-    <string name="cit_tool_log_logcat">Bản ghi ADB</string>
-    <string name="cit_tool_log_ril">Bản ghi RIL</string>
-    <string name="cit_tool_log_dmesg">Bản ghi DMESG</string>
-    <string name="cit_tool_log_modem">Bản ghi Modem</string>
-    <string name="cit_tool_log_kmsg">Bản ghi Kernel cuối</string>
-    <string name="cit_tool_log_bugreport">Bản ghi báo cáo lỗi</string>
-    <string name="cit_tool_log_toast">Bản ghi được lưu vào %s</string>
+    <string name="cit_exit_test_summary">Khi bạn thoát, tất cả dữ liệu văn bản liên quan sẽ bị xóa.</string>
+    <string name="cit_battery_temp_pass">Nhiệt độ pin bình thường</string>
+    <string name="cit_battery_temp_fail">Nhiệt độ pin bất thường (giá trị=%d)</string>
+    <string name="cit_calibration_pass">Hiệu chỉnh thành công</string>
+    <string name="cit_calibration_fail">Hiệu chỉnh không thành công</string>
+    <string name="cit_tool_log">Nhận nhật ký</string>
+    <string name="cit_tool_log_logcat">Nhật ký ADB</string>
+    <string name="cit_tool_enable_3A_log">Bật chuyển đổi 3A log</string>
+    <string name="cit_tool_log_ril">Nhật ký RIL</string>
+    <string name="cit_tool_log_dmesg">DMESG</string>
+    <string name="cit_tool_log_modem">Nhật ký modem</string>
+    <string name="cit_tool_log_kmsg">Nhật ký kernal mới nhất</string>
+    <string name="cit_tool_log_bugreport">Báo lỗi</string>
+    <string name="cit_tool_log_toast">Đã lưu nhật ký vào %s</string>
     <string name="cit_tool_log_file_not_exist">%s không tồn tại</string>
     <string name="cit_tool_log_generate_bugreport">Đang tạo báo cáo lỗi…</string>
-    <string name="cit_tool_log_toast_generate_bugreport">Đang tạo báo cáo lỗi… (mất khoảng 1 phút)</string>
-    <string name="cit_tool_log_no_sdcard">Chèn thẻ SD ngay</string>
+    <string name="cit_tool_log_toast_generate_bugreport">Đang tạo báo cáo lỗi… (quá trình này có thể mất khoảng 1 phút)</string>
+    <string name="cit_tool_log_no_sdcard">Gắn thẻ SD bây giờ</string>
     <string name="cit_tool_bluetooth">Công cụ kiểm tra Bluetooth</string>
     <string name="cit_tool_bluetooth_on">Bật Bluetooth</string>
-    <string name="cit_tool_bluetooth_mode">Vào chế độ kiểm tra Bluetooth</string>
+    <string name="cit_tool_bluetooth_dut">Vào chế độ kiểm tra Bluetooth</string>
+    <string name="cit_tool_bluetooth_tx_l">Vào chế độ kiểm tra Bluetooth BR/EDR Tần số 2.402GHz</string>
+    <string name="cit_tool_bluetooth_tx_h">Vào chế độ kiểm tra Bluetooth BR/EDR Tần số 2.480 GHz</string>
+    <string name="cit_tool_bluetooth_le_tx_l">Vào chế độ kiểm tra Bluetooth LE Tần số 2.402 GHz</string>
+    <string name="cit_tool_bluetooth_le_tx_ch19">Vào chế độ kiểm tra Bluetooth LE Tần số 2.440 GHz</string>
+    <string name="cit_tool_bluetooth_le_tx_h">Vào chế độ kiểm tra Bluetooth LE Tần số 2.480 GHz</string>
     <string name="cit_tool_bluetooth_off">Tắt Bluetooth</string>
+    <string name="cit_tool_bluetooth_not_on">Bluetooth chưa được bật</string>
     <string name="cit_tool_wifi">Công cụ kiểm tra Wi-Fi</string>
     <string name="cit_tool_wifi_rx_chan">Rx: Kênh</string>
-    <string name="cit_tool_wifi_tx_bg">Truyền tải: B/G</string>
-    <string name="cit_tool_wifi_tx_bg_chan">Kênh:</string>
-    <string name="cit_tool_wifi_tx_bg_txpr">Truyền tải:</string>
-    <string name="cit_tool_wifi_tx_bg_txrt">Tốc độ:</string>
-    <string name="cit_tool_wifi_tx_n">Truyền tải: N</string>
-    <string name="cit_tool_wifi_tx_n_chan">Kênh:</string>
-    <string name="cit_tool_wifi_tx_n_txpr">Truyền tải:</string>
-    <string name="cit_tool_wifi_tx_n_txrt">Tốc độ: MCS</string>
-    <string name="cit_tool_wifi_rx_ap">Rx:AP</string>
-    <string name="cit_tool_wifi_rx_exit">Rx:exit</string>
+    <string name="cit_tool_wifi_tx_bg">Tx: a/b/g</string>
+    <string name="cit_tool_wifi_tx_bg_chan">kênh:</string>
+    <string name="cit_tool_wifi_tx_bg_txpr">công suất tx:</string>
+    <string name="cit_tool_wifi_tx_bg_txrt">tốc độ dữ liệu:</string>
+    <string name="cit_tool_wifi_tx_n">Tx: n</string>
+    <string name="cit_tool_wifi_tx_ac">Tx: ac</string>
+    <string name="cit_tool_wifi_tx_st">Tx: ST</string>
+    <string name="cit_tool_wifi_tx_n_chan">kênh:</string>
+    <string name="cit_tool_wifi_tx_n_txpr">công suất tx:</string>
+    <string name="cit_tool_wifi_tx_n_txrt">tốc độ dữ liệu: MCS</string>
+    <string name="cit_tool_wifi_txrx_chain_selection">Chọn ăng-ten</string>
+    <string name="cit_tool_wifi_chain_1">1</string>
+    <string name="cit_tool_wifi_chain_2">2</string>
+    <string name="cit_tool_wifi_chain_1_2">1+2</string>
+    <string name="cit_tool_wifi_rx_ap">Rx: AP</string>
+    <string name="cit_tool_wifi_rx_exit">Rx: thoát</string>
     <string name="cit_tool_wifi_rx_run">Chạy</string>
     <string name="cit_tool_wifi_rx_stop">Dừng</string>
-    <string name="cit_tool_wifi_rx_total_format">Tổng số truyền %s</string>
-    <string name="cit_tool_wifi_rx_error">Xảy ra lỗi khi đang chạy ứng dụng</string>
-    <string name="cit_tool_wifi_rx_count_error">Giá trị đầu ra không phải là số</string>
-    <string name="cit_tool_wifi_rx_ap_name">Tên điểm truy cập</string>
-    <string name="cit_tool_wifi_rx_ap_type">Loại điểm truy cập</string>
-    <string name="cit_tool_wifi_rx_ap_type_error">Lỗi điểm truy cập, vui lòng nhập lại (bss/adhoc)</string>
-    <string name="cit_tool_wifi_rx_ap_not_null">"Tên hoặc loại điểm truy cập không thể để trống"</string>
+    <string name="cit_tool_wifi_rx_error">Đã xảy ra lỗi khi chạy chương trình</string>
+    <string name="cit_tool_wifi_rx_count_error">Giá trị đầu vào không phải là số</string>
+    <string name="cit_tool_wifi_rx_ap_name">MT</string>
     <string name="cit_tool_wifi_exit">Thoát</string>
+    <string name="cit_tool_wifi_rx_dut_ip">192.168.1.12</string>
+    <string name="cit_tool_wifi_rxbg_test">Rx: a/b/g</string>
+    <string name="cit_tool_wifi_rxbg_test_channel">kênh:</string>
+    <string name="cit_tool_wifi_rxn_test">Rx: n</string>
+    <string name="cit_tool_wifi_rxn_test_channel">kênh:</string>
+    <string name="cit_tool_wifi_rxn_test_bw">băng thông:</string>
+    <string name="cit_tool_wifi_tx_n_bandwidth">băng thông:</string>
+    <string name="cit_tool_wifi_tx_st_chan">kênh:</string>
 </resources>
