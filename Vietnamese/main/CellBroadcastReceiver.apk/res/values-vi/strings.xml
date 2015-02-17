@@ -48,9 +48,12 @@
     <string name="enable_cmas_test_alerts_summary">Hiển thị các thông báo kiểm tra cho Hệ thống thông báo thương mại trên điện thoại di động</string>
     <string name="enable_alert_vibrate_title">Rung</string>
     <string name="enable_alert_vibrate_summary">Rung khi cảnh báo</string>
-    <string name="category_brazil_settings_title">Cài đặt cho Braxin</string>
+    <string name="category_brazil_settings_title">Cài đặt cho Brazin</string>
+    <string name="category_india_settings_title">Cài đặt cho Ấn Độ</string>
     <string name="enable_channel_50_alerts_title">Hiển thị chương trình phát sóng kênh 50</string>
-    <string name="enable_channel_50_alerts_summary">Kênh 50 được sử dụng ở Braxin để cập nhật thông tin khu vực</string>
+    <string name="enable_channel_50_alerts_summary">Kênh 50 được sử dụng ở Brazin để cập nhật thông tin khu vực</string>
+    <string name="enable_channel_60_alerts_title">Hiển thị chương trình phát sóng kênh 60</string>
+    <string name="enable_channel_60_alerts_summary">Kênh 60 được sử dụng ở Ấn Độ cho nhà điều hành thông tin cụ thể</string>
     <string name="category_dev_settings_title">Tùy chọn nhà phát triển</string>
     <string name="cmas_category_heading">Danh mục cảnh báo:</string>
     <string name="cmas_category_geo">Địa vật lý</string>
