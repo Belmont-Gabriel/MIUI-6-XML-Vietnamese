@@ -44,7 +44,7 @@
     <string-array name="visibility">
         <item>Mặc định</item>
         <item>Riêng tư</item>
-        <item>Công cộng</item>
+        <item>Công khai</item>
     </string-array>
     <string-array name="ordinal_labels">
         <item>tuần đầu tiên</item>
@@ -61,22 +61,22 @@
     </string-array>
     <string-array name="delete_repeating_labels">
         <item>Chỉ sự kiện này</item>
-        <item>Sự kiện này và các sự kiện sau</item>
+        <item>Sự kiện này và các sự kiện trong tương lai</item>
         <item>Tất cả sự kiện</item>
     </string-array>
     <string-array name="delete_repeating_labels_no_selected">
-        <item>Sự kiện này &amp;amp; sự kiện sau</item>
-        <item>Tất cả</item>
+        <item>Sự kiện này &amp; các sự kiện trong tương lai</item>
+        <item>Tất cả sự kiện</item>
     </string-array>
     <string-array name="change_response_labels">
         <item>Chỉ sự kiện này</item>
-        <item>Tất cả sự kiện</item>
+        <item>Tất cả sự kiện trong hàng loạt sự kiện</item>
     </string-array>
     <string-array name="buttons_list">
         <item>Ngày</item>
         <item>Tuần</item>
         <item>Tháng</item>
-        <item>Lịch công việc</item>
+        <item>Lịch biểu</item>
     </string-array>
     <string-array name="quick_response_defaults">
         <item>Tôi sẽ trễ 1 vài phút thôi.</item>
