@@ -35,7 +35,7 @@
     <string name="progress_title_checking">Đang kiểm tra cập nhật…</string>
     <string name="menu_title_download_current_rom">Tải xuống bản cập nhật</string>
     <string name="menu_title_pick_rom_file">Chọn gói cập nhật</string>
-    <string name="menu_title_recovery">Khởi động lại vào chế độ Khôi phục</string>
+    <string name="menu_title_recovery">Vào Recovery</string>
     <string name="menu_title_current_version_log">Tóm tắt cập nhật</string>
     <string name="check_update_policy">Cài đặt</string>
     <string name="check_update_when_wifi_available">Chỉ kiểm tra bằng Wi-Fi</string>
@@ -43,7 +43,7 @@
     <string name="apply_update_dialog_update_button">Cập nhật</string>
     <string name="apply_update_dialog_cancel_button">Hủy</string>
     <string name="cancel_download_buton_text">Hủy</string>
-    <string name="boot_recovery">Khởi động lại vào chế độ Khôi phục?</string>
+    <string name="boot_recovery">Khởi động lại vào chế độ Recovery?</string>
     <string name="cancel_download">Dừng tải xuống bản cập nhật?</string>
     <string name="update_success">Cập nhật thành công</string>
     <string name="download_current_rom">Khởi động lại để hoàn tất cập nhật</string>
