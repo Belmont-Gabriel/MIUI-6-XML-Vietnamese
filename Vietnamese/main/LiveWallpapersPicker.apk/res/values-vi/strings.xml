@@ -9,6 +9,6 @@
     <string name="live_wallpaper_empty">Không có hình nền động nào.</string>
     <string name="set_live_wallpaper">Đặt hình nền</string>
     <string name="wallpaper_title_and_author">%1$s bởi %2$s</string>
-    <string name="live_wallpaper_loading">Đang tải hình nền động...</string>
+    <string name="live_wallpaper_loading">Đang tải hình nền động…</string>
     <string name="wallpaper_cancel">Hủy</string>
 </resources>
