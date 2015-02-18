@@ -1,90 +1,96 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Trình cài đặt</string>
+    <string name="caller_app">Yêu cầu quyền từ %1$s</string>
+    <string name="safe_guard_support">Hỗ trợ kỹ thuật được cung cấp bởi %1$s</string>
+    <string name="safe_relative">Bảo mật</string>
+    <string name="privacy_relative">Riêng tư</string>
+    <string name="other_relative">Khác</string>
+    <string name="perm_notice">Cảnh báo</string>
+    <string name="trust_switch_dialog_msg">Sẽ không nhắc nhở bạn khi ứng dụng này truy cập liên hệ, tin nhắn, mật khẩu, và các phần khác của hệ thống.</string>
+    <string name="auto_startup_dialog_msg">Ứng dụng này có thể bắt đầu mà không cần sự cho phép của bạn.</string>
+    <string name="low_risk_perms">Quyền rủi ro thấp</string>
+    <string name="high_risk_perms">Quyền rủi ro cao</string>
+    <string name="perm_privacy_app_finish">OK</string>
+    <string name="perm_privacy_app_launch">Khởi chạy</string>
+    <string name="perm_privacy_app_installed">Đã cài đặt ứng dụng</string>
+    <string name="perm_sysopt_boost_auto_start">Quyền tự khởi chạy</string>
+    <string name="perm_sysopt_boost_auto_start_summary">Ứng dụng này có thể tự khởi chạy</string>
+    <string name="perm_privacy_app_trust">Nhắc nhở quyền truy cập</string>
+    <string name="perm_privacy_app_trust_summary">Nhắc nhở khi ứng dụng này cố gắng truy cập vào phần khác trên hệ thống</string>
+    <string name="perm_action_accept">Cho phép</string>
+    <string name="perm_action_prompt">Yêu cầu</string>
+    <string name="perm_action_reject">Từ chối</string>
+    <string name="unknown_installer">Công cụ máy tính không xác định</string>
+    <string name="dlg_app_replacement_statement_with_version">%1$s (%2$s) sẽ thay thế phiên bản hiện đang cài đặt (%3$s). Tất cả dữ liệu ứng dụng hiện tại sẽ được lưu.</string>
+    <string name="lift_ban">Cho phép</string>
+    <string name="uninstall_confirm_question">Gỡ cài đặt ứng dụng này?</string>
+    <string name="uninstall_failed_retained_app_msg">Bạn không thể gỡ cài đặt những ứng dụng được cài sẵn của nhà cung cấp.</string>
+    <string name="install_failed_system_incompatible">Ứng dụng này không tương thích với MIUI</string>
+    <string name="permission_group_title_charges_related">Điện thoại</string>
+    <string name="permission_group_title_privacy_related">Riêng tư</string>
+    <string name="permission_group_title_media_related">Phương tiện</string>
+    <string name="permission_group_title_settings_related">Cài đặt</string>
+    <string name="permission_group_title_others">Khác</string>
+    <string name="permission_action_accept">Chấp nhận</string>
+    <string name="permission_action_prompt">Nhắc nhở</string>
+    <string name="permission_action_reject">Từ chối</string>
+    <string name="permission_send_sms_descx">Ứng dụng có thể gửi SMS và MMS</string>
+    <string name="virus_scan_install"><u>Tiếp tục cài đặt</u></string>
+    <string name="virus_scan_is_virus">Ứng dụng này có chứa virus.</string>
+    <string name="virus_scan_is_risk">Ứng dụng này gây ra nguy cơ bảo mật đối với thiết bị của bạn.</string>
+    <string name="virus_scan_clear">Xóa</string>
+    <string name="virus_scan_caller_unknown">Không xác định</string>
+    <string name="app_name">Trình cài đặt gói</string>
     <string name="install">Cài đặt</string>
     <string name="done">Xong</string>
-    <string name="security_settings_desc">Cho phép ứng dụng này để: </string>
+    <string name="security_settings_desc">Cho phép ứng dụng này:</string>
     <string name="cancel">Hủy</string>
     <string name="unknown">Không xác định</string>
     <string name="installing">Đang cài đặt…</string>
     <string name="install_done">Ứng dụng đã cài đặt</string>
-    <string name="install_confirm_question">Bạn có muốn cài đặt ứng dụng này?</string>
-    <string name="install_failed">Ứng dụng không được cài đặt</string>
-    <string name="install_failed_invalid_apk">Gói phần mềm bị hỏng.</string>
-    <string name="install_failed_inconsistent_certificates">Một gói phần mềm hiện có cùng tên với một chữ ký mâu thuẫn đã được cài đặt.</string>
-    <string name="install_failed_older_sdk">Gói phần mềm chỉ hoạt động trên phiên bản mới hơn Android.</string>
-    <string name="install_failed_cpu_abi_incompatible">"Ứng dụng này không tương thích với CPU của điện thoại."</string>
-    <string name="install_failed_file_not_found">Gói phần mềm được chỉ định đã bị xóa trước khi cài đặt có thể được hoàn thành.</string>
-    <string name="install_failed_verify_failed">Gói phần mềm đã không qua xác minh và không thể được cài đặt.</string>
-    <string name="install_failed_verify_timeout">Một thời gian chờ đã xảy ra trong khi đang cố gắng xác minh gói này. Vui lòng thử cài đặt lại sau.</string>
-    <string name="install_failed_msg">%1$s không thể cài đặt trên điện thoại này.</string>
+    <string name="install_confirm_question">Bạn có muốn cài đặt ứng dụng này không?</string>
+    <string name="install_failed">Ứng dụng chưa được cài đặt</string>
+    <string name="install_failed_invalid_apk">Gói dường như bị hỏng.</string>
+    <string name="install_failed_inconsistent_certificates">Gói hiện có có cùng tên với chữ ký xung đột hiện đã được cài đặt.</string>
+    <string name="install_failed_older_sdk">Gói chỉ hoạt động trên các phiên bản mới hơn của Android.</string>
+    <string name="install_failed_cpu_abi_incompatible">Ứng dụng này không tương thích với CPU của điện thoại này.</string>
+    <string name="install_failed_file_not_found">Gói đã chỉ định bị xóa trước khi cài đặt hoàn tất.</string>
+    <string name="install_failed_verify_failed">Gói không vượt qua xác minh và không thể được cài đặt.</string>
+    <string name="install_failed_verify_timeout">Đã hết thời gian chờ trong khi cố gắng xác minh gói này. Vui lòng thử cài đặt lại sau.</string>
+    <string name="install_failed_msg">Không thể cài đặt %1$s trên điện thoại này.</string>
     <string name="launch">Mở</string>
-    <string name="unknown_apps_dlg_title">Cài đặt bị chặn</string>
-    <string name="unknown_apps_dlg_text">"Vì lý do bảo mật, điện thoại của bạn đã được thiết lập để cấm cài đặt ứng dụng lấy từ các kênh không chính thức. Dỡ bỏ lệnh cấm, bạn có thể cài đặt các ứng dụng từ bất kỳ kênh nào, nhưng điện thoại của bạn và dữ liệu cá nhân có thể bị tấn công bởi các ứng dụng không rõ nguồn gốc, và bạn sẽ chịu trách nhiệm hoàn toàn về những hậu quả có thể xảy ra.
-
-Bạn có thể sửa đổi thông qua Cài đặt->Bảo mật->Nguồn không xác định."</string>
+    <string name="unknown_apps_dlg_title">Cài đặt đã chặn</string>
+    <string name="unknown_apps_dlg_text">Vì lý do bảo mật, điện thoại của bạn được đặt để chặn cài đặt các ứng dụng không được lấy từ Android Market.</string>
     <string name="ok">OK</string>
     <string name="settings">Cài đặt</string>
-    <string name="allow_source_dlg_title">Cho phép nguồn mới cho các ứng dụng?</string>
+    <string name="allow_source_dlg_title">Cho phép nguồn mới đối với ứng dụng?</string>
     <string name="allow_source_dlg_text">"%1$s muốn cài đặt các ứng dụng khác.
 
-Cho phép điều này bây giờ và trong tương lai?"</string>
+Cho phép điều này ngay bây giờ và trong tương lai?"</string>
     <string name="manage_applications">Quản lý ứng dụng</string>
     <string name="dlg_app_replacement_title">Thay thế ứng dụng</string>
-    <string name="dlg_app_replacement_statement">"Ứng dụng mà bạn đang cài đặt sẽ thay thế ứng dụng khác.
+    <string name="dlg_app_replacement_statement">"Ứng dụng bạn đang cài đặt sẽ thay thế ứng dụng khác.
 
-Tất cả các dữ liệu người dùng trước đó sẽ được lưu lại."</string>
-    <string name="dlg_app_replacement_statement_with_version">"%1$s (%2$s) sẽ thay thế phiên bản hiện đang được cài đặt (%3$s). Nội dung người dùng sẽ được giữ lại.
-Bạn có muốn cài đặt?"</string>
-    <string name="dlg_sys_app_replacement_statement">"Đây là một ứng dụng hệ thống. Bạn vẫn muốn thay thế nó?
+Tất cả dữ liệu người dùng trước đây sẽ được lưu."</string>
+    <string name="dlg_sys_app_replacement_statement">"Đây là ứng dụng hệ thống. Bạn vẫn muốn thay thế ứng dụng đó chứ?
 
-Tất cả các dữ liệu người dùng trước đó sẽ được lưu lại."</string>
-    <string name="lift_ban">Bỏ lệnh cấm</string>
+Tất cả dữ liệu người dùng trước đây sẽ được lưu."</string>
     <string name="out_of_space_dlg_title">Hết dung lượng</string>
-    <string name="out_of_space_dlg_text">%1$s không thể cài đặt được. Làm trống dung lượng và thử lại.</string>
+    <string name="out_of_space_dlg_text">Không thể cài đặt %1$s. Hãy tạo thêm dung lượng và thử lại.</string>
     <string name="dlg_ok">OK</string>
     <string name="app_not_found_dlg_title">Không tìm thấy ứng dụng</string>
-    <string name="app_not_found_dlg_text">Ứng dụng này đã không được tìm thấy trong danh sách các ứng dụng đã cài đặt.</string>
-    <string name="uninstall_application_title">Gỡ Ứng dụng</string>
-    <string name="uninstall_update_title">Gỡ Cập nhật</string>
-    <string name="uninstall_activity_text">%1$s là một phần của ứng dụng sau: </string>
-    <string name="uninstall_confirm_question">Bạn có muốn gỡ ứng dụng?</string>
-    <string name="uninstall_application_text">Ứng dụng này sẽ được gỡ bỏ.</string>
-    <string name="uninstall_update_text">Ứng dụng sẽ được thay thế bằng phiên bản nhà sản xuất.</string>
-    <string name="uninstalling">Đang gỡ cài đặt…</string>
-    <string name="uninstall_done">Gỡ bỏ hoàn tất</string>
-    <string name="uninstall_failed">Gỡ bỏ không thành công</string>
-    <string name="uninstall_failed_device_policy_manager">Không thể gỡ cài đặt: gói này là một quản trị viên thiết bị đang hoạt động.</string>
-    <string name="manage_device_administrators">Quản lý các quản trị viên thiết bị</string>
-    <string name="uninstall_failed_msg">%1$s không thể được gỡ bỏ</string>
-    <string name="uninstall_failed_retained_app_msg">Ứng dụng được tùy chỉnh bởi nhà điều hành không thể được gỡ bỏ</string>
-    <string name="Parse_error_dlg_title">Phân tích lỗi</string>
-    <string name="Parse_error_dlg_text">Có lỗi phân tích các gói.</string>
-    <string name="caller_app">Gọi: %1$s</string>
-    <string name="safe_guard_support">Hỗ trợ kỹ thuật được cung cấp bởi %1$s</string>
-    <string name="safe_relative">Quyền liên quan an toàn</string>
-    <string name="privacy_relative">Quyền liên quan riêng tư</string>
-    <string name="other_relative">Quyền khác</string>
-    <string name="perm_notice">Cảnh báo</string>
-    <string name="trust_switch_dialog_msg">MIUI sẽ không yêu cầu bạn xác nhận bất kỳ bảo mật hoặc tính riêng tư liên quan đến các hoạt động được thực hiện bởi ứng dụng này.</string>
-    <string name="auto_startup_dialog_msg">MIUI sẽ cho phép ứng dụng này bắt đầu mà không có sự cho phép của bạn.</string>
-    <string name="low_risk_perms">Quyền rủi ro thấp</string>
-    <string name="high_risk_perms">Quyền rủi ro cao</string>
-    <string name="perm_privacy_app_finish">Hoàn tất</string>
-    <string name="perm_privacy_app_launch">Khởi chạy</string>
-    <string name="perm_privacy_app_installed">Cài đặt hoàn tất!</string>
-    <string name="perm_sysopt_boost_auto_start">Quyền tự khởi chạy</string>
-    <string name="perm_sysopt_boost_auto_start_summary">Ứng dụng này sẽ tự động khởi chạy</string>
-    <string name="perm_privacy_app_trust">Tôi tin tưởng ứng dụng này</string>
-    <string name="perm_privacy_app_trust_summary">MIUI sẽ giám sát ứng dụng này</string>
-    <string name="perm_action_accept">Cho phép</string>
-    <string name="perm_action_prompt">Hỏi</string>
-    <string name="perm_action_reject">Từ chối</string>
-    <string name="unknown_installer">Công cụ PC không xác định</string>
-    <string name="install_failed_system_incompatible">"Ứng dụng này không tương thích với MIUI"</string>
-    <string name="virus_scan_install"><u>Tiếp tục cài đặt</u></string>
-    <string name="virus_scan_is_virus">Ứng dụng này có chứa virus.</string>
-    <string name="virus_scan_is_risk">Ứng dụng này có thể gây nguy hiểm về bảo mật của điện thoại của bạn.</string>
-    <string name="virus_scan_clear">Gỡ bỏ</string>
-    <string name="virus_scan_caller_unknown">Không rõ</string>
+    <string name="app_not_found_dlg_text">Không tìm thấy ứng dụng trong danh sách các ứng dụng đã cài đặt.</string>
+    <string name="uninstall_application_title">Gỡ cài đặt ứng dụng</string>
+    <string name="uninstall_update_title">Gỡ cài đặt cập nhật</string>
+    <string name="uninstall_activity_text">%1$s là một phần của ứng dụng sau:</string>
+    <string name="uninstall_application_text">Ứng dụng này sẽ bị gỡ cài đặt.</string>
+    <string name="uninstall_update_text">Ứng dụng sẽ được thay bằng phiên bản tại nhà máy.</string>
+    <string name="uninstalling">Đang gỡ cài đặt...</string>
+    <string name="uninstall_done">Gỡ cài đặt đã hoàn tất</string>
+    <string name="uninstall_failed">Gỡ cài đặt không thành công</string>
+    <string name="uninstall_failed_device_policy_manager">Không thể cài đặt: gói này là của quản trị viên điện thoại hoạt động.</string>
+    <string name="manage_device_administrators">Quản lý quản trị viên điện thoại</string>
+    <string name="uninstall_failed_msg">Không thể gỡ cài đặt %1$s</string>
+    <string name="Parse_error_dlg_title">Lỗi phân tích cú pháp</string>
+    <string name="Parse_error_dlg_text">Đã xảy ra sự cố khi phân tích cú pháp gói.</string>
 </resources>
