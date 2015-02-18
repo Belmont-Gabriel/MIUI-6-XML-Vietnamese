@@ -5,9 +5,9 @@
         <item>Video</item>
     </string-array>
     <string-array name="clir_display_values">
-        <item>Mặc định</item>
+        <item>Mạng mặc định</item>
         <item>Ẩn số</item>
-        <item>Hiện số</item>
+        <item>Hiển thị số</item>
     </string-array>
     <string-array name="preferred_network_mode_choices">
         <item>LTE / WCDMA</item>
@@ -18,20 +18,20 @@
         <item>CDMA/EvDo/GSM/WCDMA</item>
         <item>Chỉ EvDo</item>
         <item>CDMA w/o EvDo</item>
-        <item>CDMA/EvDo tự động</item>
-        <item>GSM/WCDMA tự động</item>
+        <item>Tự động CDMA/EvDo</item>
+        <item>Tự động GSM/WCDMA</item>
         <item>Chỉ WCDMA</item>
         <item>Chỉ GSM</item>
         <item>Ưu tiên GSM/WCDMA</item>
     </string-array>
     <string-array name="list_language_entries">
-        <item>Anh</item>
-        <item>Pháp</item>
-        <item>Tây Ban Nha</item>
-        <item>Nhật Bản</item>
-        <item>Hàn Quốc</item>
-        <item>Trung Quốc</item>
-        <item>Do Thái</item>
+        <item>Tiếng Anh</item>
+        <item>Tiếng Pháp</item>
+        <item>Tiếng Tây Ban Nha</item>
+        <item>Tiếng Nhật</item>
+        <item>Tiếng Hàn</item>
+        <item>Tiếng Trung</item>
+        <item>Tiếng Do Thái</item>
     </string-array>
     <string-array name="cdma_system_select_choices">
         <item>Trong nước</item>
@@ -43,12 +43,12 @@
     </string-array>
     <string-array name="tty_mode_entries">
         <item>TTY Tắt</item>
-        <item>TTY Đầy Đủ</item>
+        <item>TTY Đầy</item>
         <item>TTY HCO</item>
         <item>TTY VCO</item>
     </string-array>
     <string-array name="dtmf_tone_entries">
-        <item>Vừa</item>
+        <item>Bình thường</item>
         <item>Dài</item>
     </string-array>
 </resources>
