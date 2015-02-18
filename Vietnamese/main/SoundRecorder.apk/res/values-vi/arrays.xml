@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="record_type_entries">
+        <item>MP3</item>
+        <item>AMR</item>
+    </string-array>
     <string-array name="record_scenes_entries">
-        <item>Dành cho nhạc</item>
-        <item>Dành cho tiếng người nói</item>
+        <item>Nhạc</item>
+        <item>Ghi âm</item>
+    </string-array>
+    <string-array name="interview_record_scenes_entries">
+        <item>Nhạc</item>
+        <item>Ghi âm</item>
+        <item>Phỏng vấn</item>
     </string-array>
 </resources>
