@@ -7,10 +7,10 @@
         <item quantity="other">Vừa xong</item>
     </plurals>
     <plurals name="abbrev_in_less_than_one_minute">
-        <item quantity="other">Vừa tức thì</item>
+        <item quantity="other">Tức thì</item>
     </plurals>
     <plurals name="in_less_than_one_minute">
-        <item quantity="other">Vừa tức thì</item>
+        <item quantity="other">Tức thì</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
         <item quantity="other">1 giờ trước</item>
