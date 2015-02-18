@@ -5,7 +5,7 @@
         <item>Video</item>
     </string-array>
     <string-array name="clir_display_values">
-        <item>Mạng mặc định</item>
+        <item>Mặc định</item>
         <item>Ẩn số</item>
         <item>Hiển thị số</item>
     </string-array>
