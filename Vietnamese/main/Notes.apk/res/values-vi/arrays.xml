@@ -3,20 +3,35 @@
     <string-array name="contact_entries">
         <item>Tên</item>
         <item>Biệt danh</item>
-        <item>Số điện thoại</item>
+        <item>Điện thoại</item>
         <item>E-mail</item>
-        <item>Công ty</item>
+        <item>Tổ chức</item>
         <item>IM</item>
         <item>Điện thoại SIP</item>
         <item>Sinh nhật</item>
-        <item>Website</item>
+        <item>Trang web</item>
         <item>Địa chỉ</item>
         <item>Ghi chú</item>
     </string-array>
     <string-array name="font_size_names">
         <item>Nhỏ</item>
-        <item>Vừa</item>
+        <item>Thường</item>
         <item>Lớn</item>
-        <item>Đại</item>
+        <item>Cực lớn</item>
+    </string-array>
+    <string-array name="welcome_notes_content">
+        <item>"Bây giờ bạn có thể dễ dàng ghi lại những ý tưởng, bản ghi nhớ, và suy nghĩ của mình
+"</item>
+        <item>"Đính kèm ảnh hoặc liên hệ
+"</item>
+        <item>"Chọn tạo ghi chú mới và bắt đầu
+"</item>
+        <item>"Và nhiều tính năng tuyệt vời hơn!
+ - Đồng bộ với Mi Cloud
+ - Thiết lập nhắc nhở
+
+Để tìm hiểu thêm, vui lòng truy cập
+http://www.miui.com/forum.php?lang=1
+"</item>
     </string-array>
 </resources>
