@@ -25,19 +25,27 @@
         <item quantity="many">%d mục</item>
     </plurals>
     <plurals name="ui_bar_txt_download_progress">
-        <item quantity="other">%1$d tập tin chờ tải về</item>
-        <item quantity="zero">%1$d tập tin chờ tải về</item>
-        <item quantity="one">%1$d tập tin chờ tải về</item>
-        <item quantity="two">%1$d tập tin chờ tải về</item>
-        <item quantity="few">%1$d tập tin chờ tải về</item>
-        <item quantity="many">%1$d tập tin chờ tải về</item>
+        <item quantity="other">Còn %1$d tập tin cần tải xuống</item>
+        <item quantity="zero">Còn %1$d tập tin cần tải xuống</item>
+        <item quantity="one">Còn %1$d tập tin cần tải xuống</item>
+        <item quantity="two">Còn %1$d tập tin cần tải xuống</item>
+        <item quantity="few">Còn %1$d tập tin cần tải xuống</item>
+        <item quantity="many">Còn %1$d tập tin cần tải xuống</item>
     </plurals>
     <plurals name="ui_bar_txt_upload_progress">
-        <item quantity="other">%1$d tập tin chờ tải lên</item>
-        <item quantity="zero">%1$d tập tin chờ tải lên</item>
-        <item quantity="one">%1$d tập tin chờ tải lên</item>
-        <item quantity="two">%1$d tập tin chờ tải lên</item>
-        <item quantity="few">%1$d tập tin chờ tải lên</item>
-        <item quantity="many">%1$d tập tin chờ tải lên</item>
+        <item quantity="other">Còn %1$d tập tin cần tải lên</item>
+        <item quantity="zero">Còn %1$d tập tin cần tải lên</item>
+        <item quantity="one">Còn %1$d tập tin cần tải lên</item>
+        <item quantity="two">Còn %1$d tập tin cần tải lên</item>
+        <item quantity="few">Còn %1$d tập tin cần tải lên</item>
+        <item quantity="many">Còn %1$d tập tin cần tải lên</item>
+    </plurals>
+    <plurals name="numSelectedFile">
+        <item quantity="other">Đã chọn %1$d mục</item>
+        <item quantity="zero">Đã chọn %1$d mục</item>
+        <item quantity="one">Đã chọn %1$d mục</item>
+        <item quantity="two">Đã chọn %1$d mục</item>
+        <item quantity="few">Đã chọn %1$d mục</item>
+        <item quantity="many">Đã chọn %1$d mục</item>
     </plurals>
 </resources>
