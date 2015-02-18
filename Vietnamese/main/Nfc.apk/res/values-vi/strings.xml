@@ -16,7 +16,7 @@
     <string name="cancel">Hủy</string>
     <string name="beam_touch_to_view">Chạm để xem</string>
     <string name="beam_handover_not_supported">Thiết bị của người nhận không hỗ trợ truyền tập tin lớn qua quá trình chiếu.</string>
-    <string name="beam_try_again">Nhóm các thiết bị lại với nhau lần nữa</string>
+    <string name="beam_try_again">Chạm các thiết bị lại với nhau lần nữa</string>
     <string name="connecting_headset">Đang kết nối</string>
     <string name="connected_headset">Đã kết nối</string>
     <string name="connect_headset_failed">Không thể kết nối</string>
@@ -28,11 +28,11 @@
     <string name="confirm_pairing">Bạn có chắc chắn muốn ghép nối thiết bị Bluetooth %1$s không?</string>
     <string name="pair_yes">Có</string>
     <string name="pair_no">Không</string>
-    <string name="tap_again_to_pay">Nhấn lại để thanh toán bằng %1$s</string>
-    <string name="tap_again_to_complete">Nhấn lại để hoàn tất bằng %1$s</string>
+    <string name="tap_again_to_pay">Chạm lại để thanh toán bằng %1$s</string>
+    <string name="tap_again_to_complete">Chạm lại để hoàn tất bằng %1$s</string>
     <string name="transaction_failure">Không thể hoàn tất giao dịch này bằng %1$s.</string>
     <string name="could_not_use_app">Không thể sử dụng %1$s.</string>
     <string name="pay_with">Thanh toán bằng</string>
     <string name="complete_with">Hoàn tất bằng</string>
-    <string name="default_pay_app_removed">Dịch vụ yêu thích của bạn để nhấn và thanh toán đã bị xóa. Chọn dịch vụ khác?</string>
+    <string name="default_pay_app_removed">Dịch vụ yêu thích để chạm &amp; thanh toán đã bị xóa. Chọn dịch vụ khác?</string>
 </resources>
