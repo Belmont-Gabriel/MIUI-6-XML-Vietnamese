@@ -1,55 +1,86 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="general_preference_text_zoom_summary_array">
-        <item>Chữ bé</item>
-        <item>Chữ nhỏ</item>
-        <item>Chữ vừa</item>
-        <item>Chữ lớn</item>
-        <item>Chữ đại</item>
-    </string-array>
     <string-array name="compose_modes">
         <item>Trả lời</item>
         <item>Trả lời tất cả</item>
         <item>Chuyển tiếp</item>
     </string-array>
-    <string-array name="sync_status">
-        <item>Thành công</item>
-        <item>Không có kết nối.</item>
-        <item>Không thể đăng nhập.</item>
-        <item>Lỗi bảo mật.</item>
-        <item>Không thể đồng bộ.</item>
-        <item>Lỗi nội bộ</item>
-    </string-array>
-    <string-array name="moveto_folder_sections">
-        <item>Hệ thống</item>
-        <item>Dùng thường xuyên</item>
-        <item>Tất cả thư mục</item>
-    </string-array>
-    <string-array name="prefEntries_autoAdvance">
-        <item>Mới hơn</item>
-        <item>Cũ hơn</item>
-        <item>Danh sách thư</item>
-    </string-array>
-    <string-array name="prefEntries_removal_action">
-        <item>Chỉ hiển thị tác vụ lưu trữ</item>
-        <item>Chỉ hiển thị tác vụ xóa</item>
-        <item>Hiển thị tác vụ lưu trữ và xóa</item>
-    </string-array>
-    <string-array name="prefSummaries_removal_action_summary">
-        <item>Chỉ hiển thị tác vụ lưu trữ</item>
-        <item>Chỉ hiển thị tác vụ xóa</item>
-        <item>Hiển thị tác vụ lưu trữ và xóa</item>
-    </string-array>
-    <string-array name="general_preference_auto_advance_summary_array">
-        <item>Hiển thị cuộc hội thoại mới hơn sau khi bạn xóa</item>
-        <item>Hiển thị cuộc hội thoại cũ hơn sau khi bạn xóa</item>
-        <item>Hiển thị danh sách cuộc hội thoại sau khi bạn xóa</item>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>Rất nhỏ</item>
+        <item>Nhỏ</item>
+        <item>Bình thường</item>
+        <item>Lớn</item>
+        <item>Rất lớn</item>
     </string-array>
     <string-array name="menu_att_mgr_sort_string_array">
-        <item>Mặc định</item>
+        <item>Gần đây</item>
         <item>Định dạng</item>
         <item>Tên</item>
         <item>Người gửi</item>
         <item>Ngày</item>
+    </string-array>
+    <string-array name="moveto_folder_sections">
+        <item>Hệ thống</item>
+        <item>Thường dùng</item>
+        <item>Tất cả Thư mục</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>Mới hơn</item>
+        <item>Cũ hơn</item>
+        <item>Danh sách hội thoại</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>Chỉ hiển thị lưu trữ</item>
+        <item>Chỉ hiển thị xóa</item>
+        <item>Hiển thị lưu trữ &amp; xóa</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>Hiển thị hội thoại mới hơn sau khi xóa</item>
+        <item>Hiển thị hội thoại cũ hơn sau khi xóa</item>
+        <item>Hiển thị danh sách hội thoại sau khi xóa</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>Chỉ hiển thị lưu trữ</item>
+        <item>Chỉ hiển thị xóa</item>
+        <item>Hiển thị lưu trữ &amp; xóa</item>
+    </string-array>
+    <string-array name="signature_normal_string_array_next">
+        <item>Địa chỉ:</item>
+        <item>Điện thoại:</item>
+        <item>Tên:</item>
+        <item>Email:</item>
+        <item>Di động:</item>
+        <item>WeChat:</item>
+        <item>Fax:</item>
+        <item>Mã Bưu chính:</item>
+    </string-array>
+    <string-array name="signature_special_string_array">
+        <item>Disclaimer:</item>
+        <item>Email Từ chối</item>
+        <item>Gửi qua WPSMail</item>
+        <item>Gửi từ</item>
+        <item>Gửi với</item>
+        <item>Cảm ơn,</item>
+        <item>Trân trọng</item>
+    </string-array>
+    <string-array name="signature_special_string_array_next">
+        <item>Cảm ơn,</item>
+        <item>Trân trọng</item>
+        <item>Gửi từ</item>
+        <item>Email gốc</item>
+        <item>Gửi từ</item>
+        <item>Gửi từ</item>
+        <item>Từ</item>
+        <item>Email này</item>
+        <item>Từ chối</item>
+        <item>Email Từ chối</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>Đồng bộ thành công.</item>
+        <item>Lỗi kết nối mạng.</item>
+        <item>Không thể đăng nhập.</item>
+        <item>Lỗi khi kết nối an toàn.</item>
+        <item>Không thể đồng bộ.</item>
+        <item>Lỗi máy chủ.</item>
     </string-array>
 </resources>
