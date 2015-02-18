@@ -2,4 +2,6 @@
 <resources>
     <string name="app_name">Dịch vụ UniPlay</string>
     <string name="service_name">Dịch vụ UniPlay</string>
+    <string name="notification_rc_title">Điều khiển từ xa Mi</string>
+    <string name="notification_rc_desc">Bạn có thể sử dụng điều khiển từ xa Mi để điều khiển Mi Box và TV</string>
 </resources>
