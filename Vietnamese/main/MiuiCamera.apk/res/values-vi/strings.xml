@@ -12,13 +12,13 @@
     <string name="access_sd_fail">Không thể truy cập lưu trữ USB.</string>
     <string name="confirm_restore_title">Khôi phục cài đặt mặc định</string>
     <string name="confirm_restore_message">Khôi phục Máy ảnh về cài đặt mặc định?</string>
-    <string name="confirm_location_title">Lưu trữ thông tin vị trí</string>
+    <string name="confirm_location_title">Lưu thông tin vị trí</string>
     <string name="confirm_location_message">Lưu thông tin vị trí vào bức ảnh mà bạn chụp?</string>
-    <string name="save">Đồng ý</string>
-    <string name="no_save">Không, cảm ơn</string>
+    <string name="confirm_location_alert">Lưu thông tin vị trí</string>
+    <string name="start_capture">OK</string>
     <string name="pref_camera_recordlocation_title">Lưu thông tin vị trí</string>
     <string name="pref_camera_recordlocation_entry_off">Tắt</string>
-    <string name="pref_camera_recordlocation_entry_on">Mở</string>
+    <string name="pref_camera_recordlocation_entry_on">Bật</string>
     <string name="pref_camera_sound_title">Âm thanh máy ảnh</string>
     <string name="pref_front_mirror_title">Máy ảnh trước</string>
     <string name="pref_video_quality_title">Chất lượng video</string>
@@ -71,7 +71,7 @@
     <string name="pref_camera_jpegquality_entry_high">Cao</string>
     <string name="pref_camera_jpegquality_entry_normal">Chuẩn</string>
     <string name="pref_camera_jpegquality_entry_low">Thấp</string>
-    <string name="pref_camera_histogram_entry_enable">Mở</string>
+    <string name="pref_camera_histogram_entry_enable">Bật</string>
     <string name="pref_camera_histogram_entry_disable">Tắt</string>
     <string name="pref_camera_focusmode_title">Chế độ lấy nét</string>
     <string name="pref_camera_focusmode_entry_auto">Tự động</string>
@@ -84,7 +84,7 @@
     <string name="pref_video_focusmode_entry_auto">Chạm</string>
     <string name="pref_camera_flashmode_title">Chế độ đèn Flash</string>
     <string name="pref_camera_flashmode_entry_auto">Tự động</string>
-    <string name="pref_camera_flashmode_entry_on">Mở</string>
+    <string name="pref_camera_flashmode_entry_on">Bật</string>
     <string name="pref_camera_flashmode_entry_off">Tắt</string>
     <string name="pref_camera_flashmode_entry_torch">Đèn Pin</string>
     <string name="pref_camera_whitebalance_title">Cân bằng trắng</string>
@@ -112,7 +112,7 @@
     <string name="pref_camera_coloreffect_entry_mirror">Gương</string>
     <string name="pref_camera_coloreffect_entry_gaussianblur">Nhòe</string>
     <string name="pref_camera_touchafaec_entry_off">Tắt</string>
-    <string name="pref_camera_touchafaec_entry_on">Mở</string>
+    <string name="pref_camera_touchafaec_entry_on">Bật</string>
     <string name="pref_camera_multilevel_entry_lowest">Thấp nhất</string>
     <string name="pref_camera_multilevel_entry_lower">Thấp hơn</string>
     <string name="pref_camera_multilevel_entry_low">Thấp</string>
@@ -187,13 +187,13 @@
     <string name="pref_camera_video_duration_entry_30">30 phút</string>
     <string name="pref_camera_video_duration_entry_120">Không giới hạn</string>
     <string name="pref_camera_skinToneEnhancement_entry_auto">Tự động nâng cao</string>
-    <string name="pref_camera_skinToneEnhancement_entry_enable">Mở</string>
+    <string name="pref_camera_skinToneEnhancement_entry_enable">Bật</string>
     <string name="pref_camera_skinToneEnhancement_entry_disable">Tắt</string>
     <string name="pref_camera_zsl_entry_off">Tắt</string>
     <string name="pref_camera_zsl_entry_on">Bật</string>
     <string name="pref_camera_facedetection_title">Nhận diện khuôn mặt</string>
-    <string name="pref_camera_hand_night_title">HHT</string>
-    <string name="camera_settings_label">Cài đặt máy ảnh</string>
+    <string name="pref_camera_hand_night_title">Chụp đêm</string>
+    <string name="camera_settings_label">Máy ảnh</string>
     <string name="pref_camera_settings_title">Cài đặt</string>
     <string name="pref_camera_referenceline_title">Hiển thị đường tham chiếu</string>
     <string name="pref_camera_volumekey_function_entry_volume">Âm lượng</string>
@@ -204,13 +204,13 @@
     <string name="error_fail_to_start_audio_capture">Không thể bắt đầu chức năng nói để chụp</string>
     <string name="toast_start_audio_capture">Tạo một âm thanh để kích hoạt chụp</string>
     <string name="record_back_pressed_hint">Chạm một lần nữa để dừng ghi âm</string>
-    <string name="toast_burst_snap_finished_start">Kết thúc chụp liên tiếp: </string>
+    <string name="toast_burst_snap_finished_start">Kết thúc chụp liên tiếp:</string>
     <string name="toast_burst_snap_finished_end">ảnh</string>
     <string name="toast_burst_snap_forbidden_when_audio_capture_open">Không thể chụp liên tiếp khi chức năng gọi để chụp được bật</string>
     <string name="time_lapse_error">Không thể dùng kích thước video này cho chế độ quay hẹn giờ</string>
     <string name="pref_camera_movie_solid_title">Chống rung</string>
     <string name="simple_mode_button_text_hdr">Tắt chế độ HDR</string>
-    <string name="simple_mode_button_text_hand_night">Tắt chế độ chụp ảnh chạng vạng tối</string>
+    <string name="simple_mode_button_text_hand_night">Tắt chế độ chụp đêm</string>
     <string name="simple_mode_button_text_panorama">Tắt chụp toàn cảnh</string>
     <string name="simple_mode_button_text_color_effect">Tắt bộ lọc</string>
     <string name="simple_mode_button_text_audio_capture">Tắt chụp bằng giọng nói</string>
@@ -264,9 +264,6 @@
     <string name="face_beauty_age_alias_female_45_60">Nữ 45-60</string>
     <string name="face_beauty_age_alias_female_60_m">Nữ 60+</string>
     <string name="simple_mode_button_text_face_beauty">Đóng làm mịn da</string>
-    <string name="pref_camera_multiple_face_beauty_title">Làm mịn da</string>
-    <string name="pref_camera_multiple_face_beauty_entry_off">1 người</string>
-    <string name="pref_camera_multiple_face_beauty_entry_on">2 người</string>
     <string name="pref_face_beauty_title">Làm mịn da</string>
     <string name="toast_cannot_preview_image_when_screen_locked">Không thể xem ảnh khi điện thoại đang bị khóa</string>
     <string name="pref_priority_storage_title">Lưu trên thẻ SD</string>
@@ -279,6 +276,7 @@
     <string name="pref_capture_settings">Máy ảnh</string>
     <string name="pref_camcorder_settings">Video</string>
     <string name="pref_advance_settings">Cài đặt bổ sung</string>
+    <string name="accessibility_setting_button">Cài đặt nút bổ sung</string>
     <string name="pref_camera_auto_chroma_flash_title">Sắc độ đèn Flash</string>
     <string name="pref_camera_ubifocus_title">Lấy nét sau</string>
     <string name="simple_mode_button_text_ubifocus">Đóng Chế độ Lấy nét sau</string>
@@ -326,4 +324,9 @@
     <string name="pref_camera_asd_night_title">Tự động tăng cường khi chụp ảnh đêm</string>
     <string name="pref_camera_asd_popup_title">Thông báo khi cần đèn Flash</string>
     <string name="simple_mode_button_text_scene">Đóng chế độ cảnh</string>
+    <string name="no_save">Không, cảm ơn</string>
+    <string name="pref_camera_multiple_face_beauty_entry_off">1 người</string>
+    <string name="pref_camera_multiple_face_beauty_entry_on">2 người</string>
+    <string name="pref_camera_multiple_face_beauty_title">Làm mịn da</string>
+    <string name="save">Đồng ý</string>
 </resources>
