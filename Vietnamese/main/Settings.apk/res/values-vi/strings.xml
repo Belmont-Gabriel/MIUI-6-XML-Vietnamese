@@ -1106,7 +1106,7 @@ Bạn hiện đã đăng nhập vào các tài khoản sau đây:
     <string name="activity_not_found">Ứng dụng chưa được cài đặt trên điện thoại của bạn.</string>
     <string name="manageapplications_settings_title">Quản lý ứng dụng</string>
     <string name="manageapplications_settings_summary">Quản lý và xóa ứng dụng đã cài đặt</string>
-    <string name="applications_settings">Đã cài đặt ứng dụng</string>
+    <string name="applications_settings">Ứng dụng</string>
     <string name="applications_settings_summary">Quản lý ứng dụng, thiết lập lối tắt khởi chạy nhanh</string>
     <string name="applications_settings_header">Cài đặt ứng dụng</string>
     <string name="install_applications">Không rõ nguồn gốc</string>
@@ -1398,8 +1398,8 @@ Một số ứng dụng có thể không hoạt động cho đến khi được 
     <string name="accessibility_screen_magnification_summary">"Khi tính năng này được bật, bạn có thể phóng to và thu nhỏ bằng cách chạm ba lần vào màn hình.
 
 Trong khi phóng to, bạn có thể:
-"<li><ul>"Xoay: Kéo hai hoặc nhiều ngón tay qua màn hình.
-"<li>Điều chỉnh mức thu phóng: Chụm hai hoặc nhiều ngón tay với nhau hoặc tách chúng ra.</li></ul></li>"
+"<ul><li>"Xoay: Kéo hai hoặc nhiều ngón tay qua màn hình.
+"<li>Điều chỉnh mức thu phóng: Chụm hai hoặc nhiều ngón tay với nhau hoặc tách chúng ra.</li></li></ul>"
 
 Bạn cũng có thể tạm thời thu phóng các mục bên dưới ngón tay bạn bằng cách nhấn ba lần và giữ. Ở trạng thái thu phóng này, bạn có thể kéo ngón tay để khám phá các phần khác nhau của màn hình. Thả ngón tay để trở về trạng thái trước.
 
@@ -1493,7 +1493,7 @@ Nếu thiết bị có nhiều người dùng, việc sử dụng lối tắt n�
     <string name="power_usage_level_and_status">%1$s - %2$s</string>
     <string name="battery_since_unplugged">Sử dụng pin từ khi tháo đầu cắm</string>
     <string name="battery_since_reset">Sử dụng pin từ khi đặt lại</string>
-    <string name="battery_stats_on_battery">%1$s trong thời lượng pin</string>
+    <string name="battery_stats_on_battery">%1$s sử dụng pin</string>
     <string name="battery_stats_duration">%1$s từ khi tháo đầu cắm</string>
     <string name="battery_stats_charging_label">Đang sạc</string>
     <string name="battery_stats_screen_on_label">Màn hình bật</string>
@@ -1536,18 +1536,18 @@ Nếu thiết bị có nhiều người dùng, việc sử dụng lối tắt n�
     <string name="battery_action_display">Cài đặt màn hình</string>
     <string name="battery_action_wifi">Cài đặt Wi-Fi</string>
     <string name="battery_action_bluetooth">Cài đặt Bluetooth</string>
-    <string name="battery_desc_voice">Pin được các cuộc gọi thoại sử dụng</string>
+    <string name="battery_desc_voice">Pin được sử dụng cho các cuộc gọi thoại</string>
     <string name="battery_desc_standby">Pin được sử dụng khi điện thoại ở chế độ rảnh</string>
-    <string name="battery_desc_radio">Pin được vô tuyến tế bào sử dụng</string>
+    <string name="battery_desc_radio">Pin được sử dụng để thu sóng</string>
     <string name="battery_sugg_radio">Chuyển sang chế độ trên máy bay để tiết kiệm pin trong khu vực không có phủ sóng điện thoại di động</string>
-    <string name="battery_desc_display">Pin được màn hình và đèn nền sử dụng</string>
+    <string name="battery_desc_display">Pin được sử dụng cho màn hình và đèn nền</string>
     <string name="battery_sugg_display">Giảm độ sáng màn hình và/hoặc thời gian chờ khóa màn hình</string>
     <string name="battery_desc_wifi">Pin được sử dụng bởi Wi-Fi</string>
     <string name="battery_sugg_wifi">Tắt Wi-Fi khi không sử dụng hoặc khi không khả dụng</string>
-    <string name="battery_desc_bluetooth">Pin do Bluetooth sử dụng</string>
+    <string name="battery_desc_bluetooth">Pin được sử dụng bởi Bluetooth</string>
     <string name="battery_sugg_bluetooth_basic">Tắt Bluetooth khi không sử dụng</string>
     <string name="battery_sugg_bluetooth_headset">Thử kết nối tới thiết bị Bluetooth khác</string>
-    <string name="battery_desc_apps">Pin do ứng dụng sử dụng</string>
+    <string name="battery_desc_apps">Pin được sử dụng bởi ứng dụng</string>
     <string name="battery_sugg_apps_info">Dừng hoặc gỡ cài đặt ứng dụng</string>
     <string name="battery_sugg_apps_gps">Chọn chế độ tiết kiệm pin</string>
     <string name="battery_sugg_apps_settings">Ứng dụng có thể cung cấp các cài đặt để giảm mức sử dụng pin</string>
@@ -1637,7 +1637,7 @@ Nếu thiết bị có nhiều người dùng, việc sử dụng lối tắt n�
     <string name="tts_engine_preference_section_title">Công cụ ưu tiên</string>
     <string name="tts_general_section_title">Chung</string>
     <string name="gadget_title">Kiểm soát điện năng</string>
-    <string name="gadget_toggle_wifi">Cập nhật cài đặt Wi-Fi</string>
+    <string name="gadget_toggle_wifi">Đang cập nhật cài đặt Wi-Fi</string>
     <string name="gadget_toggle_bluetooth">Đang cập nhật cài đặt Bluetooth</string>
     <string name="gadget_state_template">%1$s %2$s</string>
     <string name="gadget_state_on">bật</string>
@@ -2231,7 +2231,6 @@ Bất kỳ người dùng nào cũng có thể chấp nhận các quyền của 
     <string name="back_key">Phím Back</string>
     <string name="screen_key_long_press_timeout">Thời gian bấm giữ</string>
     <string name="under_keyguard">Màn hình khóa</string>
-    <string name="enable_snapshot_screenlock">Bấm giữ phím Quay lại để chụp ảnh</string>
     <string name="disable_power_key_long_press_under_keyguard">Tắt chức năng giữ lâu phím Nguồn</string>
     <string name="trackball_wake_title">Đánh thức thiết bị bằng bi xoay</string>
     <string name="pref_volume_wake_title">Đánh thức thiết bị bằng phím âm lượng</string>
@@ -2575,7 +2574,7 @@ Nếu kích thước văn bản của hệ thống vẫn quá nhỏ, hãy thử 
     <string name="wps_connect_title">Kết nối WPS</string>
     <string name="wps_connect_summary">Đảm bảo rằng bộ định tuyến của bạn được hỗ trợ và đã bật WPS</string>
     <string name="retry">Thử lại</string>
-    <string name="brightness_auto_adjust_off">"Độ sáng màn hình sẽ không thay đổi"</string>
+    <string name="brightness_auto_adjust_off">Độ sáng màn hình sẽ không thay đổi</string>
     <string name="brightness_auto_adjust_on">Tự điều chỉnh độ sáng màn hình với ánh sáng môi trường</string>
     <string name="private_sms_need_to_unlock">Cần nhập mật khẩu:</string>
     <string name="private_sms_reset_by_account">Để đặt lại mật khẩu, đăng nhập vào Tài khoản Mi</string>
@@ -2939,4 +2938,5 @@ Nếu kích thước văn bản của hệ thống vẫn quá nhỏ, hãy thử 
     <string name="miracast_PC2THOR_streaming_on">Miracast không khả dụng bởi vì PC đang truyền đến thiết bị này</string>
     <string name="miracast_disable_dhcp">Tắt HDCP</string>
     <string name="miracast_enable_dhcp">Bật HDCP</string>
+    <string name="enable_snapshot_screenlock">Bấm giữ phím Quay lại để chụp ảnh</string>
 </resources>
