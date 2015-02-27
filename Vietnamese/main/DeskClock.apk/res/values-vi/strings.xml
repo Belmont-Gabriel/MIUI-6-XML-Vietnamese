@@ -2,13 +2,13 @@
 <resources>
     <string name="common_settings">Cài đặt</string>
     <string name="alarm_settings">Cài đặt báo thức</string>
-    <string name="edit_systemtime">Thiết lập thời gian hệ thống</string>
+    <string name="edit_systemtime">Sửa giờ hệ thống</string>
     <string name="vibrate_pref_summary">Rung khi báo thức</string>
     <string name="label_pref_summary">Đặt nhãn báo thức</string>
-    <string name="worldclock_title">Đồng hồ</string>
+    <string name="worldclock_title">Giờ thế giới</string>
     <string name="stopwatch_title">Bấm giờ</string>
     <string name="timer_title">Hẹn giờ</string>
-    <string name="menu_add_worldclock">Thêm đồng hồ</string>
+    <string name="menu_add_worldclock">Thêm múi giờ</string>
     <string name="menu_edit_timer_item">Chỉnh sửa nhiệm vụ hẹn giờ</string>
     <string name="delete_timer_item_title">Xóa nhiệm vụ hẹn giờ</string>
     <string name="delete_selected_timer_item">Xóa nhiệm vụ hẹn giờ đã chọn?</string>
@@ -119,6 +119,6 @@
     <string name="alarm_duration_summary">Khoảng %d phút</string>
     <string name="alarm_count_summary">Đổ chuông %d tự động dừng</string>
     <string name="alarm_count_never_summary">Không tự động dừng lại</string>
-    <string name="menu_edit_alarm">Chỉnh sửa báo thức</string>
     <string name="alarm_in_silent_mode_summary">Phát báo thức ngay cả khi điện thoại ở chế độ im lặng</string>
+    <string name="menu_edit_alarm">Chỉnh sửa báo thức</string>
 </resources>
