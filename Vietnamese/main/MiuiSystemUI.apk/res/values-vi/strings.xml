@@ -17,27 +17,35 @@ Chỉ sử dụng bộ sạc được cung cấp."</string>
     <string name="label_view">Xem</string>
     <string name="always_use_device">Sử dụng theo mặc định cho thiết bị USB này</string>
     <string name="always_use_accessory">Sử dụng theo mặc định cho phụ kiện USB này</string>
+    <string name="usb_debugging_title">Cho phép gỡ lỗi USB?</string>
+    <string name="usb_debugging_message">"Mã nhận dạng RSA máy tính là:
+%1$s"</string>
+    <string name="usb_debugging_always">Luôn cho phép từ máy tính này</string>
     <string name="screenshot_saving_ticker">Đang lưu ảnh chụp màn hình…</string>
     <string name="screenshot_saving_title">Đang lưu ảnh chụp màn hình…</string>
     <string name="screenshot_saving_text">Ảnh chụp màn hình đang được lưu.</string>
     <string name="screenshot_saved_title">Đã chụp ảnh màn hình.</string>
     <string name="screenshot_saved_text">Chạm để xem ảnh chụp màn hình của bạn.</string>
     <string name="screenshot_failed_text">Không thể lưu ảnh chụp màn hình. Bộ lưu trữ có thể đang được sử dụng.</string>
-    <string name="accessibility_back">Quay lại</string>
-    <string name="accessibility_home">Trang chủ</string>
-    <string name="accessibility_menu">Trình đơn</string>
+    <string name="accessibility_back">Back</string>
+    <string name="accessibility_home">Home</string>
+    <string name="accessibility_menu">Menu</string>
     <string name="accessibility_recent">Ứng dụng gần đây</string>
+    <string name="accessibility_search_light">Tìm kiếm</string>
+    <string name="accessibility_camera_button">Máy ảnh</string>
     <string name="accessibility_bluetooth_connected">Đã kết nối bluetooth.</string>
     <string name="accessibility_bluetooth_disconnected">Bluetooth bị ngắt kết nối.</string>
-    <string name="accessibility_no_phone">Không có điện thoại nào.</string>
+    <string name="accessibility_no_phone">Không có tín hiệu.</string>
     <string name="accessibility_phone_one_bar">Tín hiệu điện thoại một vạch.</string>
     <string name="accessibility_phone_two_bars">Tín hiệu điện thoại hai vạch.</string>
     <string name="accessibility_phone_three_bars">Tín hiệu điện thoại ba vạch.</string>
+    <string name="accessibility_phone_four_bars">Tín hiệu điện thoại bốn vạch.</string>
     <string name="accessibility_phone_signal_full">Tín hiệu điện thoại đầy đủ.</string>
     <string name="accessibility_no_data">Không có dữ liệu.</string>
     <string name="accessibility_data_one_bar">Tín hiệu dữ liệu một vạch.</string>
     <string name="accessibility_data_two_bars">Tín hiệu dữ liệu hai vạch.</string>
     <string name="accessibility_data_three_bars">Tín hiệu dữ liệu ba vạch.</string>
+    <string name="accessibility_data_four_bars">Tín hiệu dữ liệu bốn vạch.</string>
     <string name="accessibility_data_signal_full">Tín hiệu dữ liệu đầy đủ.</string>
     <string name="accessibility_no_wifi">Không có Wi-Fi.</string>
     <string name="accessibility_wifi_one_bar">Wi-Fi một vạch.</string>
@@ -54,7 +62,7 @@ Chỉ sử dụng bộ sạc được cung cấp."</string>
     <string name="accessibility_data_connection_3.5g">3,5G</string>
     <string name="accessibility_data_connection_4g">4G</string>
     <string name="accessibility_data_connection_cdma">CDMA</string>
-    <string name="accessibility_data_connection_edge">Cạnh</string>
+    <string name="accessibility_data_connection_edge">Edge</string>
     <string name="accessibility_bluetooth_tether">Dùng làm điểm truy cập Internet qua Bluetooth.</string>
     <string name="accessibility_airplane_mode">Chế độ trên máy bay.</string>
     <string name="accessibility_battery_level">%d phần trăm pin.</string>
@@ -76,7 +84,7 @@ Nếu bạn bật lại dữ liệu, bạn có thể bị nhà cung cấp tính 
     <string name="gps_notification_found_text">Vị trí đặt bởi GPS</string>
     <string name="accessibility_clear_all">Xóa tất cả thông báo.</string>
     <string name="status_bar_notification_inspect_item_title">Thông tin về ứng dụng</string>
-    <string name="status_bar_date_format">E d/M</string>
+    <string name="status_bar_date_format">EEE, d MMM</string>
     <string name="status_bar_recent_guide_all">"Trượt lên để đóng
 Trượt xuống để khóa"</string>
     <string name="status_bar_recent_guide_top">Trượt lên để đóng</string>
@@ -157,8 +165,12 @@ Trượt xuống để khóa"</string>
     <string name="ext_media_nomedia_notification_message">Lưu trữ USB đã gỡ bỏ. Lắp phương tiện mới.</string>
     <string name="ext_media_mountable_notification_title">Thiết bị lưu trữ USB đã được kết nối</string>
     <string name="ext_media_mountable_notification_message">Chạm để mở trong Tập tin.</string>
-    <string name="ext_media_safe_remove">Rút ra an toàn</string>
+    <string name="ext_media_safe_remove">Tháo an toàn</string>
     <string name="status_bar_network_flow_today">Hôm nay: %1$s</string>
+    <string name="status_bar_network_flow_content">"Hôm nay: %1$s   Còn lại: %2$s"</string>
+    <string name="status_bar_network_flow_exceed_content">Hôm nay: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Vượt giới hạn: &lt;font color=%2$s>%3$s&lt;/font></string>
+    <string name="status_bar_network_flow_purchase">"   Mua >"</string>
+    <string name="status_bar_network_flow_limit">"   Giới hạn hàng tháng: %1$s"</string>
     <string name="drive_mode_tip">Bạn đang ở chế độ xe hơi</string>
     <string name="no_notification_tips">Không có thông báo</string>
     <string name="notification_otg_mouse_in">Chuột đã kết nối</string>
@@ -197,6 +209,4 @@ Trượt xuống để khóa"</string>
     <string name="audio_effect_settings">Thiết lập loại tai nghe</string>
     <string name="audio_effect_info">Tối ưu hóa âm thanh</string>
     <string name="audio_effect_custom">Cấu hình</string>
-    <string name="status_bar_network_flow">Hôm nay: %1$s Còn lại: %2$s Giới hạn hàng tháng: %3$s</string>
-    <string name="status_bar_network_flow_exceed">Hôm nay: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Đã vượt quá:&lt;font color=%2$s>%3$s&lt;/font>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Giới hạn hàng tháng: %4$s</string>
 </resources>
