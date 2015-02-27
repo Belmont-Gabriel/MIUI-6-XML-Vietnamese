@@ -834,7 +834,7 @@ Hãy thử lại hoặc gọi cho dịch vụ khách hàng để có tùy chọn
     <string name="msim_switch_data_conn_toast_for_h2xct">Khe cắm SIM 2 chỉ hỗ trợ mạng GSM. Loại mạng ưu tiên cho khe cắm này đã được thay đổi thành chỉ mạng 2G.</string>
     <string name="select_voice_call_sim">Chọn thẻ SIM</string>
     <string name="general_setting">Cài đặt</string>
-    <string name="call_record_setting">Cài đặt ghi cuộc gọi</string>
+    <string name="call_record_setting">Ghi âm cuộc gọi</string>
     <string name="preference_telocation_title">Vị trí</string>
     <string name="cloud_antispam_title">Nhận dạng số không xác định</string>
     <string name="preference_auto_ip_summary_disable">Đã tắt</string>
@@ -845,8 +845,8 @@ Hãy thử lại hoặc gọi cho dịch vụ khách hàng để có tùy chọn
     <string name="preference_dial_pad_touch_tone_default">Mặc định</string>
     <string name="preference_dial_pad_touch_tone_piano">Tiếng piano</string>
     <string name="preference_telocation_summary_countrycode_off">Không tự động thêm mã quốc gia</string>
-    <string name="telephony_setting">Cài đặt cuộc gọi</string>
+    <string name="telephony_setting">Cuộc gọi</string>
     <string name="international_roaming_setting">Chuyển vùng quốc tế</string>
-    <string name="sim_cards_network_mode_changed_title">Đã phát hiện thẻ SIM mới</string>
     <string name="sim_cards_network_mode_changed_summary">Chạm để xem SMS và cài đặt cuộc gọi.</string>
+    <string name="sim_cards_network_mode_changed_title">Đã phát hiện thẻ SIM mới</string>
 </resources>
