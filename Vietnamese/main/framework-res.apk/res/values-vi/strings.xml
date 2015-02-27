@@ -411,7 +411,7 @@
     <string name="permdesc_manageCaCertificates">Cho phép ứng dụng cài đặt và gỡ cài đặt chứng chỉ CA dưới dạng thông tin xác thực đáng tin cậy.</string>
     <string name="permlab_diagnostic">đọc/ghi vào tài nguyên do chẩn đoán sở hữu</string>
     <string name="permdesc_diagnostic">Cho phép ứng dụng đọc và ghi vào bất kỳ tài nguyên nào do nhóm chẩn đoán sở hữu; ví dụ: các tệp trong /dev. Quyền này có thể ảnh hưởng đến sự ổn định và tính bảo mật của hệ thống. CHỈ nên sử dụng quyền này cho các chẩn đoán phần cứng cụ thể của nhà sản xuất hoặc nhà cung cấp.</string>
-    <string name="permlab_changeComponentState">bật hoặc tắt cấu phần ứng dụng</string>
+    <string name="permlab_changeComponentState">bật/tắt cấu phần ứng dụng</string>
     <string name="permdesc_changeComponentState">Cho phép ứng dụng thay đổi việc có bật cấu phần của một ứng dụng khác hay không. Ứng dụng độc hại có thể sử dụng quyền này để tắt những tính năng quan trọng của điện thoại. Phải sử dụng quyền này thận trọng vì có thể khiến các cấu phần của ứng dụng rơi vào trạng thái không thể sử dụng được, không đồng nhất hoặc không ổn định.</string>
     <string name="permlab_grantRevokePermissions">cấp hoặc thu hồi quyền</string>
     <string name="permdesc_grantRevokePermissions">Cho phép ứng dụng cấp hoặc thu hồi quyền cụ thể đối với ứng dụng đó hoặc các ứng dụng khác. Các ứng dụng độc hại có thể lợi dụng điều này để truy cập các tính năng mà bạn không cấp.</string>
@@ -531,8 +531,8 @@
     <string name="permdesc_wakeLock">Cho phép ứng dụng ngăn điện thoại chuyển sang chế độ ngủ.</string>
     <string name="permlab_transmitIr">phát hồng ngoại</string>
     <string name="permdesc_transmitIr">Cho phép ứng dụng sử dụng bộ phát hồng ngoại của điện thoại.</string>
-    <string name="permlab_devicePower">bật hoặc tắt điện thoại</string>
-    <string name="permdesc_devicePower">Cho phép ứng dụng bật hoặc tắt điện thoại.</string>
+    <string name="permlab_devicePower">bật/tắt điện thoại</string>
+    <string name="permdesc_devicePower">Cho phép ứng dụng bật/tắt điện thoại.</string>
     <string name="permlab_factoryTest">chạy ở chế độ thử nghiệm trong nhà máy</string>
     <string name="permdesc_factoryTest">Chạy dưới dạng thử nghiệm nhà máy cấp thấp, cho phép quyền truy cập hoàn toàn vào phần cứng điện thoại. Chỉ khả dụng khi điện thoại chạy ở chế độ thử nghiệm trong nhà máy.</string>
     <string name="permlab_setWallpaper">đặt hình nền</string>
