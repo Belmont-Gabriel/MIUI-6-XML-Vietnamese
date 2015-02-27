@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="movie_channel_tabs">
+        <item>Đề nghị</item>
+        <item>Xếp hạng</item>
+        <item>Nóng</item>
+        <item>Mới nhất</item>
+    </string-array>
+    <string-array name="variety_channel_tabs">
+        <item>Đề nghị</item>
+        <item>Nóng</item>
+    </string-array>
+    <string-array name="channel_tabs">
+        <item>Nóng</item>
+        <item>Xếp hạng</item>
+        <item>Mới nhất</item>
+    </string-array>
+</resources>
