@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="confirm_delete_has_cloud_image">
-        <item quantity="other">" "&lt;Data> Xóa &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> ảnh trên &amp;lt;font color=#323232>&amp;lt;b>Mi Cloud&amp;lt;/b>&amp;lt;/font>?&lt;/Data>" "</item>
-        <item quantity="one">" "&lt;Data> Xóa &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> ảnh trên &amp;lt;font color=#323232>&amp;lt;b>Mi Cloud&amp;lt;/b>&amp;lt;/font>?&lt;/Data>" "</item>
+        <item quantity="other">" &amp;lt;Data> Xóa &amp;amp;lt;xliff:g id=ITEM>%s&amp;amp;lt;/xliff:g> ảnh trên &amp;amp;lt;font color=#323232>&amp;amp;lt;b>Mi Cloud&amp;amp;lt;/b>&amp;amp;lt;/font>?&amp;lt;/Data> "</item>
+        <item quantity="one">" &amp;lt;Data> Xóa &amp;amp;lt;xliff:g id=ITEM>%s&amp;amp;lt;/xliff:g> ảnh trên &amp;amp;lt;font color=#323232>&amp;amp;lt;b>Mi Cloud&amp;amp;lt;/b>&amp;amp;lt;/font>?&amp;lt;/Data> "</item>
     </plurals>
     <plurals name="confirm_delete_has_local_image">
         <item quantity="other">Xóa %s ảnh?</item>
         <item quantity="one">Xóa %s ảnh?</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_video">
-        <item quantity="other">" "&lt;Data> Xóa &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> video trên &amp;lt;font color=#323232>&amp;lt;b>Mi Cloud&amp;lt;/b>&amp;lt;/font>?&lt;/Data>" "</item>
-        <item quantity="one">" "&lt;Data> Xóa &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> video trên &amp;lt;font color=#323232>&amp;lt;b>Mi Cloud&amp;lt;/b>&amp;lt;/font>?&lt;/Data>" "</item>
+        <item quantity="other">" &amp;lt;Data> Xóa &amp;amp;lt;xliff:g id=ITEM>%s&amp;amp;lt;/xliff:g> video trên &amp;amp;lt;font color=#323232>&amp;amp;lt;b>Mi Cloud&amp;amp;lt;/b>&amp;amp;lt;/font>?&amp;lt;/Data> "</item>
+        <item quantity="one">" &amp;lt;Data> Xóa &amp;amp;lt;xliff:g id=ITEM>%s&amp;amp;lt;/xliff:g> video trên &amp;amp;lt;font color=#323232>&amp;amp;lt;b>Mi Cloud&amp;amp;lt;/b>&amp;amp;lt;/font>?&amp;lt;/Data> "</item>
     </plurals>
     <plurals name="confirm_delete_has_local_video">
         <item quantity="other">Xóa %s video?</item>
         <item quantity="one">Xóa %s video?</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_local_image">
-        <item quantity="other">" "&lt;Data> Xóa &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> ảnh trên &amp;lt;font color=#323232>&amp;lt;b>máy và Mi Cloud&amp;lt;/b>&amp;lt;/font>?&lt;/Data>" "</item>
-        <item quantity="one">" "&lt;Data> Xóa &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> photo in both &amp;lt;font color=#323232>&amp;lt;b>máy và Mi Cloud&amp;lt;/b>&amp;lt;/font>?&lt;/Data>" "</item>
+        <item quantity="other">" &amp;lt;Data> Xóa &amp;amp;lt;xliff:g id=ITEM>%s&amp;amp;lt;/xliff:g> ảnh trên &amp;amp;lt;font color=#323232>&amp;amp;lt;b>máy và Mi Cloud&amp;amp;lt;/b>&amp;amp;lt;/font>?&amp;lt;/Data> "</item>
+        <item quantity="one">" &amp;lt;Data> Xóa &amp;amp;lt;xliff:g id=ITEM>%s&amp;amp;lt;/xliff:g> ảnh trên &amp;amp;lt;font color=#323232>&amp;amp;lt;b>máy và Mi Cloud&amp;amp;lt;/b>&amp;amp;lt;/font>?&amp;lt;/Data> "</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_local_video">
-        <item quantity="other">" "&lt;Data> Xóa &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> video trên &amp;lt;font color=#323232>&amp;lt;b>máy và Mi Cloud&amp;lt;/b>&amp;lt;/font>?&lt;/Data>" "</item>
-        <item quantity="one">" "&lt;Data> Xóa &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> video trên &amp;lt;font color=#323232>&amp;lt;b>máy và Mi Cloud&amp;lt;/b>&amp;lt;/font>?&lt;/Data>" "</item>
+        <item quantity="other">" &amp;lt;Data> Xóa &amp;amp;lt;xliff:g id=ITEM>%s&amp;amp;lt;/xliff:g> video trên &amp;amp;lt;font color=#323232>&amp;amp;lt;b>máy và Mi Cloud&amp;amp;lt;/b>&amp;amp;lt;/font>?&amp;lt;/Data> "</item>
+        <item quantity="one">" &amp;lt;Data> Xóa &amp;amp;lt;xliff:g id=ITEM>%s&amp;amp;lt;/xliff:g> video trên &amp;amp;lt;font color=#323232>&amp;amp;lt;b>máy và Mi Cloud&amp;amp;lt;/b>&amp;amp;lt;/font>?&amp;lt;/Data> "</item>
     </plurals>
     <plurals name="number_of_items_selected">
         <item quantity="other">Đã chọn %1$d mục</item>
@@ -47,7 +47,7 @@
         <item quantity="one">%d thư mục</item>
     </plurals>
     <plurals name="message_no_delete_access_with_count">
-        <item quantity="other">"Bạn không có quyền xóa %d tập tin này."</item>
+        <item quantity="other">Bạn không có quyền xóa %d tập tin này.</item>
         <item quantity="one">"Bạn không có quyền xóa  %d tập tin này."</item>
     </plurals>
     <plurals name="pick_with_limited_upper_bound_title">
