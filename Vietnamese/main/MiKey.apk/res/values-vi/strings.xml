@@ -178,7 +178,7 @@ Mở thanh công cụ, trượt từ phía trên cùng của màn hình xuống 
     <string name="setting_keeplive_desc">Tùy chọn này cho phép ứng dụng chạy nền và phản ứng nhanh với các lệnh của bạn. Tuy nhiên, việc này có thể làm tăng mức tiêu thụ Pin.</string>
     <string name="setting_speed_text">Tốc độ</string>
     <string name="setting_keeplive_text">Chạy nền</string>
-    <string name="setting_instant_photo_text">Tập trung trước khi chụp ảnh</string>
+    <string name="setting_instant_photo_text">Lấy nét trước khi chụp</string>
     <string name="setting_vibrate_text">Rung phản hồi</string>
     <string name="setting_silent_mode">Chế độ im lặng</string>
     <string name="setting_proximity_text">Sử dụng cảm biến tiệm cận</string>
