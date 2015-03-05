@@ -42,7 +42,7 @@
     <string name="redeye_tooltip">Chạm để xóa mắt đỏ</string>
     <string name="rotate_tooltip">Kéo ảnh để xoay</string>
     <string name="straighten_tooltip">Kéo ảnh thẳng</string>
-    <string name="contrast">Tương phản</string>
+    <string name="contrast">Tương phản</string>
     <string name="frame_button">Khung</string>
     <string name="frame_classic">Cổ điển</string>
     <string name="frame_white">Trắng</string>
@@ -54,11 +54,11 @@
     <string name="original">Bản gốc</string>
     <string name="app_name">Thư viện</string>
     <string name="loading">Đang tải…</string>
-    <string name="no_thumbnail">Không có hình thu nhỏ</string>
+    <string name="no_thumbnail">Không có thumbnail</string>
     <string name="crop_save_text">Lưu</string>
     <string name="crop_save_text_setas">Áp dụng</string>
     <string name="crop_recognize_text">Nhận biết</string>
-    <string name="multiface_crop_help">Chạm vào một khuôn mặt để bắt đầu</string>
+    <string name="multiface_crop_help">Chạm vào khuôn mặt để bắt đầu</string>
     <string name="saving_image">Đang lưu ảnh…</string>
     <string name="recognizing_image">Đang nhận biết hình ảnh…</string>
     <string name="save_error">Không thể lưu ảnh đã cắt</string>
@@ -69,17 +69,17 @@
     <string name="delete">Xóa</string>
     <string name="confirm_delete">Xóa %s ảnh?</string>
     <string name="comfirm_delete_current_album">Xóa album này?</string>
-    <string name="confirm_delete_album" formatted="false">Xóa %s album (%s tổng mục)?</string>
-    <string name="confirm_delete_system_album">%s là một album hệ thống.</string>
+    <string name="confirm_delete_album" formatted="false">Xóa %s album (%s mục)?</string>
+    <string name="confirm_delete_system_album">%s là album hệ thống.</string>
     <string name="operation_delete_confirm_message_folder">Toàn bộ nội dung thư mục sẽ bị xóa. </string>
     <string name="delete_folder">Xóa %1$d thư mục?</string>
     <string name="delete_file">Xóa %1$d tập tin?</string>
     <string name="delete_files_and_folders">Xóa %1$d tập tin và %2$d thư mục?</string>
     <string name="confirm_delete_init_title">Xóa ảnh</string>
     <string name="confirm_delete_init_message">Ảnh sẽ được xóa từ thiết bị của bạn và từ Mi Cloud. Nếu bạn chỉ muốn xóa ở trên máy, vui lòng chọn \" Trên máy\".</string>
-    <string name="confirm_delete_has_cloud_local_image_video">" "<Data> Xóa các mục &lt;xliff:g id=ITEM>%s&lt;/xliff:g> trên &lt;font color=#323232>&lt;b> máy và Mi Cloud &lt;/b>&lt;/font>?</Data>" "</string>
-    <string name="confirm_delete_has_cloud_image_video">" "<Data> Xóa các mục &lt;xliff:g id=ITEM>%s&lt;/xliff:g> trên &lt;font color=#323232>&lt;b>Mi Cloud&lt;/b>&lt;/font>?</Data>" "</string>
-    <string name="confirm_delete_has_local_image_video">Xóa mục %s ?</string>
+    <string name="confirm_delete_has_cloud_local_image_video">" "<Data> Xóa &lt;xliff:g id=ITEM>%s&lt;/xliff:g> mục trên &lt;font color=#323232>&lt;b>máy và Mi Cloud&lt;/b>&lt;/font>?</Data>" "</string>
+    <string name="confirm_delete_has_cloud_image_video">" "<Data> Xóa &lt;xliff:g id=ITEM>%s&lt;/xliff:g> mục trên &lt;font color=#323232>&lt;b>Mi Cloud&lt;/b>&lt;/font>?</Data>" "</string>
+    <string name="confirm_delete_has_local_image_video">Xóa %s mục?</string>
     <string name="cancel">Hủy</string>
     <string name="select_all">Chọn tất cả</string>
     <string name="deselect_all">Bỏ chọn tất cả</string>
@@ -129,7 +129,7 @@
     <string name="file_size">Kích thước</string>
     <string name="maker">Người chụp</string>
     <string name="device_model">Thiết bị</string>
-    <string name="flash">Đèn flash</string>
+    <string name="flash">Đèn Flash</string>
     <string name="aperture">Khẩu độ</string>
     <string name="focal_length">Độ dài tiêu cự</string>
     <string name="white_balance">Cân bằng trắng</string>
@@ -210,9 +210,9 @@
     <string name="slideshow_interval_dialog_title">Thời gian trình chiếu phải lớn hơn 0 giây</string>
     <string name="slideshow_interval_invalid">Thời gian phải nằm từ 1~3600 giây</string>
     <string name="slideshow_repeat_mode">Lặp lại</string>
-    <string name="clear_thumbnail_cache">Xóa hình thu nhỏ bộ nhớ đệm</string>
-    <string name="clear_thumbnail_cache_summary">Xóa hình thu nhỏ được lưu ở Thư viện</string>
-    <string name="clear_thumbnail_cache_confirm">Tất cả hình thu nhỏ được lưu trong Thư viện sẽ bị xóa.</string>
+    <string name="clear_thumbnail_cache">Xóa bộ nhớ đệm thumbnail</string>
+    <string name="clear_thumbnail_cache_summary">Xóa thumbnail được lưu ở Thư viện</string>
+    <string name="clear_thumbnail_cache_confirm">Tất cả thumbnail được lưu trong Thư viện sẽ bị xóa.</string>
     <string name="cleaning_cache">Đang xóa bộ nhớ đệm…</string>
     <string name="seconds">" giây"</string>
     <string name="screensaver_activate_mode">Màn hình chờ trong khi ngủ</string>
@@ -289,6 +289,7 @@
     <string name="initial_cloud_button_text">Đăng nhập</string>
     <string name="storage_no_space">Không đủ dung lượng</string>
     <string name="add_to_cloud_album">Thêm vào album</string>
+    <string name="choose_cloud_album">Chọn album</string>
     <string name="move_to_cloud_album">Chuyển đến</string>
     <string name="move">Chuyển</string>
     <string name="cloud_folder_chooser_move">Xóa ảnh từ album gốc</string>
@@ -557,6 +558,7 @@ thiết bị"</string>
     <string name="impunity_declaration_title">Kết nối Internet</string>
     <string name="impunity_declaration">Một số tính năng của Thư viện cần phải kết nối internet để có thể hoạt động bình thường.</string>
     <string name="impunity_declaration_ignore">Không hiển thị lại</string>
+    <string name="impunity_declaration_positive_text">OK</string>
     <string name="impunity_declaration_settings">Thông báo kết nối internet</string>
     <string name="impunity_declaration_summary">Hiển thị thông báo kết nối internet mỗi khi bạn mở Thư viện</string>
     <string name="auto_upload_title">Tải lên tự động</string>
@@ -579,7 +581,5 @@ thiết bị"</string>
     <string name="auto_upload_guide_msssage">" "<Data> Tự động tải ảnh của bạn từ ứng dụng khác lên Mi Cloud. Xem cài đặt ở &lt;font color=#323232>&lt;b>Cài đặt Thư viện>Đồng bộ với Mi Cloud>Tự động tải lên&lt;/b>&lt;/font>. </Data>" "</string>
     <string name="not_now">Không phải bây giờ</string>
     <string name="go_setting">Xem cài đặt</string>
-    <string name="picker_tab_local">@string/home_page_tab_local</string>
-    <string name="picker_tab_cloud">@string/home_page_tab_cloud</string>
     <string name="paint_crop_tips">Để có được bức ảnh đẹp hơn, hãy cố gắng đặt phần quan tâm trên điểm lưới bằng cách thay đổi kích thước và di chuyển.</string>
 </resources>
