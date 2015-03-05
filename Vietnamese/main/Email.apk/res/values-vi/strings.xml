@@ -376,7 +376,6 @@
     <string name="draft_count_format"> (%1$s)</string>
     <string name="drawer_close">Đóng ngăn kéo điều hướng</string>
     <string name="drawer_open">Mở ngăn kéo điều hướng</string>
-    <string name="eas_template">tên miền\\người dùng</string>
     <string name="edit_quick_response_dialog">Trả lời nhanh</string>
     <string name="empty_account_tip">Không thể tìm thấy tài khoản</string>
     <string name="empty_email_tip">Không thể gửi thư trống</string>
@@ -724,7 +723,6 @@ CC: %4$s
     <string name="reply">Trả lời</string>
     <string name="reply_all">Trả lời tất cả</string>
     <string name="reply_attribution" formatted="false">Trong %s, %s đã viết:</string>
-    <string name="reply_subject_label">Trả lời:</string>
     <string name="replyto_heading">"Trả lời đến: "</string>
     <string name="report">Báo cáo</string>
     <string name="report_phishing">Báo cáo lừa đảo</string>
