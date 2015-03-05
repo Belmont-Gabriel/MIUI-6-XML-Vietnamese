@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="weather_type">
-        <item>Nắng</item>
+        <item>Quang</item>
         <item>Nhiều mây</item>
         <item>Âm u</item>
         <item>Sương mù</item>
