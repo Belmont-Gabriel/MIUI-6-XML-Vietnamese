@@ -71,7 +71,7 @@
     <string name="view_sun_titile">B.minh &amp; H.hôn</string>
     <string name="data_source_time_fromat">"dd-MM-yyyy'T'HH:mm:ss"</string>
     <string name="activity_main_time_format">dd/MM</string>
-    <string name="viewsun_time_format">H:mm</string>
+    <string name="viewsun_time_format">h:mma</string>
     <string name="view_aqi_detail_title">Chi tiết AQI</string>
     <string name="view_aqi_detail_pm10">PM10</string>
     <string name="view_aqi_detail_so2">SO<sub><small>2</small></sub></string>
