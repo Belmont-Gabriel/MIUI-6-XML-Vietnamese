@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="delete">Xóa</string>
-    <string name="unlockscreen_recharging_message">Đang sạc %d%%</string>
-    <string name="unlockscreen_recharge_completed">Đã sạc đầy pin</string>
+    <string name="unlockscreen_recharging_message">Đang sạc (%d%%)</string>
+    <string name="unlockscreen_recharge_completed">Đã đầy</string>
     <string name="unlockscreen_low_battery">Kết nối bộ sạc ngay</string>
-    <string name="lockscreen_charging_msg">Đang sạc</string>
+    <string name="lockscreen_charging_msg">Đang sạc…</string>
     <string name="emergency_call_string">Khẩn cấp</string>
     <string name="forget_password_string">Quên mật khẩu</string>
     <string name="input_puk_code">Nhập mã PUK</string>
@@ -15,7 +15,7 @@
     <string name="incorrect_pukcode">Mã PUK không chính xác</string>
     <string name="incorrect_pincode">Mã PIN không chính xác</string>
     <string name="open_wifi_settings">Mở kết nối mạng</string>
-    <string name="lock_screen_date">EEE, MMMM dd</string>
+    <string name="lock_screen_date">EEEE, d MMMM</string>
     <string name="lockscreen_glogin_password_hint">Mật khẩu</string>
     <string name="lockscreen_glogin_checking_password">Đang kiểm tra…</string>
     <string name="login_website_in_case_forget_password">Để đặt lại mật khẩu, truy cập www.mi.com/micloud</string>
