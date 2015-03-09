@@ -35,6 +35,9 @@
     <string name="date_picker_dialog_title">Đặt ngày</string>
     <string name="time_picker_dialog_title">Đặt giờ</string>
     <string name="date_time_picker_dialog_title">Đặt ngày và giờ</string>
+    <string name="app_name_which_call">Ứng dụng: %s</string>
+    <string name="app_version_which_call">Phiên bản ứng dụng: %s</string>
+    <string name="policy_name">Chính sách: %s</string>
     <string name="copyright">Bản quyền</string>
     <string name="user_agreement">Điều khoản Dịch vụ</string>
     <string name="privacy_policy">Chính sách Bảo mật</string>
@@ -245,7 +248,7 @@
     <string name="friday_shortest">T6</string>
     <string name="saturday_shortest">T7</string>
     <string name="name">Tên</string>
-    <string name="nickname">Biệt danh</string>
+    <string name="nickname">Biệt hiệu</string>
     <string name="phone">Điện thoại</string>
     <string name="email">E-mail</string>
     <string name="organization">Tổ chức</string>
