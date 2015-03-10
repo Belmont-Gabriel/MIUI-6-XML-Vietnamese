@@ -93,4 +93,101 @@
         <item>Trong suốt</item>
         <item>Nền trắng</item>
     </string-array>
+    <string-array name="repeat_frequency_spinner">
+        <item>ngày</item>
+        <item>tuần</item>
+        <item>tháng</item>
+        <item>năm</item>
+    </string-array>
+    <string-array name="repeat_choose_day">
+        <item>Mùng 1</item>
+        <item>Mùng 2</item>
+        <item>Mùng 3</item>
+        <item>Mùng 4</item>
+        <item>Mùng 5</item>
+        <item>Mùng 6</item>
+        <item>Mùng 7</item>
+        <item>Mùng 8</item>
+        <item>Mùng 9</item>
+        <item>Mùng 10</item>
+        <item>Ngày 11</item>
+        <item>Ngày 12</item>
+        <item>Ngày 13</item>
+        <item>Ngày 14</item>
+        <item>Ngày 15</item>
+        <item>Ngày 16</item>
+        <item>Ngày 17</item>
+        <item>Ngày 18</item>
+        <item>Ngày 19</item>
+        <item>Ngày 20</item>
+        <item>Ngày 21</item>
+        <item>Ngày 22</item>
+        <item>Ngày 23</item>
+        <item>Ngày 24</item>
+        <item>Ngày 25</item>
+        <item>Ngày 26</item>
+        <item>Ngày 27</item>
+        <item>Ngày 28</item>
+        <item>Ngày 29</item>
+        <item>Ngày 30</item>
+        <item>Ngày 31</item>
+    </string-array>
+    <string-array name="repeat_choose_weekday">
+        <item>Thứ 2</item>
+        <item>Thứ 3</item>
+        <item>Thứ 4</item>
+        <item>Thứ 5</item>
+        <item>Thứ 6</item>
+        <item>Thứ 7</item>
+        <item>Chủ Nhật</item>
+    </string-array>
+    <string-array name="repeat_choose_month">
+        <item>Tháng 1</item>
+        <item>Tháng 2</item>
+        <item>Tháng 3</item>
+        <item>Tháng 4</item>
+        <item>Tháng 5</item>
+        <item>Tháng 6</item>
+        <item>Tháng 7</item>
+        <item>Tháng 8</item>
+        <item>Tháng 9</item>
+        <item>Tháng 10</item>
+        <item>Tháng 11</item>
+        <item>Tháng 12</item>
+    </string-array>
+    <string-array name="repeat_choose_week_left">
+        <item>tuần đầu tiên</item>
+        <item>tuần thứ hai</item>
+        <item>tuần thứ ba</item>
+        <item>tuần thứ tư</item>
+        <item>tuần cuối cùng</item>
+    </string-array>
+    <string-array name="repeat_choose_week_right">
+        <item>Thứ 2 - Thứ 6</item>
+        <item>Cuối tuần</item>
+        <item>Cả tuần</item>
+    </string-array>
+    <string-array name="repeat_choose_end">
+        <item>Không bao giờ</item>
+        <item>Thời gian</item>
+        <item>Số lần</item>
+    </string-array>
+    <string-array name="online_reminder_minutes_labels">
+        <item>Trước sự kiện này</item>
+        <item>Trước 5 phút</item>
+        <item>Trước 10 phút</item>
+        <item>Trước 15 phút</item>
+        <item>Trước 30 phút</item>
+        <item>Trước 1 giờ</item>
+        <item>Trước 1 ngày</item>
+        <item>Trước 2 ngày</item>
+        <item>Trước 1 tuần</item>
+    </string-array>
+    <string-array name="online_reminder_minutes_labels_allday">
+        <item>9:00 cùng ngày</item>
+        <item>9:00 trước một ngày</item>
+        <item>9:00 trước hai ngày</item>
+        <item>9:00 trước 3 ngày</item>
+        <item>9:00 trước một tuần</item>
+    </string-array>
 </resources>
