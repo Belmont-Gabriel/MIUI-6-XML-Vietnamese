@@ -12,6 +12,7 @@
     <string name="lock_screen_failed_message">Không thể áp dụng làm hình nền màn hình khóa</string>
     <string name="lock_screen_success_message">Đã áp dụng làm màn hình khóa</string>
     <string name="wallpaper_failed_message">Không thể áp dụng hình nền</string>
+    <string name="image_too_small_message">Ảnh gốc là không đủ lớn</string>
     <string name="wallpaper_success_message">Áp dụng hình nền thành công</string>
     <string name="is_setting_wallpaper_toast">Đang cài đặt hình nền…</string>
     <string name="current_wallpaper">Hiện tại</string>
@@ -147,7 +148,7 @@
     <string name="gadget_photo_44_label">Hình ảnh 4x4</string>
     <string name="gadget_photo_22_label">Hình ảnh 2x2</string>
     <string name="gadget_photo_24_label">Hình ảnh 4x2</string>
-    <string name="gadget_google_search_label">Google Tìm kiếm</string>
+    <string name="gadget_google_search_label">Tìm kiếm Google</string>
     <string name="gadget_mtz_label">Tiện ích</string>
     <string name="gadget_calendar_label">Lịch</string>
     <string name="gadget_notes_label">Ghi chú </string>
