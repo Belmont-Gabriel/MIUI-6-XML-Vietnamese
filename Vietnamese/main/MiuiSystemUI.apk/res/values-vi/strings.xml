@@ -84,7 +84,7 @@ Nếu bạn bật lại dữ liệu, bạn có thể bị nhà cung cấp tính 
     <string name="gps_notification_found_text">Vị trí đặt bởi GPS</string>
     <string name="accessibility_clear_all">Xóa tất cả thông báo.</string>
     <string name="status_bar_notification_inspect_item_title">Thông tin về ứng dụng</string>
-    <string name="status_bar_date_format">EEE, d MMM</string>
+    <string name="status_bar_date_format">EEEE, d MMMM</string>
     <string name="status_bar_recent_guide_all">"Trượt lên để đóng
 Trượt xuống để khóa"</string>
     <string name="status_bar_recent_guide_top">Trượt lên để đóng</string>
