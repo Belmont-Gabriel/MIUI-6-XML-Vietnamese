@@ -36,7 +36,7 @@
     <string name="shutdown_progress">Đang tắt…</string>
     <string name="reboot_confirm_title">Điện thoại của bạn sẽ khởi động lại.</string>
     <string name="reboot_progress">Đang khởi động lại…</string>
-    <string name="memory_clear_result">Đã xóa %1$s | Khả dụng %2$s</string>
+    <string name="memory_clear_result">Xóa %1$s | Trống %2$s</string>
     <string name="memory_clear_nothing_result">Không có gì để dọn dẹp trong bộ nhớ đệm</string>
     <string name="device_xiaomi">Điện thoại Mi</string>
     <string name="device_hongmi">Redmi</string>
