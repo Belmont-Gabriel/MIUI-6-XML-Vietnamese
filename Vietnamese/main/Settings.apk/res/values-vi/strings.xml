@@ -2160,7 +2160,7 @@ Bất kỳ người dùng nào cũng có thể chấp nhận các quyền của 
     <string name="device_cpu4_info">"Bốn nhân: "</string>
     <string name="device_cpu8_info">"Tám nhân: "</string>
     <string name="available_size">Trống: %s</string>
-    <string name="total_size">Tổng %s</string>
+    <string name="total_size">Tổng: %s</string>
     <string name="memory_title">Trống: %1$s\u0009\u0009Tổng: %2$s</string>
     <string name="account_list">Tất cả</string>
     <string name="account_add">Thêm</string>
