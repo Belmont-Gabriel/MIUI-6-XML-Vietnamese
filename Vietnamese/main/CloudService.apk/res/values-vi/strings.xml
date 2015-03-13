@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="sina_share_pendding">Đang gửi…</string>
+    <string name="sina_share_success">Gửi thành công!</string>
+    <string name="sina_share_fail">Gửi thất bại!</string>
+    <string name="sina_token_expired_warning">Tài khoản Weibo đã hết hạn: Vui lòng kết nối lại</string>
+    <string name="sina_token_invalid_warning">Tài khoản Weibo không hợp lệ: Vui lòng kết nối lại</string>
+    <string name="sina_share_fail_content_repeat">"Không thể chia sẻ, nội dung đã tồn tại…"</string>
     <string name="app_name">Mi Cloud</string>
     <string name="xiaomi_account_type">com.xiaomi</string>
     <string name="sync_item_sms_title">Đồng bộ tin nhắn</string>
@@ -59,6 +65,7 @@
     <string name="find_device_dspt_provision_2">i.mi.com</string>
     <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
     <string name="find_device_dspt_provision_3">. Bạn có thể bật và tắt tính năng này bất cứ lúc nào trong Cài đặt.</string>
+    <string name="find_device_dspt_provision_4">Nếu bạn đổi thẻ SIM, một tin nhắn SMS sẽ được gửi tự động để kích hoạt lại tính năng này.</string>
     <string name="find_device_send_sms_alert">Nếu bạn đổi thẻ SIM, một tin nhắn SMS sẽ được gửi tự động để kích hoạt lại tính năng này.</string>
     <string name="mx_dspt_provision">"Tin nhắn Mi cho phép bạn gửi tin nhắn cho người dùng MIUI khác mà không phải trả phí.
 
@@ -106,17 +113,17 @@ Nếu bạn đổi thẻ SIM, một tin nhắn SMS sẽ được gửi tự đ�
     <string name="sub_alert_notif_title">Không đồng bộ</string>
     <string name="alert_notif_title_dspt">Không đồng bộ</string>
     <string name="noRemind">Không nhắc tôi nữa</string>
-    <string name="restoreSync">Đồng bộ bây giờ</string>
+    <string name="restoreSync">Đồng bộ ngay</string>
     <string name="enableAll">Đồng bộ tất cả</string>
-    <string name="master_alert_notif_dspt_add">Mục %s đang chờ đồng bộ</string>
+    <string name="master_alert_notif_dspt_add">%s mục đang chờ đồng bộ</string>
     <string name="master_alert_notif_dspt_no">Đã đồng bộ</string>
-    <string name="sub_alert_notif_dspt_add">Mục %s đang chờ đồng bộ</string>
+    <string name="sub_alert_notif_dspt_add">%s mục đang chờ đồng bộ</string>
     <string name="sub_alert_notif_dspt_no">Đã đồng bộ</string>
     <string name="wipe_data_dialog_msg_separator">, </string>
     <string name="micloud_space_full_influence"><u>Điều gì sẽ xảy ra khi tôi hết dung lượng lưu trữ?</u></string>
     <string name="micloud_storage_usage" formatted="false">Đã dùng %s/Tổng dung lượng %s</string>
     <string name="micloud_title_dspt" formatted="false">"Tổng %s 
- đã dùng %s | còn lại %s"</string>
+ Đã dùng %s | Còn lại %s"</string>
     <string name="micloud_title_dspt_remain">Còn lại %s</string>
     <string name="micloud_title_full_dspt">Bạn đã đạt đến giới hạn lưu trữ!</string>
     <string name="micloud_user_space_usage">Dung lượng lưu trữ</string>
@@ -166,7 +173,7 @@ Khi Mi Cloud đầy, dữ liệu cũ của bạn sẽ không dời đến vị t
     <string name="setting">Cài đặt</string>
     <string name="remind_later">Sau</string>
     <string name="enable_cloud_service_notification">Bạn cần phải kích hoạt Mi Cloud</string>
-    <string name="contact">Liên hệ</string>
+    <string name="contact">Danh bạ</string>
     <string name="sms">SMS</string>
     <string name="photo">Ảnh</string>
     <string name="micloud_unlogin_for_time_title">Mi Cloud</string>
@@ -199,9 +206,9 @@ Khi Mi Cloud đầy, dữ liệu cũ của bạn sẽ không dời đến vị t
     <string name="micloud_detail_wlan">%d đang chờ đồng bộ</string>
     <string name="micloud_detail_wlan_contact">%d ảnh liên hệ đang chờ đồng bộ</string>
     <string name="micloud_detail_wlan_mms">%d MMS đang chờ đồng bộ</string>
-    <string name="micloud_check_sim_title">"Hình như bạn đã đổi thẻ SIM. Đăng nhập vào tài khoản Mi của bạn để kích hoạt lại Mi Cloud."</string>
+    <string name="micloud_check_sim_title">Hình như bạn đã đổi thẻ SIM. Đăng nhập vào tài khoản Mi của bạn để kích hoạt lại Mi Cloud.</string>
     <string name="micloud_check_sim_notify_title">Kích hoạt lại Mi Cloud</string>
-    <string name="micloud_check_sim_notify_text">"Hình như bạn đã đổi thẻ SIM. Đăng nhập vào tài khoản Mi của bạn để kích hoạt lại Mi Cloud."</string>
+    <string name="micloud_check_sim_notify_text">Hình như bạn đã đổi thẻ SIM. Đăng nhập vào tài khoản Mi của bạn để kích hoạt lại Mi Cloud.</string>
     <string name="micloud_setting_contact_summary">Thông tin liên hệ và ảnh hồ sơ</string>
     <string name="micloud_setting_sms_summary">Tin nhắn SMS và MMS</string>
     <string name="micloud_setting_gallery_summary">Ảnh và video</string>
@@ -224,9 +231,9 @@ Khi Mi Cloud đầy, dữ liệu cũ của bạn sẽ không dời đến vị t
     <string name="microsoft_cloud_eng">One Drive</string>
     <string name="apple_10gb">20GB</string>
     <string name="google_100gb">100GB</string>
-    <string name="apple_cloud_price">Khoảng 72 RMB một năm</string>
-    <string name="google_cloud_price">Khoảng 143 RMB một năm</string>
-    <string name="microsoft_cloud_price">Khoảng 80 RMB một năm</string>
+    <string name="apple_cloud_price">Khoảng 72 Tệ/năm</string>
+    <string name="google_cloud_price">Khoảng 143 Tệ/năm</string>
+    <string name="microsoft_cloud_price">Khoảng 80 Tệ/năm</string>
     <string name="upgrade_space">Thêm dung lượng</string>
     <string name="upgrade_space_successful">Đã thêm %sGB</string>
     <string name="upgrade_space_successful_total">%sGB có sẵn</string>
@@ -245,4 +252,10 @@ Khi Mi Cloud đầy, dữ liệu cũ của bạn sẽ không dời đến vị t
     <string name="loading_hint">Đang tải</string>
     <string name="buy_space_expire">Dung lượng mua sẽ hết hạn vào %s</string>
     <string name="buy_space_expire_concat">%1$s đến %2$s</string>
+    <string name="share_miliao_not_installed">MiTalk chưa được cài đặt.</string>
+    <string name="share_weibo_not_installed">Weibo chưa được cài đặt.</string>
+    <string name="share_weixin_not_installed">Wechat chưa được cài đặt.</string>
+    <string name="share_success">Chia sẻ thành công</string>
+    <string name="share_cancel">Đã hủy chia sẻ</string>
+    <string name="share_failed">Không thể chia sẻ</string>
 </resources>
