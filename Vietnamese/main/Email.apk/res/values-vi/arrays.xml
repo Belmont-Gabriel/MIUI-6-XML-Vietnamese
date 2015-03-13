@@ -44,6 +44,23 @@
         <item>Chỉ hiển thị xóa</item>
         <item>Hiển thị lưu trữ &amp; xóa</item>
     </string-array>
+    <string-array name="signature_normal_string_array">
+        <item>Blog:</item>
+        <item>Web:</item>
+        <item>Email:</item>
+        <item>Di động:</item>
+        <item>Điện thoại:</item>
+        <item>T:</item>
+        <item>www.</item>
+        <item>F:</item>
+        <item>E:</item>
+        <item>E-mail:</item>
+        <item>Điện thoại:</item>
+        <item>Fax:</item>
+        <item>Mail:</item>
+        <item>QQ:</item>
+        <item>MSN:</item>
+    </string-array>
     <string-array name="signature_normal_string_array_next">
         <item>Địa chỉ:</item>
         <item>Điện thoại:</item>
@@ -55,7 +72,7 @@
         <item>Mã Bưu chính:</item>
     </string-array>
     <string-array name="signature_special_string_array">
-        <item>Disclaimer:</item>
+        <item>Từ chối:</item>
         <item>Email Từ chối</item>
         <item>Gửi qua WPSMail</item>
         <item>Gửi từ</item>
