@@ -180,7 +180,7 @@
     <string name="attach_slideshow">Trình chiếu</string>
     <string name="select_bottom_text">Văn bản ở dưới cùng</string>
     <string name="select_top_text">Văn bản ở trên cùng</string>
-    <string name="delivery_toast_body">Tin nhắn được nhận bởi %s.</string>
+    <string name="delivery_toast_body">%s đã nhận được tin nhắn.</string>
     <string name="notification_multiple">%s tin nhắn chưa đọc</string>
     <string name="notification_multiple_title">Tin nhắn mới</string>
     <string name="notification_failed_multiple">%s tin nhắn không thể gửi</string>
@@ -258,7 +258,7 @@
     <string name="refresh">Làm mới</string>
     <string name="refresh_failed">Cập nhật thất bại</string>
     <string name="database_corruption">Đang sửa…</string>
-    <string name="send_to">Tới:</string>
+    <string name="send_to">Tới: </string>
     <string name="send_to_count">Đã gửi %1$s tin nhắn</string>
     <string name="send_to_index_contact">%1$s/%2$s</string>
     <string name="message_received">Đã nhận</string>
@@ -306,6 +306,7 @@
     <string name="pref_title_delivery_reports">Trạng thái gửi</string>
     <string name="pref_summary_delivery_reports">Hiển thị trạng thái gửi cho mỗi tin nhắn bạn gửi</string>
     <string name="pref_title_ringtone_repeat">Số lần đổ chuông</string>
+    <string name="pref_title_ringtone_repeat_summary">"Số lần thông báo nhận được tin nhắn SMS trong khi màn hình tắt: "</string>
     <string name="pref_other_title">Cài đặt bổ sung</string>
     <string name="pref_system_title">Hệ thống</string>
     <string name="pref_advanced_settings_title">Cài đặt nâng cao</string>
@@ -449,6 +450,8 @@
     <string name="title_collapse_sp_messages">Nhóm nhà cung cấp tin nhắn</string>
     <string name="pref_collapse_sp_messages_summary">Nhóm thông báo từ nhà cung cấp của bạn vào cùng chủ đề</string>
     <string name="sp_conversation_title">Thông báo</string>
+    <string name="title_show_sms_template">Kiểm tra mã xác minh trong tin nhắn SMS</string>
+    <string name="pref_show_sms_template_summary">Tự động sao chép và điền mã xác minh</string>
     <string name="sp_mark_as_read_title">Đánh dấu tất cả là đã đọc</string>
     <string name="sp_mark_as_read">Đánh dấu tất cả các tin nhắn là đã đọc?</string>
     <string name="sp_mark_as_read_progress">Đang tiến hành…</string>
@@ -506,6 +509,7 @@
     <string name="file_create_time">Đã tạo:</string>
     <string name="file_size">Kích thước:</string>
     <string name="file_title">Tên:</string>
+    <string name="festival_networking_title">Chú ý</string>
     <string name="festival_networking_desc">Tính năng này cần phải kết nối Internet để làm việc bình thường.</string>
     <string name="festival_continue">OK</string>
     <string name="festival_never_remind">Không hiển thị lại</string>
@@ -535,4 +539,7 @@
     <string name="snippet_picture">[picture]</string>
     <string name="audio_download_failed">Không thể tải âm thanh</string>
     <string name="hms_uri_param_err">URL không được để trống</string>
+    <string name="pref_title_sms_validity_period">Thời hạn hiệu lực SMS</string>
+    <string name="pref_title_mms_validity_period">Thời hạn hiệu lực MMS</string>
+    <string name="open_url_with_web">Bất cứ khi nào cho phép mở url với Web?</string>
 </resources>
