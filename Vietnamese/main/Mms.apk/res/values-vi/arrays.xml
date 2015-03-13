@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="default_smiley_names">
-        <item>Hạnh phúc</item>
+        <item>Vui</item>
         <item>Buồn</item>
         <item>Nháy mắt</item>
         <item>Lè lưỡi</item>
@@ -54,6 +54,18 @@
     <string-array name="resent_via_entries_mms">
         <item>SMS</item>
         <item>Tin nhắn Mi</item>
+    </string-array>
+    <string-array name="entries_sms_validity_period">
+        <item>Chưa đặt</item>
+        <item>1 giờ</item>
+        <item>6 giờ</item>
+        <item>12 giờ</item>
+        <item>1 ngày</item>
+        <item>Tối đa</item>
+    </string-array>
+    <string-array name="entries_mms_validity_period">
+        <item>Tối đa</item>
+        <item>Hai ngày</item>
     </string-array>
     <string-array name="select_dialog_items">
         <item>1 giây</item>
