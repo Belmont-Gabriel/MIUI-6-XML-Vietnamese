@@ -50,7 +50,7 @@
     <string name="operation_rename_message">Đổi tên thư mục</string>
     <string name="operation_create_folder_message">Tên thư mục</string>
     <string name="operation_delete_confirm_message">Xóa?</string>
-    <string name="operation_delete_confirm_message_folder">Toàn bộ nội dung thư mục sẽ bị xóa.</string>
+    <string name="operation_delete_confirm_message_folder">Toàn bộ nội dung thư mục sẽ bị xóa. </string>
     <string name="delete_dialog_button">Xóa</string>
     <string name="new_folder_name">Chưa đặt tên thư mục</string>
     <string name="sd_card_size">Thẻ SD: %1$s</string>
@@ -147,7 +147,7 @@
     <string name="trash_box_message1">Xóa tập tin không cần thiết để có thêm dung lượng.</string>
     <string name="trash_box_message2">Dọn sạch thùng rác để giải phóng dung lượng.</string>
     <string name="close">Đóng</string>
-    <string name="space_info">KuaiPan: %1$s khả dụng, tổng số %2$s</string>
+    <string name="space_info">KuaiPan: trống %1$s, tổng %2$s</string>
     <string name="trash_box_capacity">Thùng rác %1$s</string>
     <string name="data_capacity">Dữ liệu %1$s</string>
     <string name="send_to_midrive">KuaiPan</string>
@@ -261,7 +261,7 @@ Dung lượng miễn phí đã thêm%1$s"</string>
     <string name="petabyteShort">PB</string>
     <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="tab_local">Trên máy</string>
-    <string name="sys_size_enable">" khả dụng"</string>
+    <string name="sys_size_enable">" trống"</string>
     <string name="menu_list_name">Menu</string>
     <string name="tools">CÔNG CỤ</string>
     <string name="category_type_meida">Phương tiện</string>
