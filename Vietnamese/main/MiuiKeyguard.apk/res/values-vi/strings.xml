@@ -53,6 +53,6 @@
     <string name="invalid_confirm_pin_hint">Mã PIN không khớp</string>
     <string name="unlock_string">Mở khóa</string>
     <string name="open_camera_hint_text">Trượt sang trái để mở Máy ảnh</string>
-    <string name="open_remote_center_hint_text">Trượt sang phải để mở Điều khiển Mi</string>
+    <string name="open_remote_center_hint_text">Trượt sang phải để Quay số</string>
     <string name="click_to_enter_text">Chạm để xem</string>
 </resources>
