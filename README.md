@@ -3,4 +3,3 @@
 # Credits
     ingbrzy - Builder of MultiRom, Bug reports.
     [Belmont] - Leader of the Vietnam translation team for MIUI V6
-    [HoangTuBot] - Co-Leader of the Vietnam translation team for MIUI V6
