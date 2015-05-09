@@ -46,6 +46,7 @@
     <string name="boot_recovery">Khởi động lại vào chế độ Recovery?</string>
     <string name="cancel_download">Dừng tải xuống bản cập nhật?</string>
     <string name="update_success">Cập nhật thành công</string>
+	<string name="install_failed">Cập nhật không thành công</string>
     <string name="download_current_rom">Khởi động lại để hoàn tất cập nhật</string>
     <string name="later">Sau</string>
     <string name="notification_update_new_version">Tìm thấy phiên bản mới</string>
@@ -77,6 +78,11 @@
     <string name="pause">Tạm dừng</string>
     <string name="repeat">Thử lại</string>
     <string name="user_begin">Tải xuống</string>
+	<string name="recovery_failed_title">Sử dụng Mi PC Suite để cập nhật hệ thống</string>
+    <string name="recovery_failed_msg">"Thiết bị này không có đủ bộ nhớ để vào chế độ Recovery và cập nhật hệ thống. Hãy thử sử dụng Mi PC Suite ở chỗ:
+http://zhushou.xiaomi.com"</string>
+    <string name="recovery_failed_button">OK</string>
+    <string name="recovery_failed_notification_msg">Không thể vào Recovery Mode</string>
     <string name="validate_pkg_failed_title">Không thể xác minh bản cập nhật</string>
     <string name="validate_pkg_failed_msg">Không thể xác minh nguồn gốc của bản cập nhật này. Thử tải xuống lần nữa.</string>
     <string name="user_intertup_download_title">Tải xuống đã tạm dừng</string>
@@ -184,4 +190,21 @@
     <string name="submit_success">Gửi thành công, cảm ơn bạn</string>
     <string name="submit_fail">Không thể gửi</string>
     <string name="submit">Gửi</string>
+	<string name="miui_BBS">" &lt;a href=http://bbs.miui.com>Truy cập vào Forum của MIUI&lt;/a> "</string>
+    <string name="vote_beta">Chương trình phản hồi thử nghiệm</string>
+    <string name="vote_error1">"Có vẻ như bạn không phải là thành viên của chương trình Phản hồi thử nghiệm"</string>
+    <string name="vote_error2">"Không thể gửi ý kiến.
+Cập nhật thiết bị của bạn và thử lại"</string>
+    <string name="vote_error3">"Không thể xác định.
+Hãy thử đăng nhập lại vào tài khoản Mi của bạn."</string>
+    <string name="vote_error4">Bạn đã gửi phản hồi</string>
+    <string name="vote_error5">"Đã xuất hiện một lỗi nào đó
+Không thể gửi được phản hồi của bạn"</string>
+    <string name="vote_error_nonetwork">Không thể kết nối vào mạng</string>
+    <string name="vote_experience">Điểm kinh nghiệm Forum MIUI</string>
+    <string name="vote_hint">Nhận 20 điểm kinh nghiệm Forum MIUI khi bỏ phiếu</string>
+    <string name="vote_join">Bình chọn</string>
+    <string name="vote_not_recommend">Không được khuyến nghị</string>
+    <string name="vote_recommend">Đề nghị bản cập nhật này</string>
+    <string name="vote_submit">Hoàn tất</string>
 </resources>
