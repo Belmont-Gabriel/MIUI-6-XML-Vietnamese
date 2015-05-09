@@ -30,6 +30,8 @@
     <string name="deleting_message">Đang xóa…</string>
     <string name="rename_dialog_title">Đổi tên ghi âm</string>
     <string name="rename_duplicate">Một bản ghi với cùng tên đã tồn tại.</string>
+    <string name="rename_no_more_tip">Không còn mẹo nào</string>
+	<string name="record_picker_title">Chọn một bản ghi âm</string>
     <string name="dialog_title_storage_full">Không đủ dung lượng</string>
     <string name="dialog_content_storage_full">Ghi âm đã dừng lại do không đủ dung lượng trống trong bộ nhớ trong thiết bị của bạn.</string>
     <string name="status_bar_recording">Đang ghi âm…</string>
@@ -39,6 +41,7 @@
     <string name="record_name_hour">.</string>
     <string name="sound_recorder_settings">Cài đặt ghi âm</string>
     <string name="preference_led_indicator">Thông báo khóa màn hình</string>
+	<string name="preference_tip_rename">Liệu có nên hiển thị hộp thoại đổi tên sau khi dừng ghi âm?</string>
     <string name="preference_led_indicator_prompt">Hiện thanh thông báo màu đỏ và nháy đèn báo khi khóa màn hình</string>
     <string name="preference_record_type_title">Loại ghi âm</string>
     <string name="preference_scenes">Loại ghi âm</string>
@@ -82,9 +85,11 @@
     <string name="notification_title_all_paused">Tải xuống đã tạm dừng</string>
     <string name="notification_message_all_paused">Chờ kết nối Wi-Fi.</string>
     <string name="toast_file_is_downloading">Vẫn tải xuống</string>
+	<string name="xiaomi_account_type">com.xiaomi</string>
     <string name="data_connection_title">Cảnh báo sử dụng dữ liệu</string>
     <string name="data_connection_body">Dùng kết nối dữ liệu di động để tải xuống tập tin này sẽ làm tăng sử dụng dữ liệu của bạn. Nếu bạn sử dụng quá giới hạn dữ liệu mà bạn đăng ký, nhà cung cấp dịch vụ sẽ tính phí bổ sung.</string>
     <string name="data_connection_button_text">OK</string>
     <string name="error_sdcard_unmounted">Gắn thẻ SD bây giờ</string>
     <string name="record_back_pressed_hint">Để dừng ghi âm, chạm phím Quay lại lần nữa</string>
+	<string name="record_mark_point">%smark</string>
 </resources>
