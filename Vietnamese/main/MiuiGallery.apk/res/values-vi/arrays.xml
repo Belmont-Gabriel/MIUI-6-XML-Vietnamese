@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-     <string-array name="slideshow_time_entries">
+    <string-array name="slideshow_time_entries">
         <item>5 phút</item>
         <item>15 phút</item>
         <item>30 phút</item>
