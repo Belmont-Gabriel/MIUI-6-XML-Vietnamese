@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="default_smiley_names">
-        <item>Vui</item>
+        <item>Hạnh phúc</item>
         <item>Buồn</item>
         <item>Nháy mắt</item>
         <item>Lè lưỡi</item>
@@ -35,10 +35,10 @@
         <item>Biệt danh</item>
         <item>Điện thoại</item>
         <item>E-mail</item>
-        <item>Cơ quan</item>
+        <item>Tổ chức</item>
         <item>IM</item>
         <item>Điện thoại SIP</item>
-        <item>Ngày sinh</item>
+        <item>Sinh nhật</item>
         <item>Trang Web</item>
         <item>Địa chỉ</item>
         <item>Ghi chú</item>
@@ -65,7 +65,7 @@
     </string-array>
     <string-array name="entries_mms_validity_period">
         <item>Tối đa</item>
-        <item>Hai ngày</item>
+        <item>2 ngày</item>
     </string-array>
     <string-array name="select_dialog_items">
         <item>1 giây</item>
