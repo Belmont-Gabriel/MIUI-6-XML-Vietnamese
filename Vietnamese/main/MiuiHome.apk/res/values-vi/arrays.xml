@@ -16,12 +16,20 @@
         <item>Bên trái</item>
         <item>Bên phải</item>
     </string-array>
+    <string-array name="cell_layout_size_entries">
+        <item>4x4</item>
+        <item>4x5</item>
+    </string-array>
+    <string-array name="cell_layout_size_values">
+        <item>4x4</item>
+        <item>4x5</item>
+    </string-array>
     <string-array name="gadget_weather_theme_type_entries">
         <item>Mặc định</item>
         <item>Cổ điển</item>
     </string-array>
     <string-array name="gadget_weather_image">
-        <item>Quang</item>
+        <item>Quang đãng</item>
         <item>Nhiều mây</item>
         <item>Sương mù</item>
         <item>Sương mù</item>
