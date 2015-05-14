@@ -589,7 +589,7 @@ Quá trình mã hóa mất ít nhất một giờ. Bạn phải bắt đầu khi
     <string name="wifi_menu_wps_pbc">Nút Đẩy WPS</string>
     <string name="wifi_menu_more_options">Tùy chọn khác</string>
     <string name="wifi_menu_wps_pin">Nhập mã pin WPS</string>
-    <string name="wifi_menu_p2p">WLAN Trực tiếp</string>
+    <string name="wifi_menu_p2p">Wi-Fi Trực tiếp</string>
     <string name="wifi_menu_scan">Dò</string>
     <string name="wifi_menu_advanced">Nâng cao</string>
     <string name="wifi_menu_connect">Kết nối tới mạng</string>
@@ -662,7 +662,7 @@ Cho phép cài đặt này đối với tất cả ứng dụng muốn quét?"</
 Thiết lập điện thoại có thể yêu cầu hoạt động mạng đáng kể."</string>
     <string name="wifi_and_mobile_skipped_message">CẢNH BÁO: Điện thoại sẽ không thể xác minh rằng phần mềm của bạn đã cập nhật cho đến khi bạn có kết nối internet.</string>
     <string name="wifi_connect_failed_message">Không thể kết nối đến mạng Wi-Fi</string>
-    <string name="wifi_advanced_titlebar">WLAN nâng cao</string>
+    <string name="wifi_advanced_titlebar">Wi-Fi nâng cao</string>
     <string name="wifi_setting_frequency_band_title">Băng tần Wi-Fi</string>
     <string name="wifi_setting_frequency_band_summary">Chỉ định dải tần số hoạt động</string>
     <string name="wifi_setting_frequency_band_error">Đã xảy ra sự cố khi thiết đặt dải tần số.</string>
@@ -679,7 +679,7 @@ Thiết lập điện thoại có thể yêu cầu hoạt động mạng đáng 
     <string name="wifi_dns2">DNS 2</string>
     <string name="wifi_gateway">Cổng</string>
     <string name="wifi_network_prefix_length">Độ dài tiền tố mạng</string>
-    <string name="wifi_p2p_settings_title">WLAN trực tiếp</string>
+    <string name="wifi_p2p_settings_title">Wi-Fi trực tiếp</string>
     <string name="wifi_p2p_device_info">Thông tin thiết bị</string>
     <string name="wifi_p2p_persist_network">Ghi nhớ kết nối này</string>
     <string name="wifi_p2p_menu_search">Tìm kiếm thiết bị</string>
@@ -1002,7 +1002,7 @@ Bạn hiện đã đăng nhập vào các tài khoản sau đây:
     <string name="location_mode_battery_saving_description">Sử dụng Wi-Fi và mạng di động để xác định vị trí</string>
     <string name="location_mode_sensors_only_description">Sử dụng GPS để xác định vị trí của bạn</string>
     <string name="location_loading_injected_setting">Đang truy xuất…</string>
-    <string name="location_network_based">WLAN &amp; mạng di động</string>
+    <string name="location_network_based">Wi-Fi &amp; mạng di động</string>
     <string name="location_neighborhood_level">Cho phép ứng dụng sử dụng dữ liệu từ Wi-Fi và mạng di động để xác định vị trí của bạn</string>
     <string name="location_neighborhood_level_wifi">Vị trí được xác định bởi Wi-Fi</string>
     <string name="location_gps">Vệ tinh GPS</string>
@@ -2026,7 +2026,7 @@ Bất kỳ người dùng nào cũng có thể chấp nhận các quyền của 
     <string name="user_restrictions_controlled_by">Do %1$s kiểm soát</string>
     <string name="app_not_supported_in_limited">Ứng dụng này không được hỗ trợ trong các tiểu sử bị hạn chế</string>
     <string name="app_sees_restricted_accounts">Ứng dụng này có thể truy cập tài khoản của bạn</string>
-    <string name="restriction_wifi_config_title">WLAN and Mạng di động</string>
+    <string name="restriction_wifi_config_title">Wi-Fi and Mạng di động</string>
     <string name="restriction_wifi_config_summary">Cho phép sửa đổi cài đặt Wi-Fi và Mạng di động</string>
     <string name="restriction_bluetooth_config_title">Bluetooth</string>
     <string name="restriction_bluetooth_config_summary">Cho phép sửa đổi cài đặt và ghép nối Bluetooth</string>
@@ -2272,7 +2272,7 @@ Bất kỳ người dùng nào cũng có thể chấp nhận các quyền của 
     <string name="apn_save_msg">APN đã được thay đổi. Bạn có muốn lưu lại?</string>
     <string name="activating">Đang kích hoạt…</string>
     <string name="wifi_enable_watchdog_service_summary">Không sử dụng mạng Wi-Fi trừ khi có kết nối Internet tốt</string>
-    <string name="wifi_disabled_help">WLAN bị ngắt do kết nối kém</string>
+    <string name="wifi_disabled_help">Wi-Fi bị ngắt do kết nối kém</string>
     <string name="wifi_wps_overlap_error">Đã phát hiện Wi-Fi khác được bảo vệ. Hãy thử lại sau ít phút.</string>
     <string name="wifi_p2p_wps_setup">Thiết lập bảo mật Wi-Fi</string>
     <string name="default_input_method">Chọn phương thức nhập mặc định</string>
@@ -2676,10 +2676,10 @@ Nếu kích thước văn bản của hệ thống vẫn quá nhỏ, hãy thử 
     <string name="open_wifi_connect_title">Kết nối tới %1$s</string>
     <string name="open_wifi_connect_summary">Chạm để quản lý</string>
     <string name="free_wifi_summary">Chạm để kết nối tới %1$s.</string>
-    <string name="free_wifi_connect_title">WLAN khả dụng</string>
+    <string name="free_wifi_connect_title">Wi-Fi khả dụng</string>
     <string name="free_wifi_connect_summary">Chạm để kết nối tới %1$s.</string>
     <string name="free_wifi_manage_summary">Chạm để xem %1$s.</string>
-    <string name="free_wifi_connect_dialog_title">WLAN khả dụng</string>
+    <string name="free_wifi_connect_dialog_title">Wi-Fi khả dụng</string>
     <string name="free_wifi_connect_dialog_summary">%1$s được cung cấp bởi %2$s.</string>
     <string name="free_wifi_wiwide_provider">WiWide</string>
     <string name="free_wifi_connect">Kết nối</string>
@@ -2905,7 +2905,7 @@ Nếu kích thước văn bản của hệ thống vẫn quá nhỏ, hãy thử 
     <string name="agps_roaming_dia">Sử dụng A-GPS khi chuyển vùng có thể làm tăng việc sử dụng dữ liệu của bạn. Nếu bạn sử dụng quá giới hạn dữ liệu mà bạn đăng ký, nhà cung cấp dịch vụ sẽ tính phí bổ sung.</string>
     <string name="wifi_disconnected_notification_title">Đã ngắt kết nối Wi-Fi</string>
     <string name="wifi_disconnected_notification_summary">Bạn chưa kết nối Wi-Fi.</string>
-    <string name="wifi_off_airplane_on_title">WLAN ở chế độ Máy bay</string>
+    <string name="wifi_off_airplane_on_title">Wi-Fi ở chế độ Máy bay</string>
     <string name="wifi_off_airplane_on_content">Bạn có thể bật Wi-Fi thủ công khi chế độ Máy bay đang bật.</string>
     <string name="wifi_off_airplane_on_not_remind">Không hiển thị lại</string>
     <string name="wifi_off_airplane_on_cancel">Hủy</string>
