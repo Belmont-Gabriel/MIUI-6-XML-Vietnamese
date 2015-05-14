@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="weather_type">
-        <item>Nắng</item>
+        <item>Quang</item>
         <item>Nhiều mây</item>
         <item>Âm u</item>
         <item>Sương mù</item>
@@ -47,7 +47,7 @@
         <item>Gió Tây Bắc</item>
     </string-array>
     <string-array name="moon_desc">
-        <item>Trăng lưỡi liềm</item>
+        <item>Trăng non</item>
         <item>Trăng lưỡi liềm</item>
         <item>Trăng thượng tuần</item>
         <item>Trăng khuyết</item>
@@ -55,6 +55,6 @@
         <item>Trăng lưỡi liềm già</item>
         <item>Trăng hạ tuần</item>
         <item>Trăng lưỡi liềm cuối tháng</item>
-        <item>Trăng tối</item>
+        <item>Không trăng</item>
     </string-array>
 </resources>
