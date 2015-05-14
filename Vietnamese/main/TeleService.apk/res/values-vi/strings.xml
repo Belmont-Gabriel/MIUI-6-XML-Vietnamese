@@ -5,7 +5,7 @@
     <string name="phoneAppLabel">Điện thoại</string>
     <string name="emergencyDialerIconLabel">Trình quay số Khẩn cấp</string>
     <string name="phoneIconLabel">Điện thoại</string>
-    <string name="fdnListLabel">Danh sách SQĐS</string>
+    <string name="fdnListLabel">Danh sách FDN</string>
     <string name="unknown">Không xác định</string>
     <string name="private_num">Số cá nhân</string>
     <string name="payphone">Điện thoại công cộng</string>
@@ -141,9 +141,9 @@ Bạn vẫn muốn chuyển sang nhà cung cấp mới?"</string>
     <string name="network_unlock">Mở khóa</string>
     <string name="networks_title">Mạng di động</string>
     <string name="network_settings_warn_message">Thiết bị của bạn sẽ chỉ kết nối với mạng mà bạn chọn thủ công.</string>
-    <string name="network_settings_auto_select_title">Kết nối mạng</string>
+    <string name="network_settings_auto_select_title">Đóng tự động chọn</string>
     <string name="network_settings_next">Tiếp tục</string>
-    <string name="network_settings_confirm_message">Mạng không khả dụng.</string>
+    <string name="network_settings_confirm_message">Mạng có thể không có sẵn, bạn có muốn tiếp tục?</string>
     <string name="network_settings_query_failed_message">Không thể tìm thấy mạng di động.</string>
     <string name="retry_btn">Thử lại</string>
     <string name="network_settings_information">Tắt dữ liệu di động trước</string>
@@ -251,16 +251,16 @@ Sẽ dùng mạng ưu tiên thay thế."</string>
     <string name="multi_category_enable">Nhiều danh mục đã bật</string>
     <string name="multi_category_disable">Nhiều danh mục đã tắt</string>
     <string name="callind_multi_sim">Cài đặt SUBS</string>
-    <string name="manage_fdn_list">Danh sách SQĐS</string>
-    <string name="fdn_activation">Kích hoạt SQĐS</string>
+    <string name="manage_fdn_list">Danh sách FDN</string>
+    <string name="fdn_activation">Kích hoạt FDN</string>
     <string name="fdn_enabled">Số quay số định sẵn được bật</string>
     <string name="fdn_disabled">Số quay số định sẵn được tắt</string>
-    <string name="enable_fdn">Bật SQĐS</string>
-    <string name="disable_fdn">Tắt SQĐS</string>
+    <string name="enable_fdn">Bật FDN</string>
+    <string name="disable_fdn">Tắt FDN</string>
     <string name="change_pin2">Đổi mã PIN2</string>
-    <string name="enable_fdn_ok">Tắt SQĐS</string>
-    <string name="disable_fdn_ok">Bật SQĐS</string>
-    <string name="sum_fdn_change_pin">Đổi mã PIN để truy cập SQĐS</string>
+    <string name="enable_fdn_ok">Tắt FDN</string>
+    <string name="disable_fdn_ok">Bật FDN</string>
+    <string name="sum_fdn_change_pin">Đổi mã PIN để truy cập FDN</string>
     <string name="sum_fdn_manage_list">Quản lý danh sách Số quay số định sẵn</string>
     <string name="menu_add">Thêm liên hệ</string>
     <string name="fdn">Số quay số định sẵn</string>
@@ -280,7 +280,7 @@ Sẽ dùng mạng ưu tiên thay thế."</string>
     <string name="fdn_contact_deleted">Đã xóa số quay số định sẵn.</string>
     <string name="pin2_invalid">FDN không được cập nhật do bạn nhập mã PIN không chính xác.</string>
     <string name="fdn_invalid_number">FDN không được cập nhật do số vượt quá 20 chữ số.</string>
-    <string name="fdn_contacts_empty">Không có liên hệ nào trong danh sách SQĐS.</string>
+    <string name="fdn_contacts_empty">Không có liên hệ nào trong danh sách FDN.</string>
     <string name="simContacts_emptyLoading">Đang đọc…</string>
     <string name="exportContacts">Đang xuất…</string>
     <string name="simContacts_title">Quản lý liên hệ thẻ SIM</string>
@@ -329,7 +329,7 @@ Tính năng liên quan PIN2 sẽ bị khóa sau khi lần thử không thành c�
     <string name="pin_attempts">"Còn lại 
 %d lần thử."</string>
     <string name="pin_progress_set_icc_lock">Đang thiết lập trạng thái khóa ICC…</string>
-    <string name="pin_progress_set_fdn_lock">Đang thiết lập trạng thái khóa SQĐS…</string>
+    <string name="pin_progress_set_fdn_lock">Đang thiết lập trạng thái khóa FDN…</string>
     <string name="pin_progress_change_pin">Đang đổi mã PIN…</string>
     <string name="pin_progress_change_pin2">Đang đổi mã PIN2…</string>
     <string name="pin_progress_unlock_icc">Đang mở khóa thẻ SIM…</string>
@@ -371,7 +371,7 @@ Tính năng liên quan PIN2 sẽ bị khóa sau khi lần thử không thành c�
     <string name="incall_error_call_failed">Không thể gọi điện.</string>
     <string name="incall_status_dialed_mmi">Đang khởi động chuỗi MMI…</string>
     <string name="incall_error_turn_off_airplane_mode">Tắt chế độ Máy bay</string>
-    <string name="incall_error_no_active_sim">Không có thẻ sim được kích hoạt.</string>
+    <string name="incall_error_no_active_sim">Thẻ SIM chưa được kích hoạt</string>
     <string name="emergency_enable_radio_dialog_title">Cuộc gọi khẩn cấp</string>
     <string name="dial_emergency_error">%s không phải là số khẩn cấp.</string>
     <string name="dial_emergency_empty_error">Số bạn nhập chưa được đăng ký là số khẩn cấp. Quay số khẩn cấp.</string>
@@ -408,7 +408,7 @@ Sau khi nhấn “Kích hoạt”, nghe hướng dẫn để kích hoạt điệ
     <string name="ota_hfa_activation_title">Đang kích hoạt…</string>
     <string name="ota_hfa_activation_dialog_message">Kích hoạt dịch vụ dữ liệu di động của bạn có thể mất tối đa 5 phút.</string>
     <string name="ota_skip_activation_dialog_title">Bỏ qua kích hoạt?</string>
-    <string name="ota_skip_activation_dialog_message">Nếu bạn bỏ qua kích hoạt, bạn không thể thực hiện cuộc gọi hoặc kết nối với mạng dữ liệu dành cho điện thoại di động (mặc dù bạn có thể kết nối với mạng Wi-Fi). Cho tới khi bạn kích hoạt điện thoại của mình, bạn được yêu cầu kích hoạt điện thoại mỗi lần bạn bật điện thoại.</string>
+    <string name="ota_skip_activation_dialog_message">Nếu bạn bỏ qua kích hoạt, bạn không thể thực hiện cuộc gọi hoặc kết nối với mạng dữ liệu dành cho điện thoại di động (mặc dù bạn có thể kết nối với mạng WLAN). Cho tới khi bạn kích hoạt điện thoại của mình, bạn được yêu cầu kích hoạt điện thoại mỗi lần bạn bật điện thoại.</string>
     <string name="ota_skip_activation_dialog_skip_label">Bỏ qua</string>
     <string name="ota_activate">Kích hoạt</string>
     <string name="ota_title_activate_success">Kích hoạt điện thoại thành công.</string>
@@ -443,7 +443,7 @@ Hãy thử lại hoặc gọi cho dịch vụ khách hàng để có tùy chọn
     <string name="sip_receive_calls">Nhận cuộc gọi đến</string>
     <string name="sip_receive_calls_summary">Giảm tuổi thọ pin</string>
     <string name="sip_call_options_title">Sử dụng tính năng gọi qua Internet</string>
-    <string name="sip_call_options_wifi_only_title">Sử dụng tính năng gọi qua Internet (chỉ Wi-Fi)</string>
+    <string name="sip_call_options_wifi_only_title">Sử dụng tính năng gọi qua Internet (chỉ WLAN)</string>
     <string name="sip_call_options_entry_1">Cho tất cả cuộc gọi khi dữ liệu di động có sẵn</string>
     <string name="sip_call_options_entry_2">Chỉ cho cuộc gọi Internet</string>
     <string name="sip_call_options_entry_3">Yêu cầu cho mỗi cuộc gọi</string>
@@ -473,7 +473,7 @@ Hãy thử lại hoặc gọi cho dịch vụ khách hàng để có tùy chọn
     <string name="registration_status_still_trying">Chờ vài giây…</string>
     <string name="registration_status_not_receiving">Không nhận được cuộc gọi.</string>
     <string name="registration_status_no_data">Bạn không có kết nối mạng.</string>
-    <string name="registration_status_no_wifi_data">Bạn chưa kết nối với mạng Wi-Fi</string>
+    <string name="registration_status_no_wifi_data">Bạn chưa kết nối với mạng WLAN</string>
     <string name="registration_status_not_running">Không thể đăng ký tài khoản</string>
     <string name="registration_status_done">Đang nhận cuộc gọi.</string>
     <string name="registration_status_failed_try_later">Không thể đăng ký tài khoản. %s)</string>
@@ -503,9 +503,9 @@ Hãy thử lại hoặc gọi cho dịch vụ khách hàng để có tùy chọn
     <string name="empty_alert">%s không được để trống.</string>
     <string name="not_a_valid_port">Số cổng phải trong khoảng từ 1000 đến 65534.</string>
     <string name="no_internet_available_title">Không có kết nối internet</string>
-    <string name="no_wifi_available_title">Không có kết nối Wi-Fi</string>
+    <string name="no_wifi_available_title">Không có kết nối WLAN</string>
     <string name="no_internet_available">Để thực hiện cuộc gọi internet, bạn cần phải kết nối internet.</string>
-    <string name="no_wifi_available">Bạn cần phải kết nối Wi-Fi cho các cuộc gọi Internet (sử dụng các thiết lập không dây&amp; Mạng).</string>
+    <string name="no_wifi_available">Bạn cần phải kết nối WLAN cho các cuộc gọi Internet (sử dụng các thiết lập không dây&amp; Mạng).</string>
     <string name="no_voip">Không hỗ trợ gọi qua Internet</string>
     <string name="no_volte">Không thể thực hiện cuộc gọi IMS</string>
     <string name="no_vt_allowed">Để thực hiện cuộc gọi video, hãy tắt chế độ TTY</string>
@@ -698,6 +698,8 @@ Hãy thử lại hoặc gọi cho dịch vụ khách hàng để có tùy chọn
     <string name="turnover_mute_summary">Khi điện thoại đặt nằm ngang, có cuộc gọi đến lật ngang để tắt nhạc chuông</string>
     <string name="handon_ringer_summary">Giảm âm lượng chuông báo cuộc gọi đến khi điện thoại được nâng lên. Tính năng này không hoạt động khi rung báo cuộc gọi đến được bật.</string>
     <string name="handon_ringer_title">Tắt chuông khi nâng lên</string>
+    <string name="flash_when_ring_summary">Đèn flash thông báo khi có cuộc gọi đến</string>
+    <string name="flash_when_ring_title">Đèn flash khi đổ chuông</string>
     <string name="enable_proximity_summary">Tắt màn hình trong khi gọi</string>
     <string name="enable_proximity_title">Cảm biến tiệm cận</string>
     <string name="pocket_mode_summary">Tự động khóa điện thoại khi đặt trong túi</string>
@@ -799,7 +801,7 @@ Hãy thử lại hoặc gọi cho dịch vụ khách hàng để có tùy chọn
     <string name="voicemail_notification_ringtone_title">Âm thanh</string>
     <string name="voice_report_incoming_call">Đang gọi</string>
     <string name="voice_report_unknown_num">Số không xác định</string>
-    <string name="command_error_fdn_failure">Bạn cần phải tắt SQĐS trước</string>
+    <string name="command_error_fdn_failure">Bạn cần phải tắt FDN trước</string>
     <string name="uplmn_list_setting_title">Mạng ưu tiên</string>
     <string name="network_id">ID mạng</string>
     <string name="dialog_network_priority_title">Ưu tiên</string>
@@ -832,9 +834,10 @@ Hãy thử lại hoặc gọi cho dịch vụ khách hàng để có tùy chọn
     <string name="msim_select_default_time_left">(%d giây)</string>
     <string name="msim_switch_data_conn_toast">Cài đặt mạng đã được thay đổi để ưu tiên mạng LTE. Bạn có thể thay đổi điều này trong cài đặt thẻ SIM.</string>
     <string name="msim_switch_data_conn_toast_for_h2xct">Khe cắm SIM 2 chỉ hỗ trợ mạng GSM. Loại mạng ưu tiên cho khe cắm này đã được thay đổi thành chỉ mạng 2G.</string>
+    <string name="msim_has_been_disabled">(Đã tắt)</string>
     <string name="select_voice_call_sim">Chọn thẻ SIM</string>
     <string name="general_setting">Cài đặt</string>
-    <string name="call_record_setting">Ghi âm cuộc gọi</string>
+    <string name="call_record_setting">Cài đặt ghi cuộc gọi</string>
     <string name="preference_telocation_title">Vị trí</string>
     <string name="cloud_antispam_title">Nhận dạng số không xác định</string>
     <string name="preference_auto_ip_summary_disable">Đã tắt</string>
@@ -845,8 +848,7 @@ Hãy thử lại hoặc gọi cho dịch vụ khách hàng để có tùy chọn
     <string name="preference_dial_pad_touch_tone_default">Mặc định</string>
     <string name="preference_dial_pad_touch_tone_piano">Tiếng piano</string>
     <string name="preference_telocation_summary_countrycode_off">Không tự động thêm mã quốc gia</string>
-    <string name="telephony_setting">Cuộc gọi</string>
+    <string name="telephony_setting">Cài đặt cuộc gọi</string>
     <string name="international_roaming_setting">Chuyển vùng quốc tế</string>
-    <string name="sim_cards_network_mode_changed_summary">Chạm để xem SMS và cài đặt cuộc gọi.</string>
-    <string name="sim_cards_network_mode_changed_title">Đã phát hiện thẻ SIM mới</string>
+    <string name="voip_setting">Cài đặt Voip</string>
 </resources>
