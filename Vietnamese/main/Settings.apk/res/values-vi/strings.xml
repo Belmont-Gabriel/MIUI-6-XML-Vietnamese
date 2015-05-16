@@ -2921,7 +2921,7 @@ Nếu kích thước văn bản của hệ thống vẫn quá nhỏ, hãy thử 
     <string name="skip_lock_screen_confirm_msg">Thông báo, điều khiển trình nghe nhạc, Máy ảnh, và Mi Home sẽ bị vô hiệu hóa trên màn hình khóa.</string>
     <string name="fluency_mode">Tối ưu hiệu suất hệ thống</string>
     <string name="fluency_mode_enabled_name">Tối ưu hiệu suất hệ thống</string>
-    <string name="fluency_mode_summary">Tắt ảnh động hệ thống và giảm sử dụng bộ nhớ</string>
+    <string name="fluency_mode_summary">Tắt các hiệu ứng chuyển động hệ thống và giảm sử dụng bộ nhớ</string>
     <string name="fluency_mode_confirm_title">Khởi động lại ngay?</string>
     <string name="fluency_mode_confirm_will_fluency_mode_text">Thiết bị của bạn cần phải khởi động lại để áp dụng các thiết lập này.</string>
     <string name="fluency_mode_confirm_will_normal_mode_text">Bật ảnh động và sử dụng bộ nhớ bổ sung có thể làm giảm hiệu suất trên một số thiết bị.</string>
