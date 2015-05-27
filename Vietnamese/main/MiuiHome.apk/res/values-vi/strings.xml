@@ -228,4 +228,6 @@
     <string name="app_category_sport">Thể thao</string>
     <string name="app_category_health">Sức khỏe</string>
     <string name="app_category_productivity">Sản xuất</string>
+    <string name="download_action">Tải xuống</string>
+    <string name="loading_wallpaper">Chờ trong giây lát...</string>
 </resources>
