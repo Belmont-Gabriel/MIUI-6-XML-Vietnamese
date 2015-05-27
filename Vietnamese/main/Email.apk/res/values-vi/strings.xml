@@ -964,10 +964,10 @@ Chạm "<b>Đồng bộ bây giờ</b> để đồng bộ email một lần, ho�
     <string name="quote_divider_huawei_zh">Được gửi từ điện thoại Huawei của tôi</string>
     <string name="quote_divider_ipad_zh">Được gửi từ iPad của tôi</string>
     <string name="quote_divider_iphone_en">Được gửi từ iPhone của tôi</string>
-    <string name="quote_divider_iphone_fwd_en">Bắt đầu tin nhắn được chuyển tiếp:</string>
-    <string name="quote_divider_iphone_fwd_zh">Tin nhắn chuyển tiếp：</string>
-    <string name="quote_divider_qq_en">--------------- Ban đầu ------------------</string>
-    <string name="quote_divider_qq_zh">------------------ Tin ban đầu ------------------</string>
+    <string name="quote_divider_iphone_fwd_en">Tin nhắn được chuyển tiếp:</string>
+    <string name="quote_divider_iphone_fwd_zh">Tin nhắn được chuyển tiếp：</string>
+    <string name="quote_divider_qq_en">------------------Tin ban đầu------------------</string>
+    <string name="quote_divider_qq_zh">------------------Tin ban đầu------------------</string>
     <string name="re_download_message_button">Ấn để tải xuống lại</string>
     <string name="re_download_message_info">Tải xuống Email thất bại</string>
     <string name="reduce_the_receiving_frequencye_summary">Đồng bộ hộp thư đến ít thường xuyên hơn khi bật chế độ "Không làm phiền"</string>
