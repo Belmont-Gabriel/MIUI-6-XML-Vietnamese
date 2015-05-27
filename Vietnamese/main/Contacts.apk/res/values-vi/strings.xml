@@ -1165,4 +1165,22 @@ Chọn một trong các tùy chọn sau:"</string>
     <string name="pull_to_refresh_pull_label">Kéo để làm mới…</string>
     <string name="pull_to_refresh_release_label">Thả để làm mới…</string>
     <string name="pull_to_refresh_refreshing_label">Đang tải…</string>
+    <string name="resource_select_ringtone_confirm_picker">Chọn âm thanh này chứ?</string>
+    <string name="resource_download_notification_title_one">Chủ đề đã được tải xuống</string>
+    <string name="resource_download_notification_title_many">%1$s chủ đề đã được tải xuống</string>
+    <string name="resource_tab_to_view">Chạm để xem.</string>
+    <string name="config_import_vcard_type">default</string>
+    <string name="blacklist">Chặn</string>
+    <string name="group_sms_error_message">"SMS không thể có nhiều hơn %s người nhận."</string>
+    <string name="export_sim_contact_finish_msg">đã chuyển %1$d | bỏ qua %2$d | còn lại %3$d</string>
+    <string name="preference_contacts_recovery_introduction">Khôi phục liên hệ từ Mi Cloud</string>
+    <string name="followed_yellowpage">Tài khoản đã được xác minh</string>
+    <string name="add_blacklist_dialog_title">Thêm vào danh sách chặn</string>
+    <string name="remove_blacklist_dialog_title">Loại bỏ khỏi danh sách chặn</string>
+    <string name="yellowpage_navigation_search_history">Lịch sử</string>
+    <string name="yellowpage_navigation_clear_search_history">Xóa lịch sử</string>
+    <string name="solar_calendar">Dương lịch</string>
+    <string name="lunar_calendar">Âm lịch</string>
+    <string name="lunar_leap">Nhuận</string>
+    <string name="lunar_yue">Tháng</string>
 </resources>
