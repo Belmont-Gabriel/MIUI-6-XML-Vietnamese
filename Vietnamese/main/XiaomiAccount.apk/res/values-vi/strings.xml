@@ -319,4 +319,5 @@
     <string name="passport_remove_account_notice">Sau khi đăng xuất khỏi tài khoản, bạn muốn xử lý danh bạ và ghi chú trên điện thoại của bạn như thế nào?</string>
     <string name="passport_data_keep_in_device">Giữ trên điện thoại</string>
     <string name="passport_data_wipe_from_device">Xóa khỏi điện thoại</string>
+    <string name="micloud_sync_state_pending">Đang chờ</string>
 </resources>
