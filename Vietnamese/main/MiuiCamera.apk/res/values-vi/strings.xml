@@ -329,4 +329,9 @@
     <string name="pref_camera_multiple_face_beauty_entry_on">2 người</string>
     <string name="pref_camera_multiple_face_beauty_title">Làm mịn da</string>
     <string name="save">Đồng ý</string>
+    <string name="pref_camera_peak_title">Lấy nét thông minh</string>
+    <string name="pref_camera_peak_entry_off">Tắt</string>
+    <string name="pref_camera_peak_entry_on">Bật</string>
+    <string name="pref_camera_gradienter_title">Chụp phương đứng</string>
+    <string name="simple_mode_button_text_gradienter">Tắt Chụp phương đứng</string>
 </resources>
