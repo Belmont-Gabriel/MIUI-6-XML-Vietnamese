@@ -258,4 +258,65 @@ Khi Mi Cloud đầy, dữ liệu cũ của bạn sẽ không dời đến vị t
     <string name="share_success">Chia sẻ thành công</string>
     <string name="share_cancel">Đã hủy chia sẻ</string>
     <string name="share_failed">Không thể chia sẻ</string>
+    <string name="find_device_status_ok_international">Tìm kiếm thiết bị của bạn từ bất cứ nơi nào tại www.mi.com/micloud</string>
+    <string name="mx_sub_dspt_provision_with_voip">Gọi Internet</string>
+    <string name="voip_choose_sim">Chọn số điện thoại để kích hoạt tính năng Mi Voice</string>
+    <string name="activate_number_change_dialog_message">Chọn một số điện thoại mà sẽ được hiển thị cho các thiết bị khác khi bạn gọi điện sử dụng VoIP.</string>
+    <string name="sync_dspt_entrance_provision_confirm_close">"Không dùng"</string>
+    <string name="sync_dspt_entrance_provision_confirm_open">Dùng Mi Cloud</string>
+    <string name="sync_dspt_entrance_provision_confirm_title">"Không dùng Mi Cloud chứ?"</string>
+    <string name="sync_dspt_entrance_provision_confirm_content">"Những ứng dụng được xây dựng trên ROM MIUI cần Mi Cloud để sao lưu hình ảnh, liên hệ, ghi chú, và nhiều nội dung khác. Dịch vụ lưu trữ đám mây Mi Cloud này hoàn toàn miễn phí và luôn sẵn sàng sử dụng."</string>
+    <string name="sync_dspt_entrance_provision_skip"><u>Bỏ qua bước này</u></string>
+    <string name="mx_dspt_provision_with_voip">Gọi điện cho những người dùng MIUI miễn phí thông qua kết nối internet. Bạn có thể tùy chọn bật/tắt tính năng này bất kì lúc nào trong cài đặt.</string>
+    <string name="micloud_single_dspt">Sử dụng Mi Cloud để đồng bộ dữ liệu, định vị thiết bị của bạn và chia sẻ mọi thứ với bạn vè.</string>
+    <string name="cloudservice_new_sync">Đồng bộ %s với Mi Cloud</string>
+    <string name="click_to_enabled">Chạm để đồng bộ.</string>
+    <string name="calendar_sync">Lịch</string>
+    <string name="antispam_sync">Cài đặt Không làm phiền</string>
+    <string name="deskclock_backup">Sao lưu ứng dụng Đồng hồ/Báo thức</string>
+    <string name="micloud_space_duokan_detail">Quản lý nội dung Duokan sử dụng ứng dụng Duokan.</string>
+    <string name="micloud_main_sync_setting">Cài đặt đồng bộ</string>
+    <string name="micloud_main_suggest_setting">"Đang chờ kết nối WLAN để đồng bộ
+Ấn nút Cài đặt để xem thêm nhiều tùy chọn."</string>
+    <string name="micloud_main_sync_init">Đang nhận thông tin</string>
+    <string name="micloud_setting_deskclock_summary">Cài đặt Đồng hồ</string>
+    <string name="micloud_setting_antispam_summary">Ngoại lệ cho tính năng Không làm phiền và những số điện thoại bị chặn.</string>
+    <string name="buy_more_space_b_class">"Đăng nhập vào mi.com/micloud để nhận thêm nhiều dung lượng lưu trữ. Bạn cần một thẻ ngân hàng Mainland China để thanh toán mua dung lượng lưu trữ."</string>
+    <string name="buy_more_space_c_class">"Tính năng này yêu cầu một thẻ ngân hàng Mainland China.
+Để nhận thêm dung lượng lưu trữ, truy cập mi.com/micloud."</string>
+    <string name="micloud_member_buy_title">Xác nhận đặt hàng</string>
+    <string name="micloud_member_buy_content" formatted="false">"Có giá trị %s-%s-%s
+
+%s Mi Credits mỗi năm"</string>
+    <string name="micloud_member_net_error_alert_title">"Không thể kết nối mạng"</string>
+    <string name="micloud_member_net_error_alert_message">"Bạn không có kết nối mạng."</string>
+    <string name="micloud_member_pay_fail_toast">"Không thể hoàn tất việc thanh toán"</string>
+    <string name="micloud_member_webload_fail_toast_5xx">Máy chủ lỗi</string>
+    <string name="micloud_member_webload_fail_toast_4xx">"Không thể tải trang"</string>
+    <string name="micloud_member_webload_fail_error_message">Mạng lỗi</string>
+    <string name="micloud_member_pay_order_error_toast">Dữ liệu lỗi</string>
+    <string name="micloud_member_pay_miid_error_toast">Tài khoản lỗi</string>
+    <string name="micloud_member_refresh_button">Làm mới</string>
+    <string name="cloud_back_up_title">Sao lưu sắp xếp Màn hình chính</string>
+    <string name="settings_backup_title">Sao lưu cài đặt hệ thống</string>
+    <string name="cloud_back_up_open_info_no_backuptime">Sao lưu sắp xếp Màn hình chính khi có kết nối WLAN 1 lần mỗi %1$s</string>
+    <string name="cloud_back_up_open_info">"Sao lưu sắp xếp Màn hình chính khi có kết nối WLAN 1 lần mỗi %1$s Lần sau lưu cuối là:%2$s"</string>
+    <string name="cloud_back_up_interval_long">7 ngày</string>
+    <string name="cloud_back_up_interval_short">1 ngày</string>
+    <string name="cloud_back_up_close_info">Chạm để sao lưu.</string>
+    <string name="cloud_backup_dialog_title">Sao lưu với Mi Cloud</string>
+    <string name="cloud_back_up_dialog_content">"Bạn muốn dừng quá trình sao lưu chứ? Nếu bạn dừng lúc này, bạn sẽ không thể sử dụng những sao lưu này để khôi phục trong tương lai."</string>
+    <string name="cloud_back_up_button_ok">Buộc dừng</string>
+    <string name="cloud_back_up_network_unavailable">"Không thể di chuyển. Kết nối tới mạng WLAN và thử lại."</string>
+    <string name="cloud_back_up_remove_success">Sao lưu đã được xóa</string>
+    <string name="micloud_storage">Lưu trữ</string>
+    <string name="micloud_member">Thành viên Mi Cloud</string>
+    <string name="micloud_buy_member">Nâng cấp thành viên</string>
+    <string name="micloud_member_advantage">Nhận thêm dung lượng lưu trữ.</string>
+    <string name="micloud_main_title_sync_fail">"Không thể đồng bộ"</string>
+    <string name="micloud_main_title_sync_on_wifi">Sử dụng WLAN</string>
+    <string name="micloud_main_title_sync_off">Đồng bộ hóa tắt</string>
+    <string name="micloud_sync_alert_dialog_title">Sử dụng Mi Cloud</string>
+    <string name="micloud_sync_alert_dialog_message">Đồng bộ hình ảnh, liên hệ, ghi chú, và hơn thế nữa trên tất cả các thiết bị của bạn.</string>
+    <string name="micloud_sync_alert_dialog_negative">Hủy</string>
 </resources>
