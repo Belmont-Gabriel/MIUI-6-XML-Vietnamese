@@ -85,7 +85,7 @@ Trượt xuống để khóa"</string>
     <string name="description_direction_up">Kéo lên trên cho %s.</string>
     <string name="description_direction_left">Trượt sang trái để %s.</string>
     <string name="description_target_search">Tìm kiếm</string>
-    <string name="status_bar_recent_memory_info1">%1$sB của %2$sB khả dụng</string>
+    <string name="status_bar_recent_memory_info1">%1$sB | %2$sB</string>
     <string name="status_bar_recent_memory_info2" />
     <string name="usb_mode_notification">Lưu trữ USB</string>
     <string name="usb_mode_dont_ask">Nhớ lựa chọn này</string>
