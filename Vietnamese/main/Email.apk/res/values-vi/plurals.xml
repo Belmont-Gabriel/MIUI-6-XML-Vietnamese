@@ -7,7 +7,7 @@
         <item quantity="other">Lưu %1$d hội thoại này?</item>
     </plurals>
     <plurals name="confirm_delete_conversation">
-        <item quantity="other">Xóa%1$d hội thoại này?</item>
+        <item quantity="other">Xóa %1$d hội thoại này?</item>
     </plurals>
     <plurals name="confirm_delete_conversation_with_sub">
         <item quantity="other">Cuộc hội thoại này chứa các mục đã sát nhập. Xóa chúng không?</item>
@@ -16,7 +16,7 @@
         <item quantity="other">Xóa bản nháp của %1$d hội thoại này?</item>
     </plurals>
     <plurals name="contact_num_selected">
-        <item quantity="other">Đã chọn %d</item>
+        <item quantity="other">Đã chọn %d mục</item>
     </plurals>
     <plurals name="conversation_archived">
         <item quantity="other">&lt;b>%1$d&lt;/b> đã lưu trữ.</item>
