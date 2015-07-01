@@ -1,15 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="phone_in_ecm_notification_time">
-        <item quantity="other">Không có kết nối dữ liệu trong %s phút</item>
-        <item quantity="one">Không có kết nối dữ liệu trong %s phút</item>
+        <item quantity="other">Không có kết nối dữ liệu khoảng %s phút</item>
     </plurals>
     <plurals name="alert_dialog_exit_ecm">
-        <item quantity="other">Điện thoại sẽ ở chế độ Gọi lại Khẩn cấp trong %s phút. Khi ở chế độ này không có ứng dụng sử dụng kết nối dữ liệu nào có thể được sử dụng. Bạn có muốn thoát ra bây giờ?</item>
-        <item quantity="one">Điện thoại sẽ ở chế độ Gọi lại Khẩn cấp trong %s phút. Khi ở chế độ này không có ứng dụng sử dụng kết nối dữ liệu nào có thể được sử dụng. Bạn có muốn thoát ra bây giờ?</item>
+        <item quantity="other">Điện thoại sẽ ở chế độ Gọi lại Khẩn cấp khoảng %s phút. Khi ở chế độ này không có ứng dụng sử dụng kết nối dữ liệu nào có thể được sử dụng. Bạn có muốn thoát ra bây giờ?</item>
     </plurals>
     <plurals name="alert_dialog_not_avaialble_in_ecm">
-        <item quantity="other">Hành động đã chọn không có sẵn khi ở chế độ Gọi lại Khẩn cấp. Điện thoại sẽ ở chế độ này trong %s phút. Bạn có muốn thoát ra ngay bây giờ?</item>
-        <item quantity="one">Hành động đã chọn không có sẵn khi ở chế độ Gọi lại Khẩn cấp. Điện thoại sẽ ở chế độ này trong %s phút. Bạn có muốn thoát ra ngay bây giờ?</item>
+        <item quantity="other">Hành động đã chọn không có sẵn khi ở chế độ Gọi lại Khẩn cấp. Điện thoại sẽ ở chế độ này khoảng %s phút. Bạn có muốn thoát ra ngay bây giờ?</item>
     </plurals>
 </resources>

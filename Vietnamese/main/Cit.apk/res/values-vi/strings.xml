@@ -69,9 +69,9 @@
     <string name="cit_version_check_summary">Bên dưới là thông tin về phiên bản hệ điều hành. Hãy xác nhận rằng thông tin được đánh dấu màu xanh lá cây là đúng.</string>
     <string name="cit_proximity_sensor_check_summary">"Dùng tay che bộ cảm biến tiệm cận (nằm ở trên cùng của điện thoại gần bộ thu), sau đó di chuyển tay ra xa. Giá trị sẽ tăng từ 0,0 khi bạn di chuyển tay ra xa thiết bị hơn.
 Trong khi hiệu chỉnh, đảm bảo rằng không có gì nằm giữa bộ cảm biến và tay của bạn (ví dụ: bảo vệ màn hình hoặc găng tay)."</string>
-    <string name="cit_magnetic_sensor_check_summary">Các giá trị tọa độ X，Y，Z sẽ xuất hiện bên dưới</string>
+    <string name="cit_magnetic_sensor_check_summary">Các giá trị tọa độ X, Y, Z sẽ xuất hiện bên dưới</string>
     <string name="cit_light_sensor_check_summary">Giá trị DAC sẽ xuất hiện bên dưới</string>
-    <string name="cit_gyroscope_sensor_check_summary">Các giá trị tọa độ X，Y，Z sẽ xuất hiện bên dưới</string>
+    <string name="cit_gyroscope_sensor_check_summary">Các giá trị tọa độ X, Y, Z sẽ xuất hiện bên dưới</string>
     <string name="cit_pressure_sensor_check_summary">Giá trị áp suất sẽ xuất hiện bên dưới</string>
     <string name="cit_leds_check_summary">Đèn nền, đèn thông báo và đèn flash (phía sau) sẽ phản hồi khi bạn bấm phím tương ứng.</string>
     <string name="cit_vibrator_check_summary">Xem chức năng rung (dài và ngắn) có hoạt động bình thường không</string>
@@ -79,7 +79,7 @@ Trong khi hiệu chỉnh, đảm bảo rằng không có gì nằm giữa bộ c
     <string name="cit_wifi_ap_scan_check_summary">Bên dưới là thông tin điểm truy cập Wi-Fi của các thiết bị trong vùng được phát hiện. Xác nhận rằng thông tin được đánh dấu bằng màu xanh lá cây là đúng.</string>
     <string name="cit_blue_tooth_address_check_summary">Địa chỉ Bluetooth của thiết bị này sẽ được hiển thị bên dưới.</string>
     <string name="cit_blue_tooth_scan_check_summary">Bên dưới là thông tin của các thiết bị Bluetooth đã được phát hiện gần đó.</string>
-    <string name="cit_accelermeter_sensor_check_summary">"Di chuyển nhanh thiết bị theo một hướng. Giá trị tọa độ X，Y，Z được hiển thị bên dưới. (khi điện thoại đang di chuyển: X thể hiện bên trái/bên phải, Y thể hiện phía trước/phía sau, Z thể hiện lên và xuống).
+    <string name="cit_accelermeter_sensor_check_summary">"Di chuyển nhanh thiết bị theo một hướng. Giá trị tọa độ X, Y, Z được hiển thị bên dưới. (Khi điện thoại đang di chuyển: X thể hiện bên trái/bên phải, Y thể hiện phía trước/phía sau, Z thể hiện lên và xuống).
 Trước khi bạn hiệu chỉnh, hãy đặt thiết bị trên bề mặt phẳng."</string>
     <string name="cit_headset_plug_detect_summary">Khi tai nghe được kết nối, dòng chữ \"Đã phát hiện tai nghe\" sẽ hiển thị bên dưới.</string>
     <string name="cit_headset_button_check_summary">Khi tai nghe được kết nối, nhấn các phím trên tai nghe từ xa (thường nằm trên dây). Dòng chữ tương ứng trên màn hình sẽ chuyển thành màu xanh lá cây.</string>
@@ -97,23 +97,23 @@ Xoay điện thoại để đầu vào tai nghe quay xuống dưới. Nói vào 
 Cầm điện thoại giống như bạn đang trả lời cuộc gọi, nói vào micrô. Bạn sẽ nghe thấy giọng nói của mình đã được giảm tiếng ồn trong nền được phát qua bộ thu."</string>
     <string name="cit_audio_lb_summary_mainmic_to_earpiece">"Kiểm tra phản hồi micrô chính với bộ thu.
 
-Cầm điện thoại giống như bạn đang thực hiện cuộc gọi, nói vào micrô chính, bạn sẽ nghe thấy giọng nói của mình từ bộ thu"</string>
+Cầm điện thoại giống như bạn đang thực hiện cuộc gọi, nói vào micrô chính, bạn sẽ nghe thấy giọng nói của mình từ bộ thu."</string>
     <string name="cit_headset_loopback_check_summary">Trong khi đeo tai nghe, kết nối tai nghe với thiết bị. Hãy nói vào micrô của tai nghe (thường nằm trên dây). Bạn sẽ nghe thấy giọng nói của mình trong loa của tai nghe.</string>
     <string name="cit_audio_lb_summary_backmic_to_speaker">"Kiểm tra phản hồi micrô sau với loa. 
 
-Xoay điện thoại, nói vào micrô phía sau, bạn sẽ nghe thấy giọng nói trong loa"</string>
+Xoay điện thoại, nói vào micrô phía sau, bạn sẽ nghe thấy giọng nói trong loa."</string>
     <string name="cit_x5_audio_lb_summary_topmic_to_speaker">"Kiểm tra phản hồi của micrô trên cùng với loa.
 
- Xoay điện thoại, nói vào micrô trên cùng, bạn sẽ nghe thấy giọng nói trong loa"</string>
+ Xoay điện thoại, nói vào micrô trên cùng, bạn sẽ nghe thấy giọng nói trong loa."</string>
     <string name="cit_audio_lb_summary_phonecall">"Kiểm tra cuộc gọi mô phỏng.
 
 Cầm điện thoại giống như bạn đang thực hiện cuộc gọi, nói vào micrô chính, bạn sẽ nghe thấy giọng nói trong bộ thu. Hãy thực hiện kiểm tra trong môi trường yên tĩnh"</string>
     <string name="cit_audio_lb_summary_topmic_to_speaker">"Kiểm tra phản hồi của micrô trên cùng với loa.
 
- Xoay điện thoại, nói vào micrô trên cùng, bạn sẽ nghe thấy giọng nói trong loa"</string>
+ Xoay điện thoại, nói vào micrô trên cùng, bạn sẽ nghe thấy giọng nói trong loa."</string>
     <string name="cit_x5_audio_lb_summary_frontmic_to_speaker">"Kiểm tra phản hồi của micrô trước.
 
- Nói vào micrô ở vị trí loa trong, bạn sẽ nghe thấy giọng nói loa phát ra ở loa ngoài"</string>
+ Nói vào micrô ở vị trí loa trong, bạn sẽ nghe thấy giọng nói loa phát ra ở loa ngoài."</string>
     <string name="cit_sd_plugin_check_summary">Dòng chữ \"Đã phát hiện thẻ SD, rút thẻ SD bây giờ\" sẽ hiển thị bên dưới.</string>
     <string name="cit_sd_plugout_check_summary">Khi bạn rút thẻ SD, dòng chữ \"Thẻ SD đã được rút ra, gắn thẻ SD bây giờ\" sẽ hiển thị bên dưới.</string>
     <string name="cit_keyboard_test_summary">Khi bạn bấm phím, dòng chữ tương ứng trên màn hình sẽ chuyển thành màu xanh lá cây (lưu ý: phím Trang chính và phím Nguồn không nằm trong phạm vi kiểm tra).</string>
@@ -155,7 +155,7 @@ Cầm điện thoại giống như bạn đang thực hiện cuộc gọi, nói 
     <string name="cit_audio_cali_valueC">Lượt truy cập:</string>
     <string name="cit_audio_cali_failed">Hiệu chỉnh thất bại, vui lòng thử lại!</string>
     <string name="cit_aud_spkcal">Hiệu chỉnh</string>
-    <string name="cit_audio_calibrating">Đang hiệu chỉnh…</string>
+    <string name="cit_audio_calibrating">Đang hiệu chỉnh...</string>
     <string name="cit_OTG_plugin_check_summary">Khi bạn kết nối thiết bị OTG, dòng chữ \"Đã phát hiện thiết bị USB OTG\" sẽ hiển thị bên dưới.</string>
     <string name="cit_OTG_plugout_check_summary">Khi bạn rút thiết bị OTG ra, dòng chữ \"Đã rút thiết bị USB OTG\" sẽ hiển thị bên dưới.</string>
     <string name="cit_vibrator_short">Rung ngắn</string>
@@ -285,7 +285,7 @@ Hãy chạm vào màn hình để bắt đầu GPS…"</string>
     <string name="cit_tool_log_ril">Nhật ký RIL</string>
     <string name="cit_tool_log_dmesg">DMESG</string>
     <string name="cit_tool_log_modem">Nhật ký modem</string>
-    <string name="cit_tool_log_kmsg">Nhật ký kernal mới nhất</string>
+    <string name="cit_tool_log_kmsg">Nhật ký kernel mới nhất</string>
     <string name="cit_tool_log_bugreport">Báo lỗi</string>
     <string name="cit_tool_log_toast">Đã lưu nhật ký vào %s</string>
     <string name="cit_tool_log_file_not_exist">%s không tồn tại</string>

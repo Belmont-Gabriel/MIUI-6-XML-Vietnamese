@@ -13,11 +13,11 @@
         <item>Rất lớn</item>
     </string-array>
     <string-array name="menu_att_mgr_sort_string_array">
-        <item>Gần đây</item>
+        <item>Đã xem gần đây</item>
         <item>Định dạng</item>
         <item>Tên</item>
         <item>Người gửi</item>
-        <item>Ngày</item>
+        <item>Thời gian nhận</item>
     </string-array>
     <string-array name="moveto_folder_sections">
         <item>Hệ thống</item>
@@ -25,8 +25,8 @@
         <item>Tất cả Thư mục</item>
     </string-array>
     <string-array name="prefEntries_autoAdvance">
-        <item>Mới hơn</item>
-        <item>Cũ hơn</item>
+        <item>Tin nhắn mới hơn</item>
+        <item>Tin nhắn cũ hơn</item>
         <item>Danh sách hội thoại</item>
     </string-array>
     <string-array name="prefEntries_removal_action">
@@ -44,23 +44,6 @@
         <item>Chỉ hiển thị xóa</item>
         <item>Hiển thị lưu trữ &amp; xóa</item>
     </string-array>
-    <string-array name="signature_normal_string_array">
-        <item>Blog:</item>
-        <item>Web:</item>
-        <item>Email:</item>
-        <item>Di động:</item>
-        <item>Điện thoại:</item>
-        <item>T:</item>
-        <item>www.</item>
-        <item>F:</item>
-        <item>E:</item>
-        <item>E-mail:</item>
-        <item>Điện thoại:</item>
-        <item>Fax:</item>
-        <item>Mail:</item>
-        <item>QQ:</item>
-        <item>MSN:</item>
-    </string-array>
     <string-array name="signature_normal_string_array_next">
         <item>Địa chỉ:</item>
         <item>Điện thoại:</item>
@@ -71,26 +54,17 @@
         <item>Fax:</item>
         <item>Mã Bưu chính:</item>
     </string-array>
-    <string-array name="signature_special_string_array">
-        <item>Từ chối:</item>
-        <item>Email Từ chối</item>
-        <item>Gửi qua WPSMail</item>
-        <item>Gửi từ</item>
-        <item>Gửi với</item>
-        <item>Cảm ơn,</item>
-        <item>Trân trọng</item>
-    </string-array>
     <string-array name="signature_special_string_array_next">
         <item>Cảm ơn,</item>
         <item>Trân trọng</item>
-        <item>Gửi từ</item>
+        <item>Gửi từ của tôi</item>
         <item>Email gốc</item>
-        <item>Gửi từ</item>
+        <item>Gửi từ của tôi</item>
         <item>Gửi từ</item>
         <item>Từ</item>
         <item>Email này</item>
         <item>Từ chối</item>
-        <item>Email Từ chối</item>
+        <item>Từ chối Email</item>
     </string-array>
     <string-array name="sync_status">
         <item>Đồng bộ thành công.</item>

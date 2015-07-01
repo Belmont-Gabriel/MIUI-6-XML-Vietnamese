@@ -28,7 +28,7 @@
     <string name="paused_waiting_to_retry">Đang chờ thử lại</string>
     <string name="paused_unknown">Tạm dừng không rõ lý do</string>
     <string name="confirm_delete_downloads_message">%d tải xuống sẽ bị xóa.</string>
-    <string name="confirm_delete_the_download_item_message">Xóa những bản tải xuống?</string>
+    <string name="confirm_delete_the_download_item_message">Xóa các bản tải xuống?</string>
     <string name="delete_the_downloaded_file">Các tập tin đã tải xuống sẽ bị xóa.</string>
     <string name="downloads_operating">Đang tiến hành…</string>
     <string name="select_operation_items">Chọn mục</string>
@@ -61,7 +61,7 @@
     <string name="doc_filter">TÀI LIỆU</string>
     <string name="package_filter">GÓI</string>
     <string name="other_filter">KHÁC</string>
-    <string name="xunlei_brand">Việt hóa bởi ♋๖ۣۜßεℓ™</string>
+    <string name="xunlei_brand">Được hỗ trợ bởi Xunlei</string>
     <string name="xunlei_brand_url">http://mobile.xunlei.com</string>
     <string name="xunlei_switch">Công cụ tải xuống Xunlei</string>
     <string name="turn_off_xunlei_title">Tắt công cụ tải xuống Xunlei</string>
@@ -111,8 +111,11 @@
     <string name="privacy_tip_content">Sử dụng Tăng tốc Xunlei để tăng tốc độ tải xuống? URL của máy chủ tải xuống sẽ tải lên máy chủ của Xunlei. Chi tiết Tài khoản Mi của bạn cũng sẽ được tải lên để kiểm tra xem nếu bạn có bất kỳ đăng ký hoạt động cho dịch vụ này.</string>
     <string name="privacy_tip_cancel">Hủy</string>
     <string name="privacy_tip_ok">OK</string>
+    <string name="xunlei_close_tips_title">Tăng tốc tải xuống</string>
+    <string name="xunlei_close_tips_content">Tăng tốc tải xuống Xunlei.</string>
+    <string name="xunlei_close_tips_button">Bật</string>
+    <string name="toast_xunlei_engine_open">Bật tăng tốc tải xuống Xunlei</string>
     <string name="app_label">Tải xuống</string>
-    <string name="download_title">Tải xuống</string>
     <string name="download_title_sorted_by_date">Tải xuống - Sắp xếp theo ngày</string>
     <string name="download_title_sorted_by_size">Tải xuống - Sắp xếp theo kích thước</string>
     <string name="no_downloads">Không có bản tải xuống nào.</string>
@@ -123,7 +126,6 @@
     <string name="download_running">Đang tải lên</string>
     <string name="download_success">Hoàn tất</string>
     <string name="download_error">Không thành công</string>
-    <string name="download_error_insufficient_space">Không đủ dung lượng</string>
     <string name="dialog_title_not_available">Tải xuống không thành công</string>
     <string name="dialog_failed_body">Bạn muốn thử lại tải xuống tệp sau hay xóa tệp khỏi hàng đợi?</string>
     <string name="dialog_title_queued_body">Tệp chưa sẵn có</string>

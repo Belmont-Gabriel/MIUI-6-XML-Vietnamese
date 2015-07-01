@@ -199,8 +199,8 @@ Chuyển sang nhà cung cấp mới không?"</string>
     <string name="data_enabled">Đã bật dữ liệu</string>
     <string name="data_enable_summary">Cho phép truy cập dữ liệu qua mạng Di động</string>
     <string name="roaming">Chuyển vùng dữ liệu</string>
-    <string name="roaming_enable">Kết nối với dịch vụ dữ liệu khi chuyển vùng</string>
-    <string name="roaming_disable">Kết nối với dịch vụ dữ liệu khi chuyển vùng</string>
+    <string name="roaming_enable">Sử dụng dữ liệu di động khi chuyển vùng</string>
+    <string name="roaming_disable">Sử dụng dữ liệu di động khi chuyển vùng</string>
     <string name="roaming_reenable_message">Mất kết nối dữ liệu do bạn thoát khỏi mạng cục bộ cùng với việc tắt chuyển vùng dữ liệu.</string>
     <string name="roaming_warning">Cho phép chuyển vùng dữ liệu? Bạn có thể phải trả phí chuyển vùng đáng kể!</string>
     <string name="gsm_umts_options">Tùy chọn GSM/UMTS</string>
@@ -348,7 +348,7 @@ Thời gian tiếp theo bắt đầu trong %2$d ngày ( %3$s )"</string>
     <string name="confirmPinLabel">Xác nhận mã PIN mới</string>
     <string name="badPin">Mã PIN cũ bạn nhập không chính xác. Thử lại.</string>
     <string name="mismatchPin">Mã PINs bạn nhập không chính xác. Thử lại.</string>
-    <string name="invalidPin">Nhập mã PIN từ 4 đến 8 con số.</string>
+    <string name="invalidPin">Nhập mã PIN từ 4 đến 8 số.</string>
     <string name="disable_sim_pin">Tắt mã PIN của SIM</string>
     <string name="enable_sim_pin">Bật mã PIN của SIM</string>
     <string name="enable_in_progress">Vui lòng chờ…</string>
@@ -364,7 +364,7 @@ Thời gian tiếp theo bắt đầu trong %2$d ngày ( %3$s )"</string>
     <string name="badPuk2">Mã PUK2 bạn nhập không chính xác. Thử lại.</string>
     <string name="badPin2">Mã PIN2 cũ bạn nhập không chính xác. Thử lại.</string>
     <string name="mismatchPin2">Mã PIN2 bạn nhập không khớp. Thử lại.</string>
-    <string name="invalidPin2">Nhập mã PIN2 từ 4 đến 8 con số.</string>
+    <string name="invalidPin2">Nhập mã PIN2 từ 4 đến 8 số.</string>
     <string name="invalidPuk2">Nhập mã PUK2 với 8 con số.</string>
     <string name="pin2_changed">Đổi mã PIN2 thành công.</string>
     <string name="label_puk2_code">Nhập mã PUK2</string>
@@ -378,9 +378,9 @@ Thời gian tiếp theo bắt đầu trong %2$d ngày ( %3$s )"</string>
     <string name="card_title_conf_call">Cuộc gọi hội nghị</string>
     <string name="card_title_threeway_call">Cuộc gọi ba bên</string>
     <string name="card_title_incoming_call">Cuộc gọi đến</string>
-    <string name="card_title_call_ended">Cuộc gọi đã kết thúc</string>
-    <string name="card_title_on_hold">Giữ</string>
-    <string name="card_title_hanging_up">Cúp máy</string>
+    <string name="card_title_call_ended">"Kết thúc cuộc gọi "</string>
+    <string name="card_title_on_hold">"Giữ "</string>
+    <string name="card_title_hanging_up">"Đang cúp máy "</string>
     <string name="card_title_in_call">Đang gọi</string>
     <string name="card_title_in_call_short">Đang gọi</string>
     <string name="card_title_my_phone_number">Số của tôi là %s</string>
@@ -612,8 +612,8 @@ Thử lại hoặc gọi cho dịch vụ khách hàng để có thêm lựa ch�
     <string name="online_check_warning_type_by_cmb">Thư rác</string>
     <string name="livetalk_provider_info">Được cung cấp bởi %s</string>
     <string name="livetalk_waiting">Đang chờ…</string>
-    <string name="jeejen_answer_call_text">Trả lời cuộc gọi</string>
-    <string name="jeejen_reject_call_text">Từ chối cuộc gọi</string>
+    <string name="jeejen_answer_call_text">Trả lời</string>
+    <string name="jeejen_reject_call_text">Từ chối</string>
     <string name="jeejen_end_call_text">Kết thúc cuộc gọi</string>
     <string name="jeejen_toggle_dialpad_text">Bàn phím</string>
     <string name="jeejen_card_title_in_call" />
@@ -621,5 +621,5 @@ Thử lại hoặc gọi cho dịch vụ khách hàng để có thêm lựa ch�
     <string name="jeejen_card_title_dialing">Đang quay số</string>
     <string name="jeejen_card_title_incoming_call">Cuộc gọi đến</string>
     <string name="jeejen_card_title_call_cancel">Hủy cuộc gọi</string>
-    <string name="jeejen_card_title_call_ended">Cuộc gọi đã kết thúc</string>
+    <string name="jeejen_card_title_call_ended">Cuộc gọi kết thúc</string>
 </resources>

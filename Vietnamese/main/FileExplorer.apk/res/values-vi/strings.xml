@@ -31,6 +31,8 @@
     <string name="operation_hide_sys">Không hiển thị các tập tin ẩn</string>
     <string name="cancel">Hủy</string>
     <string name="tab_expand">Mở rộng</string>
+    <string name="mi_router_label">Bộ định tuyến Mi</string>
+    <string name="usb_label">USB</string>
     <string name="background">Ẩn</string>
     <string name="no_file">Trống</string>
     <string name="tab_category">Phân loại</string>
@@ -50,7 +52,7 @@
     <string name="operation_rename_message">Đổi tên thư mục</string>
     <string name="operation_create_folder_message">Tên thư mục</string>
     <string name="operation_delete_confirm_message">Xóa?</string>
-    <string name="operation_delete_confirm_message_folder">Toàn bộ nội dung thư mục sẽ bị xóa. </string>
+    <string name="operation_delete_confirm_message_folder">Toàn bộ nội dung thư mục sẽ bị xóa.</string>
     <string name="delete_dialog_button">Xóa</string>
     <string name="new_folder_name">Chưa đặt tên thư mục</string>
     <string name="sd_card_size">Thẻ SD: %1$s</string>
@@ -111,7 +113,7 @@
     <string name="no_enough_storage_title">Không đủ dung lượng</string>
     <string name="no_enough_storage_indication">Dung lượng lưu trữ của thiết bị đã đầy.</string>
     <string name="ui_main_menu_option_task_manage">Quản lý chuyển đổi</string>
-    <string name="kuaipan_label">Kuaipan</string>
+    <string name="kuaipan_label">KuaiPan</string>
     <string name="create_kuaipan_shortcut_pref">Thêm vào Màn hình chính</string>
     <string name="login_reg_content0">Sử dụng Kuaipan từ mọi nơi.</string>
     <string name="login_reg_content">Lưu trữ tập tin và đồng bộ trên nhiều thiết bị.</string>
@@ -123,7 +125,7 @@
     <string name="loading">Đang tải…</string>
     <string name="load_err">Không thể tải</string>
     <string name="net_lose_connected">Mất kết nối</string>
-    <string name="wangpan_root_path">Kuaipan</string>
+    <string name="wangpan_root_path">Ổ đĩa của tôi</string>
     <string name="kuaipan_over_space">Không đủ dung lượng</string>
     <string name="kuaipan_tech_support">Đăng nhập tại kuaipan.cn</string>
     <string name="no_tasks">Không có tác vụ nào.</string>
@@ -147,7 +149,7 @@
     <string name="trash_box_message1">Xóa tập tin không cần thiết để có thêm dung lượng.</string>
     <string name="trash_box_message2">Dọn sạch thùng rác để giải phóng dung lượng.</string>
     <string name="close">Đóng</string>
-    <string name="space_info">KuaiPan: trống %1$s, tổng %2$s</string>
+    <string name="space_info">KuaiPan: %1$s khả dụng, tổng số %2$s</string>
     <string name="trash_box_capacity">Thùng rác %1$s</string>
     <string name="data_capacity">Dữ liệu %1$s</string>
     <string name="send_to_midrive">KuaiPan</string>
@@ -167,7 +169,7 @@
     <string name="decompress_cancel">Hủy</string>
     <string name="kuaipan_prompt">Thông báo</string>
     <string name="kuaipan_prompt_message">"
- Rất tiếc, máy chủ của chúng tôi đang ngừng hoạt động để bảo trì. Vui lòng thử lại sau…
+ Rất tiếc là máy chủ của chúng tôi đang bảo trì. Vui lòng thử lại sau…
 "</string>
     <string name="move_failed">Không thể cắt</string>
     <string name="copy_failed">Không thể sao chép</string>
@@ -215,7 +217,7 @@ Dung lượng miễn phí đã thêm%1$s"</string>
     <string name="downloading">Đang tải xuống</string>
     <string name="waiting">Đang chờ</string>
     <string name="wait_wifi">Đang chờ kết nối Wi-Fi</string>
-    <string name="wait_net">Đang chờ mạng</string>
+    <string name="wait_net">Đang chờ kết nối mạng</string>
     <string name="wait_sdcard">Đang chờ thẻ SD…</string>
     <string name="paused">Đã tạm dừng</string>
     <string name="upload_failed">Tải lên thất bại</string>
@@ -261,7 +263,7 @@ Dung lượng miễn phí đã thêm%1$s"</string>
     <string name="petabyteShort">PB</string>
     <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="tab_local">Trên máy</string>
-    <string name="sys_size_enable">" trống"</string>
+    <string name="sys_size_enable">" khả dụng"</string>
     <string name="menu_list_name">Menu</string>
     <string name="tools">CÔNG CỤ</string>
     <string name="category_type_meida">Phương tiện</string>
@@ -288,15 +290,38 @@ Dung lượng miễn phí đã thêm%1$s"</string>
     <string name="share_box">Đã chia sẻ</string>
     <string name="share_box_send">Đã gửi</string>
     <string name="share_box_receive">Đã nhận</string>
-    <string name="file_not_exist">tập tin không tồn tại</string>
-    <string name="open_file_failed">mở thất bại</string>
+    <string name="file_not_exist">Tập tin không tồn tại</string>
+    <string name="open_file_failed">Không thể mở</string>
+    <string name="action_mode_deselect_all">Bỏ chọn tất cả</string>
+    <string name="action_mode_select_all">Chọn tất cả</string>
+    <string name="can_not_send_with_too_many">Không thể gửi nhiều mục</string>
     <string name="file_already_downlaoded">Đã lưu tập tin \"%1$s\"</string>
     <string name="copy_file_to_kuaipan">Sao chép tập tin đến Kuaipan</string>
     <string name="downloading_in_3g">Đang tải xuống bằng 3G…</string>
     <string name="operate_confirm_in_3g">Sử dụng mạng di động của bạn để tải tập tin lớn này?</string>
-    <string name="system_alert">Nhắc nhở</string>
-    <string name="network_connect_confirm_des">Chúng tôi sẽ truy cập vào mạng để sử dụng kuaipan, bạn đồng ý không?</string>
-    <string name="operation_agree">Đồng ý &amp; Tiến hành</string>
-    <string name="never_notify_network_connect">Không hiển thị lại</string>
-    <string name="connect_network_setting_des">Nhắc nhở khi truy cập mạng</string>
+    <string name="files">Tập tin</string>
+    <string name="get_cloud_space">Thêm 500GB</string>
+    <string name="kp_category_all">Thể loại</string>
+    <string name="kp_category_doc">Word</string>
+    <string name="kp_category_excel">Excel</string>
+    <string name="kp_category_ppt">PowerPoint</string>
+    <string name="kp_category_pdf">PDF</string>
+    <string name="kp_category_txt">Văn bản</string>
+    <string name="no_display_file">Không thể hiển thị %1$s</string>
+    <string name="delete_selected_tasks">Xóa mục đã chọn?</string>
+    <string name="kuaipan_delete_guide_des">Xóa hướng dẫn?</string>
+    <string name="kuaipan_data_formater_with_year">ngày d tháng M năm YYYY</string>
+    <string name="kuaipan_data_formater_without_year">d ngày M tháng</string>
+    <string name="kuaipan_photo_locate">Vị trí %1$s</string>
+    <string name="kuaipan_photo_folder_divider">,</string>
+    <string name="kuaipan_photo_more_folder_count">%1$s</string>
+    <string name="kuaipan_root_fooder">Thu mục gốc</string>
+    <string name="kuaipan_cloud_photo">Ảnh KuaiPan</string>
+    <string name="kuaipan_create_shortcut_success">Lối tắt đã được tạo</string>
+    <string name="kuaipan_delete_success">Đã xóa ảnh</string>
+    <string name="system_alert">Kết nối Internet</string>
+    <string name="network_connect_confirm_des">Trình tập tin cần phải kết nối Internet để làm việc bình thường.</string>
+    <string name="operation_agree">Cho phép</string>
+    <string name="never_notify_network_connect">Nhớ tùy chọn</string>
+    <string name="connect_network_setting_des">Nhắc nhở kết nối internet</string>
 </resources>

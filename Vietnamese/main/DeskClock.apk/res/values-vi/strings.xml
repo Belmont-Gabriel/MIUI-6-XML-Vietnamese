@@ -2,13 +2,13 @@
 <resources>
     <string name="common_settings">Cài đặt</string>
     <string name="alarm_settings">Cài đặt báo thức</string>
-    <string name="edit_systemtime">Sửa giờ hệ thống</string>
+    <string name="edit_systemtime">Thiết lập thời gian hệ thống</string>
     <string name="vibrate_pref_summary">Rung khi báo thức</string>
     <string name="label_pref_summary">Đặt nhãn báo thức</string>
-    <string name="worldclock_title">Giờ thế giới</string>
+    <string name="worldclock_title">Đồng hồ</string>
     <string name="stopwatch_title">Bấm giờ</string>
     <string name="timer_title">Hẹn giờ</string>
-    <string name="menu_add_worldclock">Thêm múi giờ</string>
+    <string name="menu_add_worldclock">Thêm đồng hồ</string>
     <string name="menu_edit_timer_item">Chỉnh sửa nhiệm vụ hẹn giờ</string>
     <string name="delete_timer_item_title">Xóa nhiệm vụ hẹn giờ</string>
     <string name="delete_selected_timer_item">Xóa nhiệm vụ hẹn giờ đã chọn?</string>
@@ -37,17 +37,14 @@
     <string name="vibrate_when_ringing">Rung khi báo thức</string>
     <string name="start_up">Bắt đầu</string>
     <string name="cancel">Hủy</string>
-    <string name="timer_message_00">%1$d phút và %2$d giây</string>
-    <string name="timer_message_01">%1$d phút và %2$d giây</string>
-    <string name="timer_message_10">%1$d phút và %2$d giây</string>
-    <string name="timer_message">%1$d phút và %2$d giây</string>
+    <string name="timer_item_picker_hour">Giờ</string>
     <string name="timer_item_picker_minute">Phút</string>
     <string name="timer_item_picker_second">Giây</string>
     <string name="timer_item_duration_display">%1$d phút %2$d giây</string>
     <string name="timer_new_item">Thêm hẹn giờ</string>
     <string name="timer_item_label_hint">Nhãn hẹn giờ</string>
     <string name="shutdown_alarm_title">Báo thức khi tắt máy</string>
-    <string name="shutdown_alarm_enable_summary">Báo thức khi tắt máy được bật</string>
+    <string name="shutdown_alarm_enable_summary">Báo thức khi tắt máy đã bật</string>
     <string name="shutdown_alarm_disable_summary">Báo thức khi tắt máy đã tắt</string>
     <string name="workday_alarm_clock">Báo thức ngày làm việc</string>
     <string name="system_time_setting">Cài đặt</string>
@@ -64,7 +61,8 @@
     <string name="alarm_screen">Màn hình và nhạc chuông báo thức</string>
     <string name="slider_text">Trượt lên để yên lặng</string>
     <string name="snooze_confirm_cancel">Hủy báo lại</string>
-    <string name="full_wday_month_day_no_year">EEEE, d MMMM</string>
+    <string name="menu_item_sort_by_gmt_offset">Sắp xếp theo thời gian</string>
+    <string name="menu_item_sort_by_name">Sắp xếp theo tên</string>
     <string name="app_label">Đồng hồ</string>
     <string name="alarm_list_title">Báo thức</string>
     <string name="add_alarm">Thêm báo thức</string>
@@ -78,8 +76,7 @@
     <string name="alarm_repeat">Lặp lại</string>
     <string name="alert">Nhạc chuông</string>
     <string name="time">Giờ</string>
-    <string name="alarm_alert_alert_silenced">Báo thức im lặng sau %d phút.</string>
-    <string name="timer_alert_alert_silenced">Bấm giờ im lặng sau %d phút.</string>
+    <string name="alarm_alert_alert_silenced">Báo thức im lặng sau %d phút</string>
     <string name="alarm_alert_snooze_set">Báo lại trong %d phút.</string>
     <string name="day">1 ngày</string>
     <string name="days">%s ngày</string>
@@ -88,7 +85,7 @@
     <string name="minute">1 phút</string>
     <string name="minutes">%s phút</string>
     <string name="every_day">Hàng ngày</string>
-    <string name="never">Một lần</string>
+    <string name="never">Chưa bao giờ</string>
     <string name="day_concat">", "</string>
     <string name="analog_gadget">Đồng hồ kim</string>
     <string name="settings">Cài đặt</string>
@@ -113,12 +110,6 @@
     <string name="loading_ringtone">Đang tải nhạc chuông…</string>
     <string name="control_set_alarm">Đặt báo thức</string>
     <string name="control_set_alarm_with_existing">Báo thức đã đặt: %s</string>
-    <string name="alarm_duration">Đổ chuông và thời lượng (phút)</string>
-    <string name="alarm_count">Số lần đổ chuông</string>
-    <string name="alarm_duration_title">Độ dài đổ chuông</string>
-    <string name="alarm_duration_summary">Khoảng %d phút</string>
-    <string name="alarm_count_summary">Đổ chuông %d tự động dừng</string>
-    <string name="alarm_count_never_summary">Không tự động dừng lại</string>
-    <string name="alarm_in_silent_mode_summary">Phát báo thức ngay cả khi điện thoại ở chế độ im lặng</string>
     <string name="menu_edit_alarm">Chỉnh sửa báo thức</string>
+    <string name="alarm_in_silent_mode_summary">Phát báo thức ngay cả khi điện thoại ở chế độ im lặng</string>
 </resources>

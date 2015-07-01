@@ -1,25 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="device_picker">Trình chọn thiết bị Bluetooth</string>
     <string name="bluetooth_preference_scan_title">Quét thiết bị</string>
-    <string name="bluetooth_preference_connected_devices">Đã kết nối thiết bị</string>
+    <string name="bluetooth_preference_connected_devices">Thiết bị đã kết nối</string>
     <string name="bluetooth_preference_found_devices">Thiết bị khả dụng</string>
-    <string name="progress_scanning">Đang tìm…</string>
+    <string name="progress_scanning">Đang tìm</string>
     <string name="bluetooth_search_for_devices">Tìm kiếm thiết bị</string>
-    <string name="mi_key_alert_dialog_title">Thông báo MiKey</string>
-    <string name="mi_key_alert_dialog_message">Chạm vào OK để tắt âm báo thức.</string>
-    <string name="ble_device_address">MAC thiết bị BLE</string>
+    <string name="mi_key_alert_dialog_title">Cảnh báo MiKey</string>
+    <string name="mi_key_alert_dialog_message">Bấm OK để tắt báo động.</string>
+    <string name="ble_device_address">BLE device MAC</string>
     <string name="disconnect">Ngắt kết nối</string>
-    <string name="ble_device_unbind">Xóa cài đặt</string>
+    <string name="ble_device_unbind">Xóa các cài đặt</string>
     <string name="ble_device_profile_header_title">Cấu hình</string>
-    <string name="ble_device_profile_title">Kết nối thiết bị BLE</string>
+    <string name="ble_device_profile_title">Đã kết nối thiết bị BLE</string>
     <string name="mi_band_vibrate_incall">Rung khi đổ chuông</string>
-    <string name="mi_band_vibrate_incall_in_contacts">Rung khi đổ chuông cho các cuộc gọi từ danh bạ</string>
-    <string name="mi_band_vibrate_incall_no_contacts">Rung khi đổ chuông cho các cuộc gọi từ số lạ</string>
+    <string name="mi_band_vibrate_incall_in_contacts">Rung khi đổ chuông cho cuộc gọi từ số có trong danh bạ</string>
+    <string name="mi_band_vibrate_incall_no_contacts">Rung khi đổ chuông cho cuộc gọi từ số lạ</string>
     <string name="mi_band_vibrate_sms">Rung khi bạn nhận được tin nhắn SMS</string>
-    <string name="mi_band_vibrate_sms_in_contacts">Rung khi bạn nhận được tin nhắn SMS từ danh bạ</string>
+    <string name="mi_band_vibrate_sms_in_contacts">Rung khi bạn nhận được tin nhắn SMS từ số có trong danh bạ</string>
     <string name="mi_band_vibrate_sms_no_contacts">Rung khi bạn nhận được tin nhắn SMS từ số lạ</string>
-    <string name="mi_band_vibrate_alarm">Rung khi báo thức</string>
+    <string name="mi_band_vibrate_alarm">Rung khi có âm báo</string>
     <string name="mi_key_take_photo">Chụp ảnh</string>
     <string name="mi_key_find_phone">Tìm điện thoại</string>
     <string name="mi_key_find_mikey">Tìm MiKey</string>
@@ -58,7 +57,7 @@
     <string name="notification_received_fail">Chia sẻ qua Bluetooth: Chưa nhận được tệp %1$s</string>
     <string name="notification_sending">Chia sẻ qua Bluetooth: Đang gửi %1$s</string>
     <string name="notification_sent">Chia sẻ qua Bluetooth: Đã gửi %1$s</string>
-    <string name="empty_file_notification_sent">Chia sẻ qua Bluetooth: Đã từ chối một tệp rỗng %1$s</string>
+    <string name="empty_file_notification_sent">Chia sẻ qua Bluetooth: Đã từ chối tệp %1$s có độ dài bằng 0</string>
     <string name="notification_sent_complete">Hoàn tất 100%</string>
     <string name="notification_sent_fail">Chia sẻ qua Bluetooth: Chưa gửi được tệp %1$s</string>
     <string name="download_title">Chuyển tệp</string>
@@ -91,7 +90,7 @@
     <string name="not_exist_file">Không có tệp</string>
     <string name="not_exist_file_desc">"Tệp không tồn tại! 
 "</string>
-    <string name="enabling_progress_title">Vui lòng đợi…</string>
+    <string name="enabling_progress_title">Vui lòng đợi...</string>
     <string name="enabling_progress_content">Đang bật Bluetooth…</string>
     <string name="bt_toast_1">Tệp sẽ được nhận. Hãy kiểm tra tiến trình trong bảng điều khiển Thông báo.</string>
     <string name="bt_toast_2">Không thể nhận được tệp.</string>
@@ -137,6 +136,7 @@
     <string name="defaultname">Bộ rảnh tay trên ô tô</string>
     <string name="unknownName">Tên không xác định</string>
     <string name="localPhoneName">Tên của tôi</string>
+    <string name="defaultnumber">000000</string>
     <string name="hello">Hello World, TestActivity</string>
     <string name="app_name">Chia sẻ qua Bluetooth</string>
     <string name="insert_record">Chèn bản ghi</string>
@@ -157,5 +157,5 @@
     <string name="map_defaultname">Bộ rảnh tay trên ô tô</string>
     <string name="map_unknownName">Tên không xác định</string>
     <string name="map_localPhoneName">Tên của tôi</string>
-    <string name="security_center_permission_deny">Cho phép Bluetooth chia sẻ dữ liệu đã bị tắt, nếu cần thiết, hãy truy cập vào Trung tâm Bảo mật để đẩy nhanh tiến độ cấp phép mở</string>
+    <string name="map_defaultnumber">000000</string>
 </resources>

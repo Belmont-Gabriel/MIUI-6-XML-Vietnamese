@@ -30,7 +30,7 @@
     <string name="resource_ranking_free">Miễn phí</string>
     <string name="resource_ranking_purchase">Đã thanh toán</string>
     <string name="resource_category">Thể loại</string>
-    <string name="resource_my">Trên máy</string>
+    <string name="resource_my">Ngoại tuyến</string>
     <string name="resource_pack_price_info">Giá gốc: %1$s</string>
     <string name="resource_pack_discount_info">Tiết kiệm: %1$s</string>
     <string name="resource_pack_confirm">Dù bạn đã mua %1$d phần trong chủ đề này, nhưng nó vẫn sẽ rẻ hơn nếu như bạn mua trọn gói.</string>
@@ -76,8 +76,8 @@
     <string name="resource_downloaded_title">Tài nguyên tải xuống</string>
     <string name="resource_see_more">Xem thêm</string>
     <string name="resource_no_result">Không tìm thấy kết quả nào</string>
-    <string name="resource_failed_to_load_list">Không thể tải danh sách</string>
-    <string name="resource_search_list_empty">Không tìm thấy</string>
+    <string name="resource_failed_to_load_list">Không thể tải chủ đề.</string>
+    <string name="resource_search_list_empty">Không tìm thấy.</string>
     <string name="resource_no_network_text">Không thể kết nối mạng.</string>
     <string name="resource_list_title">Đã chọn gần đây</string>
     <string name="resource_get_auth_checking">Đang xác minh…</string>
@@ -187,8 +187,11 @@
     <string name="resource_title_rank">Hàng đầu</string>
     <string name="resource_title_category">Phân loại</string>
     <string name="resource_title_subject">Đặc sắc</string>
-    <string name="resource_title_local">Trên máy</string>
+    <string name="resource_title_local">Ngoại tuyến</string>
     <string name="resource_title_hot_subject">Phổ biến</string>
+    <string name="resource_download_notification_title_one">Chủ đề đã tải xuống</string>
+    <string name="resource_download_notification_title_many">%1$s chủ đề đã tải xuống</string>
+    <string name="resource_tab_to_view">Chạm để xem.</string>
     <string name="launcherDialer">Điện thoại</string>
     <string name="people">Liên hệ</string>
     <string name="contactsList">Liên hệ</string>
@@ -740,7 +743,6 @@ Chọn một trong các tùy chọn sau:"</string>
     <string name="dialog_voicemail_not_ready_message">Để thiết lập thư thoại, hãy vào Menu > Cài đặt.</string>
     <string name="dialog_voicemail_airplane_mode_message">Để gọi tới hộp thư thoại, trước tiên hãy tắt Chế độ máy bay.</string>
     <string name="action_menu_overflow_description">Thêm tùy chọn</string>
-    <string name="yellowpage_navigation_network_location_enabled">Dịch vụ đang mở, bạn có thể vô hiệu hóa nó ở phần cài đặt vị trí</string>
     <string name="yellowpage_search_the_yellowpage">Tìm kiếm danh bạ web</string>
     <string name="import_from_sim">Nhập từ thẻ SIM</string>
     <string name="export_to_sim_title">Đang xuất…</string>
@@ -758,7 +760,6 @@ Chọn một trong các tùy chọn sau:"</string>
     <string name="sim_card_no_free_space_title">Thẻ SIM đầy</string>
     <string name="sim_card_no_free_space_message">Không đủ dung lượng</string>
     <string name="sim_contacts">Liên hệ trên SIM</string>
-    <string name="export_sim_contacts_dialog_message">Thẻ SIM của bạn có thể chứa %d liên hệ</string>
     <string name="export_sim_contact_finish">Xuất thành công</string>
     <string name="sim_export_loading">Đang đọc thẻ SIM…</string>
     <string name="sim_capacity">Xem dung lượng thẻ SIM</string>
@@ -770,7 +771,6 @@ Chọn một trong các tùy chọn sau:"</string>
     <string name="pref_key_sim_manage2">Thiết lập thẻ SIM 2</string>
     <string name="simContacts_airplaneMode">Để nhập liên hệ từ thẻ SIM, hãy tắt chế độ Máy bay</string>
     <string name="readingSimContacts">Đang đọc thẻ SIM…</string>
-    <string name="confirm_delete_sim_entry_miui">Xóa %d liên hệ trên thẻ SIM?</string>
     <string name="importing_sim_contacts_miui">Đang nhập liên hệ từ thẻ SIM…</string>
     <string name="import_sim_entries_finish">Liên hệ đã được nhập từ thẻ SIM</string>
     <string name="deleting_sim_entry_miui">Đang xóa liên hệ trên thẻ SIM…</string>
@@ -875,7 +875,6 @@ Chọn một trong các tùy chọn sau:"</string>
     <string name="preference_import_export_title">Nhập/Xuất liên hệ</string>
     <string name="import_vcard_description">Nhập liên hệ từ bộ nhớ điện thoại</string>
     <string name="export_vcard_description">Xuất vCard sang bộ nhớ điện thoại</string>
-    <string name="export_sim_contact_finish_success">Đã sao chép %d liên hệ</string>
     <string name="export_sim_contact_finish_failure">Đã chuyển: %1$d Còn lại: %2$d</string>
     <string name="pref_title_account_import">Nhập từ tài khoản</string>
     <string name="pref_title_import_from_account">Nhập từ tài khoản Mi</string>
@@ -990,7 +989,7 @@ Chọn một trong các tùy chọn sau:"</string>
     <string name="picker_all_list_empty">Không có liên hệ</string>
     <string name="picker_favorites_list_empty">Không có yêu thích</string>
     <string name="picker_groups_list_empty">Không có nhóm</string>
-    <string name="contact_edit_title_insert">Thêm %s liên hệ</string>
+    <string name="contact_edit_title_insert">Thêm liên hệ %s</string>
     <string name="contact_edit_title_edit">Sửa liên hệ</string>
     <string name="contact_edit_title_readonly">Liên hệ chỉ đọc</string>
     <string name="account_container_title">Đã nhập từ</string>
@@ -1001,8 +1000,6 @@ Chọn một trong các tùy chọn sau:"</string>
     <string name="select_photo_from_photo_package">Chọn ảnh từ kho ảnh</string>
     <string name="select_new_photo_from_photo_package">Duyệt các thư mục</string>
     <string name="photo_package_activity_title">Duyệt các thư mục</string>
-    <string name="btn_delete_one_contact">Xóa liên hệ</string>
-    <string name="btn_delete_multi_contacts">Xóa %d liên hệ</string>
     <string name="btn_split_contact">Tách</string>
     <string name="use_photo_as_primary2">Dùng ảnh liên hệ của %1$s</string>
     <string name="label_custom_type">Tùy chỉnh</string>
@@ -1030,7 +1027,7 @@ Chọn một trong các tùy chọn sau:"</string>
     <string name="contact_detail_calllog_call_note_tips">Ghi chú</string>
     <string name="import_from_other_phone">Nhập từ điện thoại khác</string>
     <string name="device_brand_title">Chọn thương hiệu</string>
-    <string name="device_version_title">Chọn mẫu điện thoại</string>
+    <string name="device_version_title">Chọn mẫu</string>
     <string name="device_list_title">Chọn điện thoại</string>
     <string name="next">Tiếp theo</string>
     <string name="previous">Quay lại</string>
@@ -1092,7 +1089,6 @@ Chọn một trong các tùy chọn sau:"</string>
     <string name="add_xiaomi_account_dialog_btn">Dùng Tài khoản Mi</string>
     <string name="keep_local_btn">Dùng bộ nhớ trong điện thoại</string>
     <string name="batch_delete">Xóa hàng loạt</string>
-    <string name="batch_delete_msg">Xóa %d liên hệ?</string>
     <string name="starred_contacts">Yêu thích</string>
     <string name="other_contacts">Liên hệ khác</string>
     <string name="set_photo_failed_msg">Đặt ảnh thất bại.</string>
@@ -1102,7 +1098,7 @@ Chọn một trong các tùy chọn sau:"</string>
     <string name="toast_copying">Đang sao chép…</string>
     <string name="toast_copy_done">Hoàn tất</string>
     <string name="group_name">Nhóm của tôi</string>
-    <string name="starred_yellowpage">Thư mục yêu thích</string>
+    <string name="followed_yellowpage">Tài khoản xác minh</string>
     <string name="import_all_sim_entries_miui">Nhập tất cả liên hệ</string>
     <string name="import_sim_entry_miui">Nhập</string>
     <string name="delete_sim_entry_miui">Xóa</string>
@@ -1132,6 +1128,8 @@ Chọn một trong các tùy chọn sau:"</string>
     <string name="yellowPageNavigationIconLabel">Danh bạ web</string>
     <string name="login_ok">Đăng nhập</string>
     <string name="yellowpage_navigation_no_content">Không tìm thấy kết quả nào</string>
+    <string name="yellowpage_navigation_search_history">Lịch sử</string>
+    <string name="yellowpage_navigation_clear_search_history">Xóa lịch sử</string>
     <string name="yellowpage_navigation_search_offline_hint">Bạn đang ngoại tuyến</string>
     <string name="refresh">Làm mới</string>
     <string name="yellowpage_navigation_search_city_name_hint">Thành phố</string>
@@ -1140,21 +1138,16 @@ Chọn một trong các tùy chọn sau:"</string>
     <string name="yellowpage_navigation_search_result_network_error">Không thể kết nối mạng</string>
     <string name="yellowpage_navigation_search_result_service_error">Dịch vụ hiện không khả dụng</string>
     <string name="yellowpage_navigation_search_result_unknown_error">Lỗi không xác định</string>
-    <string name="yellowpage_navigation_search_result_average_price">Trung bình %d RMB</string>
+    <string name="yellowpage_navigation_search_result_average_price">Trung bình %d DNT</string>
     <string name="yellowpage_navigation_send_to_desktop_succeeded">Đã thêm vào Màn hình chính</string>
     <string name="yellowpage_navigation_send_to_desktop_downloading">Đang tải xuống…</string>
     <string name="yellowpage_navigation_send_to_desktop_failed">Không thể kết nối mạng</string>
-    <string name="yellowpage_navigation_network_location_not_enabled_title">Truy cập vị trí</string>
-    <string name="yellowpage_navigation_network_location_not_enabled_summary">Cải thiện kết quả tìm kiếm bằng cách cho phép Danh bạ web truy cập vào thông tin vị trí của bạn.</string>
-    <string name="yellowpage_navigation_network_location_enable">Cho phép</string>
-    <string name="yellowpage_navigation_network_location_enable_later">Không phải bây giờ</string>
     <string name="yellowpage_user_profile">Hồ sơ</string>
     <string name="yellowpage_navigation_more_items">Khác</string>
     <string name="yellowpage_navigation_more_items_title">Thêm dịch vụ</string>
     <string name="imei_invalid">IMEI không hợp lệ</string>
     <string name="meid_invalid">MEID không hợp lệ</string>
     <string name="firewall_setting">Danh sách chặn</string>
-    <string name="callNoAnswerTimeFormat">Đổ chuông %s lần</string>
     <string name="menu_edit_mode">Chế độ chỉnh sửa</string>
     <string name="clip_dialog_title">Quay số sao chép?</string>
     <string name="edit_contact_photo">Chỉnh sửa ảnh liên hệ</string>
@@ -1165,4 +1158,5 @@ Chọn một trong các tùy chọn sau:"</string>
     <string name="pull_to_refresh_pull_label">Kéo để làm mới…</string>
     <string name="pull_to_refresh_release_label">Thả để làm mới…</string>
     <string name="pull_to_refresh_refreshing_label">Đang tải…</string>
+    <string name="phone_call_type_voip">VOIP</string>
 </resources>

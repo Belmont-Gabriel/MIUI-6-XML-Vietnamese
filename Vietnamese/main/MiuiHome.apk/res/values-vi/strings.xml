@@ -51,7 +51,7 @@
     <string name="loading_desktop">Vui lòng chờ…</string>
     <string name="start_activity_failed">Không thể khởi động trình khởi chạy</string>
     <string name="gadget_error_text">Không thể tải tiện ích</string>
-    <string name="mtzgadget_missing_text">Tiện ích không khả dụng</string>
+    <string name="mtzgadget_missing_text">Không được cung cấp nữa, vui lòng thêm lại</string>
     <string name="menu_edit">Sửa Màn hình chính</string>
     <string name="menu_sort">Sắp xếp ứng dụng</string>
     <string name="menu_launcher_setting">Cài đặt trình khởi chạy</string>
@@ -170,7 +170,7 @@
     <string name="gadget_weather_title_24">Thời tiết</string>
     <string name="gadget_weather_title_14">Thời tiết</string>
     <string name="gadget_weather_app_not_installed">Chạm để tải xuống ứng dụng thời tiết của MIUI</string>
-    <string name="gadget_weather_time_format">EEE, d MMM</string>
+    <string name="gadget_weather_time_format">EEEE d/MM</string>
     <string name="gadget_weather_theme_type">Loại tiện ích</string>
     <string name="gadget_weather_download_title">Tải xuống</string>
     <string name="gadget_weather_download_message">Bạn cần phải tải xuống nội dung ứng dụng: %1$s (%2$s). Khởi động lại ứng dụng sau khi hoàn tất tải xuống.</string>

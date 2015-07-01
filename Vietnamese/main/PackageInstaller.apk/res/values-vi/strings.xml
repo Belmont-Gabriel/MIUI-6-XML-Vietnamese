@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="caller_app">Yêu cầu quyền từ %1$s</string>
+    <string name="caller_app">Nguồn gốc %1$s</string>
     <string name="safe_guard_support">Hỗ trợ kỹ thuật được cung cấp bởi %1$s</string>
     <string name="safe_relative">Bảo mật</string>
     <string name="privacy_relative">Riêng tư</string>

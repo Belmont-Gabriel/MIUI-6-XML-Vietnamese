@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Khuôn khổ dịch vụ Xiaomi</string>
+    <string name="app_name">Khung dịch vụ Xiaomi</string>
     <string name="xmsf_activate_info">Thông tin kích hoạt XMSF</string>
     <string name="error_device_id_title">Không nhận ID Thiết bị hợp lệ</string>
     <string name="error_device_id_message">"ID Thiết bị Không hợp lệ: %s
@@ -10,9 +10,9 @@ Thiết bị phải có IMEI hoặc địa chỉ MAC hợp lệ. Nếu không c�
     <string name="sync_notification_title_format">Mục đồng bộ hiện tại: %1$s</string>
     <string name="activate_phone_failed_notif_title">Không thể kích hoạt thẻ SIM</string>
     <string name="activate_phone_failed_notif_title_msim">Không thể kích hoạt thẻ SIM %s</string>
-    <string name="activate_status_title_activating">Đang kích hoạt thẻ SIM của bạn</string>
+    <string name="activate_status_title_activating">Đang kích hoạt thẻ SIM</string>
     <string name="activate_status_title_activating_msim">Đang kích hoạt thẻ SIM %s</string>
-    <string name="activate_status_desc_wait_for_phone_service">Đang chờ dịch vụ điện thoại</string>
+    <string name="activate_status_desc_wait_for_phone_service">Đang chờ dịch vụ</string>
     <string name="activate_status_desc_registration">Đang đăng ký thẻ SIM</string>
     <string name="activate_status_desc_registration_server_error">Xuất hiện một lỗi máy chủ trong khi đăng ký thẻ SIM</string>
     <string name="activate_status_desc_query_activation_info">Truy vấn thông tin kích hoạt từ máy chủ</string>
@@ -77,13 +77,13 @@ Thiết bị phải có IMEI hoặc địa chỉ MAC hợp lệ. Nếu không c�
     <string name="activate_popup_title_failed_phone_error">Số điện thoại không hợp lệ</string>
     <string name="activate_popup_desc_failed_phone_error">Số điện thoại bạn đã nhập không hợp lệ.</string>
     <string name="activate_popup_confirm_failed_phone_error">Thử lại</string>
-    <string name="activate_popup_title_upload_diagnosis_info">"Không thể kích hoạt thẻ SIM"</string>
-    <string name="activate_popup_desc_upload_diagnosis_info">Báo cáo vấn đề này tới Mi? (ID : %s)</string>
+    <string name="activate_popup_title_upload_diagnosis_info">Không thể kích hoạt thẻ SIM</string>
+    <string name="activate_popup_desc_upload_diagnosis_info">Báo cáo vấn đề này đến Mi? (ID báo cáo : %s)</string>
     <string name="activate_popup_confirm_upload_diagnosis_info">Báo cáo</string>
-    <string name="activate_popup_link_diagnosis_detail">Những thông tin nào sẽ được bao gồm?</string>
+    <string name="activate_popup_link_diagnosis_detail">Thông tin sẽ bao gồm những gì?</string>
     <string name="activate_popup_title_diagnosis_detail">Thông tin chẩn đoán</string>
     <string name="activate_feature_mx">Tin nhắn Mi</string>
-    <string name="activate_feature_mms_sync">Đồng bộ SMS</string>
+    <string name="activate_feature_mms_sync">Đồng bộ tin nhắn SMS</string>
     <string name="activate_feature_call_log_sync">Đồng bộ lịch sử cuộc gọi</string>
     <string name="activate_feature_find_device">Tìm Thiết bị</string>
 </resources>

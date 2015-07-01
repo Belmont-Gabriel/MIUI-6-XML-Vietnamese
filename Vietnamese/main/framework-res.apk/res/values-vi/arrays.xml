@@ -23,7 +23,7 @@
     </string-array>
     <string-array name="phoneTypes">
         <item>Nhà riêng</item>
-        <item>Di động</item>
+        <item>ĐT di động</item>
         <item>Cơ quan</item>
         <item>Số fax Cơ quan</item>
         <item>Số fax Nhà riêng</item>
@@ -42,57 +42,5 @@
         <item>Cơ quan</item>
         <item>Khác</item>
         <item>Tùy chỉnh</item>
-    </string-array>
-    <string-array name="app_ops_labels">
-        <item>Đang cố gắng truy cập vị trí</item>
-        <item>Đang cố gắng truy cập vị trí</item>
-        <item>Đang cố gắng truy cập vị trí</item>
-        <item>Đang cố gắng sử dụng rung</item>
-        <item>Đang cố gắng đọc danh bạ</item>
-        <item>Đang cố gắng sửa danh bạ</item>
-        <item>Đang cố gắng đọc nhật ký cuộc gọi</item>
-        <item>Đang cố gắng sửa nhật ký cuộc gọi</item>
-        <item>Đang cố gắng đọc Lịch</item>
-        <item>Đang cố gắng sửa Lịch</item>
-        <item>Đang cố gắng truy cập vị trí</item>
-        <item>Đang cố gắng đăng thông báo</item>
-        <item>Đang cố gắng truy cập vị trí</item>
-        <item>Đang cố gắng thực hiện cuộc gọi thoại</item>
-        <item>Đang cố gắng đọc SMS</item>
-        <item>Đang cố gắng soạn/sửa SMS</item>
-        <item>Đang cố gắng nhận SMS</item>
-        <item>Đang cố gắng nhận SMS</item>
-        <item>Đang cố gắng nhận SMS</item>
-        <item>Đang cố gắng nhận SMS</item>
-        <item>Đang cố gắng gửi SMS</item>
-        <item>Đang cố gắng đọc SMS</item>
-        <item>Đang cố gắng soạn/sửa SMS</item>
-        <item>Đang cố gắng sửa cài đặt</item>
-        <item>Đang cố gắng vẽ lên trước</item>
-        <item>Đang cố gắng truy cập thông báo</item>
-        <item>Đang cố gắng truy cập Máy ảnh</item>
-        <item>Đang cố gắng ghi âm</item>
-        <item>Đang cố gắng phát âm thanh</item>
-        <item>Đang cố gắng đọc khay nhớ tạm</item>
-        <item>Đang cố gắng sửa khay nhớ tạm</item>
-        <item>Đang cố gắng sử dụng các nút phương tiện</item>
-        <item>Đang cố gắng sử dụng tập trung âm thanh</item>
-        <item>Đang cố gắng sử dụng âm lượng chính</item>
-        <item>Đang cố gắng sử dụng âm lượng thoại</item>
-        <item>Đang cố gắng sử dụng âm lượng chuông</item>
-        <item>Đang cố gắng sử dụng âm lượng phương tiện</item>
-        <item>Đang cố gắng sử dụng âm lượng báo thức</item>
-        <item>Đang cố gắng sử dụng âm lượng thông báo</item>
-        <item>Đang cố gắng sử dụng âm lượng bluetooth</item>
-        <item>Đang cố gắng không khóa màn hình</item>
-        <item>Đang cố gắng truy cập vị trí</item>
-        <item>Đang cố gắng truy cập vị trí</item>
-        <item>Đang cố gắng bật/tắt Wi-Fi</item>
-        <item>Đang cố gắng bật/tắt Bluetooth</item>
-        <item>Đang cố gắng bật/tắt dữ liệu di động</item>
-        <item>Đang cố gắng gửi MMS</item>
-        <item>Đang cố gắng đọc MMS</item>
-        <item>Đang cố gắng soạn MMS</item>
-        <item>Đang cố gắng chạy khi khởi động</item>
     </string-array>
 </resources>

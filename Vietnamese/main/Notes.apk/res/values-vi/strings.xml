@@ -11,7 +11,7 @@
     <string name="widget_havenot_content">Chạm để tạo ra ghi chú mới. Để thay đổi kích thước, giữ &amp; kéo một cạnh.</string>
     <string name="widget_under_privacy_mode">Không thể xem ghi chú khi ở chế độ Khách</string>
     <string name="widget_content_loading">Đang tải…</string>
-    <string name="notelist_string_info">…</string>
+    <string name="notelist_string_info">...</string>
     <string name="notelist_menu_new">Thêm ghi chú</string>
     <string name="note_alert_expired">Đã hết hạn</string>
     <string name="notealert_ok">Bỏ qua</string>
@@ -23,7 +23,7 @@
     <string name="note_link_select">Chọn văn bản</string>
     <string name="menu_create_folder">Thư mục mới</string>
     <string name="menu_delete">Xóa</string>
-    <string name="menu_move">Chuyển</string>
+    <string name="menu_folders">Thư mục</string>
     <string name="menu_stick">Ghim</string>
     <string name="menu_unstick">Gỡ</string>
     <string name="folder_exist">Một thư mục có cùng tên đã tồn tại</string>
@@ -106,4 +106,12 @@
     <string name="sns_choose_quality_title">Chọn chất lượng ảnh</string>
     <string name="sns_choose_quality_high">Cao (%1$s)</string>
     <string name="sns_choose_quality_low">Thấp</string>
+    <string name="welcome_note_for_cm">"Và nhiều tính năng tuyệt vời hơn!
+ - Đồng bộ với Mi Cloud
+ - Tự động lưu khi thoát
+ - Thiết lập nhắc nhở
+
+Để tìm hiểu thêm, vui lòng truy cập
+http://www.miui.com/forum.php?lang=1
+"</string>
 </resources>

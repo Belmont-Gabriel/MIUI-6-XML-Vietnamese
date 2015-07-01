@@ -1,5 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="cache_sort_type">
+        <item>Kích thước</item>
+        <item>Tên</item>
+    </string-array>
+    <string-array name="large_file_sort_type">
+        <item>Kích thước</item>
+        <item>Tên</item>
+    </string-array>
+    <string-array name="installed_app_sort_type">
+        <item>Thường dùng</item>
+        <item>Kích thước</item>
+    </string-array>
+    <string-array name="auto_clean_time">
+        <item>Hàng ngày</item>
+        <item>Mỗi 3 ngày</item>
+        <item>Mỗi 7 ngày</item>
+    </string-array>
+    <string-array name="auto_clean_size">
+        <item>100MB</item>
+        <item>300MB</item>
+        <item>500MB</item>
+        <item>1GB</item>
+    </string-array>
+    <string-array name="auto_process_mode">
+        <item>Nhắc nhở bằng thông báo</item>
+        <item>Xóa trong nền</item>
+        <item>Hiển thị thông báo sau khi xóa</item>
+    </string-array>
     <string-array name="auto_memory_clean">
         <item>Trong 1 phút</item>
         <item>Trong 5 phút</item>
@@ -44,6 +72,11 @@
         <item>Không rung</item>
         <item>Rung khi im lặng</item>
         <item>Luôn rung</item>
+    </string-array>
+    <string-array name="power_dialog_vibration_items_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
     </string-array>
     <string-array name="alarm_repeat_type">
         <item>Một lần</item>

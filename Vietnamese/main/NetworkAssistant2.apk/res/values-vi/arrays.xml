@@ -37,18 +37,18 @@
         <item>9 giây</item>
     </string-array>
     <string-array name="traffic_type">
-        <item>"Sử dụng dữ liệu "</item>
-        <item>"Sử dụng Wi-Fi "</item>
-        <item>"Đã dữ liệu tiết kiệm "</item>
+        <item>"Thông tin sử dụng dữ liệu di động "</item>
+        <item>"Thông tin sử dụng Wi-Fi "</item>
+        <item>"Đã tiết kiệm dữ liệu "</item>
     </string-array>
     <string-array name="mi_service_traffic_type">
-        <item>"Sử dụng dữ liệu "</item>
-        <item>"Sử dụng Wi-Fi "</item>
+        <item>"Thông tin sử dụng dữ liệu di động "</item>
+        <item>Thông tin sử dụng Wi-Fi</item>
     </string-array>
     <string-array name="traffic_sort_type">
-        <item>"Sử dụng dữ liệu "</item>
-        <item>"Sử dụng Wi-Fi "</item>
-        <item>"Đã dữ liệu tiết kiệm "</item>
+        <item>"Sử dụng dữ liệu di động "</item>
+        <item>"Thông tin sử dụng Wi-Fi "</item>
+        <item>"Đã tiết kiệm dữ liệu "</item>
     </string-array>
     <string-array name="traffic_setting_sms_template">
         <item>Lấy tin nhắn mẫu tự động</item>

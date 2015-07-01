@@ -2,7 +2,7 @@
 <resources>
     <string name="app_name">Danh sách chặn</string>
     <string name="fw_blocked">Danh sách chặn</string>
-    <string name="fw_blocked_count">"Đã chặn "</string>
+    <string name="fw_blocked_count">Đã chặn</string>
     <string name="fw_blocked_join">" và "</string>
     <string name="tab_title">Danh sách chặn</string>
     <string name="tab_block_log">Nhật ký chặn</string>
@@ -38,14 +38,14 @@
     <string name="dlg_clear_current_call">Xóa tất cả các cuộc gọi bị chặn từ số này?</string>
     <string name="dlg_clear_all_ok">Xóa tất cả</string>
     <string name="dlg_clear_current_ok">Xóa</string>
-    <string name="dlg_no_block">Bỏ chặn số này?</string>
+    <string name="dlg_no_block">Bỏ chặn và khôi phục lại cuộc gọi từ số này trong lịch sử cuộc gọi?</string>
     <string name="dlg_no_block_ok">Bỏ chặn</string>
     <string name="dlg_add_blacklist">Chặn số này?</string>
     <string name="dlg_add_blacklist_warn_conflict_title">Số này đã có trong danh sách ngoại lệ</string>
     <string name="dlg_add_blacklist_warn_conflict_content">%1$svà %2$s liên hệ khác đã có trong danh sách ngoại lệ của bạn.</string>
     <string name="dlg_remove_blacklist">Xóa những số này khỏi danh sách chặn?</string>
     <string name="dlg_remove_whitelist">Xóa các số này khỏi danh sách ngoại lệ?</string>
-    <string name="dlg_remove_address_blacklist">Xóa vị trí này khỏi danh sách chặn và khôi phục tất cả các tin nhắn vào hộp thư đến?</string>
+    <string name="dlg_remove_address_blacklist">Xóa vị trí này khỏi danh sách chặn?</string>
     <string name="dlg_remove_address_whitelist">Xóa vị trí này khỏi danh sách ngoại lệ?</string>
     <string name="dlg_remove_blacklist_ok">Xóa</string>
     <string name="dlg_clear_blacklist">Xóa danh sách chặn?</string>
@@ -151,6 +151,7 @@
     <string name="st_title_call_wait_setting">Cuộc gọi chờ</string>
     <string name="st_title_call_wait">Thông báo cuộc gọi chờ</string>
     <string name="st_title_sim_card">%1$s - SIM %2$s</string>
+    <string name="st_title_sim_unknown">Không xác định</string>
     <string name="st_title_not_sim">Trống</string>
     <string name="st_sum_call_wait">Âm báo từ chối của bạn cũng sẽ được phát như là một tín hiệu bận cho tất cả người gọi.</string>
     <string name="sim_not_ready">Thẻ SIM không sẵn sàng</string>
@@ -203,6 +204,8 @@
     <string name="ad_block_hint">Đã chặn %d</string>
     <string name="ad_single_block_hint">Đã chặn</string>
     <string name="ad_permission_hint">Sử dụng chặn quảng cáo có thể ảnh hưởng đến hiệu suất ứng dụng hoặc làm chúng không hoạt động bình thường được.</string>
+    <string name="sms_delete_title">Xóa Tin nhắn</string>
+    <string name="call_delete_title">Xóa Cuộc gọi</string>
     <string name="sms_delete_hint">Xóa tất cả các tin nhắn bị chặn từ số này?</string>
     <string name="call_delete_hint">Xóa tất cả các cuộc gọi bị chặn từ số này?</string>
     <string name="backsound_set_hint">Đặt âm báo từ chối của bạn cho %s?</string>
@@ -274,20 +277,20 @@
     <string name="note_preference_delete">Không thể xóa quy tắc này khi nó đang được dùng</string>
     <string name="block_message_number">SMS: %d</string>
     <string name="block_phone_number">Cuộc gọi: %d</string>
+    <string name="info_antispam_close">Chống thư rác tắt</string>
     <string name="mark_fraud">Lừa đảo</string>
-    <string name="mark_agent">Bán hàng</string>
+    <string name="mark_agent">Trung gian</string>
     <string name="mark_sell">Bán hàng</string>
     <string name="mark_meal">Chuyển phát thực phẩm</string>
     <string name="mark_express">Chuyển phát nhanh</string>
-    <string name="mark_banking_insurance">Bán bảo hiểm</string>
+    <string name="mark_banking_insurance">Đầu tư &amp; bảo hiểm</string>
     <string name="mark_fraud_block">Đã đánh dấu là lừa đảo</string>
     <string name="mark_agent_block">Đã đánh dấu là trung gian</string>
     <string name="mark_sell_block">Đã đánh dấu là bán hàng</string>
-    <string name="mark_meal_block">Đã đánh dấu là vận chuyển thực phẩm</string>
+    <string name="mark_meal_block">Đã đánh dấu là chuyển phát thực phẩm</string>
     <string name="mark_express_block">Đã đánh dấu là chuyển phát nhanh</string>
     <string name="mark_banking_insurance_block">Đã đánh dấu là bán bảo hiểm</string>
-    <string name="mark_number_info">"
-\"Chú ý rằng đôi khi những cuộc gọi có thể hữu ích với bạn (ví dụ như khi bạn thực sự muốn tìm thuê một căn hộ). Chỉ chặn số điện thoại mà bạn không muốn nhận mọi cuộc gọi.\""</string>
+    <string name="mark_number_info">Chú ý rằng đôi khi những cuộc gọi có thể hữu ích với bạn (ví dụ như khi bạn thực sự muốn tìm thuê một căn hộ). Chỉ chặn số điện thoại mà bạn không muốn nhận mọi cuộc gọi.</string>
     <string name="dlg_title_not_open_stranger_identify">Nhận dạng số không xác định</string>
     <string name="dlg_message_not_open_stranger_identify">Để bật tính năng này, hãy vào Cài đặt > Điện thoại.</string>
     <string name="button_to_setting">Cài đặt</string>
@@ -299,4 +302,17 @@
     <string name="call_transfer_block_type">Chặn cuộc gọi được chuyển tiếp</string>
     <string name="call_transfer_info">Chặn cuộc gọi được chuyển tiếp từ số không xác định</string>
     <string name="sms_smart_engine_update">Tự động cập nhật bộ lọc SMS</string>
+    <string name="mark_number_setting_guide_title">Chặn số bị báo cáo</string>
+    <string name="mark_number_setting_guide_content1">Chặn cuộc gọi từ số bị báo cáo?</string>
+    <string name="mark_number_setting_guide_content2">Tự động chặn cuộc gọi từ các số đã được báo cáo bởi những người dùng khác</string>
+    <string name="mark_number_setting_guide_content3">Bạn đã báo cáo một số là %1$s. Bạn có muốn chặn cuộc gọi từ số bị báo cáo là %2$s không?</string>
+    <string name="mark_number_setting_guide_forward">Cài đặt danh sách chặn</string>
+    <string name="mark_number_fraud">Lừa đảo</string>
+    <string name="mark_number_agent">Trung gian</string>
+    <string name="mark_number_sell">Bán hàng</string>
+    <string name="mark_number_banking">Bán bảo hiểm</string>
+    <string name="antispam_notification_setting_title">Thông báo danh sách chặn</string>
+    <string name="antispam_notificaiton_type_show_all">Tất cả số</string>
+    <string name="antispam_notificaiton_type_show_except_blacklist">Số ngoài danh sách chặn</string>
+    <string name="antispam_notificaiton_type_show_none">Không bao giờ</string>
 </resources>

@@ -28,7 +28,7 @@
     <string name="resource_ranking_free">Miễn phí</string>
     <string name="resource_ranking_purchase">Đã thanh toán</string>
     <string name="resource_category">Thể loại</string>
-    <string name="resource_my">Trên máy</string>
+    <string name="resource_my">Ngoại tuyến</string>
     <string name="resource_pack_price_info">Giá gốc: %1$s</string>
     <string name="resource_pack_discount_info">Tiết kiệm: %1$s</string>
     <string name="resource_pack_confirm">Dù bạn đã mua %1$d phần trong chủ đề này, nhưng nó vẫn sẽ rẻ hơn nếu như bạn mua trọn gói.</string>
@@ -74,8 +74,8 @@
     <string name="resource_downloaded_title">Tài nguyên tải xuống</string>
     <string name="resource_see_more">Xem thêm</string>
     <string name="resource_no_result">Không tìm thấy kết quả nào</string>
-    <string name="resource_failed_to_load_list">Không thể tải danh sách</string>
-    <string name="resource_search_list_empty">Không tìm thấy</string>
+    <string name="resource_failed_to_load_list">Không thể tải chủ đề.</string>
+    <string name="resource_search_list_empty">Không tìm thấy.</string>
     <string name="resource_no_network_text">Không thể kết nối mạng.</string>
     <string name="resource_list_title">Đã chọn gần đây</string>
     <string name="resource_get_auth_checking">Đang xác minh…</string>
@@ -185,11 +185,14 @@
     <string name="resource_title_rank">Hàng đầu</string>
     <string name="resource_title_category">Phân loại</string>
     <string name="resource_title_subject">Đặc sắc</string>
-    <string name="resource_title_local">Trên máy</string>
+    <string name="resource_title_local">Ngoại tuyến</string>
     <string name="resource_title_hot_subject">Phổ biến</string>
+    <string name="resource_download_notification_title_one">Chủ đề đã tải xuống</string>
+    <string name="resource_download_notification_title_many">%1$s chủ đề đã tải xuống</string>
+    <string name="resource_tab_to_view">Chạm để xem.</string>
     <string name="app_name">Chủ đề</string>
     <string name="theme_changing_dialog_title">"Đang áp dụng "</string>
-    <string name="theme_changed_message">Đã áp dụng chủ đề</string>
+    <string name="theme_changed_message">Đã áp dụng thành công</string>
     <string name="theme_changed_failed_message">Không thể áp dụng chủ đề</string>
     <string name="backup_preference_title">Sao lưu chủ đề</string>
     <string name="backup_theme_dialog_ok">Sao lưu</string>
@@ -277,13 +280,14 @@
     <string name="selected_resource_file_invalid">Không thể sử dụng tập tin tài nguyên được chọn</string>
     <string name="apply_theme_with_ringtones">Sử dụng nhạc chuông chủ đề</string>
     <string name="settings">Cài đặt</string>
-    <string name="theme_user_agreement_content1">"Bằng cách sử dụng dịch vụ này, bạn đồng ý với các điều khoản nêu trong "</string>
+    <string name="theme_user_agreement_content1">"Bằng cách sử dụng tính năng này, bạn đang đồng ý với "</string>
     <string name="theme_user_agreement_content2">Thỏa thuận Người dùng</string>
     <string name="theme_user_agreement_content3">" và "</string>
     <string name="theme_user_agreement_content4">Chính sách Bảo mật</string>
-    <string name="theme_user_agreement_content5">.</string>
+    <string name="theme_user_agreement_content5">". Ứng dụng này cần phải kết nối Internet để làm việc bình thường. "</string>
     <string name="theme_user_agreement_title">Điều khoản Sử dụng</string>
     <string name="theme_user_agreement_allow">Đồng ý</string>
+    <string name="theme_user_agreement_exit">Thoát</string>
     <string name="theme_user_agreement_remind_never">Không hiển thị lại</string>
     <string name="theme_user_agreement_remind_again">Hiển thị Điều khoản Sử dụng</string>
     <string name="theme_user_agreement_remind_summary">Hiển thị nhắc nhở Điều khoản Sử dụng mỗi khi bạn mở Chủ đề. Cài đặt này sẽ có hiệu lực sau khi bạn khởi động lại thiết bị.</string>
@@ -294,7 +298,7 @@
     <string name="theme_favorite_list_empty">Bạn chưa gắn sao bất kỳ chủ đề nào.</string>
     <string name="theme_favorite_delete">Bỏ gắn dấu sao</string>
     <string name="theme_favorite_waiting">Chờ vài giây…</string>
-    <string name="theme_empty_redirect">Quay lại Cửa hàng Chủ đề</string>
+    <string name="theme_empty_redirect">Vào Cửa hàng Chủ đề</string>
     <string name="theme_purchased_non_local">Trực tuyến</string>
     <string name="theme_purchased_list_empty">Bạn chưa mua bất kỳ chủ đề nào.</string>
     <string name="gift_present">Tặng</string>
@@ -302,7 +306,7 @@
     <string name="gift_use">Sử dụng</string>
     <string name="gift_share">Chia sẻ</string>
     <string name="gift_presented">Đã gửi</string>
-    <string name="gift_owned">Trên máy</string>
+    <string name="gift_owned">Đã mua</string>
     <string name="gift_used">Đã sử dụng</string>
     <string name="gift_anonymous">Ẩn danh</string>
     <string name="gift_purchased_endnote">Đến: %1$s</string>
@@ -326,7 +330,7 @@
     <string name="gift_operation_fail_dlg_abandon">Hủy</string>
     <string name="gift_operation_waiting">Chờ vài giây…</string>
     <string name="gift_purchased_list_empty_with_received_list_empty">Không có quà tặng.</string>
-    <string name="gift_purchased_list_empty">Bạn chưa tặng món quà nào. :(</string>
+    <string name="gift_purchased_list_empty">Bạn chưa tặng bất kỳ món quà nào.</string>
     <string name="gift_received_list_empty">Bạn chưa nhận bất kỳ món quà nào.</string>
-    <string name="theme_batch_has_update_text">%1$d chủ đề có phiên bản mới.</string>
+    <string name="gift_received_notification_title">%s đã tặng bạn 1 chủ đề.</string>
 </resources>

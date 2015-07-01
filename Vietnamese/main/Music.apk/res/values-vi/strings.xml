@@ -107,8 +107,6 @@
     <string name="ok">OK</string>
     <string name="done">Hoàn tất</string>
     <string name="retry">Thử lại</string>
-    <string name="delete">Xóa</string>
-    <string name="remove">Xóa</string>
     <string name="dialog_button_scan_tracks">Tìm kiếm nhạc trên thiết bị này</string>
     <string name="dialog_button_login">Đăng nhập và đồng bộ nhạc của bạn</string>
     <string name="dialog_hint_network_error">Không thể kết nối mạng.</string>
@@ -289,20 +287,9 @@
     <string name="no_album_info">Không có thông tin album</string>
     <string name="no_enough_info">Không đủ thông tin bài hát</string>
     <string name="disallow_add_to_personal_radio">Không thể thêm bài hát đến đài phát cá nhân</string>
+    <string name="today_update">Âm nhạc đã cập nhật</string>
     <string name="click_to_view_new_local_audios">Chạm để xem chi tiết.</string>
     <string name="more_about_artist">Thêm thông tin về %s</string>
     <string name="play_all_song">Phát tất cả</string>
     <string name="download_all_song">Tải xuống tất cả</string>
-    <string name="sort_by_name">Tên</string>
-    <string name="sort_by_time">Ngày</string>
-    <string name="sort_by_language">Ngôn ngữ</string>
-    <string name="only_online_can_select_quality">Bạn chỉ có thể chọn chất lượng cho nhạc mà bạn phát.</string>
-    <string name="upgrade_remind">Tìm thấy phiên bản mới</string>
-    <string name="service_stop">Dịch vụ đã dừng</string>
-    <string name="upgrade_suggest">Chúng tôi hiện đang ngừng dịch vụ trực tuyến do vấn đề bản quyền. Cập nhật phiên bản mới nhất của ứng dụng Âm nhạc để nghe nhạc chất lượng cao.</string>
-    <string name="upgrade_force">Chúng tôi hiện đang ngừng dịch vụ trực tuyến do vấn đề bản quyền. Cập nhật phiên bản mới nhất của ứng dụng Âm nhạc để nghe nhạc chất lượng cao.</string>
-    <string name="upgrade_nobeta">Chúng tôi hiện đang ngừng dịch vụ trực tuyến để giải quyết vấn đề bản quyền. Xin lỗi vì sự bất tiện này :(</string>
-    <string name="upgrade_waringing">Bạn sẽ chỉ có thể nghe nhạc được lưu trữ trên máy.</string>
-    <string name="upgrade_immediate">Cập nhật ngay</string>
-    <string name="i_know_it">OK</string>
 </resources>

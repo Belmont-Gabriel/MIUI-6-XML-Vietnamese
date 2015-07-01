@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="view_realtime_clear">
-        <item quantity="other">Quang</item>
-        <item quantity="one">Nắng</item>
+        <item quantity="other">Nắng</item>
     </plurals>
 </resources>

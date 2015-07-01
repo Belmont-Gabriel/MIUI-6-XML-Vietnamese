@@ -10,7 +10,7 @@
     <string name="email">Email:</string>
     <string name="web">Trang web:</string>
     <string name="address">Địa chỉ:</string>
-    <string name="birthday">Ngày sinh:</string>
+    <string name="birthday">Sinh nhật:</string>
     <string name="note">Ghi chú:</string>
     <string name="add_to_contacts">Thêm vào liên hệ</string>
     <string name="recognize">Quét</string>
@@ -40,6 +40,7 @@
     <string name="import_contact">Nhập liên hệ</string>
     <string name="secure_access_web_url">Tiếp tục truy cập</string>
     <string name="not_recommend_access_web_url">Tiếp tục truy cập</string>
+    <string name="continue_to_website">Tiếp tục truy cập</string>
     <string name="continue_access_web_url">Truy cập an toàn</string>
     <string name="download_by_browser">Tải xuống bằng Trình duyệt</string>
     <string name="launch_market">Khởi chạy Mi Market</string>

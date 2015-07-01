@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_label">Giao diện người dùng hệ thống</string>
+    <string name="app_label">Giao diện người dùng</string>
     <string name="status_bar_no_recent_apps">Không có ứng dụng nào gần đây</string>
     <string name="battery_low_title">Cắm bộ sạc</string>
-    <string name="battery_low_percent_format">Còn lại %d%%</string>
+    <string name="battery_low_percent_format">Còn %d%%</string>
     <string name="invalid_charger">"Không hỗ trợ sạc qua USB.
 Chỉ sử dụng bộ sạc được cung cấp."</string>
     <string name="status_bar_settings_airplane">Chế độ trên máy bay</string>
@@ -43,7 +43,7 @@ Chỉ sử dụng bộ sạc được cung cấp."</string>
     <string name="accessibility_wifi_one_bar">Wi-Fi một vạch.</string>
     <string name="accessibility_wifi_two_bars">Wi-Fi hai vạch.</string>
     <string name="accessibility_wifi_three_bars">Wi-Fi ba vạch.</string>
-    <string name="accessibility_wifi_signal_full">Tín hiệu Wi-Fi đầy đủ.</string>
+    <string name="accessibility_wifi_signal_full">Tín hiệu WiFi đầy đủ.</string>
     <string name="accessibility_no_wimax">Không có WiMAX.</string>
     <string name="accessibility_wimax_one_bar">WiMAX một vạch.</string>
     <string name="accessibility_wimax_two_bars">WiMAX hai vạch.</string>
@@ -76,7 +76,7 @@ Nếu bạn bật lại dữ liệu, bạn có thể bị nhà cung cấp tính 
     <string name="gps_notification_found_text">Vị trí đặt bởi GPS</string>
     <string name="accessibility_clear_all">Xóa tất cả thông báo.</string>
     <string name="status_bar_notification_inspect_item_title">Thông tin về ứng dụng</string>
-    <string name="status_bar_date_format">EEE, d MMM</string>
+    <string name="status_bar_date_format">E d/M</string>
     <string name="status_bar_recent_guide_all">"Trượt lên để đóng
 Trượt xuống để khóa"</string>
     <string name="status_bar_recent_guide_top">Trượt lên để đóng</string>
@@ -85,7 +85,7 @@ Trượt xuống để khóa"</string>
     <string name="description_direction_up">Kéo lên trên cho %s.</string>
     <string name="description_direction_left">Trượt sang trái để %s.</string>
     <string name="description_target_search">Tìm kiếm</string>
-    <string name="status_bar_recent_memory_info1">%1$sB của %2$sB khả dụng</string>
+    <string name="status_bar_recent_memory_info1">%1$sB | %2$sB</string>
     <string name="status_bar_recent_memory_info2" />
     <string name="usb_mode_notification">Lưu trữ USB</string>
     <string name="usb_mode_dont_ask">Nhớ lựa chọn này</string>
@@ -132,29 +132,29 @@ Trượt xuống để khóa"</string>
     <string name="chooseUsbActivity">Chọn một ứng dụng cho thiết bị USB</string>
     <string name="usb_storage_title">USB đã kết nối</string>
     <string name="usb_storage_message">Bạn đã kết nối với máy tính thông qua USB. Chạm vào phím bên dưới nếu bạn muốn sao chép các tập tin giữa máy tính và lưu trữ USB Android‘s của bạn.</string>
-    <string name="usb_storage_error_message">Có vấn đề với thẻ SD của bạn.</string>
+    <string name="usb_storage_error_message">Lỗi xảy ra trong khi cố gắng để xem điện thoại như lưu trữ USB.</string>
     <string name="usb_storage_notification_title">USB đã kết nối</string>
     <string name="usb_storage_notification_message">Chọn để sao chép các tập tin đến/từ máy tính của bạn.</string>
     <string name="usb_storage_stop_notification_title">Tắt lưu trữ USB</string>
     <string name="usb_storage_stop_notification_message">Chọn để tắt lưu trữ USB.</string>
     <string name="usb_storage_stop_title">Lưu trữ USB đang sử dụng</string>
-    <string name="usb_storage_stop_message">Trước khi tắt lưu trữ USB, chắc chắn bạn đã ngắt kết nối („jected”) thẻ SD Android‘s từ máy tính của bạn.</string>
+    <string name="usb_storage_stop_message">Trước khi tắt lưu trữ USB, chắc chắn bạn đã ngắt kết nối („jected”) lưu trữ USB Android‘s từ máy tính của bạn.</string>
     <string name="dlg_confirm_kill_storage_users_title">Bật lưu trữ USB</string>
     <string name="dlg_confirm_kill_storage_users_text">Nếu bạn bật lưu trữ USB, một số ứng dụng bạn đang sử dụng sẽ dừng lại và có thể không khả dụng cho đến khi bạn tắt lưu trữ USB.</string>
     <string name="dlg_error_title">USB hoạt động không thành công</string>
     <string name="dlg_ok">OK</string>
-    <string name="ext_media_checking_notification_title">Đang chuẩn bị thẻ SD</string>
+    <string name="ext_media_checking_notification_title">Đang chuẩn bị lưu trữ USB</string>
     <string name="ext_media_checking_notification_message">Đang kiểm tra lỗi.</string>
-    <string name="ext_media_nofs_notification_title">Thẻ SD trống</string>
-    <string name="ext_media_nofs_notification_message">Thẻ SD trống hoặc hệ thống tập tin không được hỗ trợ.</string>
-    <string name="ext_media_unmountable_notification_title">Thẻ SD bị hỏng</string>
-    <string name="ext_media_unmountable_notification_message">Thẻ SD đã bị hỏng. Bạn cần phải định dạng lại thẻ.</string>
-    <string name="ext_media_badremoval_notification_title">Thẻ SD bị rút ra bất ngờ</string>
-    <string name="ext_media_badremoval_notification_message">Ngắt kết nối thẻ SD trước khi rút ra để tránh mất dữ liệu.</string>
-    <string name="ext_media_safe_unmount_notification_title">Thẻ SD an toàn để rút ra</string>
-    <string name="ext_media_safe_unmount_notification_message">Bây giờ bạn có thể tháo thẻ SD ra an toàn.</string>
-    <string name="ext_media_nomedia_notification_title">Đã gỡ thẻ SD</string>
-    <string name="ext_media_nomedia_notification_message">Thẻ SD đã gỡ bỏ. Lắp cái mới vào.</string>
+    <string name="ext_media_nofs_notification_title">Lưu trữ USB trống</string>
+    <string name="ext_media_nofs_notification_message">Lưu trữ USB trống hoặc hệ thống tập tin không được hỗ trợ.</string>
+    <string name="ext_media_unmountable_notification_title">Lưu trữ USB bị hỏng</string>
+    <string name="ext_media_unmountable_notification_message">Lưu trữ USB bị hỏng. Bạn cần phải định dạng lại nó.</string>
+    <string name="ext_media_badremoval_notification_title">Lưu trữ USB bị rút ra bất ngờ</string>
+    <string name="ext_media_badremoval_notification_message">Ngắt kết nối lưu trữ USB trước khi rút ra để tránh mất dữ liệu.</string>
+    <string name="ext_media_safe_unmount_notification_title">Lưu trữ USB an toàn để rút ra</string>
+    <string name="ext_media_safe_unmount_notification_message">Bây giờ bạn có thể tháo lưu trữ USB ra an toàn.</string>
+    <string name="ext_media_nomedia_notification_title">Đã gỡ lưu trữ USB</string>
+    <string name="ext_media_nomedia_notification_message">Lưu trữ USB đã gỡ bỏ. Lắp phương tiện mới.</string>
     <string name="ext_media_mountable_notification_title">Thiết bị lưu trữ USB đã được kết nối</string>
     <string name="ext_media_mountable_notification_message">Chạm để mở trong Tập tin.</string>
     <string name="ext_media_safe_remove">Rút ra an toàn</string>
@@ -192,7 +192,7 @@ Trượt xuống để khóa"</string>
     <string name="status_bar_recording_pause">Ghi âm đã tạm dừng</string>
     <string name="headset_settings">Tai nghe đã kết nối</string>
     <string name="headset_info">Chạm vào để đặt cấu hình cài đặt</string>
-    <string name="headset_custom">Bỏ qua</string>
+    <string name="headset_custom">Cấu hình</string>
     <string name="usb_share_net_info">Dùng kết nối internet của máy tính</string>
     <string name="hint_for_long_press_app_switch_key">Chạm &amp; giữ để hiển thị menu</string>
     <string name="battery_profiles">Cấu hình sử dụng pin</string>

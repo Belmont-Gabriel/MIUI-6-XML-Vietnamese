@@ -5,69 +5,80 @@
         <item>Vàng</item>
         <item>Xám</item>
         <item>Nâu</item>
-        <item>Lục</item>
-        <item>Lam</item>
+        <item>Xanh lá cây</item>
+        <item>Xanh lam</item>
     </string-array>
     <string-array name="pref_content_plugins_choices">
         <item>Luôn bật</item>
-        <item>Hỏi tôi trước</item>
+        <item>Theo yêu cầu</item>
         <item>Tắt</item>
     </string-array>
     <string-array name="pref_text_size_choices">
-        <item>Bé</item>
+        <item>Rất nhỏ</item>
         <item>Nhỏ</item>
-        <item>Vừa</item>
+        <item>Thường</item>
         <item>Lớn</item>
-        <item>Đại</item>
+        <item>Rất lớn</item>
+    </string-array>
+    <string-array name="pref_default_text_encoding_choices">
+        <item>Latin-1 (ISO-8859-1)</item>
+        <item>Unicode (UTF-8)</item>
+        <item>Tiếng Trung (GBK)</item>
+        <item>Tiếng Trung (Big5)</item>
+        <item>Tiếng Nhật (ISO-2022-JP)</item>
+        <item>Tiếng Nhật (SHIFT_JIS)</item>
+        <item>Tiếng Nhật (EUC-JP)</item>
+        <item>Tiếng Hàn (EUC-KR)</item>
     </string-array>
     <string-array name="pref_data_preload_choices">
         <item>Không bao giờ</item>
-        <item>Chỉ với Wi-Fi</item>
+        <item>Chỉ trên Wi-Fi</item>
         <item>Luôn luôn</item>
     </string-array>
     <string-array name="pref_link_prefetch_choices">
         <item>Không bao giờ</item>
-        <item>Chỉ với Wi-Fi</item>
-        <item>Luôn luôn</item>
-    </string-array>
-    <string-array name="pref_video_preload_choices">
-        <item>Không bao giờ</item>
-        <item>Chỉ với Wi-Fi</item>
-        <item>Luôn luôn</item>
+        <item>Chỉ trên Wi-Fi</item>
+        <item>Luôn bật</item>
     </string-array>
     <string-array name="pref_homepage_choices">
-        <item>Trang bắt đầu</item>
-        <item>Tùy chọn</item>
+        <item>Trang bắt đầu mặc định</item>
+        <item>Tùy chỉnh</item>
+    </string-array>
+    <string-array name="pref_ua_choices">
+        <item>Android</item>
+        <item>Máy tính</item>
+        <item>iPhone</item>
+        <item>iPad</item>
     </string-array>
     <string-array name="pref_volume_key_choices">
-        <item>Trang trước/sau</item>
-        <item>Thẻ trước/sau</item>
+        <item>Trang trước/Trang tiếp theo</item>
+        <item>Thẻ trước/Thẻ tiếp theo</item>
     </string-array>
     <string-array name="pref_fling_on_border_choices">
         <item>Trang trước/sau</item>
-        <item>Chuyển cửa sổ</item>
+        <item>Đổi cửa sổ</item>
     </string-array>
     <string-array name="pref_default_zoom_choices">
         <item>Nhỏ</item>
-        <item>Vừa</item>
+        <item>Trung bình</item>
         <item>Lớn</item>
     </string-array>
     <string-array name="pref_images_preload_choices">
         <item>Không bao giờ</item>
-        <item>Chỉ với Wi-Fi</item>
+        <item>Chỉ dùng Wi-Fi</item>
         <item>Luôn luôn</item>
     </string-array>
     <string-array name="pref_text_zoom_choices">
+        <item>Rất nhỏ</item>
         <item>Nhỏ</item>
-        <item>Bé</item>
-        <item>Vừa</item>
+        <item>Bình thường</item>
         <item>Lớn</item>
-        <item>Đại</item>
+        <item>Rất lớn</item>
     </string-array>
     <string-array name="pre_webapp_text_sizes">
-        <item>Đại</item>
+        <item>Lớn hơn</item>
         <item>Lớn</item>
-        <item>Vừa</item>
+        <item>Bình thường</item>
         <item>Nhỏ</item>
     </string-array>
 </resources>

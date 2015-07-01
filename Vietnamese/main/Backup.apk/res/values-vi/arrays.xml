@@ -13,13 +13,13 @@
         <item>Thời tiết</item>
     </string-array>
     <string-array name="system_data_label">
-        <item>Danh bạ</item>
+        <item>Liên hệ</item>
         <item>Nhật ký cuộc gọi</item>
         <item>Tin nhắn</item>
-        <item>Tin nhắn MMS</item>
+        <item>Tin nhắn đa phương tiện</item>
         <item>Cài đặt hệ thống</item>
         <item>Cài đặt Wi-Fi</item>
-        <item>Bố trí màn hình Chính</item>
+        <item>Bố cục màn hình Chính</item>
         <item>Cài đặt báo thức</item>
         <item>Ghi chú</item>
         <item>Không làm phiền</item>
@@ -31,14 +31,14 @@
         <item>Ứng dụng và dữ liệu</item>
     </string-array>
     <string-array name="cloud_data_label">
-        <item>Danh bạ</item>
+        <item>Liên hệ</item>
         <item>Nhật ký cuộc gọi</item>
         <item>Tin nhắn</item>
         <item>Cài đặt Wi-Fi</item>
         <item>Ghi chú</item>
     </string-array>
     <string-array name="cloud_account_data">
-        <item>Danh bạ</item>
+        <item>Liên hệ</item>
         <item>Cài đặt Wi-Fi</item>
         <item>Ghi chú</item>
     </string-array>

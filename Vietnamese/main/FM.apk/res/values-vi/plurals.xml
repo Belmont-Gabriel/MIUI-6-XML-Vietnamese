@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="toast_channel_searched">
-        <item quantity="other">Đã tìm thấy %1$d đài</item>
-        <item quantity="zero">Đã tìm thấy %1$d đài</item>
-        <item quantity="one">Đã tìm thấy 1 đài</item>
-        <item quantity="two">Đã tìm thấy %1$d đài</item>
-        <item quantity="few">Đã tìm thấy %1$d đài</item>
-        <item quantity="many">Đã tìm thấy %1$d đài</item>
+        <item quantity="other">%1$d đài đã được quét</item>
     </plurals>
 </resources>

@@ -8,7 +8,6 @@
     <string name="check_network">Cài đặt mạng</string>
     <string name="try_again">Thử lại</string>
     <string name="network_unavaliable">Không thể kết nối mạng</string>
-    <string name="network_access_denied">Truy cập mạng bị từ chối</string>
     <string name="service_unavailiable">Dịch vụ hiện không khả dụng</string>
     <string name="data_error">Đã xảy ra lỗi</string>
     <string name="locating_fail">Không thể tìm thấy vị trí của bạn</string>
@@ -96,9 +95,9 @@
     <string name="enable_now">Bật</string>
     <string name="dont_enable">Tắt</string>
     <string name="user_notice_title">Chú ý</string>
-    <string name="user_notice_identify_summary_format">Điện thoại của bạn sẽ sử dụng cơ sở dữ liệu của MIUI để chặn cuộc gọi không mong muốn khi kết nối WLAN. Bằng cách sử dụng dịch vụ này, bạn đồng ý với %1$s và %2$s của Xiaomi.</string>
+    <string name="user_notice_identify_summary_format">Điện thoại của bạn sẽ sử dụng cơ sở dữ liệu của MIUI để chặn cuộc gọi không mong muốn khi kết nối Wi-Fi. Bằng cách sử dụng dịch vụ này, bạn đồng ý với %1$s và %2$s của Xiaomi.</string>
     <string name="user_notice_yp_detail_summary_format">Một số thông tin Danh bạ web đã lỗi thời. Bạn có muốn cập nhật? Bằng cách sử dụng dịch vụ này, bạn đồng ý với %1$s và %2$s của Xiaomi.</string>
-    <string name="user_notice_identify_summary_format_cta">Điện thoại của bạn sẽ sử dụng cơ sở dữ liệu của MIUI để chặn cuộc gọi không mong muốn khi kết nối WLAN. Bằng cách sử dụng dịch vụ này, bạn đồng ý với %1$s và %2$s của Xiaomi.</string>
+    <string name="user_notice_identify_summary_format_cta">Điện thoại của bạn sẽ sử dụng cơ sở dữ liệu của MIUI để chặn cuộc gọi không mong muốn khi kết nối Wi-Fi. Bằng cách sử dụng dịch vụ này, bạn đồng ý với %1$s và %2$s của Xiaomi.</string>
     <string name="user_notice_yp_detail_summary_format_cta">Một số thông tin Danh bạ web đã lỗi thời. Bạn có muốn cập nhật nó? Bằng cách sử dụng dịch vụ này, bạn đồng ý với %1$s và %2$s của Xiaomi.</string>
     <string name="about_smart_antispam_summary">Giới thiệu tính năng này</string>
     <string name="about_telephone_fraud">Đề phòng lừa đảo</string>

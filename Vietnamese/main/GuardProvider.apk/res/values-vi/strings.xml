@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Trình cung cấp bảo vệ</string>
+    <string name="default_sdcard_volume_path" />
+    <string name="app_name">Lõi Bảo Mật MIUI</string>
     <string name="hello_world">Việt hóa bởi ♋๖ۣۜßεℓ™</string>
     <string name="menu_settings">Cài đặt</string>
-    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_main">Hoạt động chính</string>
 </resources>

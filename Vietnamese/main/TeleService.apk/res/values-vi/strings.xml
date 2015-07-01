@@ -5,7 +5,7 @@
     <string name="phoneAppLabel">Điện thoại</string>
     <string name="emergencyDialerIconLabel">Trình quay số Khẩn cấp</string>
     <string name="phoneIconLabel">Điện thoại</string>
-    <string name="fdnListLabel">Danh sách SQĐS</string>
+    <string name="fdnListLabel">Danh sách FDN</string>
     <string name="unknown">Không xác định</string>
     <string name="private_num">Số cá nhân</string>
     <string name="payphone">Điện thoại công cộng</string>
@@ -251,16 +251,16 @@ Sẽ dùng mạng ưu tiên thay thế."</string>
     <string name="multi_category_enable">Nhiều danh mục đã bật</string>
     <string name="multi_category_disable">Nhiều danh mục đã tắt</string>
     <string name="callind_multi_sim">Cài đặt SUBS</string>
-    <string name="manage_fdn_list">Danh sách SQĐS</string>
-    <string name="fdn_activation">Kích hoạt SQĐS</string>
+    <string name="manage_fdn_list">Danh sách FDN</string>
+    <string name="fdn_activation">Kích hoạt FDN</string>
     <string name="fdn_enabled">Số quay số định sẵn được bật</string>
     <string name="fdn_disabled">Số quay số định sẵn được tắt</string>
-    <string name="enable_fdn">Bật SQĐS</string>
-    <string name="disable_fdn">Tắt SQĐS</string>
+    <string name="enable_fdn">Bật FDN</string>
+    <string name="disable_fdn">Tắt FDN</string>
     <string name="change_pin2">Đổi mã PIN2</string>
-    <string name="enable_fdn_ok">Tắt SQĐS</string>
-    <string name="disable_fdn_ok">Bật SQĐS</string>
-    <string name="sum_fdn_change_pin">Đổi mã PIN để truy cập SQĐS</string>
+    <string name="enable_fdn_ok">Tắt FDN</string>
+    <string name="disable_fdn_ok">Bật FDN</string>
+    <string name="sum_fdn_change_pin">Đổi mã PIN để truy cập FDN</string>
     <string name="sum_fdn_manage_list">Quản lý danh sách Số quay số định sẵn</string>
     <string name="menu_add">Thêm liên hệ</string>
     <string name="fdn">Số quay số định sẵn</string>
@@ -280,7 +280,7 @@ Sẽ dùng mạng ưu tiên thay thế."</string>
     <string name="fdn_contact_deleted">Đã xóa số quay số định sẵn.</string>
     <string name="pin2_invalid">FDN không được cập nhật do bạn nhập mã PIN không chính xác.</string>
     <string name="fdn_invalid_number">FDN không được cập nhật do số vượt quá 20 chữ số.</string>
-    <string name="fdn_contacts_empty">Không có liên hệ nào trong danh sách SQĐS.</string>
+    <string name="fdn_contacts_empty">Không có liên hệ nào trong danh sách FDN.</string>
     <string name="simContacts_emptyLoading">Đang đọc…</string>
     <string name="exportContacts">Đang xuất…</string>
     <string name="simContacts_title">Quản lý liên hệ thẻ SIM</string>
@@ -329,7 +329,7 @@ Tính năng liên quan PIN2 sẽ bị khóa sau khi lần thử không thành c�
     <string name="pin_attempts">"Còn lại 
 %d lần thử."</string>
     <string name="pin_progress_set_icc_lock">Đang thiết lập trạng thái khóa ICC…</string>
-    <string name="pin_progress_set_fdn_lock">Đang thiết lập trạng thái khóa SQĐS…</string>
+    <string name="pin_progress_set_fdn_lock">Đang thiết lập trạng thái khóa FDN…</string>
     <string name="pin_progress_change_pin">Đang đổi mã PIN…</string>
     <string name="pin_progress_change_pin2">Đang đổi mã PIN2…</string>
     <string name="pin_progress_unlock_icc">Đang mở khóa thẻ SIM…</string>
@@ -698,8 +698,6 @@ Hãy thử lại hoặc gọi cho dịch vụ khách hàng để có tùy chọn
     <string name="turnover_mute_summary">Khi điện thoại đặt nằm ngang, có cuộc gọi đến lật ngang để tắt nhạc chuông</string>
     <string name="handon_ringer_summary">Giảm âm lượng chuông báo cuộc gọi đến khi điện thoại được nâng lên. Tính năng này không hoạt động khi rung báo cuộc gọi đến được bật.</string>
     <string name="handon_ringer_title">Tắt chuông khi nâng lên</string>
-    <string name="flash_when_ring_summary">Đèn flash thông báo khi có cuộc gọi đến</string>
-    <string name="flash_when_ring_title">Đèn flash khi đổ chuông</string>
     <string name="enable_proximity_summary">Tắt màn hình trong khi gọi</string>
     <string name="enable_proximity_title">Cảm biến tiệm cận</string>
     <string name="pocket_mode_summary">Tự động khóa điện thoại khi đặt trong túi</string>
@@ -801,7 +799,7 @@ Hãy thử lại hoặc gọi cho dịch vụ khách hàng để có tùy chọn
     <string name="voicemail_notification_ringtone_title">Âm thanh</string>
     <string name="voice_report_incoming_call">Đang gọi</string>
     <string name="voice_report_unknown_num">Số không xác định</string>
-    <string name="command_error_fdn_failure">Bạn cần phải tắt SQĐS trước</string>
+    <string name="command_error_fdn_failure">Bạn cần phải tắt FDN trước</string>
     <string name="uplmn_list_setting_title">Mạng ưu tiên</string>
     <string name="network_id">ID mạng</string>
     <string name="dialog_network_priority_title">Ưu tiên</string>
@@ -809,6 +807,7 @@ Hãy thử lại hoặc gọi cho dịch vụ khách hàng để có tùy chọn
     <string name="gsm_umts_network_preferences_title">Tùy chọn mạng</string>
     <string name="gsm_umts_network_preferences_dialogtitle">Tùy chọn mạng</string>
     <string name="uplmn_numeric_is_empty">Nhập ID mạng</string>
+    <string name="voip_setting">Cài đặt Voip</string>
     <string name="msim_setting_screen_title">Thẻ SIM &amp; mạng di động</string>
     <string name="msim_setting_categery_title">Cài đặt thẻ SIM</string>
     <string name="msim_general_setting">Cài đặt</string>
@@ -848,7 +847,6 @@ Hãy thử lại hoặc gọi cho dịch vụ khách hàng để có tùy chọn
     <string name="preference_dial_pad_touch_tone_default">Mặc định</string>
     <string name="preference_dial_pad_touch_tone_piano">Tiếng piano</string>
     <string name="preference_telocation_summary_countrycode_off">Không tự động thêm mã quốc gia</string>
-    <string name="telephony_setting">Cuộc gọi</string>
+    <string name="telephony_setting">Cài đặt cuộc gọi</string>
     <string name="international_roaming_setting">Chuyển vùng quốc tế</string>
-    <string name="voip_setting">Cài đặt Voip</string>
 </resources>

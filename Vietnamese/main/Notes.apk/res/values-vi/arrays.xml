@@ -20,18 +20,24 @@
         <item>Cực lớn</item>
     </string-array>
     <string-array name="welcome_notes_content">
-        <item>"Bây giờ bạn có thể dễ dàng ghi lại những ý tưởng, bản ghi nhớ, và suy nghĩ của mình
+        <item>"Chạm để tạo ghi chú
 "</item>
-        <item>"Đính kèm ảnh hoặc liên hệ
+        <item>"Để thêm ảnh hoặc hiển thị hộp đánh dấu, hãy nhấn vào nút bên dưới 
 "</item>
-        <item>"Chọn tạo ghi chú mới và bắt đầu
+        <item>"Bấm và giữ ghi chú để ghim, di chuyển, hoặc xóa 
 "</item>
         <item>"Và nhiều tính năng tuyệt vời hơn!
  - Đồng bộ với Mi Cloud
  - Thiết lập nhắc nhở
 
 Để tìm hiểu thêm, vui lòng truy cập
-http://mifan.vn
+http://www.miui.com/forum.php?lang=1
 "</item>
     </string-array>
+    <integer-array name="welcome_notes_color">
+        <item>0</item>
+        <item>1</item>
+        <item>3</item>
+        <item>4</item>
+    </integer-array>
 </resources>

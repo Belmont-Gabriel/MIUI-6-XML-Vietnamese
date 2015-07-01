@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_label">Trình cung cấp thời tiết</string>
+    <string name="app_label">Thời tiết</string>
     <string name="aqi_quality_index_pure">AQI %1$s</string>
     <string name="aqi_quality_index_good">AQI %1$s</string>
     <string name="aqi_quality_index_moderate">AQI %1$s</string>
