@@ -23,7 +23,7 @@
     <string name="err_type_system">Hệ thống</string>
     <string name="err_type_system_summary">Bộ nhớ, hiệu suất, vv.</string>
     <string name="err_type_xiaomi_service">Dịch vụ khách hàng</string>
-    <string name="err_type_xiaomi_family">Mi Family</string>
+    <string name="err_type_xiaomi_family">Gia đình Mi</string>
     <string name="action_submit">Gửi</string>
     <string name="action_cancel">Hủy</string>
     <string name="action_confirm">Chọn</string>
@@ -100,17 +100,25 @@
     <string name="cta_not_show_again">Nhớ tùy chọn</string>
     <string name="cta_cancel">Hủy</string>
     <string name="cta_confirm">OK</string>
-    <string name="submit_dialog_title">Gửi báo cáo đến Xiaomi</string>
+    <string name="submit_dialog_title">Gửi báo cáo lỗi</string>
     <string name="submit_dialog_content">Phản hồi của bạn, cùng với nhật ký lỗi và ảnh đính kèm, sẽ được gửi đến máy chủ của Mi khi thiết bị của bạn kết nối Wi-Fi.</string>
     <string name="submit_dialog_not_wifi_content">Phản hồi của bạn, cùng với nhật ký lỗi và ảnh đính kèm, sẽ được gửi đến máy chủ của Mi khi thiết bị của bạn kết nối Wi-Fi.</string>
     <string name="submit_dialog_cancel">Hủy</string>
     <string name="submit_dialog_confirm">Gửi</string>
+    <string name="bugreport_tool_log_toast_generate_bugreport">Đang tạo báo cáo lỗi (mất khoảng một phút)</string>
+    <string name="bugreport_tool_log_toast">Nhật ký được lưu vào %s</string>
+    <string name="bugreport_tool_log">Tạo báo cáo lỗi</string>
+    <string name="modem_tool_log">Lấy modem log</string>
+    <string name="modem_tool_log_start">Bắt đầu</string>
+    <string name="modem_tool_log_stop">Dừng</string>
+    <string name="modem_tool_log_start_toast">Bắt đầu lưu modem log đến %s</string>
+    <string name="modem_tool_log_stop_toast">Dừng lưu modem log từ %s</string>
     <string name="bugreport_dump_start_notification_title">Đang tạo báo cáo lỗi</string>
     <string name="bugreport_dump_start_notification_summary">Mất khoảng một phút.</string>
     <string name="bugreport_dump_complete_notification_title">Đã tạo báo cáo lỗi</string>
     <string name="bugreport_dump_complete_notification_summary">Chạm để xem.</string>
     <string name="plus_one_submit_dialog_content">Phản hồi mà bạn đã chọn cùng với nhật ký lỗi sẽ được gửi đến máy chủ của Mi.</string>
     <string name="plus_one_submit_dialog_not_show_again">Nhớ tùy chọn</string>
-    <string name="network_disconnected">Không có mạng</string>
-    <string name="toast_fill_brackets">Vui lòng điền trong dấu ngoặc</string>
+    <string name="network_disconnected">Không thể kết nối mạng</string>
+    <string name="toast_fill_brackets">Báo cáo của bạn thiếu một số thông tin</string>
 </resources>

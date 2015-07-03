@@ -106,6 +106,7 @@
     <string name="resource_title_select_ringtone">Chọn nhạc chuông</string>
     <string name="resource_tip_select_none">Chưa chọn gì</string>
     <string name="resource_select_ringtone_confirm">Chọn âm thanh này?</string>
+    <string name="resource_select_ringtone_confirm_picker">Chọn âm thanh này?</string>
     <string name="loading_resource_detail_info">Đang tải…</string>
     <string name="loading_resource_detail_fail">Không thể tải tài nguyên</string>
     <string name="resource_expand_full_text">Mở rộng</string>
@@ -291,13 +292,15 @@
     <string name="theme_user_agreement_remind_never">Không hiển thị lại</string>
     <string name="theme_user_agreement_remind_again">Hiển thị Điều khoản Sử dụng</string>
     <string name="theme_user_agreement_remind_summary">Hiển thị nhắc nhở Điều khoản Sử dụng mỗi khi bạn mở Chủ đề. Cài đặt này sẽ có hiệu lực sau khi bạn khởi động lại thiết bị.</string>
+    <string name="theme_is_external_priority_storage">Lưu trên thẻ SD</string>
+    <string name="theme_is_external_priority_storage_summary">Ứng dụng Chủ đề sẽ khởi động lại để có hiệu lực</string>
     <string name="theme_favorite_add_success">Chủ đề đã gắn dấu sao</string>
     <string name="theme_favorite_add_fail">Không thể gắn dấu sao chủ đề</string>
     <string name="theme_favorite_delete_success">Chủ đề đã bỏ gắn sao</string>
     <string name="theme_favorite_delete_fail">Không thể bỏ gắn sao chủ đề</string>
     <string name="theme_favorite_list_empty">Bạn chưa gắn sao bất kỳ chủ đề nào.</string>
     <string name="theme_favorite_delete">Bỏ gắn dấu sao</string>
-    <string name="theme_favorite_waiting">Chờ vài giây…</string>
+    <string name="theme_favorite_waiting">Vui lòng chờ…</string>
     <string name="theme_empty_redirect">Vào Cửa hàng Chủ đề</string>
     <string name="theme_purchased_non_local">Trực tuyến</string>
     <string name="theme_purchased_list_empty">Bạn chưa mua bất kỳ chủ đề nào.</string>
@@ -328,7 +331,7 @@
     <string name="gift_unbind_fail_dlg_title">Không thể tạo mã</string>
     <string name="gift_operation_fail_dlg_retry">Thử lại</string>
     <string name="gift_operation_fail_dlg_abandon">Hủy</string>
-    <string name="gift_operation_waiting">Chờ vài giây…</string>
+    <string name="gift_operation_waiting">Vui lòng chờ…</string>
     <string name="gift_purchased_list_empty_with_received_list_empty">Không có quà tặng.</string>
     <string name="gift_purchased_list_empty">Bạn chưa tặng bất kỳ món quà nào.</string>
     <string name="gift_received_list_empty">Bạn chưa nhận bất kỳ món quà nào.</string>

@@ -27,7 +27,7 @@
     <string-array name="prefEntries_autoAdvance">
         <item>Tin nhắn mới hơn</item>
         <item>Tin nhắn cũ hơn</item>
-        <item>Danh sách hội thoại</item>
+        <item>Hộp thư đến</item>
     </string-array>
     <string-array name="prefEntries_removal_action">
         <item>Chỉ hiển thị lưu trữ</item>
@@ -37,7 +37,7 @@
     <string-array name="prefSummaries_autoAdvance">
         <item>Hiển thị hội thoại mới hơn sau khi xóa</item>
         <item>Hiển thị hội thoại cũ hơn sau khi xóa</item>
-        <item>Hiển thị danh sách hội thoại sau khi xóa</item>
+        <item>Hiển thị hộp thư đến sau khi xóa</item>
     </string-array>
     <string-array name="prefSummaries_removal_action_summary">
         <item>Chỉ hiển thị lưu trữ</item>
@@ -65,13 +65,5 @@
         <item>Email này</item>
         <item>Từ chối</item>
         <item>Từ chối Email</item>
-    </string-array>
-    <string-array name="sync_status">
-        <item>Đồng bộ thành công.</item>
-        <item>Lỗi kết nối mạng.</item>
-        <item>Không thể đăng nhập.</item>
-        <item>Lỗi khi kết nối an toàn.</item>
-        <item>Không thể đồng bộ.</item>
-        <item>Lỗi máy chủ.</item>
     </string-array>
 </resources>

@@ -298,7 +298,7 @@ Sẽ dùng mạng ưu tiên thay thế."</string>
     <string name="invalid_pin">Nhập mã PIN từ 4 đến 8 số.</string>
     <string name="disable_sim_pin">Tắt mã PIN của SIM</string>
     <string name="enable_sim_pin">Bật mã PIN của SIM</string>
-    <string name="enable_in_progress">Chờ vài giây…</string>
+    <string name="enable_in_progress">Vui lòng chờ…</string>
     <string name="enable_pin_ok">Mã PIN của SIM đã bật.</string>
     <string name="disable_pin_ok">Mã PIN của SIM đã tắt.</string>
     <string name="pin_failed">Mã PIN bạn nhập không chính xác.</string>
@@ -470,7 +470,7 @@ Hãy thử lại hoặc gọi cho dịch vụ khách hàng để có tùy chọn
     <string name="primary_account_summary_with">Tài khoản chính. %s</string>
     <string name="registration_status_checking_status">Đang kiểm tra…</string>
     <string name="registration_status_registering">Đang đăng ký…</string>
-    <string name="registration_status_still_trying">Chờ vài giây…</string>
+    <string name="registration_status_still_trying">Vui lòng chờ…</string>
     <string name="registration_status_not_receiving">Không nhận được cuộc gọi.</string>
     <string name="registration_status_no_data">Bạn không có kết nối mạng.</string>
     <string name="registration_status_no_wifi_data">Bạn chưa kết nối với mạng Wi-Fi</string>
@@ -624,6 +624,19 @@ Hãy thử lại hoặc gọi cho dịch vụ khách hàng để có tùy chọn
     <string name="telocation_confim_delete_title">Xóa tin nhắn này?</string>
     <string name="telocation_error_message_number">%s chỉ hỗ trợ số</string>
     <string name="telocation_jituan_error_message_number">%s chỉ hỗ trợ số và ký tự đại diện</string>
+    <string name="ivr_parameter_settings">Thiết lập tham số IVR</string>
+    <string name="ivr_mo_area_code_settings">Mã vùng hiện tại</string>
+    <string name="ivr_mo_area_code_settings_hint">Vui lòng nhập mã vùng hiện tại</string>
+    <string name="ivr_type_settings">Cài đặt kế hoạch sử dụng dữ liệu</string>
+    <string name="ivr_type_settings_hint">Nhập mã kế hoạch sử dụng dữ liệu</string>
+    <string name="ivr_type_cm_1">M-Zone</string>
+    <string name="ivr_type_cm_2">GoTone</string>
+    <string name="ivr_type_cm_3">Easy own</string>
+    <string name="ivr_type_cu_1">China Unicom 3G</string>
+    <string name="ivr_type_cu_2">China Unicom 4G</string>
+    <string name="ivr_type_cu_3">China Unicom 2G</string>
+    <string name="ivr_type_ct_1">China Telecom VIP</string>
+    <string name="ivr_type_ct_2">Khách hàng China Telecom</string>
     <string name="call_description_recording">Đang ghi âm…</string>
     <string name="call_record_auto_whitelist_no_item">Thêm một số bằng cách chạm vào phím thêm (+)</string>
     <string name="call_record_auto_whitelist">Tùy chỉnh danh sách</string>
@@ -669,9 +682,9 @@ Hãy thử lại hoặc gọi cho dịch vụ khách hàng để có tùy chọn
     <string name="emergency_call_area_code_edit_dialog_button">Gọi</string>
     <string name="dial_related_setting_catory">Gọi</string>
     <string name="t9_indexing_method_title">Nhập tìm kiếm T9</string>
-    <string name="t9_indexing_method_pinyin">Bính âm</string>
+    <string name="t9_indexing_method_pinyin">Bảng chữ cái Latin</string>
     <string name="t9_indexing_method_zhuyin">Chú âm</string>
-    <string name="t9_indexing_rebuilding_message">Xây dựng lại chỉ số T9…</string>
+    <string name="t9_indexing_rebuilding_message">Vui lòng chờ…</string>
     <string name="auto_redial_pref_title">Tự động gọi lại</string>
     <string name="auto_redial_pref_summary">Tự động gọi lại khi đường dây bận</string>
     <string name="auto_retry_mode_title">Tự động thử lại</string>
@@ -698,6 +711,8 @@ Hãy thử lại hoặc gọi cho dịch vụ khách hàng để có tùy chọn
     <string name="turnover_mute_summary">Khi điện thoại đặt nằm ngang, có cuộc gọi đến lật ngang để tắt nhạc chuông</string>
     <string name="handon_ringer_summary">Giảm âm lượng chuông báo cuộc gọi đến khi điện thoại được nâng lên. Tính năng này không hoạt động khi rung báo cuộc gọi đến được bật.</string>
     <string name="handon_ringer_title">Tắt chuông khi nâng lên</string>
+    <string name="flash_when_ring_summary">Đèn flash thông báo khi có cuộc gọi đến</string>
+    <string name="flash_when_ring_title">Đèn flash khi đổ chuông</string>
     <string name="enable_proximity_summary">Tắt màn hình trong khi gọi</string>
     <string name="enable_proximity_title">Cảm biến tiệm cận</string>
     <string name="pocket_mode_summary">Tự động khóa điện thoại khi đặt trong túi</string>
@@ -807,7 +822,6 @@ Hãy thử lại hoặc gọi cho dịch vụ khách hàng để có tùy chọn
     <string name="gsm_umts_network_preferences_title">Tùy chọn mạng</string>
     <string name="gsm_umts_network_preferences_dialogtitle">Tùy chọn mạng</string>
     <string name="uplmn_numeric_is_empty">Nhập ID mạng</string>
-    <string name="voip_setting">Cài đặt Voip</string>
     <string name="msim_setting_screen_title">Thẻ SIM &amp; mạng di động</string>
     <string name="msim_setting_categery_title">Cài đặt thẻ SIM</string>
     <string name="msim_general_setting">Cài đặt</string>
@@ -831,7 +845,7 @@ Hãy thử lại hoặc gọi cho dịch vụ khách hàng để có tùy chọn
     <string name="msim_pref_title_data">Internet</string>
     <string name="msim_not_set_summary">Chưa thiết lập</string>
     <string name="msim_select_default_time_left">(%d giây)</string>
-    <string name="msim_switch_data_conn_toast">Cài đặt mạng đã được thay đổi để ưu tiên mạng LTE. Bạn có thể thay đổi điều này trong cài đặt thẻ SIM.</string>
+    <string name="msim_switch_data_conn_toast">Đã đổi thẻ SIM. Loại mạng đã thay đổi. Xem thêm thông tin về thẻ SIM và mạng di động trong menu Cài đặt.</string>
     <string name="msim_switch_data_conn_toast_for_h2xct">Khe cắm SIM 2 chỉ hỗ trợ mạng GSM. Loại mạng ưu tiên cho khe cắm này đã được thay đổi thành chỉ mạng 2G.</string>
     <string name="msim_has_been_disabled">(Đã tắt)</string>
     <string name="select_voice_call_sim">Chọn thẻ SIM</string>
@@ -849,4 +863,14 @@ Hãy thử lại hoặc gọi cho dịch vụ khách hàng để có tùy chọn
     <string name="preference_telocation_summary_countrycode_off">Không tự động thêm mã quốc gia</string>
     <string name="telephony_setting">Cài đặt cuộc gọi</string>
     <string name="international_roaming_setting">Chuyển vùng quốc tế</string>
+    <string name="incall_error_sim_deactive">Thẻ SIM không hoạt động</string>
+    <string name="voip_setting">Cài đặt Voip</string>
+    <string name="cdma_alert_title">Thẻ UIM phải là mặc định</string>
+    <string name="cdma_alert_message">Nếu chọn thẻ khác làm mặc định cho sử dụng dữ liệu di động, bạn sẽ không thể sử dụng thẻ UIM China Telecom.</string>
+    <string name="remind_another_time">Không hiển thị lại</string>
+    <string name="not_change_default_data">Không thay đổi</string>
+    <string name="change_default_data">Thay đổi</string>
+    <string name="change_default_data_alert_title">Thẻ UIM phải là mặc định</string>
+    <string name="change_default_data_alert_message">Bạn sẽ không thể sử dụng thẻ UIM China Telecom.</string>
+    <string name="confirm_change_default_data">Thay đổi</string>
 </resources>

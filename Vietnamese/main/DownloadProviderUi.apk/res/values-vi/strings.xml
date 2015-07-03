@@ -6,8 +6,8 @@
     <string name="download_when_network_connected">Tải xuống bằng mạng di động</string>
     <string name="download_paused">Tải xuống đã tạm dừng</string>
     <string name="download_pending">Đang chờ tải xuống</string>
-    <string name="download_wait_connect">Đang chờ kết nối để tải xuống</string>
-    <string name="download_filesize_unknown">không xác định</string>
+    <string name="download_wait_connect">Đang chờ kết nối</string>
+    <string name="download_filesize_unknown">Không xác định</string>
     <string name="download_info_start_deleted_tasks">Xóa tải xuống</string>
     <string name="download_info_count_deleted_tasks">%s tải xuống đã được xóa</string>
     <string name="menu_preferences">Cài đặt tải xuống</string>
@@ -69,7 +69,7 @@
     <string name="vip_auto_speedup">Đã bật tăng tốc tải xuống Xunlei</string>
     <string name="xunlei_gaosu">Tăng tốc tải xuống Xunlei</string>
     <string name="free_speedup_exp">Dùng thử Tăng tốc tải xuống Xunlei miễn phí</string>
-    <string name="valid_in_this_month">chỉ có giá trị trong tháng này</string>
+    <string name="valid_in_this_month">Có giá trị trong tháng này</string>
     <string name="xunlei_speed_service">Tăng tốc tải xuống Xunlei</string>
     <string name="open_xunlei_speed_service">Bắt đầu tăng tốc tải xuống Xunlei</string>
     <string name="bind_xunlei_account">Thêm Tài khoản Xunlei</string>
@@ -103,7 +103,7 @@
     <string name="download_list_open_xl_message">Tăng tốc Xunlei sẽ giúp tăng tốc độ tải xuống.</string>
     <string name="download_list_open_xl_ok">OK</string>
     <string name="download_list_open_xl_cancel">Hủy</string>
-    <string name="download_list_intoAuth">Xác minh tài khoản của bạn</string>
+    <string name="download_list_intoAuth">Xác minh Tài khoản của bạn</string>
     <string name="download_list_intoAuthAlert">Đang tải</string>
     <string name="unbind_xunlei_success">Đã đăng xuất khỏi Tài khoản Xunlei</string>
     <string name="unbind_xunlei_2_success">Đã thêm Tài khoản Xunlei</string>
@@ -115,6 +115,16 @@
     <string name="xunlei_close_tips_content">Tăng tốc tải xuống Xunlei.</string>
     <string name="xunlei_close_tips_button">Bật</string>
     <string name="toast_xunlei_engine_open">Bật tăng tốc tải xuống Xunlei</string>
+    <string name="recommend_other_downloads">Phổ biến</string>
+    <string name="recommend_show_other_downloads">Xem phổ biến</string>
+    <string name="recommend_install">Cài đặt</string>
+    <string name="recommend_open">Mở</string>
+    <string name="recommend_downloading">Đang tải…</string>
+    <string name="recommend_prepare">Đang chờ…</string>
+    <string name="recommend_installing">Đang cài đặt…</string>
+    <string name="recommend_failed">Thất bại</string>
+    <string name="recommend_paused">Đã tạm dừng</string>
+    <string name="recommend_loading">Đang tải…</string>
     <string name="app_label">Tải xuống</string>
     <string name="download_title_sorted_by_date">Tải xuống - Sắp xếp theo ngày</string>
     <string name="download_title_sorted_by_size">Tải xuống - Sắp xếp theo kích thước</string>

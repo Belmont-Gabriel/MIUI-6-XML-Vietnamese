@@ -611,6 +611,7 @@ Thử lại hoặc gọi cho dịch vụ khách hàng để có thêm lựa ch�
     <string name="online_check_warning_info_by_cmb">Luôn xác minh danh tính của người bạn đang nói chuyện bằng điện thoại hoặc video trước khi trả lời bất kỳ tin nhắn liên quan đến tài chính cá nhân của bạn.</string>
     <string name="online_check_warning_type_by_cmb">Thư rác</string>
     <string name="livetalk_provider_info">Được cung cấp bởi %s</string>
+    <string name="livetalk_left_minute">%s phút còn lại</string>
     <string name="livetalk_waiting">Đang chờ…</string>
     <string name="jeejen_answer_call_text">Trả lời</string>
     <string name="jeejen_reject_call_text">Từ chối</string>

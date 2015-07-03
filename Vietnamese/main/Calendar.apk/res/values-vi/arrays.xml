@@ -192,6 +192,18 @@
         <item>Trong suốt</item>
         <item>Nền trắng</item>
     </string-array>
+    <string-array name="miui_reminder_minutes_labels">
+        <item>Không nhắc nhở</item>
+        <item>0 phút</item>
+        <item>5 phút</item>
+        <item>10 phút</item>
+        <item>15 phút</item>
+        <item>30 phút</item>
+        <item>1 giờ</item>
+        <item>1 ngày</item>
+        <item>2 ngày</item>
+        <item>1 tuần</item>
+    </string-array>
     <string-array name="repeat_frequency_spinner">
         <item>ngày</item>
         <item>tuần</item>

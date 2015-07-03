@@ -8,6 +8,7 @@
     <string name="check_network">Cài đặt mạng</string>
     <string name="try_again">Thử lại</string>
     <string name="network_unavaliable">Không thể kết nối mạng</string>
+    <string name="network_access_denied">Truy cập mạng bị từ chối</string>
     <string name="service_unavailiable">Dịch vụ hiện không khả dụng</string>
     <string name="data_error">Đã xảy ra lỗi</string>
     <string name="locating_fail">Không thể tìm thấy vị trí của bạn</string>
@@ -83,9 +84,16 @@
     <string name="confirm_to_remove_blacklist">Bỏ chặn số này?</string>
     <string name="custom_mark_category">Tùy chỉnh</string>
     <string name="mark_number_dialog_maintitle">Đặt tiêu đề cho số và tải lên</string>
-    <string name="mark_number_custom_dialog_maintitle">Xác nhận hoặc chỉnh sửa nhãn</string>
-    <string name="selected_category_format">Gắn nhãn là %1$s bởi %2$d người.</string>
+    <string name="mark_number_dialog_subtitle">Gắn nhãn là %1$s bởi %2$d người.</string>
+    <string name="mark_number_marked_subtitle">Tôi đã gắn nhãn là %s</string>
+    <string name="mark_number_marked_maintitle">Sửa</string>
     <string name="mark_title_null_hint">Nhập một nhãn</string>
+    <string name="mark_number_custom_mark_deleted">Đã xóa nhãn.</string>
+    <string name="mark_number_feedback_success">Phản hồi thành công, số sẽ được xác minh.</string>
+    <string name="mark_number_feedback">Báo cáo</string>
+    <string name="mark_number_feedback_hint">Nhập phản hồi của bạn</string>
+    <string name="mark_number_feedback_invalid_hint">Nhập phản hồi hợp lệ</string>
+    <string name="mark_number_remove">Xóa nhãn</string>
     <string name="smart_antispam">Nhận dạng số không xác định</string>
     <string name="turn_on_smart_antispam_hint">Nhận dạng cuộc gọi từ số không xác định bằng cách sử dụng cơ sở dữ liệu của Xiaomi</string>
     <string name="turn_on_smart_antispam_title">Nhận dạng số không xác định</string>
@@ -264,6 +272,10 @@ Kiểm tra mã số theo dõi của bạn."</string>
     <string name="express_no_order">Không có đơn đặt hàng</string>
     <string name="express_order_info">Thông tin đặt hàng</string>
     <string name="express_urge_order">Nhắc nhở</string>
+    <string name="express_copy_number">Sao chép</string>
+    <string name="express_send_mms">Gửi</string>
+    <string name="express_send_mms_format">Một bưu kiện đã được gửi đến cho bạn bởi %1$s, mã số theo dõi là %2$s.</string>
+    <string name="express_copied">Số theo dõi đã được sao chép</string>
     <string name="remind_user_suspect_number_title">Số đáng ngờ</string>
     <string name="remind_user_suspect_number_message">Hãy cẩn thận: Luôn xác minh danh tính của liên hệ trước bằng điện thoại hoặc cuộc gọi video trước khi trả lời bất kỳ tin nhắn có liên quan đến thông tin cá nhân của bạn.</string>
     <string name="remind_another_time">Không hiển thị lại</string>

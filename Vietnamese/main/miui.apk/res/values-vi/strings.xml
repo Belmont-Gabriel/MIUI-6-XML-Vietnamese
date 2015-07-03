@@ -3,15 +3,18 @@
     <string name="label">MIUI SDK</string>
     <string name="send">Gửi</string>
     <string name="close">Đóng</string>
+    <string name="date_picker_label_year" />
+    <string name="date_picker_label_month" />
+    <string name="date_picker_label_day" />
+    <string name="copyright">Bản quyền</string>
+    <string name="user_agreement">Điều khoản Dịch vụ</string>
+    <string name="privacy_policy">Chính sách Riêng tư</string>
+    <string name="user_manual">Hướng dẫn sử dụng</string>
     <string name="abc_action_bar_up_description">Di chuyển lên</string>
     <string name="abc_action_bar_home_description">Quay về Màn hình chính</string>
     <string name="action_mode_select_all">Chọn tất cả</string>
     <string name="action_mode_deselect_all">Bỏ chọn tất cả</string>
     <string name="action_mode_title_empty">Chọn mục</string>
-    <string name="loading">Đang tải…</string>
-    <string name="date_picker_label_year" />
-    <string name="date_picker_label_month" />
-    <string name="date_picker_label_day" />
     <string name="time_picker_label_hour">Giờ</string>
     <string name="time_picker_label_minute">Phút</string>
     <string name="yesterday">Hôm qua</string>
@@ -35,16 +38,6 @@
     <string name="date_picker_dialog_title">Đặt ngày</string>
     <string name="time_picker_dialog_title">Đặt giờ</string>
     <string name="date_time_picker_dialog_title">Đặt ngày và giờ</string>
-    <string name="app_name_which_call">Ứng dụng:%s</string>
-    <string name="app_version_which_call">Phiên bản ứng dụng:%s</string>
-    <string name="policy_name">Chính sách:%s</string>
-    <string name="copyright">Bản quyền</string>
-    <string name="user_agreement">Điều khoản Dịch vụ</string>
-    <string name="privacy_policy">Chính sách Bảo mật</string>
-    <string name="mibi_license">Điều khoản Dịch vụ Mi Credit</string>
-    <string name="user_manual">Hướng dẫn sử dụng</string>
-    <string name="license_host_unreachable">"Không thể kết nối mạng. Để xem thông tin này bây giờ, 
-vào %s"</string>
     <string name="perm_payment_lab">Thanh toán Mi</string>
     <string name="perm_payment_dspt">Cho phép các ứng dụng trả tiền thông qua Dịch vụ Thanh toán Mi</string>
     <string name="sync_one_time_sync">Chạm để đồng bộ ( %1$s )</string>
@@ -582,5 +575,7 @@ vào %s"</string>
     <string name="country_name_kg">KG</string>
     <string name="country_name_uz">UZ</string>
     <string name="permlab_sendSmsNoConfirmation">Cho phép nhắn tin SMS trong nền</string>
-    <string name="permdesc_sendSmsNoConfirmation">Ứng dụng có thể gửi tin nhắn SMS mà không cần hỏi bạn trước. Điều này có thể làm phát sinh chi phí không mong muốn từ nhà cung cấp dịch vụ.</string>
+    <string name="permdesc_sendSmsNoConfirmation">Ứng dụng có thể gửi tin nhắn SMS mà không cần sự cho phép của bạn. Nhà cung cấp có thể tính phí các tin nhắn này.</string>
+    <string name="web_sso_login_message">Đang đăng nhập…</string>
+    <string name="web_sso_login_fail">Bạn cần phải đăng nhập lại</string>
 </resources>

@@ -221,6 +221,7 @@
     <string name="st_sub_title_customize_mode_name">Tên</string>
     <string name="read_all_sms">Đánh dấu là đã đọc</string>
     <string name="loding">Tải dữ liệu</string>
+    <string name="action_source_sms_title">SMS đã chặn</string>
     <string name="st_title_open_antispam">Danh sách chặn</string>
     <string name="st_title_antispam_mode">Quy tắc</string>
     <string name="st_sub_title_whiteblack_list_group">Danh sách chặn</string>

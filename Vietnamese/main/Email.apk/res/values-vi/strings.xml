@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="ApplicationIconMore99">99+</string>
-    <string name="Folders">Thư mục</string>
+    <string name="SMTP_independent_verification_text">Xác minh SMTP độc lập</string>
+    <string name="SMTP_password_text">Mật khẩu</string>
+    <string name="SMTP_username_text">Tên người dùng</string>
     <string name="abc_action_bar_home_description">Điều hướng về trang chủ</string>
     <string name="abc_action_bar_up_description">Điều hướng lên trên</string>
     <string name="abc_action_menu_overflow_description">Thêm tùy chọn</string>
@@ -24,7 +26,7 @@
     <string name="account_name_toast">Một tài khoản có cùng tên đã tồn tại</string>
     <string name="account_options_acc_title">Tài khoản</string>
     <string name="account_options_common_title">Chung</string>
-    <string name="account_options_only_title">Chỉ tải xuống tiêu đề thư khi sử dụng dữ liệu di động</string>
+    <string name="account_options_only_title">Khi bạn sử dụng dữ liệu di động, chỉ tải tiêu đề thư</string>
     <string name="account_options_sync_title">Đồng bộ</string>
     <string name="account_password_spaces_error">Mật khẩu này bắt đầu hoặc kết thúc với một hoặc nhiều khoảng trống. Nhiều máy chủ không hỗ trợ mật khẩu là dấu cách.</string>
     <string name="account_security_dialog_content_fmt">%s yêu cầu bạn cập nhật cài đặt bảo mật.</string>
@@ -52,7 +54,8 @@
     <string name="account_settings_login_dialog_reason_fmt" formatted="false">Không thể đăng nhập vào tài khoản %s. Phản hồi máy chủ: %s</string>
     <string name="account_settings_login_dialog_title">Không thể đăng nhập</string>
     <string name="account_settings_mail_check_frequency_label">Tần suất</string>
-    <string name="account_settings_name_label">Tên của bạn</string>
+    <string name="account_settings_mibill_resolve_label">Quản lý hóa đơn tự động</string>
+    <string name="account_settings_name_label">Biệt danh</string>
     <string name="account_settings_notifications">Thông báo</string>
     <string name="account_settings_notify_label">Thông báo email</string>
     <string name="account_settings_notify_summary">Hiển thị thông báo khi nhận email mới</string>
@@ -73,6 +76,7 @@
     <string name="account_settings_sync_email_summary">Đồng bộ email cho tài khoản này</string>
     <string name="account_settings_unsupported_label">Chính sách không được hỗ trợ</string>
     <string name="account_settings_unsupported_summary">Không</string>
+    <string name="account_settings_using_ringtone">Nhạc chuông</string>
     <string name="account_settings_vibrate_when_label">Rung</string>
     <string name="account_setup_account_type_headline">Loại tài khoản</string>
     <string name="account_setup_account_type_instructions">Loại tài khoản này là gì?</string>
@@ -142,7 +146,7 @@
     <string name="account_setup_names_headline">Tài khoản của bạn được thiết lập và email đã sẵn sàng!</string>
     <string name="account_setup_names_title">Thiết lập tài khoản</string>
     <string name="account_setup_names_user_name_empty_error">Trường này không được để trống.</string>
-    <string name="account_setup_names_user_name_label">Tên của bạn (hiển thị trên thư gửi đi)</string>
+    <string name="account_setup_names_user_name_label">Biệt danh (hiển thị trên thư gửi đi)</string>
     <string name="account_setup_need_password_verification">Tài khoản của bạn có mật khẩu xác thực thứ hai. Yêu cầu xác nhận.</string>
     <string name="account_setup_not_disturb_title">Không làm phiền</string>
     <string name="account_setup_options_background_attachments_label">Tự động tải tập tin đính kèm khi kết nối Wi-Fi</string>
@@ -242,7 +246,7 @@
     <string name="attachment_stop_all">Dừng</string>
     <string name="attachment_text">Văn bản</string>
     <string name="attachment_type_blocked">Rất tiếc, bạn không thể lưu hoặc mở loại tập tin đính kèm này.</string>
-    <string name="attachment_unknown">%s Tập tin</string>
+    <string name="attachment_unknown">%s tập tin</string>
     <string name="attachment_video">Video</string>
     <string name="attachments_header">Tập tin đính kèm</string>
     <string name="auth_error_notification_text">Chạm để sửa cài đặt tài khoản cho %s</string>
@@ -284,7 +288,7 @@
     <string name="chat_view_description">Tập hợp danh sách vào giao diện hội thoại</string>
     <string name="chat_view_quote_text">---Văn bản Trích dẫn---</string>
     <string name="chat_view_retract_quote_text">---Ẩn Văn bản Trích dẫn---</string>
-    <string name="chat_view_title">Hiển thị hội thoại</string>
+    <string name="chat_view_title">Xem hội thoại</string>
     <string name="check_setup_data">Đang xác nhận thiết lập máy chủ…</string>
     <string name="checking_for_mail">Đang kiểm tra…</string>
     <string name="choosertitle_sharevia">Chia sẻ qua</string>
@@ -297,7 +301,7 @@
     <string name="colon">:</string>
     <string name="compose">Soạn</string>
     <string name="compose_send">Gửi</string>
-    <string name="compose_sent">Gửi thành công</string>
+    <string name="compose_sent">Thư đã gửi</string>
     <string name="confirm">OK</string>
     <string name="confirm_delete">Xóa email này?</string>
     <string name="confirm_delete_conversation_title">Xóa</string>
@@ -309,6 +313,13 @@
     <string name="confirm_send_message_with_no_body">Không có văn bản trong nội dung thư.</string>
     <string name="confirm_send_message_with_no_subject">Thư này chưa có chủ đề.</string>
     <string name="confirm_send_title">Gửi thư?</string>
+    <string name="contact_edit_set_black_list">Thiết lập danh sách chặn</string>
+    <string name="contact_edit_set_phone_contact">Sửa liên hệ điện thoại</string>
+    <string name="contact_edit_set_pop_up_tips">Bật hướng dẫn</string>
+    <string name="contact_edit_set_unread_top">Hiển thị email chưa đọc trước</string>
+    <string name="contact_edit_set_vip">Thiết lập VIP</string>
+    <string name="contact_edit_title_permission">Quyền liên hệ</string>
+    <string name="contact_edit_title_phone_contact">Danh sách liên hệ điện thoại</string>
     <string name="contact_info_string">Hiển thị thông tin liên hệ cho %1$s</string>
     <string name="contact_info_string_default">Hiển thị thông tin liên hệ</string>
     <string name="contact_list_add_btn">Thêm</string>
@@ -358,10 +369,12 @@
     <string name="device_admin_label">Email</string>
     <string name="device_not_activiey_lint1">Quản lý thiết bị chưa được kích hoạt</string>
     <string name="device_not_activiey_lint2">Dịch vụ thư không hoạt động với Chuyển đổi</string>
+    <string name="dialog_account_auto_sync_setting_no_open">Tùy chọn đồng bộ thư đã tắt, không thể nhận được thư mới.</string>
     <string name="dialog_auto_download_failed">Không thể hoàn tất tải xuống tự động, thử tải xuống theo cách thủ công.</string>
+    <string name="dialog_auto_sync_setting_no_open">Tùy chọn đồng bộ đã tắt, không thể nhận được thư mới.</string>
     <string name="dialog_insufficient_space_for_single_account_on_internal">"Không đủ dung lượng cho  %s ."</string>
     <string name="dialog_insufficient_space_on_external">Không thể hoàn tất tải xuống. Bộ nhớ ngoài không đủ dung lượng.</string>
-    <string name="dialog_insufficient_space_on_internal">Bộ nhớ trong không đủ dung lượng.</string>
+    <string name="dialog_insufficient_space_on_internal">Thiếu dung lượng lưu trữ để tự động tải tập tin đính kèm.</string>
     <string name="disable_admin_warning">CẢNH BÁO: Tắt quyền của ứng dụng Email để quản trị thiết bị của bạn sẽ xóa tất cả các tài khoản email mà nó yêu cầu, cùng với nội dung email, liên hệ, lịch sự kiện, các dữ liệu khác chứa trong nó.</string>
     <string name="discard">Hủy</string>
     <string name="discard_drafts">Hủy thư nháp</string>
@@ -370,7 +383,7 @@
     <string name="done_action">Hoàn tất</string>
     <string name="donot_disturb_endtime_title">Đến</string>
     <string name="donot_disturb_starttime_title">Từ</string>
-    <string name="donot_disturb_summary">Không làm phiền trong thời gian thiết lập</string>
+    <string name="donot_disturb_summary">Thông báo có thư mới sẽ bị im lặng</string>
     <string name="donot_disturb_title">Không làm phiền</string>
     <string name="downlaod_cancel_confirm_download">Dừng</string>
     <string name="downlaod_cancel_continue_download">Tiếp tục</string>
@@ -423,9 +436,12 @@
     <string name="flow_saved_dlg_title">Giảm sử dụng dữ liệu di động</string>
     <string name="flow_saved_preference_total">Đã lưu %1$s.</string>
     <string name="folder_icon_desc">Biểu tượng thư mục</string>
+    <string name="folder_list_display_all">Hiển thị tất cả thư mục</string>
+    <string name="folder_list_display_only_import">Chỉ hiển thị các thư mục quan trọng</string>
     <string name="folder_picker_title">Chọn thư mục</string>
     <string name="folder_removed">Đã xóa khỏi %1$s</string>
     <string name="folder_shortcut_widget_label">Thư mục Email</string>
+    <string name="folder_synchronization_mail_settings">Cài đặt đồng bộ thư mục</string>
     <string name="forward">Chuyển tiếp</string>
     <string name="forward_attachment">Chuyển tiếp</string>
     <string name="forward_attribution">---------- Thư chuyển tiếp ----------&lt;br>Từ: %1$s&lt;br>Ngày: %2$s&lt;br>Chủ đề: %3$s&lt;br>Tới: %4$s&lt;br></string>
@@ -446,11 +462,11 @@
     <string name="general_preference_text_zoom_small">Nhỏ</string>
     <string name="general_preference_text_zoom_tiny">Rất nhỏ</string>
     <string name="generic_attachment_problem">Không thể đính kèm tập tin.</string>
-    <string name="gmail_acceleration">Tăng tốc Gmail để nhận email</string>
-    <string name="gmail_login_confirm_to_use_proxy">Sử dụng tăng tốc để đảm bảo đăng nhập Gmail?</string>
-    <string name="gmail_login_verify">Xác minh đăng nhập Gmail</string>
-    <string name="gmail_web_login_go">Đi</string>
-    <string name="gmail_web_login_required_message">Thay đổi vị trí đăng nhập, yêu cầu đăng nhập trang web</string>
+    <string name="gmail_acceleration">Sử dụng máy chủ proxy cho Tài khoản Gmail</string>
+    <string name="gmail_login_confirm_to_use_proxy">Sử dụng máy chủ proxy để truy cập vào tài khoản Gmail của bạn?</string>
+    <string name="gmail_login_verify">Thêm Tài khoản Gmail</string>
+    <string name="gmail_web_login_go">OK</string>
+    <string name="gmail_web_login_required_message">Đăng nhập vào Gmail</string>
     <string name="head_only_enable_dialog_message">Chỉ tải xuống tiêu đề thư (thay vì toàn bộ) khi sử dụng dữ liệu di động.</string>
     <string name="head_only_enable_dialog_nagative">Không phải bây giờ</string>
     <string name="head_only_enable_dialog_positive">Bật</string>
@@ -466,10 +482,11 @@
     <string name="hint_quick_reply_all">Trả lời tất cả</string>
     <string name="ignore_spam_warning">Bỏ qua, tôi tin tưởng thư này</string>
     <string name="imap_name">IMAP</string>
+    <string name="imap_password_error">Mật khẩu của máy chủ thư đến không chính xác</string>
     <string name="inbox_folders_heading">Thư mục trên máy</string>
     <string name="info">Thông tin</string>
-    <string name="inline_picture_deleted">Không thể tìm thấy ảnh này, đang tải xuống…</string>
-    <string name="inline_picture_download_complete">tải ảnh nội tuyến xong</string>
+    <string name="inline_picture_deleted">Đang tải xuống ảnh còn thiếu…</string>
+    <string name="inline_picture_download_complete">Đã tải ảnh xuống</string>
     <string name="input_password_prompt">Nhập mật khẩu của bạn</string>
     <string name="invalid_recipient">Địa chỉ %s không hợp lệ.</string>
     <string name="invalid_recipient_title">Lỗi người nhận</string>
@@ -492,7 +509,7 @@
     <string name="mail_header_downloading_message_body">Đang tải…</string>
     <string name="mail_header_message_body_auto_download_complete">Tải xuống nội dung email bằng mạng Wi-Fi.</string>
     <string name="mail_header_message_body_auto_download_tip">Nội dung Email sẽ được tải xuống khi dùng Wi-Fi.</string>
-    <string name="mail_header_message_body_download_failed">Hết thời gian kết nối.</string>
+    <string name="mail_header_message_body_download_failed">Tải nội dung email thất bại.</string>
     <string name="mail_header_network_not_available">Bạn không có kết nối mạng.</string>
     <string name="mailbox_list_account_selector_combined_view">Hộp thư đến kết hợp</string>
     <string name="mailbox_name_display_drafts">Thư nháp</string>
@@ -580,12 +597,17 @@ CC: %4$s
     <string name="message_saved">Thư đã được lưu dưới dạng tin nháp.</string>
     <string name="message_type_name">thư</string>
     <string name="message_view_attachment_background_load">Một hoặc nhiều đính kèm trong thư được chuyển tiếp của bạn sẽ được tải về trước khi gửi.</string>
+    <string name="mibill_privacy_policy_button1">Không đồng ý</string>
+    <string name="mibill_privacy_policy_button2">Đồng ý</string>
+    <string name="mibill_privacy_policy_description">Cho phép Mi Wallet phân tích và quản lý hóa đơn tự động. Tính năng này được tắt mặc định cho các địa chỉ email công việc.</string>
+    <string name="mibill_privacy_policy_link">Bằng cách sử dụng tính năng này, bạn đồng ý với <a href="https://www.mipay.com/res/doc/eula/email.html"> Điều khoản Dịch vụ</a> của chúng tôi.</string>
+    <string name="mibill_privacy_policy_title">Quản lý hóa đơn tự động</string>
     <string name="more_atts_remaining">Còn lại hơn %1$d</string>
     <string name="more_atts_total">%1$d tập tin đính kèm</string>
     <string name="more_context">Thêm</string>
     <string name="more_string">+%1$s</string>
     <string name="more_than_999">999+</string>
-    <string name="move_to_selection_dialog_title">Đã chuyển sang thư mục khác</string>
+    <string name="move_to_selection_dialog_title">Chuyển sang thư mục khác</string>
     <string name="multiple_new_message_notification_item"><b>%1$s</b>"   %2$s"</string>
     <string name="mute">Tắt tiếng</string>
     <string name="name_or_number_is_error">Tên người dùng hoặc mật khẩu không chính xác</string>
@@ -594,7 +616,7 @@ CC: %4$s
     <string name="new_incoming_messages_one">Thư mới từ %s. Hiển thị.</string>
     <string name="new_messages">%1$d thư mới</string>
     <string name="next_action">Tiếp theo</string>
-    <string name="next_not_prompt">Không nhắc nhở</string>
+    <string name="next_not_prompt">Không hiển thị lại</string>
     <string name="no">Không</string>
     <string name="no_address_email">noaddressemail@123.com</string>
     <string name="no_application_found">Không tìm thấy ứng dụng để mở tập tin đính kèm này.</string>
@@ -618,19 +640,25 @@ CC: %4$s
     <string name="notification_action_undo_delete">Đã xóa</string>
     <string name="notification_action_undo_remove_label">Đã xóa nhãn</string>
     <string name="notification_exchange_calendar_added">Chuyển đổi lịch đã thêm</string>
+    <string name="oauth_error_description">Không thể xác thực</string>
+    <string name="oauth_gmail_login_notify">Nhập tên người dùng và mật khẩu Tài khoản Google của bạn trên trang đăng nhập.</string>
+    <string name="oauth_login_continue">Tiếp tục</string>
     <string name="ok">OK</string>
     <string name="okay_action">OK</string>
-    <string name="open_proxy_in_settings">Mạng hiện tại không hỗ trợ Gmail, để sử dụng Gmail, bạn có thể mở tăng tốc Gmail trong Cài đặt</string>
+    <string name="open_proxy_in_settings">Gmail không khả dụng ở khu vực của bạn. Bạn vẫn có thể gửi và nhận tin nhắn từ hộp thư Gmail bằng cách sử dụng máy chủ proxy. Bật hoặc tắt tính năng này bất cứ lúc nào trong Cài đặt.</string>
     <string name="other_mail">Thư khác</string>
     <string name="outbox_alert_button_confirm">Sửa</string>
     <string name="outbox_alert_button_no_resend">Không gửi</string>
     <string name="outbox_alert_button_resend">Gửi lại</string>
     <string name="outbox_alert_certificate_error">Chứng chỉ e-mail không hợp lệ, vui lòng cập nhật</string>
     <string name="outbox_alert_description_auth_error">Lỗi ủy quyền máy chủ khi đồng bộ hộp thư đi.</string>
+    <string name="outbox_alert_description_cannot_authenticate">Không thể xác thực %s.</string>
     <string name="outbox_alert_description_http_error">Lỗi HTTP khi đồng bộ hộp thư đi.</string>
     <string name="outbox_alert_description_insufficient_storage_error">Không đủ không gian lưu trữ trên máy chủ email</string>
     <string name="outbox_alert_description_provision_error">Lỗi thiết lập máy chủ khi đồng bộ hộp thư đi.</string>
+    <string name="outbox_alert_description_reject_by_server">Đã từ chối bởi %s</string>
     <string name="outbox_alert_description_sent_failed">Kích thước tập tin đính kèm vượt quá giới hạn của người nhận.</string>
+    <string name="outbox_alert_description_time_out">Thời gian kết nối mạng đã hết</string>
     <string name="outbox_alert_duplicate_click">Vẫn đang đồng bộ…</string>
     <string name="outbox_alert_edit_resend">Sửa và gửi lại</string>
     <string name="outbox_alert_failed_edit_resend">Không gửi được. Kiểm tra và gửi lại.</string>
@@ -697,11 +725,11 @@ CC: %4$s
     <string name="pop3_name">POP3</string>
     <string name="prefDialogTitle_conversationListIcon">Ảnh người gửi</string>
     <string name="prefDialogTitle_removal_action">Tác vụ lưu trữ &amp; xóa</string>
-    <string name="preference_eas_tips">Vui lòng chọn \"Kích hoạt\" trong trang xác nhận được yêu cầu bởi máy chủ E-mail</string>
+    <string name="preference_eas_tips">Chạm Kích hoạt để thiết lập máy chủ thư.</string>
     <string name="preference_head_load_description">Chỉ tải xuống tiêu đề thư khi sử dụng dữ liệu di động</string>
     <string name="preference_head_load_title">Giảm sử dụng dữ liệu di động</string>
     <string name="preference_imap_tips" />
-    <string name="preference_pop_tips">Ở giao thức POP3, tập tin đính kèm sẽ được tự động tải về với email. Hãy cẩn thận khi sử dụng dữ liệu di động.</string>
+    <string name="preference_pop_tips">Ở giao thức POP3, tập tin đính kèm sẽ được tải về tự động cùng với email. Điều này có thể làm tăng sử dụng dữ liệu di động.</string>
     <string name="preference_removal_action_title">Tác vụ lưu trữ &amp; xóa</string>
     <string name="preference_sender_image_description">Hiển thị ảnh hồ sơ bên cạnh tên của người gửi trong hộp thư đến</string>
     <string name="preference_sender_image_title">Hiển thị ảnh hồ sơ cá nhân trong hộp thư đến</string>
@@ -711,7 +739,7 @@ CC: %4$s
     <string name="preferences_default_reply_all_summary">Dùng làm trả lời thư mặc định</string>
     <string name="preferences_default_reply_all_title">Trả lời tất cả</string>
     <string name="preferences_signature_dialog_title">Chữ ký</string>
-    <string name="preferences_signature_summary_not_set">Chưa đặt</string>
+    <string name="preferences_signature_summary_not_set">Không</string>
     <string name="preferences_signature_title">Chữ ký</string>
     <string name="prefetched_got_it">OK</string>
     <string name="preview_attachment">Xem trước</string>
@@ -732,12 +760,14 @@ CC: %4$s
     <string name="quick_responses_empty_view">Không có trả lời nhanh</string>
     <string name="quoted_text">Bao gồm văn bản trích dẫn</string>
     <string name="quoted_text_label">Văn bản trích dẫn</string>
+    <string name="re_download_message_button">Chạm để tải lại</string>
+    <string name="re_download_message_info">Không thể tải thư</string>
     <string name="read_string">hội thoại đã đọc</string>
     <string name="recent_folders_heading">Thư mục gần đây</string>
     <string name="recipient_needed">Thêm ít nhất 1 người nhận.</string>
     <string name="recipient_needed_title">Cảnh báo</string>
     <string name="recipient_null_dialog_title">Cảnh báo</string>
-    <string name="reduce_the_receiving_frequencye_summary">Giảm tần suất đồng bộ e-mail trong thời gian thiết lập</string>
+    <string name="reduce_the_receiving_frequencye_summary">Giảm tần suất đồng bộ email khi không làm phiền được bật</string>
     <string name="reduce_the_receiving_frequencye_title">Giảm tần suất đồng bộ e-mail</string>
     <string name="refresh">Làm mới</string>
     <string name="refreshing">Đang làm mới…</string>
@@ -767,11 +797,11 @@ CC: %4$s
     <string name="save_attachment">Lưu</string>
     <string name="save_draft">Lưu thư nháp</string>
     <string name="save_draft_failed">Lưu thư nháp thất bại</string>
-    <string name="save_power_summary">Tiết kiệm pin trong thời gian thiết lập</string>
-    <string name="save_power_title">Tiết kiệm pin</string>
+    <string name="save_power_summary">Thông báo có thư mới sẽ bị im lặng</string>
+    <string name="save_power_title">Không làm phiền</string>
     <string name="saved">Đã lưu, %s</string>
     <string name="saving">Đang lưu…</string>
-    <string name="sdcard_cannot_use">Thẻ nhớ không thể sử dụng</string>
+    <string name="sdcard_cannot_use">Không thể dùng thẻ SD</string>
     <string name="search_attachment">Tìm kiếm</string>
     <string name="search_hint">Tìm thư</string>
     <string name="search_result">Kết quả</string>
@@ -824,6 +854,7 @@ CC: %4$s
     <string name="single_new_message_notification_big_text">"%1$s
 %2$s"</string>
     <string name="single_new_message_notification_title">%1$s: %2$s</string>
+    <string name="smtp_password_error">Mật khẩu của máy chủ thư đi không chính xác</string>
     <string name="sort_attachment">Sắp xếp theo</string>
     <string name="spaceChar">" "</string>
     <string name="status_network_error">Không thể kết nối mạng. Kiểm tra kết nối dữ liệu của bạn và thử lại.</string>
@@ -852,6 +883,11 @@ CC: %4$s
     <string name="tip_cannot_switchview_in_unread_folder">Không thể chuyển đổi cách xem khi ở chế độ tổng hợp thư chưa đọc</string>
     <string name="to">Tới</string>
     <string name="to_heading">"Tới: "</string>
+    <string name="toast_bar_fail_synchronization">Không thể kết nối mạng</string>
+    <string name="toast_bar_insufficient_memory_space">Không đủ dung lượng lưu trữ</string>
+    <string name="toast_bar_invalid_account">Bạn cần phải đăng nhập lại</string>
+    <string name="toast_bar_no_connection_network">Bạn không có kết nối internet</string>
+    <string name="toast_bar_open_gmail_synchronization">Chạm để sử dụng máy chủ proxy cho Gmail</string>
     <string name="too_large_to_attach_additional">Dung lượng tập tin không thể vượt quá %1$s .</string>
     <string name="too_large_to_attach_multiple">Một hoặc nhiều tập tin không được tải lên. Dung lượng không thể vượt quá %1$s.</string>
     <string name="too_large_to_attach_single">Không thể đính kèm tập tin có dung lượng lớn hơn %1$s.</string>
@@ -866,13 +902,13 @@ CC: %4$s
     <string name="unsent_messages_in_outbox">%1$s chưa gửi trong %2$s</string>
     <string name="updated_at">Cập nhật lần cuối: %1$s</string>
     <string name="updated_just_now">Vừa cập nhật</string>
-    <string name="upload_log">Tải lên nhật ký</string>
-    <string name="upload_log_failed">Không thể tải lên nhật ký</string>
+    <string name="upload_log">Tải lên bản ghi</string>
+    <string name="upload_log_failed">Không thể gửi nhật ký</string>
     <string name="upload_log_no">Hủy</string>
-    <string name="upload_log_success">Nhật ký đã tải lên thành công</string>
-    <string name="upload_log_title">Tải lên nhật ký bây giờ？</string>
+    <string name="upload_log_success">Nhật ký đã gửi thành công</string>
+    <string name="upload_log_title">Gửi nhật ký đến Xiaomi</string>
     <string name="upload_log_yes">Tải lên</string>
-    <string name="uploading_logs">Đang tải lên nhật ký</string>
+    <string name="uploading_logs">Vui lòng chờ…</string>
     <string name="validation_failed_prompt">Không thể xác minh tài khoản, kiểm tra cài đặt \"%s máy chủ\"</string>
     <string name="via_domain">qua %1$s</string>
     <string name="view_more_conversations">Xem thêm hội thoại</string>
@@ -892,6 +928,6 @@ Chạm "<b>Đồng bộ bây giờ</b> để đồng bộ email một lần, ho�
     <string name="widget_other_views">Khác</string>
     <string name="wrong_password">Mật khẩu bạn nhập không chính xác</string>
     <string name="yes">Đồng ý</string>
-    <string name="you_are_in_mobile_network">Bạn đang sử dụng mạng di động, vui lòng chú ý đến lưu lượng truy cập!</string>
+    <string name="you_are_in_mobile_network">Gửi nhật ký bằng kết nối dữ liệu di động? Nếu bạn vượt quá giới hạn kế hoạch sử dụng dữ liệu, nhà cung cấp có thể tính phí bổ sung.</string>
     <string name="zip_viewer_no_file">Không có tập tin nào.</string>
 </resources>

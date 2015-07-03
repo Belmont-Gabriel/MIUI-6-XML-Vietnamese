@@ -1,22 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="confirm_delete_album">
+        <item quantity="other">Xóa %1$s album (%2$s mục tất cả)?</item>
+    </plurals>
     <plurals name="confirm_delete_has_cloud_image">
-        <item quantity="other">" "&lt;Data> Xóa ảnh &lt;xliff:g id=ITEM>%s&lt;/xliff:g> trên &lt;font color=#323232>&lt;b>Mi Cloud&lt;/b>&lt;/font>?&lt;/Data>" "</item>
+        <item quantity="other">&lt;Data>Xóa &lt;xliff:g id=ITEM>%s&lt;/xliff:g> ảnh trên Mi Cloud?&lt;/Data></item>
     </plurals>
     <plurals name="confirm_delete_has_local_image">
-        <item quantity="other">Xoá %s ảnh?</item>
+        <item quantity="other">Xóa %s ảnh?</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_video">
-        <item quantity="other">" "&lt;Data> Xóa các video &lt;xliff:g id=ITEM>%s&lt;/xliff:g> trên &lt;font color=#323232>&lt;b>Mi Cloud&lt;/b>&lt;/font>?&lt;/Data>" "</item>
+        <item quantity="other">&lt;Data>Xóa &lt;xliff:g id=ITEM>%s&lt;/xliff:g> video trên Mi Cloud?&lt;/Data></item>
     </plurals>
     <plurals name="confirm_delete_has_local_video">
-        <item quantity="other">Xóa video %s ?</item>
+        <item quantity="other">Xóa %s video?</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_local_image">
-        <item quantity="other">" "&lt;Data> Xóa &lt;xliff:g id=ITEM>%s&lt;/xliff:g> ảnh &lt;font color=#323232>&lt;b>trên máy và Mi Cloud&lt;/b>&lt;/font>?&lt;/Data>" "</item>
+        <item quantity="other">&lt;Data>Xóa &lt;xliff:g id=ITEM>%s&lt;/xliff:g> ảnh trên Mi Cloud?&lt;/Data></item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_local_video">
-        <item quantity="other">" "&lt;Data> Xóa video &lt;xliff:g id=ITEM>%s&lt;/xliff:g> trên cả &lt;font color=#323232>&lt;b> máy và Mi Cloud&lt;/b>&lt;/font>?&lt;/Data>" "</item>
+        <item quantity="other">&lt;Data>Xóa &lt;xliff:g id=ITEM>%s&lt;/xliff:g> video trên thiết bị này và Mi Cloud?&lt;/Data></item>
+    </plurals>
+    <plurals name="confirm_delete_video_from_many_albums">
+        <item quantity="other">&lt;Data>Xóa &lt;xliff:g id=ITEM>%1$d video&lt;/xliff:g> trên %2$d album?&lt;/Data></item>
     </plurals>
     <plurals name="number_of_items_selected">
         <item quantity="other">Đã chọn %1$d</item>
@@ -44,5 +50,8 @@
     </plurals>
     <plurals name="number_of_items">
         <item quantity="other">%1$d mục</item>
+    </plurals>
+    <plurals name="more_face">
+        <item quantity="other">%1$s ảnh của %2$s</item>
     </plurals>
 </resources>

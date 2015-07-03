@@ -707,9 +707,32 @@ Ghi chú: Chỉ cho phiên bản Ubuntu 8.04!"</item>
         <item>ẤM</item>
         <item>LẠNH</item>
     </string-array>
-    <string-array name="miracast_policies">
-        <item>Giảm độ trễ</item>
-        <item>Chuẩn</item>
-        <item>Chất lượng tốt hơn</item>
+    <string-array name="install_non_market_app_entries">
+        <item>Hỏi quyền truy cập đối với ứng dụng nguy hiểm</item>
+        <item>Cho phép</item>
+    </string-array>
+    <string-array name="install_non_market_app_contents">
+        <item>Hỏi quyền truy cập</item>
+        <item>Cho phép</item>
+    </string-array>
+    <string-array name="lock_screen_secure_after_timeout_entries">
+        <item>Tức thì</item>
+        <item>1 phút</item>
+        <item>2 phút</item>
+        <item>5 phút</item>
+        <item>15 phút</item>
+        <item>30 phút</item>
+    </string-array>
+    <string-array name="fluency_mode_entries">
+        <item>Ẩn ảnh động hệ thống</item>
+        <item>Hiển thị ảnh động hệ thống</item>
+    </string-array>
+    <string-array name="fluency_mode_summaries">
+        <item>Để tăng hiệu suất của thiết bị, ẩn ảnh động hệ thống</item>
+        <item>Hiển thị ảnh động hệ thống có thể làm giảm hiệu suất của thiết bị</item>
+    </string-array>
+    <string-array name="fluency_mode_confirms">
+        <item>Khởi động lại thiết bị để áp dụng cài đặt này?</item>
+        <item>Khởi động lại thiết bị để áp dụng cài đặt này?</item>
     </string-array>
 </resources>

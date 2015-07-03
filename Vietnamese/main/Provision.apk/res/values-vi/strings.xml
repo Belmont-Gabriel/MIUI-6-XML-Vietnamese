@@ -11,6 +11,7 @@ Vui lòng xem "</string>
     <string name="page_layout_title">Bố cục hệ thống</string>
     <string name="page_layout_label">Điều chỉnh kích thước văn bản và bố cục cho Màn hình chính, thanh thông báo, bàn phím quay số và nhiều hơn nữa.</string>
     <string name="sim_card_detection">Lắp thẻ SIM</string>
+    <string name="sim_card_detecting_title">Kiểm tra thẻ SIM</string>
     <string name="sim_card_detection_info">Để lắp thẻ SIM, hãy đọc các tài liệu hướng dẫn được kèm theo thiết bị của bạn.</string>
     <string name="sim_card_detecting">Đang kiểm tra thẻ SIM…</string>
     <string name="other_settings">Cài đặt bổ sung</string>
@@ -20,6 +21,7 @@ Vui lòng xem "</string>
     <string name="other_settings_user_experience_summary">Giúp cải thiện MIUI bằng cách gửi dữ liệu ẩn danh (%s)</string>
     <string name="other_settings_user_experience_summary1">Chính sách Bảo mật</string>
     <string name="next">Tiếp theo</string>
+    <string name="skip_underline"><u>Bỏ qua bước này</u></string>
     <string name="sim_dectection_next">Tiếp tục</string>
     <string name="shut_down">Tắt máy</string>
     <string name="sim_redetection">Kiểm tra lại</string>

@@ -29,7 +29,7 @@
     <string name="alarmclock_empty_text">Không có báo thức</string>
     <string name="stopwatch_lap_empty_text">Không có lần nào</string>
     <string name="timer_got_it">OK</string>
-    <string name="timer_start_alarm">Hết thời gian!</string>
+    <string name="timer_start_alarm">Hết giờ!</string>
     <string name="dialog_confirm_abort">Hủy thay đổi?</string>
     <string name="confirm_abort">OK</string>
     <string name="remind_ringtone">Nhạc chuông</string>

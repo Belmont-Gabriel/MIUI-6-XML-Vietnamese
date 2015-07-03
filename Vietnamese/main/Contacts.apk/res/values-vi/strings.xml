@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="select_all">Chọn tất cả</string>
-    <string name="deselect_all">Bỏ chọn tất cả</string>
     <string name="resource_app_name">Trình duyệt</string>
     <string name="resource_delete">Xóa</string>
     <string name="resource_price_free">Miễn phí</string>
@@ -108,6 +106,7 @@
     <string name="resource_title_select_ringtone">Chọn nhạc chuông</string>
     <string name="resource_tip_select_none">Chưa chọn gì</string>
     <string name="resource_select_ringtone_confirm">Chọn âm thanh này?</string>
+    <string name="resource_select_ringtone_confirm_picker">Chọn âm thanh này?</string>
     <string name="loading_resource_detail_info">Đang tải…</string>
     <string name="loading_resource_detail_fail">Không thể tải tài nguyên</string>
     <string name="resource_expand_full_text">Mở rộng</string>
@@ -211,7 +210,7 @@
     <string name="insertContactDescription">Tạo liên hệ</string>
     <string name="editGroupDescription">Sửa nhóm</string>
     <string name="insertGroupDescription">Tạo nhóm</string>
-    <string name="contactDetailAbout">Giới thiệu</string>
+    <string name="contactDetailAbout">Thông tin liên hệ</string>
     <string name="contactDetailUpdates">Cập nhật</string>
     <string name="searchHint">Tìm kiếm liên hệ</string>
     <string name="menu_search">Tìm kiếm</string>
@@ -414,22 +413,22 @@
     <string name="description_minus_button">Trừ</string>
     <string name="description_plus_button">Cộng</string>
     <string name="description_view_contact_detail">Xem liên hệ</string>
-    <string name="no_sdcard_message">Không tìm thấy bộ nhớ nào.</string>
+    <string name="no_sdcard_message">Không có thẻ SD nào được tìm thấy.</string>
     <string name="import_from_sdcard">Nhập từ thẻ nhớ</string>
     <string name="export_to_sdcard">Xuất ra thẻ nhớ</string>
     <string name="share_visible_contacts">Chia sẻ liên hệ</string>
     <string name="import_one_vcard_string">Nhập một tập tin vCard</string>
     <string name="import_multiple_vcard_string">Nhập nhiều tập tin vCard</string>
     <string name="import_all_vcard_string">Nhập tất cả tập tin vCard</string>
-    <string name="searching_vcard_message">Đang tìm dữ liệu vCard trên bộ nhớ…</string>
-    <string name="scanning_sdcard_failed_title">Không thể quét bộ nhớ</string>
+    <string name="searching_vcard_message">Đang tìm dữ liệu vCard trên thẻ SD…</string>
+    <string name="scanning_sdcard_failed_title">Không thể quét thẻ SD</string>
     <string name="scanning_sdcard_failed_message">Do: \"%s\".</string>
     <string name="fail_reason_io_error">Lỗi I/O</string>
     <string name="fail_reason_low_memory_during_import">Không đủ bộ nhớ. Tập tin có dung lượng quá lớn.</string>
     <string name="fail_reason_vcard_parse_error">Không thể phân tích tập tin vCard do một lý do không mong muốn.</string>
     <string name="fail_reason_not_supported">Định dạng không được hỗ trợ.</string>
     <string name="vcard_import_failed">Không thể nhập vCard.</string>
-    <string name="import_failure_no_vcard_file">Không tìm thấy tập tin vCard nào trên bộ nhớ.</string>
+    <string name="import_failure_no_vcard_file">Không tìm thấy tập tin vCard trên thẻ SD.</string>
     <string name="fail_reason_failed_to_collect_vcard_meta_info">Không thể thu thập thông tin của tập tin vCard.</string>
     <string name="fail_reason_failed_to_read_files">Một hoặc nhiều tập tin không thể nhập (%s).</string>
     <string name="fail_reason_unknown">Lỗi không xác định.</string>
@@ -454,7 +453,7 @@
     <string name="exporting_contact_failed_message">"Dữ liệu liên hệ không thể xuất.
 Nguyên nhân: \"%s\""</string>
     <string name="fail_reason_no_exportable_contact">Không có liên hệ nào có thể xuất.</string>
-    <string name="fail_reason_too_many_vcard">Quá nhiều tập tin vCard trên bộ nhớ.</string>
+    <string name="fail_reason_too_many_vcard">Quá nhiều tập tin vCard trên thẻ nhớ SD.</string>
     <string name="fail_reason_too_long_filename">Tên tập tin quá dài (\"%s\").</string>
     <string name="exporting_vcard_finished_title">Xuất %s hoàn tất.</string>
     <string name="exporting_vcard_canceled_title">Xuất %s bị hủy.</string>
@@ -735,7 +734,7 @@ Chọn một trong các tùy chọn sau:"</string>
     <string name="generic_no_account_prompt_title">Thêm một tài khoản</string>
     <string name="contact_editor_prompt_zero_accounts">Lưu trữ trên điện thoại hoặc trên một tài khoản trực tuyến mới</string>
     <string name="contact_editor_prompt_one_account">Liên hệ mới sẽ được %1$s Đồng bộ</string>
-    <string name="contact_editor_prompt_multiple_accounts">Xin vui lòng chọn tài khoản để lưu vào</string>
+    <string name="contact_editor_prompt_multiple_accounts">Lưu liên hệ đến</string>
     <string name="keep_local">Lưu trữ trên máy</string>
     <string name="add_account">Thêm tài khoản</string>
     <string name="add_new_account">Thêm tài khoản mới</string>
@@ -792,10 +791,10 @@ Chọn một trong các tùy chọn sau:"</string>
     <string name="callrecordview_menu_show_called">Cuộc gọi đi</string>
     <string name="callrecordview_menu_show_accepted">Cuộc gọi đã nhận</string>
     <string name="callrecordview_menu_show_stranger">Cuộc gọi từ số không xác định</string>
-    <string name="callrecordview_menu_show_new">Liên hệ Mới</string>
+    <string name="callrecordview_menu_show_new">Liên hệ mới</string>
     <string name="callrecordview_menu_show_sim">%s cuộc gọi</string>
-    <string name="callrecordview_menu_delete">Xóa lịch sử cuộc gọi</string>
-    <string name="callrecordview_menu_delete_all">Xóa lịch sử cuộc gọi</string>
+    <string name="callrecordview_menu_delete">Xóa</string>
+    <string name="callrecordview_menu_delete_all">Xóa</string>
     <string name="callrecordview_menu_delete_missed">Xóa các cuộc gọi nhỡ</string>
     <string name="callrecordview_menu_delete_called">Xóa các cuộc gọi đi</string>
     <string name="callrecordview_menu_delete_accepted">Xóa các cuộc gọi đã nhận</string>
@@ -820,6 +819,8 @@ Chọn một trong các tùy chọn sau:"</string>
     <string name="date_time_set">Đặt</string>
     <string name="service_provider">Danh bạ web</string>
     <string name="zero_items_selected">Chọn mục</string>
+    <string name="select_all">Chọn tất cả</string>
+    <string name="deselect_all">Bỏ chọn tất cả</string>
     <string name="select_none">Chưa chọn gì</string>
     <string name="toast_finish_delete_call_log">Đã xóa lịch sử cuộc gọi</string>
     <string name="toast_finish_delete_selected_call_log">Đã xóa lịch sử cuộc gọi</string>
@@ -844,17 +845,19 @@ Chọn một trong các tùy chọn sau:"</string>
     <string name="contactDetailCalllog">Lịch sử cuộc gọi</string>
     <string name="add_blacklist">Chặn</string>
     <string name="remove_blacklist">Bỏ chặn</string>
+    <string name="blacklist">Chặn</string>
     <string name="noContactHelpTextImportXiaomiAccountInfo">Khôi phục dữ liệu liên hệ bằng Tài khoản Mi</string>
     <string name="recent_contacts_label">Gần đây</string>
     <string name="noRecentContacts">Không có liên hệ gần đây</string>
-    <string name="loading_groups">Đang tải nhóm…</string>
-    <string name="loading_group_members">Đang tải thành viên nhóm…</string>
-    <string name="loading_recent">Đang tải liên hệ gần đây…</string>
+    <string name="loading_groups">Vui lòng chờ…</string>
+    <string name="loading_group_members">Vui lòng chờ…</string>
+    <string name="loading_recent">Vui lòng chờ…</string>
     <string name="contactMultiPickerActivityTitle">Chọn liên hệ</string>
     <string name="picker_join_title">Hợp nhất với %s</string>
     <string name="picker_contact_title">Chọn một liên hệ</string>
     <string name="picker_number_title">Chọn một số</string>
-    <string name="group_add_fail_toast">Không thể thêm liên hệ</string>
+    <string name="group_add_fail_toast">Không thể thêm người nhận</string>
+    <string name="group_sms_error_message">SMS không thể nhiều hơn %s người nhận.</string>
     <string name="picker_postal_title">Chọn một mã bưu chính</string>
     <string name="picker_email_title">Chọn một địa chỉ email</string>
     <string name="preference_import">Nhập</string>
@@ -873,9 +876,9 @@ Chọn một trong các tùy chọn sau:"</string>
     <string name="label_duplicate_count">(%1$d)</string>
     <string name="preference_import_export">Nhập/Xuất</string>
     <string name="preference_import_export_title">Nhập/Xuất liên hệ</string>
-    <string name="import_vcard_description">Nhập liên hệ từ bộ nhớ điện thoại</string>
-    <string name="export_vcard_description">Xuất vCard sang bộ nhớ điện thoại</string>
-    <string name="export_sim_contact_finish_failure">Đã chuyển: %1$d Còn lại: %2$d</string>
+    <string name="import_vcard_description">Nhập liên hệ từ bộ nhớ thẻ SD</string>
+    <string name="export_vcard_description">Xuất vCard sang thẻ nhớ SD</string>
+    <string name="export_sim_contact_finish_msg">Đã chuyển %1$d | Đã bỏ qua %2$d | Còn lại %3$d</string>
     <string name="pref_title_account_import">Nhập từ tài khoản</string>
     <string name="pref_title_import_from_account">Nhập từ tài khoản Mi</string>
     <string name="pref_summary_import_from_account">Chuyển liên hệ từ tài khoản Google và Exchange vào tài khoản Xiaomi của tôi</string>
@@ -920,6 +923,7 @@ Chọn một trong các tùy chọn sau:"</string>
     <string name="preference_dial_pad_touch_tone_human">Giọng nói</string>
     <string name="ic_menu_done">Hoàn tất</string>
     <string name="cloud_antispam_title">Nhận dạng số không xác định</string>
+    <string name="preference_contacts_recovery_introduction">Khôi phục liên hệ</string>
     <string name="share_over_limit">Vượt quá giới hạn, không thể chia sẻ</string>
     <string name="account_default">Điện thoại</string>
     <string name="lunarBirthdayLabelsGroup">Ngày sinh âm lịch</string>
@@ -989,7 +993,7 @@ Chọn một trong các tùy chọn sau:"</string>
     <string name="picker_all_list_empty">Không có liên hệ</string>
     <string name="picker_favorites_list_empty">Không có yêu thích</string>
     <string name="picker_groups_list_empty">Không có nhóm</string>
-    <string name="contact_edit_title_insert">Thêm liên hệ %s</string>
+    <string name="contact_edit_title_insert">Lưu vào %s</string>
     <string name="contact_edit_title_edit">Sửa liên hệ</string>
     <string name="contact_edit_title_readonly">Liên hệ chỉ đọc</string>
     <string name="account_container_title">Đã nhập từ</string>
@@ -1003,6 +1007,7 @@ Chọn một trong các tùy chọn sau:"</string>
     <string name="btn_split_contact">Tách</string>
     <string name="use_photo_as_primary2">Dùng ảnh liên hệ của %1$s</string>
     <string name="label_custom_type">Tùy chỉnh</string>
+    <string name="loading_accounts">Vui lòng chờ…</string>
     <string name="pkgLabel">Liên hệ và trình quay số</string>
     <string name="preference_smart_group_title">Nhóm thông minh</string>
     <string name="preference_smart_group_company_title">Công ty</string>
@@ -1102,12 +1107,14 @@ Chọn một trong các tùy chọn sau:"</string>
     <string name="import_all_sim_entries_miui">Nhập tất cả liên hệ</string>
     <string name="import_sim_entry_miui">Nhập</string>
     <string name="delete_sim_entry_miui">Xóa</string>
+    <string name="importing_sim_contacts_miui_prepare">Đang chuẩn bị liên hệ…</string>
+    <string name="deleting_sim_entry_miui_prepare">Đang chuẩn bị liên hệ…</string>
     <string name="sim_contact_dropdown_menu_deselect_all_miui">Bỏ chọn tất cả</string>
     <string name="sim_contact_dropdown_menu_select_all_miui">Chọn tất cả</string>
     <string name="delete_selected_sim_entry_miui">Xóa liên hệ đã chọn?</string>
     <string name="import_selected_sim_entries_miui">Nhập liên hệ đã chọn</string>
-    <string name="dlg_add_blacklist">Chặn số này?</string>
-    <string name="dlg_remove_blacklist">Bỏ chặn số này?</string>
+    <string name="add_blacklist_dialog_title">Thêm vào danh sách chặn</string>
+    <string name="remove_blacklist_dialog_title">Xóa khỏi danh sách chặn</string>
     <string name="close_dial_pad">Đóng trình quay số</string>
     <string name="dial">Quay số</string>
     <string name="delete_dial_input">Xóa</string>
@@ -1158,5 +1165,6 @@ Chọn một trong các tùy chọn sau:"</string>
     <string name="pull_to_refresh_pull_label">Kéo để làm mới…</string>
     <string name="pull_to_refresh_release_label">Thả để làm mới…</string>
     <string name="pull_to_refresh_refreshing_label">Đang tải…</string>
-    <string name="phone_call_type_voip">VOIP</string>
+    <string name="phone_call_type_voip">Voip</string>
+    <string name="cloud_recommend_msg">Chạm để đồng bộ liên hệ với Mi Cloud.</string>
 </resources>

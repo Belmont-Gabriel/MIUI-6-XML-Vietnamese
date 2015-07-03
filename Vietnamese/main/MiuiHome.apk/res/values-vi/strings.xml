@@ -8,6 +8,7 @@
     <string name="cancel_action">Hủy</string>
     <string name="bad_wallpaper_source_prompt">Không thể tải hình nền</string>
     <string name="apply_action">Áp dụng</string>
+    <string name="download_action">Tải xuống</string>
     <string name="apply_as_lock_wallpaper_message">Áp dụng hình nền này cho màn hình khóa?</string>
     <string name="lock_screen_failed_message">Không thể áp dụng làm hình nền màn hình khóa</string>
     <string name="lock_screen_success_message">Đã áp dụng làm màn hình khóa</string>
@@ -15,7 +16,7 @@
     <string name="image_too_small_message">Ảnh gốc quá nhỏ</string>
     <string name="failed_to_load_image">Không thể tải ảnh</string>
     <string name="wallpaper_success_message">Đã áp dụng hình nền</string>
-    <string name="is_setting_wallpaper_toast">Đang cài đặt hình nền…</string>
+    <string name="is_setting_wallpaper_message">Đang đặt hình nền…</string>
     <string name="current_wallpaper">Hiện tại</string>
     <string name="menu_item_add_item">Thêm vào Màn hình chính</string>
     <string name="group_shortcuts">Lối tắt</string>
@@ -49,9 +50,10 @@
     <string name="status_downloaded">đã tải xuống</string>
     <string name="status_installing">đang cài đặt</string>
     <string name="loading_desktop">Vui lòng chờ…</string>
+    <string name="loading_wallpaper">Đang tải…</string>
     <string name="start_activity_failed">Không thể khởi động trình khởi chạy</string>
     <string name="gadget_error_text">Không thể tải tiện ích</string>
-    <string name="mtzgadget_missing_text">Không được cung cấp nữa, vui lòng thêm lại</string>
+    <string name="mtzgadget_missing_text">Tiện ích không khả dụng</string>
     <string name="menu_edit">Sửa Màn hình chính</string>
     <string name="menu_sort">Sắp xếp ứng dụng</string>
     <string name="menu_launcher_setting">Cài đặt trình khởi chạy</string>

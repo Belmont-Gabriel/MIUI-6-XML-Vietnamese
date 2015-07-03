@@ -229,6 +229,7 @@
     <string name="birthday_event_description">Hôm nay là %4$s của %1$s !</string>
     <string name="jump_date">Chuyển</string>
     <string name="jump_date_full">Chuyển đến ngày</string>
+    <string name="select_date">Chọn ngày</string>
     <string name="miui_menu_create_event">Mới</string>
     <string name="preferences_category_general_title">Cài đặt chung</string>
     <string name="preferences_category_account_title">Tài khoản</string>
@@ -264,9 +265,9 @@
     <string name="repeat_label_choose_month">Chọn tháng</string>
     <string name="repeat_end_label">Dừng lặp lại sau</string>
     <string name="repeat_end_times_unit">" lần"</string>
-    <string name="sync_notice_title">Yêu cầu đồng bộ</string>
-    <string name="sync_notice_message">Bạn chưa đồng bộ Lịch Mi, bật đồng bộ bây giờ?</string>
-    <string name="sync_notice_ok">Cho phép</string>
+    <string name="sync_notice_title">Đồng bộ lịch</string>
+    <string name="sync_notice_message">Đồng bộ lịch của bạn với Mi Cloud?</string>
+    <string name="sync_notice_ok">Đồng bộ bây giờ</string>
     <string name="sync_notice_ok_toast_message">Lịch trên máy sẽ được đồng bộ với Mi Cloud</string>
     <string name="sync_notice_cancel_toast_message">Lịch trên máy sẽ không được đồng bộ với Mi Cloud</string>
     <string name="more_string">+%1$s</string>

@@ -16,7 +16,7 @@
         <item quantity="other">%d bài hát</item>
     </plurals>
     <plurals name="Ntracks_similar_count">
-        <item quantity="other">%dbài hát tương tự</item>
+        <item quantity="other">%d bài hát tương tự</item>
     </plurals>
     <plurals name="Ntracks_add_to_playlist">
         <item quantity="other">%d bài hát đã thêm vào danh sách phát</item>

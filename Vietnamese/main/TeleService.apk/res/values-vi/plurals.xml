@@ -9,4 +9,7 @@
     <plurals name="alert_dialog_not_avaialble_in_ecm">
         <item quantity="other">Tác vụ đã chọn không sẵn có trong khi ở chế độ Gọi lại Khẩn cấp. Điện thoại sẽ ở chế độ này trong vòng %s phút. Bạn có muốn thoát ngay bây giờ không?</item>
     </plurals>
+    <plurals name="call_recording_notification_complete">
+        <item quantity="other">%d Cuộc gọi đã được ghi âm.</item>
+    </plurals>
 </resources>

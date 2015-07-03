@@ -42,7 +42,7 @@
     <string name="HIPS_Perm_WIFINetwork_Hint">%1$s ứng dụng có thể kết nối internet bằng Wi-Fi</string>
     <string name="HIPS_Perm_Network_UnknownAddr">Địa chỉ không xác định</string>
     <string name="HIPS_Perm_Network_MobileEvent">Sử dụng dữ liệu di động</string>
-    <string name="HIPS_Perm_Network_WIFIEvent">Wi-Fi</string>
+    <string name="HIPS_Perm_Network_WIFIEvent">WLAN</string>
     <string name="HIPS_Perm_Network_Accept">Chấp nhận các liên kết từ %1$s?</string>
     <string name="HIPS_Perm_Network_Connect">Liên kết vị trí: %1$s</string>
     <string name="HIPS_Perm_Network_Listen">Nghe trên cổng %1$s</string>
@@ -248,7 +248,7 @@ Bạn cần phải cài đặt phiên bản MIUI của nhà phát triển để 
     <string name="SysOpt_Boost_AutoStart_Group">Tự khởi chạy</string>
     <string name="SysOpt_Boost_AutoStart">Quyền tự khởi chạy</string>
     <string name="Su_Enable_Dialog">%1$s đang yêu cầu quyền root.</string>
-    <string name="Su_Unavailable">Quyền truy cập root không có sẵn trong bản MIUI ổn định. Bạn cần phải cài đặt lại phiên bản MIUI của nhà phát triển để có quyền root.</string>
+    <string name="Su_Unavailable">Quyền truy cập root không có sẵn trong bản MIUI này. Bạn cần phải cài đặt lại phiên bản MIUI của nhà phát triển để có quyền root.</string>
     <string name="Su_Package_Forbidden">%1$s không có quyền root.</string>
     <string name="permisson_reject_notice_toast_text">\"%1$s\" không có quyền để %2$s. Bạn có thể đổi quyền truy cập ứng dụng bất kỳ lúc nào trong Bảo mật > Quyền.</string>
     <string name="HIPS_SecurityPrompt_Accept_Once">Cho phép một lần (%d)</string>

@@ -29,7 +29,7 @@
     <string name="delete">Xóa</string>
     <string name="deleting_message">Đang xóa…</string>
     <string name="rename_dialog_title">Đổi tên ghi âm</string>
-    <string name="rename_duplicate">Một bản ghi với cùng tên đã tồn tại.</string>
+    <string name="rename_duplicate">Một bản ghi có cùng tên đã tồn tại.</string>
     <string name="rename_no_more_tip">Không hiển thị lại</string>
     <string name="record_picker_title">Chọn một bản ghi</string>
     <string name="dialog_title_storage_full">Không đủ dung lượng</string>
@@ -41,7 +41,7 @@
     <string name="record_name_hour">.</string>
     <string name="sound_recorder_settings">Cài đặt ghi âm</string>
     <string name="preference_led_indicator">Thông báo khóa màn hình</string>
-    <string name="preference_tip_rename">Hiển thị thông báo đổi tên sau khi dừng ghi âm</string>
+    <string name="preference_tip_rename">Đặt tên bản ghi thủ công</string>
     <string name="preference_led_indicator_prompt">Hiện thanh thông báo màu đỏ và nháy đèn báo khi khóa màn hình</string>
     <string name="preference_record_type_title">Loại ghi âm</string>
     <string name="preference_scenes">Loại ghi âm</string>
@@ -79,7 +79,7 @@
     <string name="sync_only_in_wifi">Chỉ sử dụng Wi-Fi để đồng bộ</string>
     <string name="sync_only_in_wifi_summary">Ghi âm sẽ không dùng dữ liệu di động để tải lên các bản ghi âm</string>
     <string name="wifi_recommended_title">Cảnh báo sử dụng dữ liệu</string>
-    <string name="wifi_recommended_body" formatted="false">"Dùng kết nối dữ liệu di động để tải xuống tập tin này (%s) sẽ làm tăng sử dụng dữ liệu. Điều này có thể sẽ làm phát sinh chi phí từ nhà cung cấp dịch vụ. Chờ kết nối  Wi-Fi để tải xuống tập tin này, chạm %s."</string>
+    <string name="wifi_recommended_body" formatted="false">Dùng kết nối dữ liệu di động để tải xuống tập tin này (%s) sẽ làm tăng sử dụng dữ liệu. Nếu bạn vượt quá giới hạn kế hoạch sử dụng dữ liệu, nhà cung cấp có thể tính phí bổ sung. Chờ kết nối Wi-Fi để tải xuống tập tin này, chạm %s.</string>
     <string name="button_queue_for_wifi">Chờ</string>
     <string name="button_start_now">Tải xuống</string>
     <string name="notification_title_all_paused">Tải xuống đã tạm dừng</string>
@@ -90,5 +90,5 @@
     <string name="data_connection_button_text">OK</string>
     <string name="error_sdcard_unmounted">Gắn thẻ SD bây giờ</string>
     <string name="record_back_pressed_hint">Để dừng ghi âm, chạm phím Quay lại lần nữa</string>
-    <string name="record_mark_point">%s đánh dấu</string>
+    <string name="record_mark_point">Đánh dấu %s</string>
 </resources>

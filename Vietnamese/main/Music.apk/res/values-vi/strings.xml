@@ -25,7 +25,7 @@
     <string name="impunity_declaration_ignore">Không hiển thị lại</string>
     <string name="impunity_declaration_settings">Hiển thị Điều khoản Dịch vụ</string>
     <string name="impunity_declaration_summary">Hiển thị Điều khoản Dịch vụ của Dịch vụ Âm nhạc Trực tuyến Baidu mỗi khi mở ứng dụng Âm nhạc</string>
-    <string name="impunity_declaration_positive_text">OK và Tiếp tục</string>
+    <string name="impunity_declaration_positive_text">OK</string>
     <string name="impunity_declaration_negative_text">Thoát</string>
     <string name="take_effect_afater_restart">Bạn cần phải khởi động lại ứng dụng Âm nhạc để cài đặt này có hiệu lực.</string>
     <string name="equalizer">Bộ chỉnh âm</string>
@@ -66,6 +66,7 @@
     <string name="all_tracks_short">Tất cả bài hát</string>
     <string name="favorite_playlist">Yêu thích</string>
     <string name="ktv_playlist">Danh sách Karaoke</string>
+    <string name="preset_music_playlist">Danh sách phát Nhạc Mi</string>
     <string name="my_playlist">Danh sách phát của tôi</string>
     <string name="create_playlist">Tạo danh sách phát</string>
     <string name="track_view">Bài hát</string>
@@ -80,7 +81,7 @@
     <string name="tab_artist_list">Nghệ sĩ</string>
     <string name="tab_album_list">Album</string>
     <string name="buffering">Đang tạo bộ đệm…</string>
-    <string name="loading_hint">Đang tải</string>
+    <string name="loading_hint">Đang tải…</string>
     <string name="artist_search_title">Nghệ sĩ</string>
     <string name="album_search_title">Album</string>
     <string name="track_search_title">Bài hát</string>
@@ -107,6 +108,8 @@
     <string name="ok">OK</string>
     <string name="done">Hoàn tất</string>
     <string name="retry">Thử lại</string>
+    <string name="delete">Xóa</string>
+    <string name="remove">Xóa</string>
     <string name="dialog_button_scan_tracks">Tìm kiếm nhạc trên thiết bị này</string>
     <string name="dialog_button_login">Đăng nhập và đồng bộ nhạc của bạn</string>
     <string name="dialog_hint_network_error">Không thể kết nối mạng.</string>
@@ -194,7 +197,7 @@
     <string name="track_main_fragment_tab_track">Bài hát</string>
     <string name="track_main_fragment_tab_album">Album</string>
     <string name="no_online_song_selected">Không có bài hát nào được chọn</string>
-    <string name="is_loading_data">Đang tải bài hát. Chờ một hoặc hai phút và thử lại.</string>
+    <string name="is_loading_data">Vẫn đang tải bài hát. Vui lòng chờ trong giây lát và thử lại.</string>
     <string name="search_title_singer">Nghệ sĩ</string>
     <string name="search_title_album">Album</string>
     <string name="search_title_song">Bài hát</string>
@@ -210,7 +213,7 @@
     <string name="local_tracks_short">Ngoại tuyến</string>
     <string name="tab_local_track_list">Bài hát</string>
     <string name="tab_local_folder_list">Thư mục</string>
-    <string name="song_not_find">Lỗi kết nối mạng hoặc bài hát không tồn tại.</string>
+    <string name="song_not_find">Bài hát này không tìm thấy.</string>
     <string name="empty_page_no_track">Không có bài hát nào.</string>
     <string name="empty_page_no_artist">Không có nghệ sĩ nào.</string>
     <string name="empty_page_no_album">Không có album.</string>
@@ -223,7 +226,7 @@
     <string name="sleep_mode_canceled">Đã tắt chế độ ngủ</string>
     <string name="priority_storage">Dùng thẻ nhớ SD</string>
     <string name="priority_storage_summary">Tự động tải xuống thẻ SD nếu khả dụng</string>
-    <string name="headset_settings">Tai nghe và hiệu ứng âm thanh</string>
+    <string name="headset_settings">Tai nghe &amp; hiệu ứng âm thanh</string>
     <string name="music_filter">Lọc tập tin âm thanh</string>
     <string name="filter_by_size">Theo kích thước</string>
     <string name="filter_by_size_summary">Ẩn tập tin âm thanh nhỏ</string>
@@ -259,6 +262,8 @@
     <string name="set_album_successful">Đã lưu album</string>
     <string name="set_id3_successful">Đã lưu thông tin bài hát</string>
     <string name="set_id3_failed">Không thể lưu thông tin</string>
+    <string name="set_id3_not_support_format">Không thể sửa định dạng tập tin này</string>
+    <string name="set_id3_not_have_read_or_write_permission">Bạn không có quyền sửa tập tin này</string>
     <string name="listview_index_of_total">%1$d/%2$d</string>
     <string name="lyric_setting">Cài đặt lời bài hát</string>
     <string name="modify_lyric">Sửa lời bài hát</string>
@@ -287,9 +292,20 @@
     <string name="no_album_info">Không có thông tin album</string>
     <string name="no_enough_info">Không đủ thông tin bài hát</string>
     <string name="disallow_add_to_personal_radio">Không thể thêm bài hát đến đài phát cá nhân</string>
-    <string name="today_update">Âm nhạc đã cập nhật</string>
     <string name="click_to_view_new_local_audios">Chạm để xem chi tiết.</string>
     <string name="more_about_artist">Thêm thông tin về %s</string>
     <string name="play_all_song">Phát tất cả</string>
     <string name="download_all_song">Tải xuống tất cả</string>
+    <string name="sort_by_name">Tên</string>
+    <string name="sort_by_time">Ngày</string>
+    <string name="sort_by_language">Ngôn ngữ</string>
+    <string name="only_online_can_select_quality">Bạn chỉ có thể chọn chất lượng cho nhạc mà bạn phát.</string>
+    <string name="upgrade_remind">Tìm thấy phiên bản mới</string>
+    <string name="service_stop">Dịch vụ đã dừng</string>
+    <string name="upgrade_suggest">Chúng tôi hiện đang ngừng dịch vụ trực tuyến do vấn đề bản quyền. Cập nhật phiên bản mới nhất của ứng dụng Âm nhạc để nghe nhạc chất lượng cao.</string>
+    <string name="upgrade_force">Chúng tôi hiện đang ngừng dịch vụ trực tuyến do vấn đề bản quyền. Cập nhật phiên bản mới nhất của ứng dụng Âm nhạc để nghe nhạc chất lượng cao.</string>
+    <string name="upgrade_nobeta">Chúng tôi hiện đang ngừng dịch vụ trực tuyến để giải quyết vấn đề bản quyền. Xin lỗi vì sự bất tiện này :(</string>
+    <string name="upgrade_waringing">Bạn sẽ chỉ có thể nghe nhạc được lưu trữ trên máy.</string>
+    <string name="upgrade_immediate">Cập nhật ngay</string>
+    <string name="i_know_it">OK</string>
 </resources>

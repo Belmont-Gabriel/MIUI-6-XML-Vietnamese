@@ -40,6 +40,8 @@
     <string name="virus_scan_is_risk">Ứng dụng này gây ra nguy cơ bảo mật đối với thiết bị của bạn.</string>
     <string name="virus_scan_clear">Xóa</string>
     <string name="virus_scan_caller_unknown">Không xác định</string>
+    <string name="lift_ban_once">Cho phép một lần</string>
+    <string name="dlg_appstore_notice">Chúng tôi không thể xác minh tính xác thực hay an toàn của các ứng dụng từ các nguồn bên ngoài &lt;u>&lt;font color=#91c727> Chợ Ứng dụng &lt;/font>&lt;/u>.</string>
     <string name="app_name">Trình cài đặt gói</string>
     <string name="install">Cài đặt</string>
     <string name="done">Xong</string>
