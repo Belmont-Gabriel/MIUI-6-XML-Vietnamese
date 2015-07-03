@@ -37,10 +37,66 @@
         <item>Khác</item>
         <item>Tùy chỉnh</item>
     </string-array>
+    <string-array name="special_locale_names">
+        <item>Tiếng Trung (Giản Thể)</item>
+        <item>Tiếng Trung (Phồn thể)</item>
+    </string-array>
     <string-array name="imAddressTypes">
         <item>Nhà riêng</item>
         <item>Cơ quan</item>
         <item>Khác</item>
         <item>Tùy chỉnh</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+        <item>Đang cố truy cập vị trí</item>
+        <item>Đang cố truy cập vị trí</item>
+        <item>Đang cố truy cập vị trí</item>
+        <item>Đang cố sử dụng bộ rung</item>
+        <item>Đang cố đọc danh bạ</item>
+        <item>Đang cố sửa danh bạ</item>
+        <item>Đang cố đọc nhật ký cuộc gọi</item>
+        <item>Đang cố sửa nhật ký cuộc gọi</item>
+        <item>Đang cố đọc lịch</item>
+        <item>Đang cố sửa lịch</item>
+        <item>Đang cố truy cập vị trí</item>
+        <item>Đang cố đăng thông báo</item>
+        <item>Đang cố truy cập vị trí</item>
+        <item>Đang cố thực hiện cuộc gọi thoại</item>
+        <item>Đang cố đọc SMS</item>
+        <item>Đang cố soạn/sửa SMS</item>
+        <item>Đang cố nhận SMS</item>
+        <item>Đang cố nhận SMS</item>
+        <item>Đang cố nhận SMS</item>
+        <item>Đang cố nhận SMS</item>
+        <item>Đang cố gửi SMS</item>
+        <item>Đang cố đọc SMS</item>
+        <item>Đang cố soạn/sửa SMS</item>
+        <item>Đang cố sửa đổi cài đặt</item>
+        <item>Đang cố vẽ lên trước</item>
+        <item>Đang cố truy cập thông báo</item>
+        <item>Đang cố truy cập Máy ảnh</item>
+        <item>Đang cố ghi âm</item>
+        <item>Đang cố phát audio</item>
+        <item>Đang cố đọc khay nhớ tạm</item>
+        <item>Đang cố chỉnh sửa khay nhớ tạm</item>
+        <item>Đang cố sử dụng nút phương tiện</item>
+        <item>Đang cố âm lấy nét</item>
+        <item>Đang cố sử dụng âm lượng chính</item>
+        <item>Đang cố sử dụng âm lượng thoại</item>
+        <item>Đang cố sử dụng âm lượng chuông</item>
+        <item>Đang cố sử dụng âm lượng phương tiện</item>
+        <item>Đang cố sử dụng âm lượng báo thức</item>
+        <item>Đang cố sử dụng âm lượng thông báo</item>
+        <item>Đang cố sử dụng âm lượng bluetooth</item>
+        <item>Đang cố giữ thiết bị thức</item>
+        <item>Đang cố truy cập vị trí</item>
+        <item>Đang cố truy cập vị trí</item>
+        <item>Đang cố bật/tắt Wi-Fi</item>
+        <item>Đang cố bật/tắt bluetooth</item>
+        <item>Đang cố bật/tắt dữ liệu di động</item>
+        <item>Đang cố gửi MMS</item>
+        <item>Đang cố đọc MMS</item>
+        <item>Đang cố soạn MMS</item>
+        <item>Đang cố chạy khi khởi động</item>
     </string-array>
 </resources>
