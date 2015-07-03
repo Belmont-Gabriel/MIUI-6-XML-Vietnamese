@@ -49,7 +49,7 @@
     <string name="caller_info_name_delimiter">" hoặc "</string>
     <string name="first_back_long_press_message">"Bấm &amp; giữ phím Quay lại để tắt tiến trình đang chạy và dịch vụ chạy nền.
 
-Để bật tính năng này, hãy vào Cài đặt > Hệ thống > Phím"</string>
+Để bật tính năng này, hãy vào Cài đặt > Cài đặt bổ sung > Phím"</string>
     <string name="force_exit_message">Đã đóng %1$s</string>
     <string name="force_exit_skip_message">Không thể đóng %1$s vì đây là ứng dụng hệ thống.</string>
     <string name="fm_record_smaple_prefix_miui">Ghi âm FM</string>
