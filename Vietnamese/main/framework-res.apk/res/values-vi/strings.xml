@@ -147,10 +147,12 @@
     <string name="silent_mode_vibrate">Chuông rung</string>
     <string name="silent_mode_ring">Bật chuông</string>
     <string name="shutdown_progress">Đang tắt…</string>
+    <string name="reboot_progress">Đang khởi động lại…</string>
     <string name="shutdown_confirm">Điện thoại của bạn sẽ tắt.</string>
     <string name="shutdown_confirm_question">Bạn có muốn tắt không?</string>
     <string name="reboot_safemode_title">Khởi động lại ở chế độ an toàn</string>
     <string name="reboot_safemode_confirm">Bạn có muốn khởi động lại ở chế độ an toàn không? Thao tác này sẽ tắt tất cả ứng dụng của bên thứ ba mà bạn đã cài đặt. Những ứng dụng này sẽ được khôi phục khi bạn khởi động lại một lần nữa.</string>
+    <string name="reboot_confirm">Điện thoại sẽ khởi động lại.</string>
     <string name="recent_tasks_title">Gần đây</string>
     <string name="no_recent_tasks">Không có ứng dụng nào gần đây.</string>
     <string name="global_actions">Tùy chọn điện thoại</string>
@@ -474,7 +476,7 @@
     <string name="permlab_captureSecureVideoOutput">thu thập dữ liệu đầu ra video an toàn</string>
     <string name="permdesc_captureSecureVideoOutput">Cho phép ứng dụng thu thập và chuyển hướng dữ liệu đầu ra video an toàn.</string>
     <string name="permlab_mediaContentControl">kiểm soát việc phát lại phương tiện và truy cập siêu dữ liệu</string>
-    <string name="permdesc_mediaContentControl">Cho phép ứng dụng kiểm soát việc phát lại phương tiện và truy cập thông tin phương tiện (tiêu đề, tác giả...).</string>
+    <string name="permdesc_mediaContentControl">Cho phép ứng dụng kiểm soát việc phát lại phương tiện và truy cập thông tin phương tiện (tiêu đề, tác giả…).</string>
     <string name="permlab_modifyAudioSettings">thay đổi cài đặt âm thanh của bạn</string>
     <string name="permdesc_modifyAudioSettings">Cho phép ứng dụng sửa đổi cài đặt âm thanh chung chẳng hạn như âm lượng và loa nào được sử dụng cho thiết bị ra.</string>
     <string name="permlab_recordAudio">ghi âm</string>
@@ -732,6 +734,8 @@
     <string name="keyguard_password_enter_password_code">Nhập mật khẩu để mở khóa</string>
     <string name="keyguard_password_enter_pin_password_code">Nhập mã PIN để mở khóa</string>
     <string name="keyguard_password_wrong_pin_code">Mã PIN không chính xác.</string>
+    <string name="pinpuk_attempts">"
+Lần thử còn lại: "</string>
     <string name="keyguard_label_text">Để mở khóa, hãy nhấn vào Trình đơn sau đó nhấn 0.</string>
     <string name="emergency_call_dialog_number_for_display">Số khẩn cấp</string>
     <string name="lockscreen_carrier_default">Không có dịch vụ nào.</string>
@@ -754,31 +758,33 @@
     <string name="lockscreen_missing_sim_instructions">Hãy lắp thẻ SIM.</string>
     <string name="lockscreen_missing_sim_instructions_long">Thẻ SIM bị thiếu hoặc không thể đọc được. Vui lòng lắp thẻ SIM.</string>
     <string name="lockscreen_permanent_disabled_sim_message_short">Thẻ SIM không sử dụng được.</string>
-    <string name="lockscreen_permanent_disabled_sim_instructions">"Thẻ SIM của bạn đã bị vô hiệu hóa vĩnh viễn .
- Hãy liên hệ với nhà cung cấp dịch vụ không dây của bạn để lấy thẻ SIM khác."</string>
+    <string name="lockscreen_permanent_disabled_sim_instructions">"Thẻ SIM của bạn đã bị vô hiệu hóa vĩnh viễn.
+Hãy liên hệ với nhà cung cấp dịch vụ không dây của bạn để lấy thẻ SIM khác."</string>
     <string name="lockscreen_transport_prev_description">Nút bài hát trước</string>
     <string name="lockscreen_transport_next_description">Nút bài hát tiếp theo</string>
     <string name="lockscreen_transport_pause_description">Nút tạm dừng</string>
     <string name="lockscreen_transport_play_description">Nút phát</string>
     <string name="lockscreen_transport_stop_description">Nút dừng</string>
     <string name="emergency_calls_only">Chỉ cuộc gọi khẩn cấp</string>
+    <string name="lockscreen_sim_error_message_short">Thẻ SIM không hợp lệ.</string>
     <string name="lockscreen_network_locked_message">Mạng đã khóa</string>
     <string name="lockscreen_sim_puk_locked_message">Thẻ SIM đã bị khóa PUK.</string>
     <string name="lockscreen_sim_puk_locked_instructions">Vui lòng xem Hướng dẫn người dùng hoặc liên hệ với Bộ phận chăm sóc khách hàng.</string>
     <string name="lockscreen_sim_locked_message">Thẻ SIM đã bị khóa.</string>
     <string name="lockscreen_sim_unlock_progress_dialog_message">Đang mở khóa thẻ SIM…</string>
+    <string name="lockscreen_airplane_mode_on">Chế độ máy bay</string>
     <string name="lockscreen_too_many_failed_attempts_dialog_message" formatted="false">"Bạn đã %d lần vẽ không chính xác hình mở khóa của mình. 
 
 Vui lòng thử lại sau %d giây."</string>
-    <string name="lockscreen_too_many_failed_password_attempts_dialog_message" formatted="false">"Bạn đã %d lần nhập sai mật khẩu. Hãy 
+    <string name="lockscreen_too_many_failed_password_attempts_dialog_message" formatted="false">"Bạn đã %d lần nhập sai mật khẩu. 
 
-thử lại sau %d giây."</string>
+Vui lòng thử lại sau %d giây."</string>
     <string name="lockscreen_too_many_failed_pin_attempts_dialog_message" formatted="false">"Bạn đã nhập sai mã PIN %d lần. 
 
 Hãy thử lại sau %d giây."</string>
     <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Bạn đã %d lần vẽ không chính xác hình mở khóa của mình. Sau %d lần thử không thành công nữa, bạn sẽ được yêu cầu mở khóa điện thoại bằng thông tin đăng nhập Google của bạn.
 
- Vui lòng thử lại sau %d giây."</string>
+Vui lòng thử lại sau %d giây."</string>
     <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Bạn đã mở khóa điện thoại không đúng cách %d lần. Sau %d lần mở khóa không thành công nữa, điện thoại sẽ được đặt lại về mặc định ban đầu và tất cả dữ liệu người dùng sẽ bị mất.</string>
     <string name="lockscreen_failed_attempts_now_wiping">Bạn đã mở khóa điện thoại không đúng cách %d lần. Bây giờ, điện thoại sẽ được đặt lại về mặc định ban đầu.</string>
     <string name="lockscreen_too_many_failed_attempts_countdown">Hãy thử lại sau %d giây.</string>
@@ -926,7 +932,7 @@ Bạn có chắc chắn muốn điều hướng khỏi trang này không?"</stri
     <string name="Midnight">Nửa đêm</string>
     <string name="elapsed_time_short_format_mm_ss">%1$02d:%2$02d</string>
     <string name="elapsed_time_short_format_h_mm_ss">%1$d:%2$02d:%3$02d</string>
-    <string name="replace">Thay thế...</string>
+    <string name="replace">Thay thế…</string>
     <string name="delete">Xóa</string>
     <string name="textSelectionCABTitle">Lựa chọn văn bản</string>
     <string name="addToDictionary">Thêm vào từ điển</string>
@@ -975,7 +981,7 @@ Bạn có muốn đóng trang không?"</string>
     <string name="screen_compat_mode_hint">Bật lại chế độ này trong cài đặt Hệ thống > Ứng dụng > Đã tải xuống.</string>
     <string name="smv_application">Ứng dụng %1$s (quá trình %2$s) đã vi phạm chính sách StrictMode tự thi hành của mình.</string>
     <string name="smv_process">Quá trình %1$s đã vi phạm chính sách StrictMode tự thi hành của mình.</string>
-    <string name="android_upgrading_title">Android đang nâng cấp...</string>
+    <string name="android_upgrading_title">Android đang nâng cấp…</string>
     <string name="android_upgrading_apk">Đang tối ưu hóa ứng dụng %1$d trong tổng số %2$d.</string>
     <string name="android_upgrading_starting_apps">Khởi động ứng dụng.</string>
     <string name="android_upgrading_complete">Hoàn tất khởi động.</string>
@@ -1165,8 +1171,9 @@ cho tài khoản %s."</string>
     <string name="no_matches">Không có kết quả nào phù hợp</string>
     <string name="find_on_page">Tìm kiếm trên trang</string>
     <string name="action_mode_done">Xong</string>
-    <string name="progress_unmounting">Đang ngắt kết nối bộ lưu trữ USB...</string>
-    <string name="progress_erasing">Đang xóa bộ lưu trữ USB...</string>
+    <string name="progress_unmounting">Đang ngắt kết nối bộ lưu trữ USB…</string>
+    <string name="progress_nomediapresent">Hiện không có phương tiện có thể tháo rời nào…</string>
+    <string name="progress_erasing">Đang xóa bộ lưu trữ USB…</string>
     <string name="format_error">Không thể xóa bộ nhớ USB.</string>
     <string name="media_bad_removal">Thẻ SD bị tháo trước khi được ngắt kết nối.</string>
     <string name="media_checking">Bộ nhớ USB hiện đang được kiểm tra.</string>
@@ -1239,6 +1246,7 @@ cho tài khoản %s."</string>
     <string name="storage_internal">Bộ nhớ trong</string>
     <string name="storage_sd_card">Thẻ SD</string>
     <string name="storage_usb">Bộ lưu trữ USB</string>
+    <string name="storage_uicc">Bộ lưu trữ UICC</string>
     <string name="extract_edit_menu_button">Chỉnh sửa</string>
     <string name="data_usage_warning_title">Cảnh báo sử dụng dữ liệu</string>
     <string name="data_usage_warning_body">Chạm để xem sử dụng và cài đặt.</string>
@@ -1290,8 +1298,8 @@ cho tài khoản %s."</string>
     <string name="media_route_chooser_searching">Đang tìm kiếm thiết bị…</string>
     <string name="media_route_chooser_extended_settings">Cài đặt</string>
     <string name="media_route_controller_disconnect">Ngắt kết nối</string>
-    <string name="media_route_status_scanning">Đang quét...</string>
-    <string name="media_route_status_connecting">Đang kết nối...</string>
+    <string name="media_route_status_scanning">Đang quét…</string>
+    <string name="media_route_status_connecting">Đang kết nối…</string>
     <string name="media_route_status_available">Khả dụng</string>
     <string name="media_route_status_not_available">Không khả dụng</string>
     <string name="media_route_status_in_use">Đang được sử dụng</string>
@@ -1333,20 +1341,20 @@ cho tài khoản %s."</string>
     <string name="kg_login_account_recovery_hint">"Bạn quên tên người dùng hoặc mật khẩu?
 Hãy truy cập "<b>google.com/accounts/recovery</b>.</string>
     <string name="kg_login_checking_password">Đang kiểm tra tài khoản…</string>
-    <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">"Bạn đã %d lần nhập sai mã PIN của mình. Hãy 
+    <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">"Bạn đã %d lần nhập sai mã PIN của mình.
 
-thử lại sau %d giây."</string>
-    <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">"Bạn đã %d lần nhập sai mật khẩu của mình. Hãy 
+Hãy thử lại sau %d giây."</string>
+    <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">"Bạn đã %d lần nhập sai mật khẩu của mình.
 
-thử lại sau %d giây."</string>
-    <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"Bạn đã %d lần vẽ không chính xác hình mở khóa của mình. Hãy 
+Hãy thử lại sau %d giây."</string>
+    <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"Bạn đã %d lần vẽ không chính xác hình mở khóa của mình.
 
-thử lại sau %d giây."</string>
+Hãy thử lại sau %d giây."</string>
     <string name="kg_failed_attempts_almost_at_wipe" formatted="false">Bạn đã %d lần mở khóa điện thoại không đúng cách. Sau %d lần mở khóa không thành công nữa, điện thoại sẽ được đặt lại về mặc định ban đầu và tất cả dữ liệu người dùng sẽ bị mất.</string>
     <string name="kg_failed_attempts_now_wiping">Bạn đã %d lần mở khóa điện thoại không đúng cách. Bây giờ, điện thoại sẽ được đặt lại về mặc định ban đầu.</string>
     <string name="kg_failed_attempts_almost_at_login" formatted="false">"Bạn đã %d lần vẽ không chính xác hình mở khóa của mình. Sau %d lần thử không thành công nữa, bạn sẽ được yêu cầu mở khóa điện thoại bằng tài khoản email.
 
- Vui lòng thử lại sau %d giây."</string>
+Vui lòng thử lại sau %d giây."</string>
     <string name="kg_text_message_separator">" — "</string>
     <string name="kg_reordering_delete_drop_target_text">Xóa</string>
     <string name="safe_media_volume_warning">"Tăng âm lượng trên mức được đề xuất?
@@ -1460,6 +1468,15 @@ Nghe ở mức âm lượng cao trong thời gian dài có thể gây hại cho 
     <string name="restr_pin_error_too_short">Mã PIN quá ngắn. Phải có ít nhất 4 chữ số.</string>
     <string name="restr_pin_try_later">Hãy thử lại sau</string>
     <string name="immersive_mode_confirmation">Vuốt từ trên xuống để thoát toàn màn hình.</string>
+    <string name="transient_navigation_confirmation_long">Vuốt từ mép màn hình để hiển thị thanh hệ thống</string>
+    <string name="stk_cc_ussd_to_dial">Yêu cầu USSD được sửa đổi để yêu cầu QUAY SỐ.</string>
+    <string name="stk_cc_ussd_to_ss">Yêu cầu USSD được sửa đổi để yêu cầu SS.</string>
+    <string name="stk_cc_ussd_to_ussd">Yêu cầu USSD được sửa đổi để yêu cầu USSD mới.</string>
+    <string name="stk_cc_ss_to_dial">Yêu cầu SS được sửa đổi để yêu cầu QUAY SỐ.</string>
+    <string name="stk_cc_ss_to_ussd">Yêu cầu SS được sửa đổi để yêu cầu USSD.</string>
+    <string name="stk_cc_ss_to_ss">Yêu cầu SS được sửa đổi để yêu cầu SS mới.</string>
+    <string name="permission_remember_choice">Nhớ</string>
+    <string name="permission">Quyền</string>
     <string name="webviewchromium_actionbar_share">Chia sẻ</string>
     <string name="webviewchromium_actionbar_web_search">Tìm kiếm trên web</string>
     <string name="webviewchromium_accessibility_content_view">Chế độ xem web</string>
@@ -1499,10 +1516,10 @@ Nghe ở mức âm lượng cao trong thời gian dài có thể gây hại cho 
     <string name="webviewchromium_color_picker_button_cancel">Hủy</string>
     <string name="webviewchromium_color_picker_dialog_title">Chọn màu</string>
     <string name="webviewchromium_color_picker_button_red">Đỏ</string>
-    <string name="webviewchromium_color_picker_button_cyan">Lục lam</string>
+    <string name="webviewchromium_color_picker_button_cyan">Chàm</string>
     <string name="webviewchromium_color_picker_button_blue">Lam</string>
-    <string name="webviewchromium_color_picker_button_green">Xanh lục</string>
-    <string name="webviewchromium_color_picker_button_magenta">Đỏ tía</string>
+    <string name="webviewchromium_color_picker_button_green">Lục</string>
+    <string name="webviewchromium_color_picker_button_magenta">Tía</string>
     <string name="webviewchromium_color_picker_button_yellow">Vàng</string>
     <string name="webviewchromium_color_picker_button_black">Đen</string>
     <string name="webviewchromium_color_picker_button_white">Trắng</string>
