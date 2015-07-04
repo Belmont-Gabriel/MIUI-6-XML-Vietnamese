@@ -42,7 +42,7 @@
     <string name="HIPS_Perm_WIFINetwork_Hint">%1$s ứng dụng có thể kết nối internet bằng Wi-Fi</string>
     <string name="HIPS_Perm_Network_UnknownAddr">Địa chỉ không xác định</string>
     <string name="HIPS_Perm_Network_MobileEvent">Sử dụng dữ liệu di động</string>
-    <string name="HIPS_Perm_Network_WIFIEvent">WLAN</string>
+    <string name="HIPS_Perm_Network_WIFIEvent">Wi-Fi</string>
     <string name="HIPS_Perm_Network_Accept">Chấp nhận các liên kết từ %1$s?</string>
     <string name="HIPS_Perm_Network_Connect">Liên kết vị trí: %1$s</string>
     <string name="HIPS_Perm_Network_Listen">Nghe trên cổng %1$s</string>
