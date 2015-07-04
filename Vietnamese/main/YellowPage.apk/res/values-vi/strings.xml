@@ -230,6 +230,8 @@ Kiểm tra mã số theo dõi của bạn."</string>
     <string name="express_address_name">Tên</string>
     <string name="express_address_region">Khu vực</string>
     <string name="express_address_deleted">Đã xóa địa chỉ</string>
+    <string name="follow_express">Theo dõi %1$s</string>
+    <string name="follow_express_success">Theo dõi thành công, bạn có thể nhận tin nhắn và nhận được nhiều dịch vụ hơn từ %1$s.</string>
     <string name="express_order_success_hint">%s sẽ gửi đơn hàng của bạn</string>
     <string name="express_order_ongoing">Đang đặt hàng…</string>
     <string name="express_order_succeeded">Thành công</string>
