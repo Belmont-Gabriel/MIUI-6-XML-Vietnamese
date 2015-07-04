@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="status_bar_toggle_ac">Hạn chế truy cập</string>
+    <string name="status_bar_toggle_ac">Khóa màn hình</string>
     <string name="status_bar_toggle_bluetooth">Bluetooth</string>
     <string name="status_bar_toggle_brightness">Độ sáng</string>
     <string name="status_bar_toggle_auto_brightness">Độ sáng</string>
