@@ -4,6 +4,6 @@
         <item quantity="other">%d phiếu giảm giá</item>
     </plurals>
     <plurals name="review_count">
-        <item quantity="other">Xem tất cả %d bình luận</item>
+        <item quantity="other">Xem %d bình luận</item>
     </plurals>
 </resources>
