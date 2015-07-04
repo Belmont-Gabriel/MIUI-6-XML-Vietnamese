@@ -41,12 +41,15 @@
         <item quantity="one">Đã tìm thấy %1$s máy in</item>
     </plurals>
     <plurals name="show_pho_countdown">
-        <item quantity="other">Bạn chỉ cần hoàn thành%1$d bước để xem thông tin điện thoại.</item>
+        <item quantity="other">Bạn chỉ cần hoàn thành %1$d bước để xem thông tin điện thoại.</item>
+        <item quantity="one">Bạn chỉ cần hoàn thành %1$d bước để xem thông tin điện thoại.</item>
     </plurals>
     <plurals name="show_cit_countdown">
         <item quantity="other">Bạn chỉ cần hoàn thành %1$d bước để vào CIT.</item>
+        <item quantity="one">Bạn chỉ cần hoàn thành %1$d bước để vào CIT.</item>
     </plurals>
     <plurals name="show_rep_countdown">
         <item quantity="other">Bạn chỉ cần hoàn thành %1$d bước để vào báo cáo lỗi.</item>
+        <item quantity="one">Bạn chỉ cần hoàn thành %1$d bước để vào báo cáo lỗi.</item>
     </plurals>
 </resources>
