@@ -109,6 +109,5 @@
     <string name="app_version_which_call">Phiên bản: %s</string>
     <string name="policy_name">Chính sách: %s</string>
     <string name="mibi_license">Điều khoản Dịch vụ Mi Credit</string>
-    <string name="license_host_unreachable">"Không thể kết nối mạng. Để xem thông tin này bây giờ, 
-vào %s"</string>
+    <string name="license_host_unreachable">"Không thể kết nối mạng. Để xem thông tin này bây giờ, vào %s"</string>
 </resources>
