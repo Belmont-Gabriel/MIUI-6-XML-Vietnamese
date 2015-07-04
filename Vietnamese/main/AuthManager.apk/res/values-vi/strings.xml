@@ -37,9 +37,9 @@
     <string name="HIPS_Perm_MobileNetwork">Sử dụng dữ liệu di động</string>
     <string name="HIPS_Perm_MobileNetwork_Desc">sử dụng kết nối dữ liệu di động của bạn</string>
     <string name="HIPS_Perm_MobileNetwork_Hint">%1$s ứng dụng có thể sử dụng kết nối dữ liệu di động của bạn</string>
-    <string name="HIPS_Perm_WIFINetwork">Sử dụng mạng Wi-Fi</string>
-    <string name="HIPS_Perm_WIFINetwork_Desc">kết nối internet bằng Wi-Fi</string>
-    <string name="HIPS_Perm_WIFINetwork_Hint">%1$s ứng dụng có thể kết nối internet bằng Wi-Fi</string>
+    <string name="HIPS_Perm_WIFINetwork">Sử dụng mạng WLAN</string>
+    <string name="HIPS_Perm_WIFINetwork_Desc">kết nối internet bằng WLAN</string>
+    <string name="HIPS_Perm_WIFINetwork_Hint">%1$s ứng dụng có thể kết nối internet bằng WLAN</string>
     <string name="HIPS_Perm_Network_UnknownAddr">Địa chỉ không xác định</string>
     <string name="HIPS_Perm_Network_MobileEvent">Sử dụng dữ liệu di động</string>
     <string name="HIPS_Perm_Network_WIFIEvent">Wi-Fi</string>
@@ -78,9 +78,9 @@
     <string name="HIPS_Perm_Mobile_Connectivity">Thay đổi kết nối dữ liệu di động</string>
     <string name="HIPS_Perm_Mobile_Connectivity_Desc">Bật hoặc tắt dữ liệu di động</string>
     <string name="HIPS_Perm_Mobile_Connectivity_Hint">%1$s ứng dụng có thể bật hoặc tắt dữ liệu di động</string>
-    <string name="HIPS_Perm_WIFI_Connectivity">Thay đổi kết nối Wi-Fi</string>
-    <string name="HIPS_Perm_WIFI_Connectivity_Desc">Bật hoặc tắt Wi-Fi</string>
-    <string name="HIPS_Perm_WIFI_Connectivity_Hint">%1$s ứng dụng có thể bật hoặc tắt Wi-Fi</string>
+    <string name="HIPS_Perm_WIFI_Connectivity">Thay đổi kết nối WLAN</string>
+    <string name="HIPS_Perm_WIFI_Connectivity_Desc">Bật hoặc tắt WLAN</string>
+    <string name="HIPS_Perm_WIFI_Connectivity_Hint">%1$s ứng dụng có thể bật hoặc tắt WLAN</string>
     <string name="HIPS_Perm_Bluetooth_Connectivity">Thay đổi kết nối Bluetooth</string>
     <string name="HIPS_Perm_Bluetooth_Connectivity_Desc">Bật hoặc tắt Bluetooth</string>
     <string name="HIPS_Perm_Bluetooth_Connectivity_Hint">%1$s ứng dụng có thể bật Bluetooth</string>
@@ -159,7 +159,7 @@
     <string name="HIPS_Action_Reject_Once">Từ chối một lần</string>
     <string name="HIPS_Action_Accept_Once">Cho phép một lần</string>
     <string name="app_name">Quản lý Quyền</string>
-    <string name="Generic_Copyright">Được hỗ trợ bởi LBE Privacy Guard</string>
+    <string name="Generic_Copyright">Việt hóa bởi ♋๖ۣۜßεℓ™</string>
     <string name="Generic_Version">Phiên bản: %1$s</string>
     <string name="Generic_Configuration">Cài đặt</string>
     <string name="Generic_UserApp">Đã tải xuống (%d)</string>
