@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="theme_update_local_resource_notifaction">
+        <item quantity="other">Có cập nhật cho %1$d chủ đề</item>
+        <item quantity="one">Có cập nhật cho %1$d chủ đề</item>
+    </plurals>
+    <plurals name="theme_batch_has_update_text">
+        <item quantity="other">Có cập nhật cho %1$d chủ đề.</item>
+        <item quantity="one">Có cập nhật cho %1$d chủ đề.</item>
+    </plurals>
+</resources>
