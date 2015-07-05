@@ -26,6 +26,7 @@
     <string name="title_select_shortcut">Chọn lối tắt</string>
     <string name="title_select_live_folder">Chọn thư mục</string>
     <string name="app_being_backup_message">Ứng dụng đang được sao lưu</string>
+    <string name="app_being_restored_message">Ứng dụng đang được khôi phục</string>
     <string name="menu_add">Thêm</string>
     <string name="menu_wallpaper">Hình nền</string>
     <string name="menu_search">Tìm kiếm</string>
@@ -172,7 +173,7 @@
     <string name="gadget_weather_title_24">Thời tiết</string>
     <string name="gadget_weather_title_14">Thời tiết</string>
     <string name="gadget_weather_app_not_installed">Chạm để tải xuống ứng dụng thời tiết của MIUI</string>
-    <string name="gadget_weather_time_format">EEEE d/MM</string>
+    <string name="gadget_weather_time_format">EEE, d MMM</string>
     <string name="gadget_weather_theme_type">Loại tiện ích</string>
     <string name="gadget_weather_download_title">Tải xuống</string>
     <string name="gadget_weather_download_message">Bạn cần phải tải xuống nội dung ứng dụng: %1$s (%2$s). Khởi động lại ứng dụng sau khi hoàn tất tải xuống.</string>
@@ -213,6 +214,8 @@
     <string name="delete_wallpaper_message">Xóa %1$d hình nền?</string>
     <string name="delete_wallpapers_message">Xóa %1$d hình nền?</string>
     <string name="is_system_wallpaper_message">Không thể xóa tài nguyên hệ thống</string>
+    <string name="select_all">Chọn tất cả</string>
+    <string name="deselect_all">Hủy chọn tất cả</string>
     <string name="cloud_app_restore_title">Đang chờ</string>
     <string name="app_category_finance">Tài chính</string>
     <string name="app_category_social">Xã hội</string>
