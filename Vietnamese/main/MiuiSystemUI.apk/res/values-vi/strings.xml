@@ -31,17 +31,21 @@ Chỉ sử dụng bộ sạc được cung cấp."</string>
     <string name="accessibility_home">Trang chủ</string>
     <string name="accessibility_menu">Trình đơn</string>
     <string name="accessibility_recent">Ứng dụng gần đây</string>
+    <string name="accessibility_search_light">Tìm kiếm</string>
+    <string name="accessibility_camera_button">Máy ảnh</string>
     <string name="accessibility_bluetooth_connected">Đã kết nối bluetooth.</string>
     <string name="accessibility_bluetooth_disconnected">Bluetooth bị ngắt kết nối.</string>
-    <string name="accessibility_no_phone">Không có điện thoại nào.</string>
+    <string name="accessibility_no_phone">Không có sóng.</string>
     <string name="accessibility_phone_one_bar">Tín hiệu điện thoại một vạch.</string>
     <string name="accessibility_phone_two_bars">Tín hiệu điện thoại hai vạch.</string>
     <string name="accessibility_phone_three_bars">Tín hiệu điện thoại ba vạch.</string>
+    <string name="accessibility_phone_four_bars">Tín hiệu điện thoại bốn vạch.</string>
     <string name="accessibility_phone_signal_full">Tín hiệu điện thoại đầy đủ.</string>
     <string name="accessibility_no_data">Không có dữ liệu.</string>
     <string name="accessibility_data_one_bar">Tín hiệu dữ liệu một vạch.</string>
     <string name="accessibility_data_two_bars">Tín hiệu dữ liệu hai vạch.</string>
     <string name="accessibility_data_three_bars">Tín hiệu dữ liệu ba vạch.</string>
+    <string name="accessibility_data_four_bars">Tín hiệu dữ liệu bốn vạch.</string>
     <string name="accessibility_data_signal_full">Tín hiệu dữ liệu đầy đủ.</string>
     <string name="accessibility_no_wifi">Không có Wi-Fi.</string>
     <string name="accessibility_wifi_one_bar">Wi-Fi một vạch.</string>
@@ -80,7 +84,7 @@ Nếu bạn bật lại dữ liệu, bạn có thể bị nhà cung cấp tính 
     <string name="gps_notification_found_text">Vị trí đặt bởi GPS</string>
     <string name="accessibility_clear_all">Xóa tất cả thông báo.</string>
     <string name="status_bar_notification_inspect_item_title">Thông tin về ứng dụng</string>
-    <string name="status_bar_date_format">E d/M</string>
+    <string name="status_bar_date_format">EEE, d MMM</string>
     <string name="status_bar_recent_guide_all">"Trượt lên để đóng
 Trượt xuống để khóa"</string>
     <string name="status_bar_recent_guide_top">Trượt lên để đóng</string>
@@ -107,6 +111,9 @@ Trượt xuống để khóa"</string>
     <string name="user_guide_for_notification">Trượt xuống bằng 1 ngón tay để kéo thanh thông báo xuống</string>
     <string name="user_guide_for_toggle">Danh sách phím nhanh có thể được cuộn theo chiều ngang</string>
     <string name="user_guide_for_toggle_list">Quản lý phím nhanh</string>
+    <string name="activate_usb_title">Kích hoạt USB</string>
+    <string name="activate_usb_message">Để kích hoạt tính năng này, vui lòng lắp thẻ SIM của bạn.</string>
+    <string name="usb_function_charging_text">Kết nối trong chế độ sạc</string>
     <string name="return_to_incall_screen">Quay trở lại cuộc gọi</string>
     <string name="call_status_dialing">Đang quay số</string>
     <string name="call_status_ringing">Đổ chuông</string>
@@ -169,6 +176,9 @@ Trượt xuống để khóa"</string>
     <string name="status_bar_network_flow_limit">"   Giới hạn hàng tháng: %1$s"</string>
     <string name="drive_mode_tip">Bạn đang ở chế độ xe hơi</string>
     <string name="no_notification_tips">Không có thông báo</string>
+    <string name="expanded_notification_manager">Quản lý thông báo</string>
+    <string name="disable_notification_title">Chặn thông báo</string>
+    <string name="disable_notification_summary">Không bao giờ hiển thị thông báo từ ứng dụng này.</string>
     <string name="notification_otg_mouse_in">Chuột đã kết nối</string>
     <string name="notification_otg_keyboard_in">Bàn phím đã kết nối</string>
     <string name="notification_otg_gamestick_in">Bộ điều khiển trò chơi đã kết nối</string>
@@ -202,6 +212,7 @@ Trượt xuống để khóa"</string>
     <string name="battery_profiles">Cấu hình sử dụng pin</string>
     <string name="oldman_airplane_mode_text">chế độ máy bay</string>
     <string name="oldman_incall_text">đang gọi</string>
+    <string name="notification_template_text">" có một thông báo. Chạm để xem."</string>
     <string name="audio_effect_settings">Chọn loại tai nghe</string>
     <string name="audio_effect_info">Tối ưu hóa âm thanh</string>
     <string name="audio_effect_custom">Cấu hình</string>
