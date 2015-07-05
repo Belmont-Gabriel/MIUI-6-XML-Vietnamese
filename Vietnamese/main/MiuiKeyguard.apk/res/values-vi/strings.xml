@@ -15,7 +15,7 @@
     <string name="incorrect_pukcode">Mã PUK không chính xác</string>
     <string name="incorrect_pincode">Mã PIN không chính xác</string>
     <string name="open_wifi_settings">Mở kết nối mạng</string>
-    <string name="lock_screen_date">EEE, dd MMMM</string>
+    <string name="lock_screen_date">EEEE, d MMMM</string>
     <string name="lockscreen_glogin_password_hint">Mật khẩu</string>
     <string name="lockscreen_glogin_checking_password">Đang kiểm tra…</string>
     <string name="login_website_in_case_forget_password">Để đặt lại mật khẩu, truy cập www.mi.com/ micloud</string>
