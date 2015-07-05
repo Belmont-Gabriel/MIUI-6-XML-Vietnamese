@@ -300,6 +300,7 @@ Vui lòng nhập mã xác minh trong email"</string>
     <string name="get_phone_verifycode_exceed_limit">Quá nhiều mã xác minh được gửi đến số điện thoại này. Vui lòng chờ sau 24 giờ và thử lại.</string>
     <string name="get_email_verifycode_exceed_limit">Quá nhiều mã xác minh được gửi đến địa chỉ email này. Vui lòng chờ sau 24 giờ và thử lại.</string>
     <string name="mi_account_identity_title">Xác minh danh tính của bạn</string>
+    <string name="exceed_binded_phone_times_notice">Số này đã liên kết với quá nhiều tài khoản Mi, hãy thay đổi một số khác và thử lại.</string>
     <string name="bind_settings">Tài khoản</string>
     <string name="cloud_service">Mi Cloud</string>
     <string name="account_bind_settings">Tài khoản</string>
