@@ -80,4 +80,5 @@ Thiết bị phải có IMEI hoặc địa chỉ MAC hợp lệ. Nếu không c�
     <string name="activate_feature_mms_sync">Đồng bộ tin nhắn SMS</string>
     <string name="activate_feature_call_log_sync">Đồng bộ lịch sử cuộc gọi</string>
     <string name="activate_feature_find_device">Tìm Thiết bị</string>
+    <string name="activate_sms_postfix">SMS này được sử dụng để kích hoạt thiết bị của bạn.</string>
 </resources>
