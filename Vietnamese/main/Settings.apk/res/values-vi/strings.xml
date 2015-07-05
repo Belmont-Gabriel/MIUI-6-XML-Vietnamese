@@ -136,7 +136,7 @@
     <string name="small_font">Nhỏ</string>
     <string name="medium_font">Trung bình</string>
     <string name="large_font">Lớn</string>
-    <string name="font_size_preview_text">Forum hinh thức: http://miui.vn/forum/</string>
+    <string name="font_size_preview_text">Việt hóa bởi ๖ۣۜßεℓ™ - MIUI.VN</string>
     <string name="font_size_save">OK</string>
     <string name="sdcard_setting">Thẻ SD</string>
     <string name="battery_info_status_label">Tình trạng pin:</string>
@@ -1437,7 +1437,7 @@ Nếu thiết bị có nhiều người dùng, việc sử dụng lối tắt n�
     <string name="captioning_edge_color">Màu viền</string>
     <string name="captioning_edge_type">Loại viền</string>
     <string name="captioning_typeface">Họ phông chữ</string>
-    <string name="captioning_preview_text">http://miui.vn/forum/</string>
+    <string name="captioning_preview_text">Việt hóa bởi ๖ۣۜßεℓ™ - MIUI.VN</string>
     <string name="captioning_preview_characters">Việt hóa bởi ๖ۣۜßεℓ™</string>
     <string name="locale_default">Mặc định</string>
     <string name="color_none">Không có</string>
