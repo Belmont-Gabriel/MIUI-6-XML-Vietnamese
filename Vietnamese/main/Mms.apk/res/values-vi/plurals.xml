@@ -10,10 +10,16 @@
         <item quantity="other">%s giây</item>
     </plurals>
     <plurals name="search_results_title">
-        <item quantity="other">%1$s kết quả cho %2$s\"</item>
+        <item quantity="other">%1$s kết quả cho \"%2$s\"</item>
     </plurals>
     <plurals name="recipient_count">
         <item quantity="other">%1$s người</item>
+    </plurals>
+    <plurals name="cloud_sms_count">
+        <item quantity="other">%d tin nhắn</item>
+    </plurals>
+    <plurals name="cloud_state_unsynced_count">
+        <item quantity="other">"%d tin nhắn đã chưa được đồng bộ"</item>
     </plurals>
     <plurals name="message_count">
         <item quantity="other">%1$s tin nhắn</item>
