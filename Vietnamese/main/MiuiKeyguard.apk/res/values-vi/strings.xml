@@ -18,7 +18,7 @@
     <string name="lock_screen_date">EEEE, d MMMM</string>
     <string name="lockscreen_glogin_password_hint">Mật khẩu</string>
     <string name="lockscreen_glogin_checking_password">Đang kiểm tra…</string>
-    <string name="login_website_in_case_forget_password">Để đặt lại mật khẩu, truy cập www.mi.com/ micloud</string>
+    <string name="login_website_in_case_forget_password">Để đặt lại mật khẩu, truy cập www.mi.com/micloud</string>
     <string name="experimental_validate_thanks">Cảm ơn!</string>
     <string name="experimental_validate_warning">Cảm ơn bạn đã hỗ trợ để MIUI ngày càng hoàn thiện hơn!</string>
     <string name="experimental_validate">Xác nhận</string>
