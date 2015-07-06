@@ -17,7 +17,7 @@
     <string name="abc_searchview_description_voice">Tìm kiếm bằng giọng nói</string>
     <string name="abc_shareactionprovider_share_with">Chia sẻ với</string>
     <string name="abc_shareactionprovider_share_with_application">Chia sẻ với %s</string>
-    <string name="account_duplicate_dlg_message_fmt">        Bạn đã sử dụng tên người dùng này cho tài khoản \"%s\".</string>
+    <string name="account_duplicate_dlg_message_fmt">Bạn đã sử dụng tên người dùng này cho tài khoản \"%s\".</string>
     <string name="account_duplicate_dlg_title">Tài khoản bị trùng</string>
     <string name="account_folder_list_summary_drafts">Thư nháp</string>
     <string name="account_folder_list_summary_inbox">Hộp thư đến</string>
@@ -112,6 +112,7 @@
     <string name="account_setup_failed_dlg_certificate_message">Không thể kết nối an toàn đến máy chủ.</string>
     <string name="account_setup_failed_dlg_certificate_message_fmt">"Không thể kết nối an toàn đến máy chủ.
 (%s)"</string>
+    <string name="account_setup_failed_dlg_device_locked">Địa chỉ của bạn đã bị chặn bởi khóa thiết bị</string>
     <string name="account_setup_failed_dlg_edit_details_action">Chi tiết chỉnh sửa</string>
     <string name="account_setup_failed_dlg_server_message">Không thể kết nối đến máy chủ.</string>
     <string name="account_setup_failed_dlg_server_message_fmt">"Không thể kết nối đến máy chủ.
@@ -142,6 +143,7 @@
     <string name="account_setup_incoming_server_label">Máy chủ</string>
     <string name="account_setup_incoming_title">Thiết lập tài khoản</string>
     <string name="account_setup_incoming_username_label">Tên người dùng</string>
+    <string name="account_setup_incoming_username_label_default_hint">Bạn có thể bao gồm miền</string>
     <string name="account_setup_names_account_name_label">Đặt tên cho tài khoản này (tùy chọn)</string>
     <string name="account_setup_names_headline">Tài khoản của bạn được thiết lập và email đã sẵn sàng!</string>
     <string name="account_setup_names_title">Thiết lập tài khoản</string>
@@ -243,6 +245,8 @@
     <string name="attachment_mgr_name">Tập tin đính kèm</string>
     <string name="attachment_not_exists">Tập tin đính kèm là không khả dụng!</string>
     <string name="attachment_not_found">Không thể tải tập tin đính kèm</string>
+    <string name="attachment_open_SecurityException_hint">Kiểm tra quyền truy cập, thiệt hại, vv…</string>
+    <string name="attachment_open_SecurityException_title">Không thể mở tập tin</string>
     <string name="attachment_stop_all">Dừng</string>
     <string name="attachment_text">Văn bản</string>
     <string name="attachment_type_blocked">Rất tiếc, bạn không thể lưu hoặc mở loại tập tin đính kèm này.</string>
@@ -313,6 +317,7 @@
     <string name="confirm_send_message_with_no_body">Không có văn bản trong nội dung thư.</string>
     <string name="confirm_send_message_with_no_subject">Thư này chưa có chủ đề.</string>
     <string name="confirm_send_title">Gửi thư?</string>
+    <string name="contact_content_provider">Trình cung cấp nội dung liên hệ</string>
     <string name="contact_edit_set_black_list">Thiết lập danh sách chặn</string>
     <string name="contact_edit_set_phone_contact">Sửa liên hệ điện thoại</string>
     <string name="contact_edit_set_pop_up_tips">Bật hướng dẫn</string>
@@ -339,6 +344,7 @@
     <string name="contextmenu_send_mail">Gửi email</string>
     <string name="contextmenu_sharelink">Chia sẻ liên kết</string>
     <string name="contextmenu_sms_dot">SMS…</string>
+    <string name="conversation_content_provider">Trình cung cấp nội dung hội thoại</string>
     <string name="conversation_folder_moved">Di chuyển đến %1$s</string>
     <string name="conversation_item_mark_read">Đã đọc</string>
     <string name="conversation_item_mark_unread">Chưa đọc</string>
@@ -353,6 +359,13 @@
     <string name="date_message_received">%1$s %2$s</string>
     <string name="date_message_received_today">Hôm nay, %1$s</string>
     <string name="date_message_received_yesterday">Hôm qua, %1$s</string>
+    <string name="debug_clear_webview_cache">Xóa cache WebView</string>
+    <string name="debug_disable_graphics_acceleration_label">Tắt tăng tốc đồ họa phần cứng</string>
+    <string name="debug_enable_debug_logging_label">Bật ghi gỡ lỗi bổ sung?</string>
+    <string name="debug_enable_file_logging_label">Bật ghi thẻ sd?</string>
+    <string name="debug_enable_strict_mode_label">Bật chế độ nghiêm ngặt (với ghi)</string>
+    <string name="debug_enable_verbose_logging_label">Bật ghi cực kỳ chi tiết?</string>
+    <string name="debug_force_one_minute_refresh_label">Buộc 1 phút làm mới cho POP/IMAP</string>
     <string name="debug_title">Gỡ lỗi</string>
     <string name="default_">MẶC ĐỊNH</string>
     <string name="default_exchange">CHUYỂN ĐỔI</string>
@@ -372,6 +385,7 @@
     <string name="dialog_account_auto_sync_setting_no_open">Tùy chọn đồng bộ thư đã tắt, không thể nhận được thư mới.</string>
     <string name="dialog_auto_download_failed">Không thể hoàn tất tải xuống tự động, thử tải xuống theo cách thủ công.</string>
     <string name="dialog_auto_sync_setting_no_open">Tùy chọn đồng bộ đã tắt, không thể nhận được thư mới.</string>
+    <string name="dialog_gmail_proxy_server_is_error">Lỗi máy chủ proxy Gmail.</string>
     <string name="dialog_insufficient_space_for_single_account_on_internal">"Không đủ dung lượng cho  %s ."</string>
     <string name="dialog_insufficient_space_on_external">Không thể hoàn tất tải xuống. Bộ nhớ ngoài không đủ dung lượng.</string>
     <string name="dialog_insufficient_space_on_internal">Thiếu dung lượng lưu trữ để tự động tải tập tin đính kèm.</string>
@@ -602,6 +616,7 @@ CC: %4$s
     <string name="mibill_privacy_policy_description">Cho phép Mi Wallet phân tích và quản lý hóa đơn tự động. Tính năng này được tắt mặc định cho các địa chỉ email công việc.</string>
     <string name="mibill_privacy_policy_link">Bằng cách sử dụng tính năng này, bạn đồng ý với <a href="https://www.mipay.com/res/doc/eula/email.html"> Điều khoản Dịch vụ</a> của chúng tôi.</string>
     <string name="mibill_privacy_policy_title">Quản lý hóa đơn tự động</string>
+    <string name="mock_content_provider">Nhà cung cấp nội dung vị trí</string>
     <string name="more_atts_remaining">Còn lại hơn %1$d</string>
     <string name="more_atts_total">%1$d tập tin đính kèm</string>
     <string name="more_context">Thêm</string>
@@ -787,6 +802,10 @@ CC: %4$s
     <string name="replyto_heading">"Trả lời đến: "</string>
     <string name="report">Báo cáo</string>
     <string name="report_phishing">Báo cáo lừa đảo</string>
+    <string name="report_rendering_improvement">Có vẻ tốt</string>
+    <string name="report_rendering_improvement_desc">Thư này có vẻ tốt.</string>
+    <string name="report_rendering_problem">Trông tệ quá</string>
+    <string name="report_rendering_problem_desc">Thư này trông tệ quá.</string>
     <string name="report_spam">Báo cáo thư rác</string>
     <string name="request_entity_large">Tập tin quá lớn</string>
     <string name="require_manual_sync_message">Đồng bộ tài khoản này đã tắt khi chuyển vùng.</string>
@@ -812,6 +831,7 @@ CC: %4$s
     <string name="search_tabs_name_recipient">Người nhận</string>
     <string name="search_tabs_name_sender">Người gửi</string>
     <string name="search_tabs_name_subject">Chủ đề</string>
+    <string name="search_title">Thư đã hợp nhất</string>
     <string name="search_txt_size_limit_prompt">Từ tìm kiếm phải lớn hơn 3 ký tự</string>
     <string name="search_unsupported">Tìm kiếm không được hỗ trợ trên tài khoản này.</string>
     <string name="security_changed_ticker_fmt">Tài khoản \"%s\" đã thay đổi cài đặt bảo mật, không có hành động người dùng được yêu cầu.</string>
@@ -836,6 +856,7 @@ CC: %4$s
     <string name="ser_resp_err_map_or">hoặc</string>
     <string name="ser_resp_err_map_pserr">Tên người dùng hoặc mật khẩu không chính xác</string>
     <string name="ser_resp_err_map_serclosed">Máy chủ đã đóng</string>
+    <string name="ser_resp_err_map_serclosed_url_tag">Làm thế nào để giải quyết?</string>
     <string name="ser_resp_err_map_ssl">"Chọn 'SSL/TLS (Chấp nhận tất cả giấy chứng nhận)' trong 'Loại bảo mật'"</string>
     <string name="set_network">Thiết lập mạng</string>
     <string name="settings_activity_title">Cài đặt</string>
@@ -900,7 +921,9 @@ CC: %4$s
     <string name="unread_from_someone">Thư chưa đọc từ %s</string>
     <string name="unread_string">hội thoại chưa đọc</string>
     <string name="unsent_messages_in_outbox">%1$s chưa gửi trong %2$s</string>
-    <string name="updated_at">Cập nhật lần cuối: %1$s</string>
+    <string name="unzip_file_failed">Giải nén không thành công!</string>
+    <string name="update_date_format_templete">HH:mm aa, dd MMMM</string>
+    <string name="updated_at">Cập nhật lúc: %1$s</string>
     <string name="updated_just_now">Vừa cập nhật</string>
     <string name="upload_log">Tải lên bản ghi</string>
     <string name="upload_log_failed">Không thể gửi nhật ký</string>
@@ -913,7 +936,7 @@ CC: %4$s
     <string name="via_domain">qua %1$s</string>
     <string name="view_more_conversations">Xem thêm hội thoại</string>
     <string name="wait_for_manual_sync_body">"Tài khoản này không được thiết lập để đồng bộ tự động.
-Chạm "<b>Đồng bộ bây giờ</b> để đồng bộ email một lần, hoặc <b>Thay đổi Cài đặt Đồng bộ</b> để thiết lập tài khoản này tự động đồng bộ email.</string>
+Chạm "<b>Đồng bộ ngay</b> để đồng bộ email một lần, hoặc <b>Thay đổi Cài đặt Đồng bộ</b> để thiết lập tài khoản này tự động đồng bộ email.</string>
     <string name="wait_for_sync_body">Email của bạn sẽ xuất hiện sớm.</string>
     <string name="wait_for_sync_body_2">Chuyển đổi Máy chủ sẽ nhắc bạn trong 1-30 giây nữa. Xác nhận cài đặt bảo mật và kích hoạt hộp thư của bạn.</string>
     <string name="wait_for_sync_body_txt_array_1">Máy chủ Chuyển đổi sẽ nhắc bạn trong</string>
