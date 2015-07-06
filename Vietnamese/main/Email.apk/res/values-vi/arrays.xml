@@ -54,6 +54,15 @@
         <item>Fax:</item>
         <item>Mã Bưu chính:</item>
     </string-array>
+    <string-array name="signature_special_string_array">
+        <item>Từ chối:</item>
+        <item>Từ chối Email</item>
+        <item>Gửi qua WPSMail</item>
+        <item>Gửi từ</item>
+        <item>Gửi với</item>
+        <item>Cảm ơn,</item>
+        <item>Trân trọng</item>
+    </string-array>
     <string-array name="signature_special_string_array_next">
         <item>Cảm ơn,</item>
         <item>Trân trọng</item>
