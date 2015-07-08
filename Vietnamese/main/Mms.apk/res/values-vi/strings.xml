@@ -264,7 +264,7 @@
     <string name="refresh">Làm mới</string>
     <string name="refresh_failed">Cập nhật thất bại</string>
     <string name="database_corruption">Đang sửa…</string>
-    <string name="send_to">Tới:</string>
+    <string name="send_to">"Tới: "</string>
     <string name="send_to_count">Đã gửi %1$s tin nhắn</string>
     <string name="send_to_index_contact">%1$s/%2$s</string>
     <string name="message_received">Đã nhận</string>
