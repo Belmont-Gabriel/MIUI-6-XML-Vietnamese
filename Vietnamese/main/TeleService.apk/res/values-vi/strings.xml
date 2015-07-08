@@ -868,7 +868,7 @@ Hãy thử lại hoặc gọi cho dịch vụ khách hàng để có tùy chọn
     <string name="preference_dial_pad_touch_tone_default">Mặc định</string>
     <string name="preference_dial_pad_touch_tone_piano">Tiếng piano</string>
     <string name="preference_telocation_summary_countrycode_off">Không tự động thêm mã quốc gia</string>
-    <string name="telephony_setting">Cài đặt cuộc gọi</string>
+    <string name="telephony_setting">Cuộc gọi</string>
     <string name="international_roaming_setting">Chuyển vùng quốc tế</string>
     <string name="cdma_alert_title">Thẻ SIM phải là mặc định</string>
     <string name="cdma_alert_message">Nếu chọn thẻ khác làm mặc định cho sử dụng dữ liệu di động, bạn sẽ không thể sử dụng thẻ SIM China Telecom.</string>
