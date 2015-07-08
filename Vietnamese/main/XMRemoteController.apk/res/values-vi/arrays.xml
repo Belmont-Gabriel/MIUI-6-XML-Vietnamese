@@ -1,9 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="epg_week_tab">
+        <item>Chủ nhật</item>
+        <item>Thứ hai</item>
+        <item>Thứ ba</item>
+        <item>Thứ tư</item>
+        <item>Thứ năm</item>
+        <item>Thứ sáu</item>
+        <item>Thứ bảy</item>
+    </string-array>
     <string-array name="ac_mode_array">
         <item>Máy lạnh</item>
         <item>Máy sưởi</item>
         <item>Máy hút ẩm</item>
         <item>Quạt</item>
+    </string-array>
+    <string-array name="app_detail_tabs">
+        <item>Chi tiết</item>
+        <item>Chú thích</item>
     </string-array>
 </resources>
