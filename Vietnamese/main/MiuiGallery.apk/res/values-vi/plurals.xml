@@ -5,24 +5,29 @@
     </plurals>
     <plurals name="confirm_delete_has_cloud_image">
         <item quantity="other">&lt;Data>Xóa &lt;xliff:g id=ITEM>%s&lt;/xliff:g> ảnh trên Mi Cloud?&lt;/Data></item>
+        <item quantity="one">&lt;Data>Xóa &lt;xliff:g id=ITEM>%s&lt;/xliff:g> ảnh trên Mi Cloud?&lt;/Data></item>
     </plurals>
     <plurals name="confirm_delete_has_local_image">
         <item quantity="other">Xóa %s ảnh?</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_video">
         <item quantity="other">&lt;Data>Xóa &lt;xliff:g id=ITEM>%s&lt;/xliff:g> video trên Mi Cloud?&lt;/Data></item>
+        <item quantity="one">&lt;Data>Xóa &lt;xliff:g id=ITEM>%s&lt;/xliff:g> video trên Mi Cloud?&lt;/Data></item>
     </plurals>
     <plurals name="confirm_delete_has_local_video">
         <item quantity="other">Xóa %s video?</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_local_image">
         <item quantity="other">&lt;Data>Xóa &lt;xliff:g id=ITEM>%s&lt;/xliff:g> ảnh trên Mi Cloud?&lt;/Data></item>
+         <item quantity="one">&lt;Data>Xóa &lt;xliff:g id=ITEM>%s&lt;/xliff:g> ảnh trên Mi Cloud?&lt;/Data></item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_local_video">
         <item quantity="other">&lt;Data>Xóa &lt;xliff:g id=ITEM>%s&lt;/xliff:g> video trên thiết bị này và Mi Cloud?&lt;/Data></item>
+        <item quantity="one">&lt;Data>Xóa &lt;xliff:g id=ITEM>%s&lt;/xliff:g> video trên thiết bị này và Mi Cloud?&lt;/Data></item>
     </plurals>
     <plurals name="confirm_delete_video_from_many_albums">
         <item quantity="other">&lt;Data>Xóa &lt;xliff:g id=ITEM>%1$d video&lt;/xliff:g> trên %2$d album?&lt;/Data></item>
+        <item quantity="one">&lt;Data>Xóa &lt;xliff:g id=ITEM>%1$d video&lt;/xliff:g> trên %2$d albums?&lt;/Data></item>
     </plurals>
     <plurals name="number_of_items_selected">
         <item quantity="other">Đã chọn %1$d</item>
