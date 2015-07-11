@@ -77,6 +77,7 @@
     <string name="resource_failed_to_load_list">Không thể tải chủ đề.</string>
     <string name="resource_search_list_empty">Không tìm thấy.</string>
     <string name="resource_no_network_text">Không thể kết nối mạng.</string>
+    <string name="resource_network_diagnostics"><u>Chuẩn đoán mạng</u></string>
     <string name="resource_list_title">Đã chọn gần đây</string>
     <string name="resource_get_auth_checking">Đang xác minh…</string>
     <string name="resource_get_auth_retrieving">Đang nhận thông tin…</string>
@@ -105,8 +106,11 @@
     <string name="deleting">Đang xóa…</string>
     <string name="resource_title_select_ringtone">Chọn nhạc chuông</string>
     <string name="resource_tip_select_none">Chưa chọn gì</string>
-    <string name="resource_select_ringtone_confirm">Chọn âm thanh này?</string>
-    <string name="resource_select_ringtone_confirm_picker">Chọn âm thanh này?</string>
+    <string name="resource_select_ringtone_audio_confirm">Chọn nhạc chuông này?</string>
+    <string name="resource_select_notification_audio_confirm">Chọn âm báo thức này?</string>
+    <string name="resource_select_alarm_audio_confirm">Chọn âm thông báo này?</string>
+    <string name="resource_select_boot_audio_confirm">Chọn nhạc chuông khởi động này?</string>
+    <string name="resource_select_audio_confirm_picker">Chọn âm thanh này?</string>
     <string name="loading_resource_detail_info">Đang tải…</string>
     <string name="loading_resource_detail_fail">Không thể tải tài nguyên</string>
     <string name="resource_expand_full_text">Mở rộng</string>
@@ -191,6 +195,19 @@
     <string name="resource_download_notification_title_one">Chủ đề đã tải xuống</string>
     <string name="resource_download_notification_title_many">%1$s chủ đề đã tải xuống</string>
     <string name="resource_tab_to_view">Chạm để xem.</string>
+    <string name="resource_search_color">Chọn một màu để tìm kiếm</string>
+    <string name="resource_search_color_hint_red">Đỏ</string>
+    <string name="resource_search_color_hint_blue">Lam</string>
+    <string name="resource_search_color_hint_cyan">Chàm</string>
+    <string name="resource_search_color_hint_gray">Xám</string>
+    <string name="resource_search_color_hint_green">Lục</string>
+    <string name="resource_search_color_hint_brown">Nâu</string>
+    <string name="resource_search_color_hint_orange">Cam</string>
+    <string name="resource_search_color_hint_pink">Hồng</string>
+    <string name="resource_search_color_hint_purple">Tía</string>
+    <string name="resource_search_color_hint_black">Đen</string>
+    <string name="resource_search_color_hint_white">Trắng</string>
+    <string name="resource_search_color_hint_yellow">Vàng</string>
     <string name="app_name">Chủ đề</string>
     <string name="theme_changing_dialog_title">"Đang áp dụng "</string>
     <string name="theme_changed_message">Đã áp dụng thành công</string>
@@ -269,6 +286,7 @@
     <string name="my_gifts">Quà tặng</string>
     <string name="my_gifts_purchased">Đã mua</string>
     <string name="my_gifts_received">Đã nhận</string>
+    <string name="theme_setting">Cài đặt</string>
     <string name="theme_batch_updating_text">Đang cập nhật (%1$d)</string>
     <string name="theme_batch_update_all">Cập nhật tất cả</string>
     <string name="theme_batch_update_dlg_title">Cập nhật chủ đề</string>
@@ -336,4 +354,7 @@
     <string name="gift_purchased_list_empty">Bạn chưa tặng bất kỳ món quà nào.</string>
     <string name="gift_received_list_empty">Bạn chưa nhận bất kỳ món quà nào.</string>
     <string name="gift_received_notification_title">%s đã tặng bạn 1 chủ đề.</string>
+    <string name="vip_level_value">Cấp %d</string>
+    <string name="resource_select_ringtone_confirm">Chọn âm thanh này?</string>
+    <string name="resource_select_ringtone_confirm_picker">Chọn âm thanh này?</string>
 </resources>
