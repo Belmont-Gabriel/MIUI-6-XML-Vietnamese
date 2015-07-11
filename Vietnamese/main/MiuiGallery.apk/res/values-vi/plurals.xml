@@ -2,6 +2,7 @@
 <resources>
     <plurals name="confirm_delete_album">
         <item quantity="other">Xóa %1$s album (%2$s mục tất cả)?</item>
+        <item quantity="one">Xóa %1$s album (%2$s mục tất cả)?</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_image">
         <item quantity="other">&lt;Data>Xóa &lt;xliff:g id=ITEM>%s&lt;/xliff:g> ảnh trên Mi Cloud?&lt;/Data></item>
@@ -9,6 +10,7 @@
     </plurals>
     <plurals name="confirm_delete_has_local_image">
         <item quantity="other">Xóa %s ảnh?</item>
+        <item quantity="one">Xóa %s ảnh?</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_video">
         <item quantity="other">&lt;Data>Xóa &lt;xliff:g id=ITEM>%s&lt;/xliff:g> video trên Mi Cloud?&lt;/Data></item>
@@ -16,6 +18,7 @@
     </plurals>
     <plurals name="confirm_delete_has_local_video">
         <item quantity="other">Xóa %s video?</item>
+        <item quantity="one">Xóa %s video?</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_local_image">
         <item quantity="other">&lt;Data>Xóa &lt;xliff:g id=ITEM>%s&lt;/xliff:g> ảnh trên Mi Cloud?&lt;/Data></item>
@@ -31,32 +34,42 @@
     </plurals>
     <plurals name="number_of_items_selected">
         <item quantity="other">Đã chọn %1$d</item>
+        <item quantity="one">Đã chọn %1$d</item>
     </plurals>
     <plurals name="number_of_pictures">
         <item quantity="other">%1$d</item>
+        <item quantity="one">%1$d</item>
     </plurals>
     <plurals name="how_many_pics">
         <item quantity="other">%d ảnh</item>
+        <item quantity="one">%d ảnh</item>
     </plurals>
     <plurals name="how_many_videos">
         <item quantity="other">%d video</item>
+        <item quantity="one">%d video</item>
     </plurals>
     <plurals name="how_many_sub_folders">
         <item quantity="other">%d thư mục</item>
+        <item quantity="one">%d thư mục</item>
     </plurals>
     <plurals name="message_no_delete_access_with_count">
         <item quantity="other">Bạn không có quyền xóa %d tập tin này.</item>
+        <item quantity="one">Bạn không có quyền xóa %d tập tin này.</item>
     </plurals>
     <plurals name="pick_with_limited_upper_bound_title">
         <item quantity="other">Bạn có thể chọn %d mục</item>
+        <item quantity="one">Bạn có thể chọn %d mục</item>
     </plurals>
     <plurals name="number_of_images">
         <item quantity="other">%1$d ảnh</item>
+        <item quantity="one">%1$d ảnh</item>
     </plurals>
     <plurals name="number_of_items">
         <item quantity="other">%1$d mục</item>
+        <item quantity="one">%1$d mục</item>
     </plurals>
     <plurals name="more_face">
         <item quantity="other">%1$s ảnh của %2$s</item>
+        <item quantity="one">%1$s ảnh của %2$s</item>
     </plurals>
 </resources>
