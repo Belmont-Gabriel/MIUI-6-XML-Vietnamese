@@ -157,9 +157,9 @@ http://zhushou.xiaomi.com"</string>
 Bạn có thể tham gia vào thứ Ba tuần tới."</string>
     <string name="update_feedback_need_account">Bạn cần phải đăng nhập vào Tài khoản Mi trước</string>
     <string name="update_feedback_need_network">Kết nối mạng trước</string>
-    <string name="update_happy">Satisfied!</string>
-    <string name="update_general">Indifferent</string>
-    <string name="update_sad">Disappointed</string>
+    <string name="update_happy">Tuyệt vời!</string>
+    <string name="update_general">Tàm tạm!</string>
+    <string name="update_sad">Thất vọng!</string>
     <string name="update_feel">Bạn cảm thấy thế nào?</string>
     <string name="best_update">Cập nhật tốt nhất cho đến nay</string>
     <string name="worst_update">Cập nhật tệ nhất cho đến nay</string>
@@ -199,8 +199,7 @@ Bạn có thể tham gia vào thứ Ba tuần tới."</string>
     <string name="vote_recommend">Đề nghị cập nhật</string>
     <string name="vote_not_recommend">Không khuyến khích</string>
     <string name="vote_error_nonetwork">Không thể kết nối mạng</string>
-    <string name="vote_error1">"Dường như bạn không phải là thành viên
- của Chương trình Trải nghiệm Người dùng"</string>
+    <string name="vote_error1">"Dường như bạn không phải là thành viên của Chương trình Trải nghiệm Người dùng"</string>
     <string name="vote_error2">"Không thể gửi phản hồi.
 Cập nhật thiết bị và thử lại"</string>
     <string name="vote_hint">Nhận 20 điểm kinh nghiệm cho diễn đàn MIUI khi bình chọn</string>
